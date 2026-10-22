@@ -96,6 +96,13 @@ export default function LevelCollectionView({
     () => folder.topics.filter((t) => t.order >= 18).length,
     [folder.topics]
   );
+  const verbsCount = useMemo(() => {
+    if (!folder?.verbCompendium?.groups) return 134;
+    return Object.values(folder.verbCompendium.groups).reduce(
+      (sum, list) => sum + (Array.isArray(list) ? list.length : 0),
+      0
+    );
+  }, [folder?.verbCompendium]);
 
   // Derive available categories from actual topics in this level
   const categories = useMemo(() => {
@@ -251,7 +258,7 @@ export default function LevelCollectionView({
                 }}
               >
                 <span>⚡ Verb Patterns</span>
-                <span className="tab-count-badge">115</span>
+                <span className="tab-count-badge">{verbsCount}</span>
               </Link>
             )}
           </>
@@ -284,7 +291,7 @@ export default function LevelCollectionView({
                 }}
               >
                 <span>⚡ Verb Conjugation Patterns</span>
-                <span className="tab-count-badge">115</span>
+                <span className="tab-count-badge">{verbsCount}</span>
               </Link>
             )}
           </>

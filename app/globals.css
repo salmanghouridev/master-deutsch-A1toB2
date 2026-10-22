@@ -2577,6 +2577,45 @@ strong {
   .expanded-q-grid {
     grid-template-columns: 1fr;
   }
+
+  /* Verbs Compendium Mobile */
+  .verbs-progress-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+  }
+
+  .verbs-results-count {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 12px;
+  }
+
+  .verbs-status-filters {
+    display: flex;
+    width: 100%;
+  }
+
+  .verbs-status-filter-btn {
+    flex: 1;
+    text-align: center;
+    padding: 7px 6px;
+    font-size: 11.5px;
+  }
+
+  .verbs-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .verb-card-header {
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .verb-check-btn {
+    min-height: 34px;
+    padding: 6px 10px;
+  }
 }
 
 @media (max-width: 420px) {
@@ -4100,12 +4139,130 @@ strong {
   font-weight: 600;
 }
 
+/* Verbs Progress Card */
+.verbs-progress-card {
+  margin-top: 18px;
+  padding: 14px 18px;
+  background-color: var(--surface-main);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.verbs-progress-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.verbs-progress-info {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  font-size: 13px;
+}
+
+.verbs-progress-label {
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.verbs-progress-stats {
+  color: var(--text-secondary);
+  font-size: 13px;
+}
+
+.verbs-progress-stats strong {
+  color: #065f46;
+  font-weight: 700;
+}
+
+.verbs-reset-btn {
+  background: none;
+  border: none;
+  padding: 2px 6px;
+  font-size: 12px;
+  color: var(--text-muted);
+  cursor: pointer;
+  text-decoration: underline;
+  transition: color 150ms ease;
+}
+
+.verbs-reset-btn:hover {
+  color: #dc2626;
+}
+
+.verbs-progress-track {
+  width: 100%;
+  height: 8px;
+  background-color: #e5e7eb;
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+.verbs-progress-fill {
+  height: 100%;
+  background-color: #10b981;
+  border-radius: 999px;
+  transition: width 300ms ease;
+}
+
 .verbs-results-count {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
   font-size: 13px;
   color: var(--text-muted);
+  margin-bottom: 20px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.verbs-count-left {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.verbs-status-filters {
+  display: inline-flex;
+  align-items: center;
+  background-color: #f3f4f6;
+  padding: 3px;
+  border-radius: 6px;
+  gap: 2px;
+}
+
+.verbs-status-filter-btn {
+  background: transparent;
+  border: none;
+  border-radius: 4px;
+  padding: 5px 12px;
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: all 150ms ease;
+  white-space: nowrap;
+}
+
+.verbs-status-filter-btn:hover {
+  color: var(--text-primary);
+}
+
+.verbs-status-filter-btn.active {
+  background-color: #ffffff;
+  color: var(--text-primary);
+  font-weight: 600;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.06);
 }
 
 .clear-search-btn {
@@ -4134,11 +4291,25 @@ strong {
   background-color: var(--surface-main);
   border: 1px solid var(--border-color);
   border-radius: 8px;
-  transition: border-color 150ms ease;
+  transition: border-color 150ms ease, background-color 150ms ease, box-shadow 150ms ease;
 }
 
 .verb-card:hover {
   border-color: var(--text-primary);
+}
+
+.verb-card.is-learned {
+  border-color: #10b981;
+  background-color: #fafdfb;
+}
+
+.verb-card.is-learned:hover {
+  border-color: #059669;
+  box-shadow: 0 2px 8px rgba(16, 185, 129, 0.12);
+}
+
+.verb-card.is-learned .verb-infinitive {
+  color: #065f46;
 }
 
 .verb-card-header {
@@ -4147,6 +4318,22 @@ strong {
   justify-content: space-between;
   gap: 10px;
   margin-bottom: 12px;
+}
+
+.verb-card-title-col {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  flex: 1;
+}
+
+.verb-card-header-actions {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  flex-shrink: 0;
 }
 
 .verb-infinitive {
@@ -4173,6 +4360,70 @@ strong {
   max-width: 140px;
   overflow: hidden;
   text-overflow: ellipsis;
+}
+
+.verb-check-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: #f9fafb;
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  padding: 4px 8px;
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--text-secondary);
+  transition: all 150ms ease;
+  user-select: none;
+  min-height: 30px;
+}
+
+.verb-check-btn:hover {
+  background-color: #f3f4f6;
+  border-color: #9ca3af;
+  color: var(--text-primary);
+}
+
+.verb-check-btn.checked {
+  background-color: #e6f7ec;
+  border-color: #10b981;
+  color: #065f46;
+  font-weight: 600;
+}
+
+.verb-check-btn.checked:hover {
+  background-color: #d1f4dc;
+  border-color: #059669;
+}
+
+.verb-check-btn .custom-checkbox {
+  width: 16px;
+  height: 16px;
+  border-radius: 4px;
+  border: 1.5px solid #9ca3af;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  color: #ffffff;
+  transition: all 150ms ease;
+  flex-shrink: 0;
+}
+
+.verb-check-btn:hover .custom-checkbox {
+  border-color: #4b5563;
+}
+
+.verb-check-btn.checked .custom-checkbox {
+  background-color: #10b981;
+  border-color: #10b981;
+  color: #ffffff;
+}
+
+.verb-check-label {
+  font-size: 12px;
+  line-height: 1;
 }
 
 .verb-conjugation-table {
