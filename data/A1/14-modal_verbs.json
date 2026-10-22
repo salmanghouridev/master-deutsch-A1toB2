@@ -1,0 +1,220 @@
+{
+  "order": 60,
+  "topic_number": 60,
+  "title": "Modal Verbs",
+  "german_title": "Modalverben",
+  "level": "A1",
+  "language": "en",
+  "definition": "Modal verbs express ability, permission, desire, obligation, or advice. Common A1 modal verbs are können, müssen, wollen, dürfen, sollen, and mögen. The modal verb is conjugated, while the main verb usually stays in the infinitive at the end.",
+  "rules": [
+    {
+      "title": "können — can / be able to",
+      "explanation": "Use können for ability or possibility.",
+      "examples": [
+        {
+          "german": "Ich kann schwimmen.",
+          "english": "I can swim."
+        },
+        {
+          "german": "Kannst du mir helfen?",
+          "english": "Can you help me?"
+        }
+      ]
+    },
+    {
+      "title": "müssen — must / have to",
+      "explanation": "Use müssen for necessity or obligation.",
+      "examples": [
+        {
+          "german": "Ich muss heute arbeiten.",
+          "english": "I have to work today."
+        },
+        {
+          "german": "Wir müssen jetzt gehen.",
+          "english": "We have to go now."
+        }
+      ]
+    },
+    {
+      "title": "wollen — want to",
+      "explanation": "Use wollen to express a strong intention or want.",
+      "examples": [
+        {
+          "german": "Ich will einen Kaffee trinken.",
+          "english": "I want to drink a coffee."
+        },
+        {
+          "german": "Wir wollen nach Hause gehen.",
+          "english": "We want to go home."
+        }
+      ]
+    },
+    {
+      "title": "dürfen — may / be allowed to",
+      "explanation": "Use dürfen for permission; nicht dürfen means must not / not be allowed to.",
+      "examples": [
+        {
+          "german": "Darf ich hier sitzen?",
+          "english": "May I sit here?"
+        },
+        {
+          "german": "Du darfst hier nicht rauchen.",
+          "english": "You are not allowed to smoke here."
+        }
+      ]
+    },
+    {
+      "title": "sollen — should / be supposed to",
+      "explanation": "Use sollen for advice, instructions, or something expected by another person.",
+      "examples": [
+        {
+          "german": "Du sollst mehr Wasser trinken.",
+          "english": "You should drink more water."
+        },
+        {
+          "german": "Soll ich dir helfen?",
+          "english": "Should I help you?"
+        }
+      ]
+    },
+    {
+      "title": "mögen / möchte",
+      "explanation": "Mögen means to like. Möchte is a polite form used to say what someone would like.",
+      "examples": [
+        {
+          "german": "Ich mag Kaffee.",
+          "english": "I like coffee."
+        },
+        {
+          "german": "Ich möchte einen Tee.",
+          "english": "I would like a tea."
+        },
+        {
+          "german": "Möchtest du mitkommen?",
+          "english": "Would you like to come along?"
+        }
+      ]
+    },
+    {
+      "title": "Word order with modal verbs",
+      "explanation": "The modal verb is conjugated in position two in a statement, and the main verb stays in the infinitive at the end. In questions, the modal verb can come first.",
+      "examples": [
+        {
+          "german": "Heute muss ich lange arbeiten.",
+          "english": "Today I have to work for a long time."
+        },
+        {
+          "german": "Kannst du Deutsch sprechen?",
+          "english": "Can you speak German?"
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "conjugation": [
+      {
+        "verb": "können",
+        "ich": "kann",
+        "du": "kannst",
+        "er_sie_es": "kann",
+        "wir": "können",
+        "ihr": "könnt",
+        "sie_Sie": "können"
+      },
+      {
+        "verb": "müssen",
+        "ich": "muss",
+        "du": "musst",
+        "er_sie_es": "muss",
+        "wir": "müssen",
+        "ihr": "müsst",
+        "sie_Sie": "müssen"
+      },
+      {
+        "verb": "wollen",
+        "ich": "will",
+        "du": "willst",
+        "er_sie_es": "will",
+        "wir": "wollen",
+        "ihr": "wollt",
+        "sie_Sie": "wollen"
+      },
+      {
+        "verb": "dürfen",
+        "ich": "darf",
+        "du": "darfst",
+        "er_sie_es": "darf",
+        "wir": "dürfen",
+        "ihr": "dürft",
+        "sie_Sie": "dürfen"
+      },
+      {
+        "verb": "sollen",
+        "ich": "soll",
+        "du": "sollst",
+        "er_sie_es": "soll",
+        "wir": "sollen",
+        "ihr": "sollt",
+        "sie_Sie": "sollen"
+      },
+      {
+        "verb": "mögen",
+        "ich": "mag",
+        "du": "magst",
+        "er_sie_es": "mag",
+        "wir": "mögen",
+        "ihr": "mögt",
+        "sie_Sie": "mögen"
+      }
+    ]
+  },
+  "common_mistakes": [
+    {
+      "wrong": "Ich kann schwimme.",
+      "correct": "Ich kann schwimmen.",
+      "explanation": "The main verb stays in the infinitive."
+    },
+    {
+      "wrong": "Ich muss arbeiten heute.",
+      "correct": "Ich muss heute arbeiten.",
+      "explanation": "The infinitive usually goes at the end."
+    },
+    {
+      "wrong": "Du darfst nicht hier rauchen.",
+      "correct": "Du darfst hier nicht rauchen.",
+      "explanation": "For this basic sentence, place nicht before the infinitive phrase/end area."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "können",
+      "english": "can / be able to"
+    },
+    {
+      "german": "müssen",
+      "english": "must / have to"
+    },
+    {
+      "german": "wollen",
+      "english": "want to"
+    },
+    {
+      "german": "dürfen",
+      "english": "may / be allowed to"
+    },
+    {
+      "german": "sollen",
+      "english": "should / be supposed to"
+    },
+    {
+      "german": "mögen",
+      "english": "to like"
+    },
+    {
+      "german": "möchte",
+      "english": "would like"
+    }
+  ],
+  "mastery_goal": "You can understand and conjugate common A1 modal verbs and place the infinitive at the end of a main clause.",
+  "next_topic": "Separable verbs"
+}

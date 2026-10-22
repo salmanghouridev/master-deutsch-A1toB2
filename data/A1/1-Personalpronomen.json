@@ -1,0 +1,178 @@
+{
+  "order": 1,
+  "topic_number": 46,
+  "title": "Personal Pronouns",
+  "german_title": "Personalpronomen",
+  "level": "A1",
+  "language": {
+    "explanation": "English",
+    "examples": "German with English translations"
+  },
+  "definition": {
+    "english": "Personal pronouns replace nouns or names.",
+    "example": {
+      "german": "Ali ist Student. Er ist Student.",
+      "english": "Ali is a student. He is a student."
+    }
+  },
+  "pronouns": [
+    {
+      "person": "First person singular",
+      "german": "ich",
+      "english": "I",
+      "usage": "The person speaking"
+    },
+    {
+      "person": "Second person singular",
+      "german": "du",
+      "english": "you",
+      "usage": "One person, informal"
+    },
+    {
+      "person": "Third person singular",
+      "german": "er",
+      "english": "he",
+      "usage": "A male person or a masculine German noun"
+    },
+    {
+      "person": "Third person singular",
+      "german": "sie",
+      "english": "she",
+      "usage": "A female person or a feminine German noun"
+    },
+    {
+      "person": "Third person singular",
+      "german": "es",
+      "english": "it",
+      "usage": "A neuter German noun"
+    },
+    {
+      "person": "First person plural",
+      "german": "wir",
+      "english": "we",
+      "usage": "The speaker and other people"
+    },
+    {
+      "person": "Second person plural",
+      "german": "ihr",
+      "english": "you",
+      "usage": "Two or more people, informal"
+    },
+    {
+      "person": "Third person plural",
+      "german": "sie",
+      "english": "they",
+      "usage": "Two or more people or things"
+    },
+    {
+      "person": "Formal singular or plural",
+      "german": "Sie",
+      "english": "you",
+      "usage": "Polite address to one or more people; always capitalized"
+    }
+  ],
+  "usage_rules": [
+    {
+      "title": "Singular pronouns",
+      "rule": "Use ich for yourself, du for one person informally, and er, sie, or es according to the person or the grammatical gender of a noun.",
+      "examples": [
+        { "german": "Ich lerne Deutsch.", "english": "I am learning German." },
+        { "german": "Du wohnst in Chemnitz.", "english": "You live in Chemnitz." },
+        { "german": "Er kommt aus Pakistan.", "english": "He comes from Pakistan." },
+        { "german": "Sie ist meine Schwester.", "english": "She is my sister." },
+        { "german": "Es ist ein Buch.", "english": "It is a book." }
+      ]
+    },
+    {
+      "title": "Plural pronouns",
+      "rule": "Use wir for we, ihr when addressing several people informally, and sie for they.",
+      "examples": [
+        { "german": "Wir lernen Deutsch.", "english": "We are learning German." },
+        { "german": "Ihr seid Studenten.", "english": "You are students." },
+        { "german": "Sie wohnen in Berlin.", "english": "They live in Berlin." }
+      ]
+    },
+    {
+      "title": "Formal Sie",
+      "rule": "Use Sie to address people politely, such as strangers, shopkeepers, teachers, or professionals. Formal Sie is always capitalized.",
+      "examples": [
+        { "german": "Wie heißen Sie?", "english": "What is your name?" },
+        { "german": "Wo wohnen Sie?", "english": "Where do you live?" },
+        { "german": "Sprechen Sie Englisch?", "english": "Do you speak English?" }
+      ]
+    },
+    {
+      "title": "Pronouns for German nouns",
+      "rule": "German nouns have grammatical gender. Use er for masculine nouns, sie for feminine nouns, es for neuter nouns, and sie for plural nouns.",
+      "examples": [
+        {
+          "noun": "der Tisch",
+          "pronoun": "er",
+          "german": "Er ist groß.",
+          "english": "It is big."
+        },
+        {
+          "noun": "die Tasche",
+          "pronoun": "sie",
+          "german": "Sie ist schön.",
+          "english": "It is beautiful."
+        },
+        {
+          "noun": "das Buch",
+          "pronoun": "es",
+          "german": "Es ist interessant.",
+          "english": "It is interesting."
+        },
+        {
+          "noun": "die Bücher",
+          "pronoun": "sie",
+          "german": "Sie sind interessant.",
+          "english": "They are interesting."
+        }
+      ],
+      "note": "Grammatical gender applies to objects as well as people. For example, der Tisch takes er even though a table is not male."
+    }
+  ],
+  "comparison": [
+    { "situation": "Talking to one friend", "pronoun": "du" },
+    { "situation": "Talking to several friends informally", "pronoun": "ihr" },
+    { "situation": "Talking politely to one person", "pronoun": "Sie" },
+    { "situation": "Talking politely to several people", "pronoun": "Sie" }
+  ],
+  "common_mistakes": [
+    {
+      "incorrect": "Du seid nett.",
+      "correct": "Du bist nett.",
+      "explanation": "The verb form must agree with the pronoun."
+    },
+    {
+      "incorrect": "Ihr bist nett.",
+      "correct": "Ihr seid nett.",
+      "explanation": "The verb form must agree with the pronoun."
+    },
+    {
+      "incorrect_context": "Writing formal address with lowercase sie",
+      "correct": "Sie",
+      "explanation": "Formal you is always capitalized."
+    }
+  ],
+  "memorization_list": [
+    { "german": "ich", "english": "I" },
+    { "german": "du", "english": "you (informal, singular)" },
+    { "german": "er", "english": "he / masculine noun" },
+    { "german": "sie", "english": "she / they" },
+    { "german": "es", "english": "it / neuter noun" },
+    { "german": "wir", "english": "we" },
+    { "german": "ihr", "english": "you (informal, plural)" },
+    { "german": "Sie", "english": "you (formal)" }
+  ],
+  "mastery_goal": [
+    "Choose the correct pronoun for a person.",
+    "Distinguish du, ihr, and formal Sie.",
+    "Choose er, sie, or es based on the grammatical gender of a German noun."
+  ],
+  "next_topic": {
+    "number": 47,
+    "title": "The verbs sein and haben"
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "order": 69,
+  "topic_number": 69,
+  "title": "Accusative and Dative Prepositions",
+  "german_title": "Präpositionen mit Akkusativ und Dativ",
+  "level": "A1",
+  "language": "en",
+  "definition": "German prepositions determine the grammatical case of the noun or pronoun that follows. Some always take the accusative, some always take the dative, and two-way prepositions use accusative for direction and dative for location.",
+  "rules": [
+    {
+      "title": "Prepositions that always take the accusative",
+      "explanation": "Memorize durch, für, gegen, ohne, and um. The following noun or pronoun takes the accusative.",
+      "examples": [
+        {
+          "german": "Das Geschenk ist für meinen Bruder.",
+          "english": "The gift is for my brother."
+        },
+        {
+          "german": "Wir gehen durch den Park.",
+          "english": "We walk through the park."
+        },
+        {
+          "german": "Ich komme ohne meinen Schlüssel.",
+          "english": "I am coming without my key."
+        },
+        {
+          "german": "Er spielt gegen den Nachbarn.",
+          "english": "He plays against the neighbour."
+        },
+        {
+          "german": "Wir sitzen um den Tisch.",
+          "english": "We sit around the table."
+        }
+      ]
+    },
+    {
+      "title": "Prepositions that always take the dative",
+      "explanation": "Memorize aus, bei, mit, nach, seit, von, and zu. The following noun or pronoun takes the dative.",
+      "examples": [
+        {
+          "german": "Ich fahre mit dem Bus.",
+          "english": "I travel by bus."
+        },
+        {
+          "german": "Sie kommt aus der Türkei.",
+          "english": "She comes from Turkey."
+        },
+        {
+          "german": "Ich bin bei meiner Freundin.",
+          "english": "I am at my friend's place."
+        },
+        {
+          "german": "Wir fahren nach Berlin.",
+          "english": "We are going to Berlin."
+        },
+        {
+          "german": "Ich wohne seit einem Jahr hier.",
+          "english": "I have lived here for one year."
+        },
+        {
+          "german": "Das Geschenk ist von meinem Vater.",
+          "english": "The gift is from my father."
+        },
+        {
+          "german": "Ich gehe zum Arzt.",
+          "english": "I am going to the doctor."
+        }
+      ]
+    },
+    {
+      "title": "Two-way prepositions",
+      "explanation": "An, auf, hinter, in, neben, über, unter, vor, and zwischen can take either case. Use dative for location (wo? where?) and accusative for destination or direction (wohin? where to?).",
+      "examples": [
+        {
+          "german": "Das Buch liegt auf dem Tisch.",
+          "english": "The book is on the table.",
+          "note": "Location: dative dem."
+        },
+        {
+          "german": "Ich lege das Buch auf den Tisch.",
+          "english": "I put the book onto the table.",
+          "note": "Destination: accusative den."
+        },
+        {
+          "german": "Wir sind in der Küche.",
+          "english": "We are in the kitchen.",
+          "note": "Location: dative der."
+        },
+        {
+          "german": "Wir gehen in die Küche.",
+          "english": "We are going into the kitchen.",
+          "note": "Destination: accusative die."
+        }
+      ]
+    },
+    {
+      "title": "Prepositions with pronouns",
+      "explanation": "Use the correct case form of personal pronouns after the preposition.",
+      "examples": [
+        {
+          "german": "Kommst du mit mir?",
+          "english": "Are you coming with me?",
+          "note": "mit takes dative."
+        },
+        {
+          "german": "Das ist für dich.",
+          "english": "That is for you.",
+          "note": "für takes accusative."
+        },
+        {
+          "german": "Er spricht mit ihm.",
+          "english": "He is speaking with him."
+        },
+        {
+          "german": "Ohne sie gehe ich nicht.",
+          "english": "I won't go without her/them.",
+          "note": "ohne takes accusative; context determines sie."
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "accusative": [
+      "durch",
+      "für",
+      "gegen",
+      "ohne",
+      "um"
+    ],
+    "dative": [
+      "aus",
+      "bei",
+      "mit",
+      "nach",
+      "seit",
+      "von",
+      "zu"
+    ],
+    "two_way": [
+      "an",
+      "auf",
+      "hinter",
+      "in",
+      "neben",
+      "über",
+      "unter",
+      "vor",
+      "zwischen"
+    ]
+  },
+  "common_mistakes": [
+    {
+      "wrong": "Ich fahre mit den Bus.",
+      "correct": "Ich fahre mit dem Bus.",
+      "explanation": "Mit always takes the dative."
+    },
+    {
+      "wrong": "Das ist für mein Bruder.",
+      "correct": "Das ist für meinen Bruder.",
+      "explanation": "Für takes accusative; masculine mein becomes meinen."
+    },
+    {
+      "wrong": "Das Buch liegt auf den Tisch.",
+      "correct": "Das Buch liegt auf dem Tisch.",
+      "explanation": "Location (wo?) uses dative with a two-way preposition."
+    },
+    {
+      "wrong": "Ich lege das Buch auf dem Tisch.",
+      "correct": "Ich lege das Buch auf den Tisch.",
+      "explanation": "Destination (wohin?) uses accusative with a two-way preposition."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "durch, für, gegen, ohne, um",
+      "english": "accusative prepositions"
+    },
+    {
+      "german": "aus, bei, mit, nach, seit, von, zu",
+      "english": "dative prepositions"
+    },
+    {
+      "german": "wo?",
+      "english": "where? — location, dative with two-way prepositions"
+    },
+    {
+      "german": "wohin?",
+      "english": "where to? — destination, accusative with two-way prepositions"
+    }
+  ],
+  "mastery_goal": "You can group common prepositions by case and choose dative or accusative correctly in simple location and direction sentences.",
+  "next_topic": "Conjunctions"
+}

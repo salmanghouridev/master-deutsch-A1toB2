@@ -1,0 +1,213 @@
+{
+  "order": 64,
+  "topic_number": 64,
+  "title": "Dative Basics",
+  "german_title": "Dativ",
+  "level": "A1",
+  "language": "en",
+  "definition": "The dative case is commonly used for the indirect object—the person receiving or benefiting from something—and after certain verbs and prepositions. In basic article forms, masculine der becomes dem, feminine die becomes der, neuter das becomes dem, and plural die becomes den (usually with -n added to the noun when possible).",
+  "rules": [
+    {
+      "title": "Dative articles",
+      "explanation": "Memorize the dative forms of definite articles: der → dem, die → der, das → dem, plural die → den. For indefinite articles, ein becomes einem (masculine/neuter) and eine becomes einer (feminine).",
+      "examples": [
+        {
+          "german": "dem Mann",
+          "english": "to/for the man — masculine"
+        },
+        {
+          "german": "der Frau",
+          "english": "to/for the woman — feminine"
+        },
+        {
+          "german": "dem Kind",
+          "english": "to/for the child — neuter"
+        },
+        {
+          "german": "den Kindern",
+          "english": "to/for the children — plural"
+        }
+      ]
+    },
+    {
+      "title": "Indirect object: to whom?",
+      "explanation": "A dative object often identifies the person receiving something. Ask wem? (to whom?/for whom?) to help identify it.",
+      "examples": [
+        {
+          "german": "Ich gebe dem Mann das Buch.",
+          "english": "I give the man the book.",
+          "note": "Wem gebe ich das Buch? — dem Mann."
+        },
+        {
+          "german": "Sie hilft ihrer Mutter.",
+          "english": "She helps her mother."
+        },
+        {
+          "german": "Wir schenken dem Kind einen Ball.",
+          "english": "We give the child a ball as a gift."
+        }
+      ]
+    },
+    {
+      "title": "Indefinite and possessive articles",
+      "explanation": "In the dative, common forms include einem, einer, meinem, meiner, deinem, deiner, and plural meinen. The ending depends on the noun's gender and number.",
+      "examples": [
+        {
+          "german": "Ich helfe einem Freund.",
+          "english": "I help a friend."
+        },
+        {
+          "german": "Ich fahre mit meiner Schwester.",
+          "english": "I travel with my sister."
+        },
+        {
+          "german": "Er spricht mit seinen Eltern.",
+          "english": "He speaks with his parents."
+        }
+      ]
+    },
+    {
+      "title": "Common dative verbs",
+      "explanation": "Some frequent verbs take the dative even when English does not use 'to'. Learn these as fixed patterns: helfen, danken, gefallen, gehören.",
+      "examples": [
+        {
+          "german": "Ich helfe meinem Bruder.",
+          "english": "I help my brother."
+        },
+        {
+          "german": "Ich danke dir.",
+          "english": "I thank you."
+        },
+        {
+          "german": "Das gefällt mir.",
+          "english": "I like that. / That appeals to me."
+        },
+        {
+          "german": "Das Buch gehört meiner Freundin.",
+          "english": "The book belongs to my friend."
+        }
+      ]
+    },
+    {
+      "title": "Common dative prepositions",
+      "explanation": "These prepositions always take the dative: aus, bei, mit, nach, seit, von, zu. A useful mnemonic is 'aus, bei, mit, nach, seit, von, zu'.",
+      "examples": [
+        {
+          "german": "Ich fahre mit dem Bus.",
+          "english": "I go by bus."
+        },
+        {
+          "german": "Sie kommt aus der Türkei.",
+          "english": "She comes from Turkey."
+        },
+        {
+          "german": "Ich bin bei meiner Freundin.",
+          "english": "I am at my friend's place."
+        },
+        {
+          "german": "Wir gehen zum Arzt.",
+          "english": "We are going to the doctor."
+        },
+        {
+          "german": "Er wohnt seit einem Jahr hier.",
+          "english": "He has lived here for one year."
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "definite_articles": [
+      {
+        "gender": "Masculine",
+        "nominative": "der",
+        "dative": "dem",
+        "example": "mit dem Vater"
+      },
+      {
+        "gender": "Feminine",
+        "nominative": "die",
+        "dative": "der",
+        "example": "mit der Mutter"
+      },
+      {
+        "gender": "Neuter",
+        "nominative": "das",
+        "dative": "dem",
+        "example": "mit dem Kind"
+      },
+      {
+        "gender": "Plural",
+        "nominative": "die",
+        "dative": "den (+ noun often -n)",
+        "example": "mit den Kindern"
+      }
+    ],
+    "indefinite_articles": [
+      {
+        "gender": "Masculine",
+        "nominative": "ein",
+        "dative": "einem"
+      },
+      {
+        "gender": "Feminine",
+        "nominative": "eine",
+        "dative": "einer"
+      },
+      {
+        "gender": "Neuter",
+        "nominative": "ein",
+        "dative": "einem"
+      }
+    ]
+  },
+  "common_mistakes": [
+    {
+      "wrong": "Ich helfe mein Bruder.",
+      "correct": "Ich helfe meinem Bruder.",
+      "explanation": "Helfen takes the dative."
+    },
+    {
+      "wrong": "mit der Bus",
+      "correct": "mit dem Bus",
+      "explanation": "Bus is masculine; mit always takes the dative."
+    },
+    {
+      "wrong": "mit den Kind",
+      "correct": "mit dem Kind",
+      "explanation": "Kind is neuter singular, so use dem."
+    },
+    {
+      "wrong": "Ich danke dich.",
+      "correct": "Ich danke dir.",
+      "explanation": "Danken takes the dative pronoun dir."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "dem",
+      "english": "dative masculine and neuter definite article"
+    },
+    {
+      "german": "der",
+      "english": "dative feminine definite article"
+    },
+    {
+      "german": "den",
+      "english": "dative plural definite article"
+    },
+    {
+      "german": "einem / einer",
+      "english": "a/an in the dative"
+    },
+    {
+      "german": "aus, bei, mit, nach, seit, von, zu",
+      "english": "common dative prepositions"
+    },
+    {
+      "german": "Wem?",
+      "english": "To whom? / For whom?"
+    }
+  ],
+  "mastery_goal": "You can recognize basic dative objects, use common dative article forms, and remember frequent dative verbs and prepositions.",
+  "next_topic": "Accusative and dative pronouns"
+}

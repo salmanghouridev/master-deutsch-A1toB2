@@ -1,0 +1,187 @@
+{
+  "order": 51,
+  "topic_number": 51,
+  "title": "Definite Articles",
+  "german_title": "Bestimmte Artikel",
+  "level": "A1",
+  "language": "en",
+  "definition": "Definite articles are the German words for “the.” German has three grammatical genders and one plural form: der, die, das, and die. The correct article depends on the noun's grammatical gender and number.",
+  "rules": [
+    {
+      "title": "The four basic definite articles",
+      "explanation": "Use der with masculine singular nouns, die with feminine singular nouns, das with neuter singular nouns, and die with all plural nouns.",
+      "examples": [
+        {
+          "german": "der Mann",
+          "english": "the man",
+          "note": "Masculine singular"
+        },
+        {
+          "german": "die Frau",
+          "english": "the woman",
+          "note": "Feminine singular"
+        },
+        {
+          "german": "das Kind",
+          "english": "the child",
+          "note": "Neuter singular"
+        },
+        {
+          "german": "die Kinder",
+          "english": "the children",
+          "note": "Plural"
+        }
+      ]
+    },
+    {
+      "title": "Learn every noun with its article",
+      "explanation": "Do not memorize a noun by itself. Learn it as a pair, such as der Tisch, die Lampe, or das Buch.",
+      "examples": [
+        {
+          "german": "Der Tisch ist groß.",
+          "english": "The table is big."
+        },
+        {
+          "german": "Die Lampe ist neu.",
+          "english": "The lamp is new."
+        },
+        {
+          "german": "Das Buch ist interessant.",
+          "english": "The book is interesting."
+        }
+      ]
+    },
+    {
+      "title": "Articles in simple sentences",
+      "explanation": "The article stays before the noun. Its form can change in other grammatical cases, but this topic focuses on the basic nominative forms.",
+      "examples": [
+        {
+          "german": "Der Lehrer kommt.",
+          "english": "The teacher is coming."
+        },
+        {
+          "german": "Die Tasche ist hier.",
+          "english": "The bag is here."
+        },
+        {
+          "german": "Das Auto ist teuer.",
+          "english": "The car is expensive."
+        },
+        {
+          "german": "Die Bücher sind neu.",
+          "english": "The books are new."
+        }
+      ]
+    },
+    {
+      "title": "Useful gender clues",
+      "explanation": "Some noun endings often suggest gender, but there are exceptions. Learn the article with each noun rather than relying only on a rule.",
+      "examples": [
+        {
+          "german": "die Zeitung",
+          "english": "the newspaper",
+          "note": "Many nouns ending in -ung are feminine."
+        },
+        {
+          "german": "die Freiheit",
+          "english": "the freedom",
+          "note": "Many nouns ending in -heit or -keit are feminine."
+        },
+        {
+          "german": "das Mädchen",
+          "english": "the girl",
+          "note": "Nouns ending in -chen are neuter."
+        },
+        {
+          "german": "der Lehrer",
+          "english": "the male teacher",
+          "note": "Many nouns referring to male people are masculine."
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "definite_vs_indefinite": {
+      "definite": [
+        {
+          "german": "der Hund",
+          "english": "the dog"
+        },
+        {
+          "german": "die Katze",
+          "english": "the cat"
+        },
+        {
+          "german": "das Haus",
+          "english": "the house"
+        }
+      ],
+      "indefinite": [
+        {
+          "german": "ein Hund",
+          "english": "a dog"
+        },
+        {
+          "german": "eine Katze",
+          "english": "a cat"
+        },
+        {
+          "german": "ein Haus",
+          "english": "a house"
+        }
+      ]
+    },
+    "singular_vs_plural": [
+      {
+        "german": "das Buch",
+        "english": "the book"
+      },
+      {
+        "german": "die Bücher",
+        "english": "the books"
+      }
+    ]
+  },
+  "common_mistakes": [
+    {
+      "wrong": "das Mann",
+      "correct": "der Mann",
+      "explanation": "Mann is masculine."
+    },
+    {
+      "wrong": "der Frau",
+      "correct": "die Frau",
+      "explanation": "Frau is feminine in the nominative."
+    },
+    {
+      "wrong": "das Kinder",
+      "correct": "die Kinder",
+      "explanation": "The definite article for plural nouns is die."
+    },
+    {
+      "wrong": "memorizing Tisch without an article",
+      "correct": "der Tisch",
+      "explanation": "Always learn the noun together with its article."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "der",
+      "english": "the — masculine singular"
+    },
+    {
+      "german": "die",
+      "english": "the — feminine singular"
+    },
+    {
+      "german": "das",
+      "english": "the — neuter singular"
+    },
+    {
+      "german": "die",
+      "english": "the — plural"
+    }
+  ],
+  "mastery_goal": "You can identify and use der, die, das, and plural die with common A1 nouns, and you memorize new nouns together with their articles.",
+  "next_topic": "Indefinite articles (ein, eine)"
+}

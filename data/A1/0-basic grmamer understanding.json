@@ -1,0 +1,469 @@
+{
+  "order": 0,
+  "topic_number": 0,
+  "title": "German Grammar: Deep Understanding Through Short Comparisons",
+  "german_title": "Deutsche Grammatik einfach vergleichen",
+  "level": "A1-A2",
+  "language": {
+    "explanation": "Simple English",
+    "examples": "German with English translations"
+  },
+  "purpose": "A compact comparison guide. For every concept, learn what it means, why it is used, how to recognize it, the basic pattern, and a memory trick.",
+  "sections": [
+    {
+      "topic": "1. Partizip II vs Perfekt vs Präteritum",
+      "comparison": [
+        {
+          "term": "Partizip II",
+          "what": "A verb form used to build Perfekt and some other structures.",
+          "why": "It helps express a completed past action when used with an auxiliary.",
+          "how_to_identify": "Often looks like gemacht, gelernt, gekauft, gegangen, gesehen. The form alone is not usually a complete Perfekt sentence.",
+          "pattern": "machen → gemacht",
+          "example": "gemacht = done/made",
+          "trick": "Think: Partizip II is the ingredient, not the whole dish."
+        },
+        {
+          "term": "Perfekt",
+          "what": "A spoken past-tense structure.",
+          "why": "Used for past events in everyday conversation.",
+          "how_to_identify": "Look for a conjugated haben/sein plus a Partizip II, usually at the end.",
+          "pattern": "haben/sein + Partizip II",
+          "example": "Ich habe Deutsch gelernt. — I studied German.",
+          "trick": "Find two parts: habe/bin near the front + gelernt/gegangen near the end."
+        },
+        {
+          "term": "Präteritum",
+          "what": "A simple past-tense form.",
+          "why": "Common in writing and also frequent in speech with sein, haben, and modal verbs.",
+          "how_to_identify": "One past-tense verb form, e.g. war, hatte, konnte, musste.",
+          "pattern": "subject + past-tense verb",
+          "example": "Ich war müde. — I was tired.",
+          "trick": "Memorize common spoken forms first: war, hatte, konnte, musste, wollte."
+        }
+      ],
+      "quick_test": "Which is the complete Perfekt? 'gemacht' or 'Ich habe gemacht'? → 'Ich habe gemacht' is the tense structure.",
+      "common_mistake": {
+        "wrong": "Ich gestern Sport gemacht.",
+        "correct": "Ich habe gestern Sport gemacht.",
+        "why": "The Perfekt needs the auxiliary habe and the participle gemacht."
+      }
+    },
+    {
+      "topic": "2. How to choose haben or sein in Perfekt",
+      "comparison": [
+        {
+          "choice": "haben",
+          "when": "The default for most verbs, including many actions and verbs with a direct object.",
+          "identify": "If unsure, check the verb's dictionary entry; most verbs use haben.",
+          "example": "Ich habe Pizza gegessen. — I ate pizza.",
+          "trick": "Learn the full pair: essen → hat gegessen."
+        },
+        {
+          "choice": "sein",
+          "when": "Many verbs of movement from one place to another, change of state, and sein, bleiben, werden.",
+          "identify": "Ask whether the verb describes arriving/leaving or a change such as waking up or falling asleep. This is a clue, not a rule for every verb.",
+          "example": "Ich bin nach Hause gegangen. — I went home.",
+          "trick": "Memorize common pairs: gehen → ist gegangen; kommen → ist gekommen; aufstehen → ist aufgestanden."
+        }
+      ],
+      "quick_comparison": [
+        {
+          "german": "Ich habe im Park getanzt.",
+          "english": "I danced in the park.",
+          "why": "tanzen uses haben even though a person may move while dancing."
+        },
+        {
+          "german": "Ich bin in den Park gegangen.",
+          "english": "I went to the park.",
+          "why": "gehen describes movement to a destination and uses sein."
+        }
+      ]
+    },
+    {
+      "topic": "3. Infinitiv vs conjugated verb vs Partizip II",
+      "comparison": [
+        {
+          "term": "Infinitiv",
+          "what": "The dictionary form of a verb.",
+          "identify": "Often ends in -en or -n: machen, gehen, lernen.",
+          "example": "Ich will Deutsch lernen. — I want to learn German.",
+          "trick": "After a modal verb like will, kann, muss, the second verb stays in the infinitive at the end."
+        },
+        {
+          "term": "Conjugated verb",
+          "what": "The verb form matched to the subject and tense.",
+          "identify": "ich lerne, du lernst, er lernt; in a normal statement it is usually in position 2.",
+          "example": "Heute lerne ich Deutsch. — Today I am learning German.",
+          "trick": "Find the verb that changes with ich/du/er/wir."
+        },
+        {
+          "term": "Partizip II",
+          "what": "A past-participle form.",
+          "identify": "gelernt, gemacht, gegangen; in Perfekt it appears with haben/sein.",
+          "example": "Ich habe Deutsch gelernt. — I studied German.",
+          "trick": "Do not use a participle alone when you mean a normal Perfekt sentence."
+        }
+      ]
+    },
+    {
+      "topic": "4. Präsens vs Perfekt vs Präteritum",
+      "comparison": [
+        {
+          "tense": "Präsens",
+          "meaning": "Now, routine, or sometimes a planned future.",
+          "identify": "Present conjugation: lerne, gehst, arbeitet.",
+          "example": "Ich lerne Deutsch. — I am learning German.",
+          "trick": "No past-time meaning is needed: use Präsens."
+        },
+        {
+          "tense": "Perfekt",
+          "meaning": "A past event, especially in conversation.",
+          "identify": "haben/sein + Partizip II.",
+          "example": "Ich habe gestern gelernt. — I studied yesterday.",
+          "trick": "A past event in everyday speaking? Perfekt is a useful default."
+        },
+        {
+          "tense": "Präteritum",
+          "meaning": "Simple past; especially common for sein, haben, and modal verbs in speech.",
+          "identify": "war, hatte, konnte, musste, wollte.",
+          "example": "Ich hatte keine Zeit. — I had no time.",
+          "trick": "Use the common forms naturally; don't assume Präteritum is only for books."
+        }
+      ]
+    },
+    {
+      "topic": "5. Nominativ vs Akkusativ vs Dativ",
+      "comparison": [
+        {
+          "case": "Nominativ",
+          "meaning": "The subject: who or what does the action?",
+          "identify": "Ask Wer oder was?",
+          "article_clue": "der Mann, die Frau, das Kind",
+          "example": "Der Mann sieht den Hund. — The man sees the dog.",
+          "trick": "Find who performs the verb first."
+        },
+        {
+          "case": "Akkusativ",
+          "meaning": "Often the direct object: whom or what is directly affected.",
+          "identify": "Ask Wen oder was? after the verb, but remember the verb can control the case.",
+          "article_clue": "Masculine der → den; ein → einen.",
+          "example": "Ich sehe den Hund. — I see the dog.",
+          "trick": "For basic articles, masculine is the main visible change in Akkusativ."
+        },
+        {
+          "case": "Dativ",
+          "meaning": "Often a receiver; also required by certain verbs and prepositions.",
+          "identify": "Ask Wem? when appropriate, and check the verb/preposition rule.",
+          "article_clue": "dem Mann, der Frau, dem Kind, den Kindern",
+          "example": "Ich helfe dem Mann. — I help the man.",
+          "trick": "Memorize verbs with their case: helfen + Dativ; sehen + Akkusativ."
+        }
+      ],
+      "same_sentence": {
+        "german": "Der Vater gibt dem Kind einen Ball.",
+        "english": "The father gives the child a ball.",
+        "analysis": "Der Vater = subject/Nominativ; dem Kind = receiver/Dativ; einen Ball = thing given/Akkusativ."
+      }
+    },
+    {
+      "topic": "6. Prepositions: fixed case vs two-way case",
+      "comparison": [
+        {
+          "type": "Akkusativ-only",
+          "rule": "These prepositions require Akkusativ.",
+          "recognize": "durch, für, gegen, ohne, um",
+          "example": "Das ist für meinen Bruder. — That is for my brother.",
+          "trick": "Memorize this group as a set."
+        },
+        {
+          "type": "Dativ-only",
+          "rule": "These prepositions require Dativ.",
+          "recognize": "aus, bei, mit, nach, seit, von, zu",
+          "example": "Ich fahre mit dem Bus. — I travel by bus.",
+          "trick": "When you see mit, expect Dativ: mit dem / mit der."
+        },
+        {
+          "type": "Two-way",
+          "rule": "Case depends on location or destination.",
+          "recognize": "an, auf, hinter, in, neben, über, unter, vor, zwischen",
+          "example": "Das Buch liegt auf dem Tisch. / Ich lege es auf den Tisch.",
+          "trick": "Ask Wo? = Dativ; Wohin? = Akkusativ."
+        }
+      ]
+    },
+    {
+      "topic": "7. Wo? vs Wohin?",
+      "comparison": [
+        {
+          "question": "Wo? (Where is it?)",
+          "case": "Dativ with two-way prepositions",
+          "example": "Das Handy liegt auf dem Tisch. — The phone is on the table.",
+          "identify": "The phone is already in that position."
+        },
+        {
+          "question": "Wohin? (Where to?)",
+          "case": "Akkusativ with two-way prepositions",
+          "example": "Ich lege das Handy auf den Tisch. — I put the phone onto the table.",
+          "identify": "The action places the phone at a destination."
+        }
+      ],
+      "trick": "Do not ask only 'Is there movement?' Ask: Is this a location (Wo?) or a destination/change of position (Wohin?)."
+    },
+    {
+      "topic": "8. Personal pronouns: ich, mich, mir",
+      "comparison": [
+        {
+          "form": "ich",
+          "job": "Subject/Nominativ",
+          "example": "Ich sehe dich. — I see you.",
+          "trick": "Who does the action? ich."
+        },
+        {
+          "form": "mich",
+          "job": "Akkusativ object",
+          "example": "Er sieht mich. — He sees me.",
+          "trick": "sehen takes Akkusativ."
+        },
+        {
+          "form": "mir",
+          "job": "Dativ object",
+          "example": "Er hilft mir. — He helps me.",
+          "trick": "helfen takes Dativ."
+        }
+      ],
+      "memory_pairs": [
+        "ich – mich – mir",
+        "du – dich – dir",
+        "er – ihn – ihm",
+        "sie – sie – ihr"
+      ]
+    },
+    {
+      "topic": "9. Separable verb vs modal verb vs Perfekt",
+      "comparison": [
+        {
+          "structure": "Separable verb",
+          "identify": "The prefix separates in a present-tense main clause.",
+          "pattern": "Ich stehe früh auf.",
+          "english": "I get up early.",
+          "trick": "Find the prefix at the end: auf."
+        },
+        {
+          "structure": "Modal verb",
+          "identify": "A modal verb adds ability, obligation, permission, or desire; the second verb stays infinitive.",
+          "pattern": "Ich muss früh aufstehen.",
+          "english": "I have to get up early.",
+          "trick": "Modal conjugated in position 2; infinitive at the end."
+        },
+        {
+          "structure": "Perfekt",
+          "identify": "haben/sein plus Partizip II.",
+          "pattern": "Ich bin früh aufgestanden.",
+          "english": "I got up early.",
+          "trick": "Auxiliary near the front, participle at the end."
+        }
+      ]
+    },
+    {
+      "topic": "10. Verb position: statement vs question vs weil",
+      "comparison": [
+        {
+          "type": "Statement",
+          "rule": "Conjugated verb in position 2.",
+          "example": "Heute lerne ich Deutsch.",
+          "trick": "One element first, verb next."
+        },
+        {
+          "type": "Yes/no question",
+          "rule": "Conjugated verb first.",
+          "example": "Lernst du Deutsch?",
+          "trick": "No question word → verb first."
+        },
+        {
+          "type": "W-question",
+          "rule": "Question word first, verb second.",
+          "example": "Wann lernst du?",
+          "trick": "W-word + verb + subject."
+        },
+        {
+          "type": "weil clause",
+          "rule": "Conjugated verb at the end of the weil-clause.",
+          "example": "Ich lerne, weil ich morgen eine Prüfung habe.",
+          "trick": "weil pushes the conjugated verb to the end."
+        },
+        {
+          "type": "deshalb",
+          "rule": "When deshalb begins the next main clause, the verb follows it.",
+          "example": "Ich bin müde. Deshalb gehe ich ins Bett.",
+          "trick": "deshalb does not send the verb to the end."
+        }
+      ]
+    },
+    {
+      "topic": "11. nicht vs kein",
+      "comparison": [
+        {
+          "word": "kein",
+          "use": "Negates a noun that would use ein/eine or no article.",
+          "example": "Ich habe kein Auto. — I have no car.",
+          "identify": "Ask: Am I saying that I have/use/buy no thing of this kind?"
+        },
+        {
+          "word": "nicht",
+          "use": "Negates verbs/actions, adjectives, adverbs, or a specific noun phrase.",
+          "example": "Ich arbeite heute nicht. / Das ist nicht mein Auto.",
+          "identify": "If you're negating something other than an indefinite/no-article noun, nicht is often needed."
+        }
+      ],
+      "trick": "kein behaves like ein with a k added: ein Auto → kein Auto; einen Hund → keinen Hund."
+    },
+    {
+      "topic": "12. mögen vs gern vs lieber vs am liebsten vs möchte",
+      "comparison": [
+        {
+          "word": "mögen",
+          "meaning": "Like a thing/person.",
+          "pattern": "mögen + noun",
+          "example": "Ich mag Kaffee.",
+          "trick": "Use it to say you like the item."
+        },
+        {
+          "word": "gern",
+          "meaning": "Enjoy doing something.",
+          "pattern": "verb + gern",
+          "example": "Ich trinke gern Kaffee.",
+          "trick": "Use it with an activity."
+        },
+        {
+          "word": "lieber",
+          "meaning": "Prefer one option.",
+          "pattern": "verb + lieber ... als ...",
+          "example": "Ich trinke lieber Tee als Kaffee.",
+          "trick": "Compare two preferences."
+        },
+        {
+          "word": "am liebsten",
+          "meaning": "Like one thing most.",
+          "pattern": "am liebsten + verb phrase",
+          "example": "Am liebsten trinke ich Wasser.",
+          "trick": "Your number-one preference."
+        },
+        {
+          "word": "möchte",
+          "meaning": "Would like; polite request or wish.",
+          "pattern": "möchte + noun / infinitive",
+          "example": "Ich möchte einen Tee. / Ich möchte Deutsch lernen.",
+          "trick": "Use for what you want, especially politely."
+        }
+      ]
+    },
+    {
+      "topic": "13. gut vs gern vs besser vs lieber",
+      "comparison": [
+        {
+          "word": "gut",
+          "meaning": "Good/well; quality or skill.",
+          "example": "Ich spreche gut Deutsch.",
+          "question": "How well?"
+        },
+        {
+          "word": "gern",
+          "meaning": "Enjoy doing it.",
+          "example": "Ich spreche gern Deutsch.",
+          "question": "Do I enjoy it?"
+        },
+        {
+          "word": "besser",
+          "meaning": "Better; comparison of quality or ability.",
+          "example": "Ich spreche jetzt besser Deutsch.",
+          "question": "How well compared with before?"
+        },
+        {
+          "word": "lieber",
+          "meaning": "Prefer doing one thing rather than another.",
+          "example": "Ich spreche lieber Deutsch als Englisch.",
+          "question": "Which do I prefer?"
+        }
+      ],
+      "trick": "gut/besser = quality; gern/lieber = enjoyment or preference."
+    },
+    {
+      "topic": "14. um vs am vs im vs seit vs vor",
+      "comparison": [
+        {
+          "word": "um",
+          "use": "Exact clock time",
+          "example": "Der Kurs beginnt um neun Uhr.",
+          "english": "The class starts at nine."
+        },
+        {
+          "word": "am",
+          "use": "Days and dates; many day-parts",
+          "example": "Am Montag habe ich frei.",
+          "english": "I am free on Monday."
+        },
+        {
+          "word": "im",
+          "use": "Months and seasons",
+          "example": "Im Winter schneit es oft.",
+          "english": "It often snows in winter."
+        },
+        {
+          "word": "seit",
+          "use": "Started in the past and still continues; takes Dativ",
+          "example": "Ich wohne seit einem Jahr hier.",
+          "english": "I have lived here for a year."
+        },
+        {
+          "word": "vor",
+          "use": "How long ago; takes Dativ",
+          "example": "Ich bin vor zwei Tagen angekommen.",
+          "english": "I arrived two days ago."
+        }
+      ],
+      "trick": "Clock = um; day/date = am; month/season = im; still continuing = seit; ago = vor."
+    },
+    {
+      "topic": "15. Adjective after sein vs before a noun",
+      "comparison": [
+        {
+          "position": "After sein",
+          "rule": "Usually no adjective ending.",
+          "example": "Das Auto ist schnell.",
+          "english": "The car is fast.",
+          "identify": "Adjective comes after ist/sind."
+        },
+        {
+          "position": "Before a noun",
+          "rule": "Adjective ending depends on article, gender, number, and case.",
+          "example": "Das ist ein schnelles Auto.",
+          "english": "That is a fast car.",
+          "identify": "Adjective stands directly before the noun."
+        }
+      ],
+      "trick": "After ist: schnell. Before Auto: ein schnelles Auto."
+    },
+    {
+      "topic": "16. Quick sentence-building checklist",
+      "steps": [
+        "1. Choose the tense: now/routine → Präsens; past conversation → usually Perfekt.",
+        "2. Find the subject: who does the action? → Nominativ.",
+        "3. Check prepositions: mit → Dativ; für → Akkusativ; two-way preposition → ask Wo? or Wohin?.",
+        "4. Check the verb: helfen takes Dativ; sehen takes Akkusativ.",
+        "5. Put the conjugated verb in the correct position.",
+        "6. In Perfekt, use haben/sein + Partizip II; place the participle at the end."
+      ],
+      "worked_example": {
+        "german": "Gestern habe ich meinem Freund einen Laptop gekauft.",
+        "english": "Yesterday I bought my friend a laptop.",
+        "analysis": "Gestern = time first; habe = conjugated auxiliary in position 2; ich = subject/Nominativ; meinem Freund = receiver/Dativ; einen Laptop = masculine direct object/Akkusativ; gekauft = Partizip II at the end."
+      }
+    }
+  ],
+  "study_strategy": [
+    "For each grammar term, learn five things: meaning, why it exists, how to recognize it, the pattern, and one memory trick.",
+    "Compare similar forms side by side instead of studying each in isolation.",
+    "Practise with pairs that change only one thing: Ich sehe ihn / Ich helfe ihm; Das Buch liegt auf dem Tisch / Ich lege es auf den Tisch.",
+    "When unsure, look up the case required by the verb or preposition instead of relying only on English translation."
+  ]
+}

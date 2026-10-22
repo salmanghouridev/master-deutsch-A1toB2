@@ -1,0 +1,197 @@
+{
+  "order": 80,
+  "topic_number": 80,
+  "title": "Fixed-Preposition Verbs",
+  "german_title": "Verben mit festen Präpositionen",
+  "level": "A1",
+  "language": "en",
+  "definition": "Some German verbs are commonly used with a specific preposition, and the preposition determines the case of the following noun or pronoun. Learn the verb and preposition together as one vocabulary unit.",
+  "rules": [
+    {
+      "title": "warten auf + accusative",
+      "explanation": "Use warten auf when waiting for a person or thing; auf takes the accusative in this fixed expression.",
+      "examples": [
+        {
+          "german": "Ich warte auf den Bus.",
+          "english": "I am waiting for the bus."
+        },
+        {
+          "german": "Wir warten auf dich.",
+          "english": "We are waiting for you."
+        }
+      ]
+    },
+    {
+      "title": "denken an + accusative",
+      "explanation": "Use denken an to say that you are thinking about someone or something.",
+      "examples": [
+        {
+          "german": "Ich denke an meine Familie.",
+          "english": "I am thinking about my family."
+        },
+        {
+          "german": "Denkst du an mich?",
+          "english": "Are you thinking about me?"
+        }
+      ]
+    },
+    {
+      "title": "sprechen mit + dative",
+      "explanation": "Use sprechen mit when talking with a person.",
+      "examples": [
+        {
+          "german": "Ich spreche mit meinem Lehrer.",
+          "english": "I am speaking with my teacher."
+        },
+        {
+          "german": "Sie spricht mit ihrer Freundin.",
+          "english": "She is talking with her friend."
+        }
+      ]
+    },
+    {
+      "title": "sprechen über + accusative",
+      "explanation": "Use sprechen über when talking about a topic.",
+      "examples": [
+        {
+          "german": "Wir sprechen über den Film.",
+          "english": "We are talking about the film."
+        },
+        {
+          "german": "Sie sprechen über ihre Arbeit.",
+          "english": "They are talking about their work."
+        }
+      ]
+    },
+    {
+      "title": "sich interessieren für + accusative",
+      "explanation": "Use sich interessieren für to say that someone is interested in something. The reflexive pronoun changes with the subject.",
+      "examples": [
+        {
+          "german": "Ich interessiere mich für Musik.",
+          "english": "I am interested in music."
+        },
+        {
+          "german": "Interessierst du dich für Sport?",
+          "english": "Are you interested in sports?"
+        }
+      ]
+    },
+    {
+      "title": "Other useful verb-preposition pairs",
+      "explanation": "Memorize the preposition and case with each verb. Some verbs can take different prepositions with different meanings.",
+      "examples": [
+        {
+          "german": "teilnehmen an + dative",
+          "english": "to take part in",
+          "note": "Ich nehme an einem Kurs teil. — I take part in a course."
+        },
+        {
+          "german": "helfen bei + dative",
+          "english": "to help with",
+          "note": "Kannst du mir bei den Hausaufgaben helfen? — Can you help me with the homework?"
+        },
+        {
+          "german": "bitten um + accusative",
+          "english": "to ask for",
+          "note": "Ich bitte um Hilfe. — I ask for help."
+        },
+        {
+          "german": "sich freuen auf + accusative",
+          "english": "to look forward to",
+          "note": "Ich freue mich auf den Urlaub. — I am looking forward to the holiday."
+        },
+        {
+          "german": "sich freuen über + accusative",
+          "english": "to be happy about",
+          "note": "Ich freue mich über das Geschenk. — I am happy about the gift."
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "verb_preposition_pairs": [
+      {
+        "pair": "warten auf + Akkusativ",
+        "example": "Ich warte auf den Bus."
+      },
+      {
+        "pair": "denken an + Akkusativ",
+        "example": "Ich denke an dich."
+      },
+      {
+        "pair": "sprechen mit + Dativ",
+        "example": "Ich spreche mit meinem Freund."
+      },
+      {
+        "pair": "sprechen über + Akkusativ",
+        "example": "Wir sprechen über den Film."
+      },
+      {
+        "pair": "sich interessieren für + Akkusativ",
+        "example": "Ich interessiere mich für Musik."
+      },
+      {
+        "pair": "teilnehmen an + Dativ",
+        "example": "Ich nehme an einem Kurs teil."
+      },
+      {
+        "pair": "helfen bei + Dativ",
+        "example": "Ich helfe dir bei der Arbeit."
+      },
+      {
+        "pair": "bitten um + Akkusativ",
+        "example": "Ich bitte um Hilfe."
+      }
+    ]
+  },
+  "common_mistakes": [
+    {
+      "wrong": "Ich warte für den Bus.",
+      "correct": "Ich warte auf den Bus.",
+      "explanation": "The fixed expression is warten auf + accusative."
+    },
+    {
+      "wrong": "Ich interessiere für Musik.",
+      "correct": "Ich interessiere mich für Musik.",
+      "explanation": "Sich interessieren is reflexive and requires mich for ich."
+    },
+    {
+      "wrong": "Ich spreche mit meinen Lehrer.",
+      "correct": "Ich spreche mit meinem Lehrer.",
+      "explanation": "Mit takes the dative; masculine dative mein becomes meinem."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "warten auf + Akkusativ",
+      "english": "to wait for"
+    },
+    {
+      "german": "denken an + Akkusativ",
+      "english": "to think about"
+    },
+    {
+      "german": "sprechen mit + Dativ",
+      "english": "to speak with"
+    },
+    {
+      "german": "sprechen über + Akkusativ",
+      "english": "to talk about"
+    },
+    {
+      "german": "sich interessieren für + Akkusativ",
+      "english": "to be interested in"
+    },
+    {
+      "german": "teilnehmen an + Dativ",
+      "english": "to participate in"
+    },
+    {
+      "german": "bitten um + Akkusativ",
+      "english": "to ask for"
+    }
+  ],
+  "mastery_goal": "You can memorize common verb-preposition combinations and use the required case in simple sentences.",
+  "next_topic": "Review of A1 grammar topics"
+}

@@ -1,0 +1,42 @@
+{
+  "order": 2,
+  "category": "Grammar",
+  "title": "Das Vorgangspassiv",
+  "titleEn": "Process Passive Voice (werden + Partizip II)",
+  "summary": "The **Vorgangspassiv** places the focus on the **action or process** rather than who performs it. It is formed with a conjugated form of **werden** in Position 2 and the **Partizip II** at the end.",
+  "explanation": "When transforming an active sentence into the passive voice, the Akkusativ direct object of the active sentence becomes the Nominativ subject of the passive sentence. The original agent is optional.",
+  "table": {
+    "headers": ["Tense", "Formula", "Active (Aktiv)", "Passive (Vorgangspassiv)"],
+    "rows": [
+      ["**Präsens**", "wird + Partizip II", "Der Mechaniker repariert das Auto.", "Das Auto **wird repariert**."],
+      ["**Präteritum**", "wurde + Partizip II", "Der Mechaniker reparierte das Auto.", "Das Auto **wurde repariert**."],
+      ["**Perfekt**", "ist + Partizip II + worden", "Der Mechaniker hat das Auto repariert.", "Das Auto **ist repariert worden**."],
+      ["**Mit Modalverb**", "Modal + Partizip II + werden", "Man muss das Auto reparieren.", "Das Auto **muss repariert werden**."]
+    ]
+  },
+  "rules": [
+    "Present Passive: conjugated **werden** (*werde, wirst, wird, werden, werdet, werden*) + **Partizip II**.",
+    "Simple Past Passive: conjugated **wurden** (*wurde, wurdest, wurde, wurden, wurdet, wurden*) + **Partizip II**.",
+    "To mention the agent/person who performs the action, use **von + Dativ** (*vom Mechaniker*). For an instrument or cause, use **durch + Akkusativ**."
+  ],
+  "examples": [
+    { "de": "Das Paket **wird** heute **geliefert**.", "en": "The package is being delivered today." },
+    { "de": "Die Brücke **wurde** 1995 **gebaut**.", "en": "The bridge was built in 1995." },
+    { "de": "Die Rechnung **muss** bis Freitag **bezahlt werden**.", "en": "The invoice must be paid by Friday." }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Das Haus ist 1990 gebaut.",
+      "correct": "Das Haus wurde 1990 gebaut.",
+      "explanation": "To describe the action of building in the past, use 'wurde + Partizip II' (Vorgangspassiv), not 'ist'."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Die Briefe ___ (werden, Präsens) jeden Morgen sortiert.",
+      "answer": "werden",
+      "hint": "Plural subject 'Die Briefe' takes 'werden'."
+    }
+  ],
+  "note": "In the Perfekt passive, the participle of *werden* drops its *ge-* prefix and becomes **worden** (*Das Auto ist repariert **worden***)."
+}

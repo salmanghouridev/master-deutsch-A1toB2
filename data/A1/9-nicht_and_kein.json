@@ -1,0 +1,158 @@
+{
+  "order": 55,
+  "topic_number": 55,
+  "title": "nicht and kein",
+  "german_title": "Negation: nicht und kein",
+  "level": "A1",
+  "language": "en",
+  "definition": "Nicht and kein both make statements negative, but they are used differently. Kein usually negates a noun with ein/eine or a noun with no article; nicht negates verbs, adjectives, adverbs, or a specific part of a sentence.",
+  "rules": [
+    {
+      "title": "Use kein with nouns",
+      "explanation": "Kein means 'no' or 'not a'. Its nominative forms are kein (masculine/neuter), keine (feminine/plural).",
+      "examples": [
+        {
+          "german": "Ich habe kein Auto.",
+          "english": "I don't have a car."
+        },
+        {
+          "german": "Sie hat keine Katze.",
+          "english": "She doesn't have a cat."
+        },
+        {
+          "german": "Wir haben keine Kinder.",
+          "english": "We don't have children."
+        },
+        {
+          "german": "Das ist kein Problem.",
+          "english": "That is not a problem."
+        }
+      ]
+    },
+    {
+      "title": "Use nicht to negate an action or description",
+      "explanation": "Nicht is used with verbs, adjectives, adverbs, and many other sentence elements. Its position depends on what is being negated.",
+      "examples": [
+        {
+          "german": "Ich arbeite heute nicht.",
+          "english": "I am not working today."
+        },
+        {
+          "german": "Das ist nicht teuer.",
+          "english": "That is not expensive."
+        },
+        {
+          "german": "Er kommt nicht.",
+          "english": "He is not coming."
+        },
+        {
+          "german": "Ich spreche nicht schnell.",
+          "english": "I do not speak quickly."
+        }
+      ]
+    },
+    {
+      "title": "nicht or kein?",
+      "explanation": "If the meaning is 'not a/no + noun', use kein. If you are saying an action or quality is not true, use nicht.",
+      "examples": [
+        {
+          "german": "Ich habe keinen Bruder.",
+          "english": "I don't have a brother.",
+          "note": "Accusative example: keinen is used because Bruder is the direct object."
+        },
+        {
+          "german": "Ich bin nicht müde.",
+          "english": "I am not tired."
+        },
+        {
+          "german": "Das ist kein Hund.",
+          "english": "That is not a dog."
+        },
+        {
+          "german": "Das ist nicht mein Hund.",
+          "english": "That is not my dog."
+        }
+      ]
+    },
+    {
+      "title": "Negating a specific item",
+      "explanation": "Nicht can appear before the part of the sentence being contrasted or emphasized.",
+      "examples": [
+        {
+          "german": "Ich fahre nicht heute, sondern morgen.",
+          "english": "I'm not going today, but tomorrow."
+        },
+        {
+          "german": "Das ist nicht mein Buch.",
+          "english": "That is not my book."
+        },
+        {
+          "german": "Ich trinke keinen Kaffee.",
+          "english": "I don't drink coffee.",
+          "note": "Kaffee is negated as a noun; accusative masculine form keinen."
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "quick_choice": [
+      {
+        "meaning": "not a / no + noun",
+        "word": "kein / keine",
+        "example": "Ich habe kein Geld."
+      },
+      {
+        "meaning": "not + adjective",
+        "word": "nicht",
+        "example": "Das Wetter ist nicht gut."
+      },
+      {
+        "meaning": "not + verb/action",
+        "word": "nicht",
+        "example": "Ich komme heute nicht."
+      },
+      {
+        "meaning": "not my / not this",
+        "word": "nicht",
+        "example": "Das ist nicht mein Stift."
+      }
+    ]
+  },
+  "common_mistakes": [
+    {
+      "wrong": "Ich habe nicht Auto.",
+      "correct": "Ich habe kein Auto.",
+      "explanation": "Use kein to negate a noun in this pattern."
+    },
+    {
+      "wrong": "Ich bin kein müde.",
+      "correct": "Ich bin nicht müde.",
+      "explanation": "Use nicht with adjectives."
+    },
+    {
+      "wrong": "Das ist nicht ein Problem.",
+      "correct": "Das ist kein Problem.",
+      "explanation": "Kein is the usual basic A1 negation for 'not a problem'."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "kein / keine",
+      "english": "no / not a — with nouns"
+    },
+    {
+      "german": "nicht",
+      "english": "not — with verbs, adjectives, adverbs, or specific sentence parts"
+    },
+    {
+      "german": "Ich habe kein Geld.",
+      "english": "I have no money."
+    },
+    {
+      "german": "Ich bin nicht müde.",
+      "english": "I am not tired."
+    }
+  ],
+  "mastery_goal": "You can choose between nicht and kein in common A1 sentences and form simple negative statements.",
+  "next_topic": "W-questions (wer, was, wo, wann...)"
+}

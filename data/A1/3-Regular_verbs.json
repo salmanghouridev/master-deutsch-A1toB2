@@ -1,0 +1,396 @@
+{
+  "order": 3,
+  "topic_number": 48,
+  "title": "Regular Verbs in the Present Tense",
+  "german_title": "Regelmäßige Verben im Präsens",
+  "level": "A1",
+  "language": {
+    "explanation": "English",
+    "examples": "German with English translations"
+  },
+  "definition": {
+    "english": "Regular verbs follow a predictable pattern in the present tense. Remove -en or -n from the infinitive to find the stem, then add the correct ending.",
+    "example": {
+      "german": "lernen → ich lerne, du lernst, er lernt",
+      "english": "to learn → I learn, you learn, he learns"
+    }
+  },
+  "conjugation_rule": {
+    "steps": [
+      "Start with the infinitive, for example lernen.",
+      "Remove -en: lern- is the stem.",
+      "Add the ending for the subject pronoun."
+    ],
+    "endings": [
+      {
+        "pronoun": "ich",
+        "ending": "-e",
+        "example": "ich lern-e"
+      },
+      {
+        "pronoun": "du",
+        "ending": "-st",
+        "example": "du lern-st"
+      },
+      {
+        "pronoun": "er/sie/es",
+        "ending": "-t",
+        "example": "er lern-t"
+      },
+      {
+        "pronoun": "wir",
+        "ending": "-en",
+        "example": "wir lern-en"
+      },
+      {
+        "pronoun": "ihr",
+        "ending": "-t",
+        "example": "ihr lern-t"
+      },
+      {
+        "pronoun": "sie/Sie",
+        "ending": "-en",
+        "example": "sie lern-en / Sie lern-en"
+      }
+    ]
+  },
+  "conjugation_examples": [
+    {
+      "infinitive": "lernen",
+      "english": "to learn",
+      "forms": [
+        {
+          "pronoun": "ich",
+          "form": "lerne"
+        },
+        {
+          "pronoun": "du",
+          "form": "lernst"
+        },
+        {
+          "pronoun": "er/sie/es",
+          "form": "lernt"
+        },
+        {
+          "pronoun": "wir",
+          "form": "lernen"
+        },
+        {
+          "pronoun": "ihr",
+          "form": "lernt"
+        },
+        {
+          "pronoun": "sie/Sie",
+          "form": "lernen"
+        }
+      ],
+      "sentences": [
+        {
+          "german": "Ich lerne Deutsch.",
+          "english": "I am learning German."
+        },
+        {
+          "german": "Wir lernen zusammen.",
+          "english": "We study together."
+        }
+      ]
+    },
+    {
+      "infinitive": "machen",
+      "english": "to do/make",
+      "forms": [
+        {
+          "pronoun": "ich",
+          "form": "mache"
+        },
+        {
+          "pronoun": "du",
+          "form": "machst"
+        },
+        {
+          "pronoun": "er/sie/es",
+          "form": "macht"
+        },
+        {
+          "pronoun": "wir",
+          "form": "machen"
+        },
+        {
+          "pronoun": "ihr",
+          "form": "macht"
+        },
+        {
+          "pronoun": "sie/Sie",
+          "form": "machen"
+        }
+      ],
+      "sentences": [
+        {
+          "german": "Ich mache meine Hausaufgaben.",
+          "english": "I do my homework."
+        }
+      ]
+    },
+    {
+      "infinitive": "wohnen",
+      "english": "to live/reside",
+      "forms": [
+        {
+          "pronoun": "ich",
+          "form": "wohne"
+        },
+        {
+          "pronoun": "du",
+          "form": "wohnst"
+        },
+        {
+          "pronoun": "er/sie/es",
+          "form": "wohnt"
+        },
+        {
+          "pronoun": "wir",
+          "form": "wohnen"
+        },
+        {
+          "pronoun": "ihr",
+          "form": "wohnt"
+        },
+        {
+          "pronoun": "sie/Sie",
+          "form": "wohnen"
+        }
+      ],
+      "sentences": [
+        {
+          "german": "Ich wohne in Chemnitz.",
+          "english": "I live in Chemnitz."
+        }
+      ]
+    },
+    {
+      "infinitive": "studieren",
+      "english": "to study at university",
+      "forms": [
+        {
+          "pronoun": "ich",
+          "form": "studiere"
+        },
+        {
+          "pronoun": "du",
+          "form": "studierst"
+        },
+        {
+          "pronoun": "er/sie/es",
+          "form": "studiert"
+        },
+        {
+          "pronoun": "wir",
+          "form": "studieren"
+        },
+        {
+          "pronoun": "ihr",
+          "form": "studiert"
+        },
+        {
+          "pronoun": "sie/Sie",
+          "form": "studieren"
+        }
+      ],
+      "sentences": [
+        {
+          "german": "Ich studiere Informatik.",
+          "english": "I study computer science at university."
+        }
+      ]
+    }
+  ],
+  "spelling_rules": [
+    {
+      "title": "Verbs ending in -d or -t",
+      "rule": "Add an extra -e- before some endings to make pronunciation easier.",
+      "examples": [
+        {
+          "infinitive": "arbeiten",
+          "german": "du arbeitest; er arbeitet; ihr arbeitet",
+          "english": "you work; he/she works; you (plural) work"
+        },
+        {
+          "infinitive": "warten",
+          "german": "du wartest; er wartet; ihr wartet",
+          "english": "you wait; he/she waits; you (plural) wait"
+        }
+      ]
+    },
+    {
+      "title": "Verbs ending in -s, -ß, -z, or -x",
+      "rule": "The du form usually ends in -t rather than -st because the stem already ends in a sibilant sound.",
+      "examples": [
+        {
+          "infinitive": "heißen",
+          "german": "du heißt",
+          "english": "you are called"
+        },
+        {
+          "infinitive": "tanzen",
+          "german": "du tanzt",
+          "english": "you dance"
+        }
+      ]
+    }
+  ],
+  "usage_rules": [
+    {
+      "title": "Use the conjugated verb with the subject",
+      "rule": "The verb ending changes according to the subject pronoun.",
+      "examples": [
+        {
+          "german": "Ich mache Kaffee.",
+          "english": "I make coffee."
+        },
+        {
+          "german": "Du machst Kaffee.",
+          "english": "You make coffee."
+        },
+        {
+          "german": "Er macht Kaffee.",
+          "english": "He makes coffee."
+        }
+      ]
+    },
+    {
+      "title": "Word order in a main clause",
+      "rule": "In a normal statement, the conjugated verb is usually in the second position.",
+      "examples": [
+        {
+          "german": "Heute lerne ich Deutsch.",
+          "english": "Today I am learning German."
+        },
+        {
+          "german": "Am Samstag arbeite ich.",
+          "english": "I work on Saturday."
+        }
+      ]
+    }
+  ],
+  "common_regular_verbs": [
+    {
+      "infinitive": "lernen",
+      "english": "to learn"
+    },
+    {
+      "infinitive": "machen",
+      "english": "to do/make"
+    },
+    {
+      "infinitive": "wohnen",
+      "english": "to live"
+    },
+    {
+      "infinitive": "kommen",
+      "english": "to come"
+    },
+    {
+      "infinitive": "fragen",
+      "english": "to ask"
+    },
+    {
+      "infinitive": "sagen",
+      "english": "to say"
+    },
+    {
+      "infinitive": "spielen",
+      "english": "to play"
+    },
+    {
+      "infinitive": "kaufen",
+      "english": "to buy"
+    },
+    {
+      "infinitive": "hören",
+      "english": "to hear/listen"
+    },
+    {
+      "infinitive": "kochen",
+      "english": "to cook"
+    },
+    {
+      "infinitive": "suchen",
+      "english": "to search"
+    },
+    {
+      "infinitive": "brauchen",
+      "english": "to need"
+    },
+    {
+      "infinitive": "fragen",
+      "english": "to ask"
+    },
+    {
+      "infinitive": "arbeiten",
+      "english": "to work; spelling adjustment"
+    },
+    {
+      "infinitive": "heißen",
+      "english": "to be called; du form: heißt"
+    }
+  ],
+  "common_mistakes": [
+    {
+      "incorrect": "Du lernen Deutsch.",
+      "correct": "Du lernst Deutsch.",
+      "explanation": "Add -st for du."
+    },
+    {
+      "incorrect": "Er mache Kaffee.",
+      "correct": "Er macht Kaffee.",
+      "explanation": "Add -t for er/sie/es."
+    },
+    {
+      "incorrect": "Du arbeitst heute.",
+      "correct": "Du arbeitest heute.",
+      "explanation": "Add -e- after the stem ending in -t."
+    }
+  ],
+  "memorization_list": [
+    {
+      "pattern": "ich",
+      "ending": "-e",
+      "example": "ich lerne"
+    },
+    {
+      "pattern": "du",
+      "ending": "-st",
+      "example": "du lernst"
+    },
+    {
+      "pattern": "er/sie/es",
+      "ending": "-t",
+      "example": "er lernt"
+    },
+    {
+      "pattern": "wir",
+      "ending": "-en",
+      "example": "wir lernen"
+    },
+    {
+      "pattern": "ihr",
+      "ending": "-t",
+      "example": "ihr lernt"
+    },
+    {
+      "pattern": "sie/Sie",
+      "ending": "-en",
+      "example": "sie lernen / Sie lernen"
+    }
+  ],
+  "mastery_goal": [
+    "Know the six standard present-tense endings.",
+    "Conjugate a new regular verb without looking at a table.",
+    "Recognize when an extra -e- is needed for pronunciation.",
+    "Make simple statements using regular verbs."
+  ],
+  "next_topic": {
+    "number": 49,
+    "title": "Irregular Verbs in the Present Tense"
+  }
+}

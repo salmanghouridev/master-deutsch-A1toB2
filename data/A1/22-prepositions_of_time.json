@@ -1,0 +1,219 @@
+{
+  "order": 68,
+  "topic_number": 68,
+  "title": "Prepositions of Time",
+  "german_title": "Temporale Präpositionen",
+  "level": "A1",
+  "language": "en",
+  "definition": "Time prepositions explain when something happens, how long it lasts, or when it starts or ends. Learn the preposition together with its common time expression because German prepositions often require a particular case.",
+  "rules": [
+    {
+      "title": "am — days and parts of the day",
+      "explanation": "Use am with days of the week, dates, and many parts of the day. Usually use in der Nacht for 'at night'.",
+      "examples": [
+        {
+          "german": "Am Montag arbeite ich.",
+          "english": "I work on Monday."
+        },
+        {
+          "german": "Am Morgen trinke ich Kaffee.",
+          "english": "I drink coffee in the morning."
+        },
+        {
+          "german": "Am 5. Mai habe ich Geburtstag.",
+          "english": "My birthday is on May 5."
+        }
+      ]
+    },
+    {
+      "title": "um — clock times",
+      "explanation": "Use um to say at what clock time something happens.",
+      "examples": [
+        {
+          "german": "Der Kurs beginnt um neun Uhr.",
+          "english": "The course begins at nine o'clock."
+        },
+        {
+          "german": "Ich stehe um sieben Uhr auf.",
+          "english": "I get up at seven o'clock."
+        }
+      ]
+    },
+    {
+      "title": "im — months, seasons, and years",
+      "explanation": "Use im with months and seasons. It is also used in common expressions such as im Jahr 2026.",
+      "examples": [
+        {
+          "german": "Im Januar ist es kalt.",
+          "english": "It is cold in January."
+        },
+        {
+          "german": "Im Sommer fahre ich ans Meer.",
+          "english": "In summer I go to the sea."
+        },
+        {
+          "german": "Im Jahr 2026 lerne ich Deutsch.",
+          "english": "In the year 2026 I am learning German."
+        }
+      ]
+    },
+    {
+      "title": "von ... bis — from ... until",
+      "explanation": "Use von ... bis to express a time range.",
+      "examples": [
+        {
+          "german": "Ich arbeite von neun bis fünf.",
+          "english": "I work from nine to five."
+        },
+        {
+          "german": "Der Kurs dauert von Montag bis Freitag.",
+          "english": "The course runs from Monday to Friday."
+        }
+      ]
+    },
+    {
+      "title": "seit — since / for (continuing)",
+      "explanation": "Use seit with the dative for something that began in the past and continues now.",
+      "examples": [
+        {
+          "german": "Ich wohne seit einem Jahr in Chemnitz.",
+          "english": "I have lived in Chemnitz for one year."
+        },
+        {
+          "german": "Seit Montag bin ich krank.",
+          "english": "I have been ill since Monday."
+        }
+      ]
+    },
+    {
+      "title": "vor and nach — before and after",
+      "explanation": "Vor and nach take the dative when used as prepositions of time.",
+      "examples": [
+        {
+          "german": "Ich frühstücke vor der Arbeit.",
+          "english": "I eat breakfast before work."
+        },
+        {
+          "german": "Nach dem Unterricht gehe ich nach Hause.",
+          "english": "After class I go home."
+        },
+        {
+          "german": "Vor dem Essen wasche ich meine Hände.",
+          "english": "Before eating, I wash my hands."
+        }
+      ]
+    },
+    {
+      "title": "ab, bis, and für",
+      "explanation": "Ab indicates a starting point, bis an endpoint, and für a duration or planned period.",
+      "examples": [
+        {
+          "german": "Ab morgen arbeite ich wieder.",
+          "english": "Starting tomorrow, I will work again."
+        },
+        {
+          "german": "Ich bleibe bis Freitag.",
+          "english": "I am staying until Friday."
+        },
+        {
+          "german": "Ich fahre für eine Woche nach Berlin.",
+          "english": "I am going to Berlin for one week."
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "quick_reference": [
+      {
+        "preposition": "am",
+        "use": "days, dates, many parts of the day",
+        "example": "am Dienstag"
+      },
+      {
+        "preposition": "um",
+        "use": "clock time",
+        "example": "um acht Uhr"
+      },
+      {
+        "preposition": "im",
+        "use": "months and seasons",
+        "example": "im Oktober; im Winter"
+      },
+      {
+        "preposition": "von ... bis",
+        "use": "from ... until",
+        "example": "von neun bis fünf"
+      },
+      {
+        "preposition": "seit",
+        "use": "since / for, continuing until now",
+        "example": "seit einem Jahr"
+      },
+      {
+        "preposition": "vor / nach",
+        "use": "before / after",
+        "example": "nach dem Kurs"
+      },
+      {
+        "preposition": "ab / bis",
+        "use": "from a starting point / until an endpoint",
+        "example": "ab morgen; bis Freitag"
+      },
+      {
+        "preposition": "für",
+        "use": "duration or planned period",
+        "example": "für zwei Tage"
+      }
+    ]
+  },
+  "common_mistakes": [
+    {
+      "wrong": "um Montag",
+      "correct": "am Montag",
+      "explanation": "Use am with days of the week."
+    },
+    {
+      "wrong": "am acht Uhr",
+      "correct": "um acht Uhr",
+      "explanation": "Use um with clock times."
+    },
+    {
+      "wrong": "in Januar",
+      "correct": "im Januar",
+      "explanation": "Use im with months."
+    },
+    {
+      "wrong": "seit ein Jahr",
+      "correct": "seit einem Jahr",
+      "explanation": "Seit takes the dative."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "am Montag",
+      "english": "on Monday"
+    },
+    {
+      "german": "um acht Uhr",
+      "english": "at eight o'clock"
+    },
+    {
+      "german": "im Sommer",
+      "english": "in summer"
+    },
+    {
+      "german": "von ... bis",
+      "english": "from ... until"
+    },
+    {
+      "german": "seit einem Jahr",
+      "english": "for one year (and still continuing)"
+    },
+    {
+      "german": "vor / nach",
+      "english": "before / after"
+    }
+  ],
+  "mastery_goal": "You can express common A1 time information using am, um, im, von ... bis, seit, vor, nach, ab, and für.",
+  "next_topic": "Separable verbs and sentence structure review"
+}

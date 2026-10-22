@@ -1,0 +1,129 @@
+{
+  "order": 70,
+  "topic_number": 70,
+  "title": "Conjunctions",
+  "german_title": "Konjunktionen",
+  "level": "A1",
+  "language": "en",
+  "definition": "Conjunctions connect words, phrases, or clauses. Common A1 conjunctions such as und, aber, oder, and denn keep normal verb-second order in the following main clause. Weil introduces a subordinate clause, where the conjugated verb goes to the end.",
+  "rules": [
+    {
+      "title": "und — and",
+      "explanation": "Adds information. The clause after und normally keeps the standard main-clause word order.",
+      "examples": [
+        {
+          "german": "Ich lerne Deutsch und mein Bruder lernt Englisch.",
+          "english": "I learn German and my brother learns English."
+        }
+      ]
+    },
+    {
+      "title": "aber — but",
+      "explanation": "Shows contrast; the conjugated verb remains in position two.",
+      "examples": [
+        {
+          "german": "Ich bin müde, aber ich gehe zur Arbeit.",
+          "english": "I am tired, but I am going to work."
+        }
+      ]
+    },
+    {
+      "title": "oder — or",
+      "explanation": "Offers a choice.",
+      "examples": [
+        {
+          "german": "Möchtest du Tee oder Kaffee?",
+          "english": "Would you like tea or coffee?"
+        }
+      ]
+    },
+    {
+      "title": "denn — because / for",
+      "explanation": "Gives a reason and keeps the normal main-clause word order.",
+      "examples": [
+        {
+          "german": "Ich bleibe zu Hause, denn ich bin krank.",
+          "english": "I am staying at home because I am ill."
+        }
+      ]
+    },
+    {
+      "title": "weil — because",
+      "explanation": "Weil introduces a subordinate clause. The conjugated verb goes to the end of that clause.",
+      "examples": [
+        {
+          "german": "Ich bleibe zu Hause, weil ich krank bin.",
+          "english": "I am staying at home because I am ill."
+        },
+        {
+          "german": "Ich lerne Deutsch, weil ich in Deutschland wohne.",
+          "english": "I am learning German because I live in Germany."
+        }
+      ]
+    },
+    {
+      "title": "deshalb — therefore / that's why",
+      "explanation": "Deshalb is an adverb, not a conjunction like und. If it begins the clause, the conjugated verb comes next.",
+      "examples": [
+        {
+          "german": "Ich bin krank. Deshalb bleibe ich zu Hause.",
+          "english": "I am ill. Therefore, I am staying at home."
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "normal_word_order": [
+      "und",
+      "aber",
+      "oder",
+      "denn"
+    ],
+    "verb_at_end": [
+      "weil"
+    ],
+    "verb_second_after_adverb": [
+      "deshalb"
+    ]
+  },
+  "common_mistakes": [
+    {
+      "wrong": "Ich bleibe zu Hause, weil ich bin krank.",
+      "correct": "Ich bleibe zu Hause, weil ich krank bin.",
+      "explanation": "The conjugated verb goes to the end after weil."
+    },
+    {
+      "wrong": "Deshalb ich bleibe zu Hause.",
+      "correct": "Deshalb bleibe ich zu Hause.",
+      "explanation": "Deshalb occupies the first position, so the verb follows it."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "und",
+      "english": "and"
+    },
+    {
+      "german": "aber",
+      "english": "but"
+    },
+    {
+      "german": "oder",
+      "english": "or"
+    },
+    {
+      "german": "denn",
+      "english": "because"
+    },
+    {
+      "german": "weil",
+      "english": "because — verb at the end"
+    },
+    {
+      "german": "deshalb",
+      "english": "therefore — verb follows it"
+    }
+  ],
+  "mastery_goal": "You can connect simple ideas using common conjunctions and keep the correct verb position.",
+  "next_topic": "Adjectives and descriptions"
+}

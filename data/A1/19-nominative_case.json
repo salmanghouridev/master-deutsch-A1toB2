@@ -1,0 +1,170 @@
+{
+  "order": 65,
+  "topic_number": 65,
+  "title": "Nominative Case",
+  "german_title": "Nominativ",
+  "level": "A1",
+  "language": "en",
+  "definition": "The nominative is the basic case used for the subject of a sentence—the person or thing doing or being something. It is also used after sein in simple identification sentences.",
+  "rules": [
+    {
+      "title": "Find the subject",
+      "explanation": "Ask wer? (who?) or was? (what?) to find the subject of the sentence. The subject is normally in the nominative.",
+      "examples": [
+        {
+          "german": "Der Mann arbeitet.",
+          "english": "The man is working.",
+          "note": "Wer arbeitet? — der Mann."
+        },
+        {
+          "german": "Die Katze schläft.",
+          "english": "The cat is sleeping."
+        },
+        {
+          "german": "Das Kind spielt.",
+          "english": "The child is playing."
+        }
+      ]
+    },
+    {
+      "title": "Nominative definite articles",
+      "explanation": "The basic definite articles are der (masculine), die (feminine), das (neuter), and die (plural).",
+      "examples": [
+        {
+          "german": "Der Vater ist hier.",
+          "english": "The father is here."
+        },
+        {
+          "german": "Die Mutter ist hier.",
+          "english": "The mother is here."
+        },
+        {
+          "german": "Das Kind ist hier.",
+          "english": "The child is here."
+        },
+        {
+          "german": "Die Kinder sind hier.",
+          "english": "The children are here."
+        }
+      ]
+    },
+    {
+      "title": "Nominative indefinite articles",
+      "explanation": "Use ein with masculine and neuter nouns, and eine with feminine nouns. There is no plural form of ein/eine.",
+      "examples": [
+        {
+          "german": "Ein Mann wartet.",
+          "english": "A man is waiting."
+        },
+        {
+          "german": "Eine Frau kommt.",
+          "english": "A woman is coming."
+        },
+        {
+          "german": "Ein Kind lacht.",
+          "english": "A child is laughing."
+        },
+        {
+          "german": "Kinder spielen.",
+          "english": "Children are playing."
+        }
+      ]
+    },
+    {
+      "title": "Nominative after sein",
+      "explanation": "In basic identity sentences, the noun after sein is also nominative.",
+      "examples": [
+        {
+          "german": "Er ist ein Lehrer.",
+          "english": "He is a teacher."
+        },
+        {
+          "german": "Sie ist meine Schwester.",
+          "english": "She is my sister."
+        },
+        {
+          "german": "Das ist ein Tisch.",
+          "english": "That is a table."
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "questions": [
+      {
+        "question": "Wer? / Was?",
+        "meaning": "Who? / What?",
+        "use": "Find the subject"
+      },
+      {
+        "question": "Wen? / Was?",
+        "meaning": "Whom? / What?",
+        "use": "Often helps find the accusative direct object"
+      },
+      {
+        "question": "Wem?",
+        "meaning": "To whom? / For whom?",
+        "use": "Often helps find the dative object"
+      }
+    ],
+    "articles": [
+      {
+        "gender": "Masculine",
+        "definite": "der",
+        "indefinite": "ein"
+      },
+      {
+        "gender": "Feminine",
+        "definite": "die",
+        "indefinite": "eine"
+      },
+      {
+        "gender": "Neuter",
+        "definite": "das",
+        "indefinite": "ein"
+      },
+      {
+        "gender": "Plural",
+        "definite": "die",
+        "indefinite": "no article"
+      }
+    ]
+  },
+  "common_mistakes": [
+    {
+      "wrong": "Den Mann arbeitet.",
+      "correct": "Der Mann arbeitet.",
+      "explanation": "The subject is nominative."
+    },
+    {
+      "wrong": "Eine Mann wartet.",
+      "correct": "Ein Mann wartet.",
+      "explanation": "Mann is masculine."
+    },
+    {
+      "wrong": "Das ist einen Tisch.",
+      "correct": "Das ist ein Tisch.",
+      "explanation": "The noun after sein in this identity sentence is nominative, not accusative."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "Nominativ",
+      "english": "case for the subject"
+    },
+    {
+      "german": "Wer? / Was?",
+      "english": "Who? / What? — find the subject"
+    },
+    {
+      "german": "der / die / das / die",
+      "english": "the — masculine, feminine, neuter, plural"
+    },
+    {
+      "german": "ein / eine / ein",
+      "english": "a/an — masculine, feminine, neuter"
+    }
+  ],
+  "mastery_goal": "You can identify the subject and use basic nominative articles in simple A1 statements.",
+  "next_topic": "Accusative and dative pronouns"
+}

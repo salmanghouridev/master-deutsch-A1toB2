@@ -1,0 +1,147 @@
+{
+  "order": 77,
+  "topic_number": 77,
+  "title": "Everyday Activities in the Present Tense",
+  "german_title": "Alltagsaktivitäten im Präsens",
+  "level": "A1",
+  "language": "en",
+  "definition": "Use the present tense (Präsens) to describe daily routines, habits, and actions happening now. Many daily-routine verbs are regular, while separable verbs such as aufstehen split in main clauses.",
+  "rules": [
+    {
+      "title": "Talk about your morning",
+      "explanation": "Use the present tense and time expressions to describe the order of your day.",
+      "examples": [
+        {
+          "german": "Ich stehe um sieben Uhr auf.",
+          "english": "I get up at seven o'clock."
+        },
+        {
+          "german": "Ich dusche und frühstücke.",
+          "english": "I shower and have breakfast."
+        },
+        {
+          "german": "Dann fahre ich zur Universität.",
+          "english": "Then I go to the university."
+        }
+      ]
+    },
+    {
+      "title": "Talk about work and study",
+      "explanation": "Use everyday verbs for work, study, and travel.",
+      "examples": [
+        {
+          "german": "Ich lerne Deutsch.",
+          "english": "I study German."
+        },
+        {
+          "german": "Ich gehe zur Arbeit.",
+          "english": "I go to work."
+        },
+        {
+          "german": "Ich fahre mit dem Bus.",
+          "english": "I travel by bus."
+        },
+        {
+          "german": "Am Abend mache ich meine Hausaufgaben.",
+          "english": "In the evening I do my homework."
+        }
+      ]
+    },
+    {
+      "title": "Talk about meals and free time",
+      "explanation": "Use common verbs for eating, relaxing, and hobbies.",
+      "examples": [
+        {
+          "german": "Ich koche das Abendessen.",
+          "english": "I cook dinner."
+        },
+        {
+          "german": "Ich sehe fern.",
+          "english": "I watch television."
+        },
+        {
+          "german": "Ich treffe meine Freunde.",
+          "english": "I meet my friends."
+        },
+        {
+          "german": "Am Wochenende spiele ich Fußball.",
+          "english": "At the weekend I play football."
+        }
+      ]
+    },
+    {
+      "title": "Connect routine steps",
+      "explanation": "Use dann, danach, später, zuerst, and zum Schluss to organize a routine.",
+      "examples": [
+        {
+          "german": "Zuerst frühstücke ich. Danach gehe ich zur Arbeit.",
+          "english": "First I have breakfast. After that I go to work."
+        },
+        {
+          "german": "Später lerne ich Deutsch.",
+          "english": "Later I study German."
+        },
+        {
+          "german": "Zum Schluss gehe ich ins Bett.",
+          "english": "Finally I go to bed."
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "useful_verbs": [
+      "aufstehen",
+      "duschen",
+      "frühstücken",
+      "fahren",
+      "lernen",
+      "arbeiten",
+      "kochen",
+      "einkaufen",
+      "fernsehen",
+      "schlafen",
+      "treffen",
+      "ins Bett gehen"
+    ]
+  },
+  "common_mistakes": [
+    {
+      "wrong": "Ich stehe auf um sieben Uhr.",
+      "correct": "Ich stehe um sieben Uhr auf.",
+      "explanation": "In a neutral main clause, put the separable prefix at the end after the time phrase."
+    },
+    {
+      "wrong": "Dann ich gehe zur Arbeit.",
+      "correct": "Dann gehe ich zur Arbeit.",
+      "explanation": "Dann is first, so the conjugated verb comes next."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "zuerst",
+      "english": "first"
+    },
+    {
+      "german": "dann",
+      "english": "then"
+    },
+    {
+      "german": "danach",
+      "english": "after that"
+    },
+    {
+      "german": "später",
+      "english": "later"
+    },
+    {
+      "german": "am Wochenende",
+      "english": "at the weekend"
+    },
+    {
+      "german": "ins Bett gehen",
+      "english": "to go to bed"
+    }
+  ],
+  "mastery_goal": "You can describe your typical day in the present tense using time expressions and correct word order.",
+  "next_topic": "Perfect tense (Perfekt)"
+}

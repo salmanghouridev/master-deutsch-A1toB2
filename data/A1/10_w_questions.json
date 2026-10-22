@@ -1,0 +1,210 @@
+{
+  "order": 56,
+  "topic_number": 56,
+  "title": "W-Questions",
+  "german_title": "W-Fragen",
+  "level": "A1",
+  "language": "en",
+  "definition": "W-questions are open questions that commonly begin with a German question word starting with W. In a basic question, the question word comes first, followed by the conjugated verb and then the subject.",
+  "rules": [
+    {
+      "title": "Basic word order",
+      "explanation": "Pattern: W-word + conjugated verb + subject + the rest of the sentence.",
+      "examples": [
+        {
+          "german": "Wo wohnst du?",
+          "english": "Where do you live?"
+        },
+        {
+          "german": "Wie heißt du?",
+          "english": "What is your name?"
+        },
+        {
+          "german": "Wann kommt der Bus?",
+          "english": "When does the bus come?"
+        }
+      ]
+    },
+    {
+      "title": "Important W-question words",
+      "explanation": "Learn each question word with its common meaning and a short example.",
+      "examples": [
+        {
+          "german": "Wer bist du?",
+          "english": "Who are you?"
+        },
+        {
+          "german": "Was machst du?",
+          "english": "What are you doing?"
+        },
+        {
+          "german": "Wo wohnst du?",
+          "english": "Where do you live?"
+        },
+        {
+          "german": "Wohin gehst du?",
+          "english": "Where are you going to?"
+        },
+        {
+          "german": "Woher kommst du?",
+          "english": "Where do you come from?"
+        },
+        {
+          "german": "Wann beginnt der Kurs?",
+          "english": "When does the course begin?"
+        },
+        {
+          "german": "Warum lernst du Deutsch?",
+          "english": "Why are you learning German?"
+        },
+        {
+          "german": "Wie geht es dir?",
+          "english": "How are you?"
+        },
+        {
+          "german": "Wie viel kostet das?",
+          "english": "How much does that cost?"
+        },
+        {
+          "german": "Wie lange bleibst du?",
+          "english": "How long are you staying?"
+        },
+        {
+          "german": "Welcher Bus fährt zum Bahnhof?",
+          "english": "Which bus goes to the station?"
+        }
+      ]
+    },
+    {
+      "title": "Use the right word for place and direction",
+      "explanation": "Wo asks about a location; wohin asks about a destination; woher asks about origin.",
+      "examples": [
+        {
+          "german": "Wo bist du?",
+          "english": "Where are you?"
+        },
+        {
+          "german": "Wohin fährst du?",
+          "english": "Where are you going (to)?"
+        },
+        {
+          "german": "Woher kommst du?",
+          "english": "Where are you from?"
+        }
+      ]
+    },
+    {
+      "title": "Ask about people, things, reasons, and time",
+      "explanation": "Wer is for people, was for things/actions, warum for reasons, and wann for time.",
+      "examples": [
+        {
+          "german": "Wer ist das?",
+          "english": "Who is that?"
+        },
+        {
+          "german": "Was brauchst du?",
+          "english": "What do you need?"
+        },
+        {
+          "german": "Warum bist du müde?",
+          "english": "Why are you tired?"
+        },
+        {
+          "german": "Wann hast du Zeit?",
+          "english": "When do you have time?"
+        }
+      ]
+    },
+    {
+      "title": "W-question versus yes/no question",
+      "explanation": "A W-question starts with a question word; a yes/no question normally starts with the conjugated verb.",
+      "examples": [
+        {
+          "german": "Wo wohnst du?",
+          "english": "Where do you live?"
+        },
+        {
+          "german": "Wohnst du in Chemnitz?",
+          "english": "Do you live in Chemnitz?"
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "question_word_order": [
+      {
+        "pattern": "W-word + verb + subject",
+        "example": "Wo wohnst du?"
+      },
+      {
+        "pattern": "Yes/no: verb + subject",
+        "example": "Wohnst du hier?"
+      }
+    ]
+  },
+  "common_mistakes": [
+    {
+      "wrong": "Wo du wohnst?",
+      "correct": "Wo wohnst du?",
+      "explanation": "In a basic W-question, the conjugated verb comes before the subject."
+    },
+    {
+      "wrong": "Warum du lernst Deutsch?",
+      "correct": "Warum lernst du Deutsch?",
+      "explanation": "Put the conjugated verb in second position after the W-word."
+    },
+    {
+      "wrong": "Woher wohnst du?",
+      "correct": "Wo wohnst du?",
+      "explanation": "Use wo for location; woher asks where someone comes from."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "wer",
+      "english": "who"
+    },
+    {
+      "german": "was",
+      "english": "what"
+    },
+    {
+      "german": "wo",
+      "english": "where (location)"
+    },
+    {
+      "german": "wohin",
+      "english": "where to"
+    },
+    {
+      "german": "woher",
+      "english": "where from"
+    },
+    {
+      "german": "wann",
+      "english": "when"
+    },
+    {
+      "german": "warum",
+      "english": "why"
+    },
+    {
+      "german": "wie",
+      "english": "how"
+    },
+    {
+      "german": "wie viel",
+      "english": "how much"
+    },
+    {
+      "german": "wie lange",
+      "english": "how long"
+    },
+    {
+      "german": "welcher / welche / welches",
+      "english": "which"
+    }
+  ],
+  "mastery_goal": "You can ask and understand common A1 W-questions and place the conjugated verb correctly.",
+  "next_topic": "Yes/no questions"
+}

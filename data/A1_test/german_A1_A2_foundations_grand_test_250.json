@@ -1,0 +1,2915 @@
+{
+  "title": "German A1–A2 Foundations Grand Test",
+  "german_title": "Großer Grammatiktest: Grundlagen A1–A2",
+  "level": "A1-A2",
+  "language": "English instructions; German questions and examples",
+  "total_questions": 250,
+  "format": {
+    "mcq": 140,
+    "fill_blank": 110
+  },
+  "instructions": [
+    "Try every question before checking the answer key.",
+    "For MCQs, choose one option.",
+    "For fill-in-the-blanks, type the missing word or phrase.",
+    "Each question includes the correct answer and a short explanation for review.",
+    "For a realistic test, hide answer and explanation fields until the learner submits an answer."
+  ],
+  "topics_covered": [
+    "Personal pronouns",
+    "Nominativ, Akkusativ, Dativ and articles",
+    "Akkusativ, Dativ and two-way prepositions",
+    "Wo? vs Wohin?",
+    "Partizip II, Perfekt, Präteritum and auxiliary selection",
+    "Infinitive vs conjugated verb vs Partizip II",
+    "Verb position, separable verbs, modal verbs, weil and deshalb",
+    "nicht vs kein",
+    "mögen, gern, lieber, am liebsten, möchte",
+    "gut vs gern vs besser vs lieber",
+    "Time expressions",
+    "Adjective endings"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "section": "Personal pronouns",
+      "type": "mcq",
+      "question": "Choose the correct subject pronoun: ___ lerne Deutsch.",
+      "options": [
+        "Ich",
+        "Mich",
+        "Mir",
+        "Mein"
+      ],
+      "answer": "Ich",
+      "explanation": "Ich is the subject doing the action."
+    },
+    {
+      "id": 2,
+      "section": "Personal pronouns",
+      "type": "mcq",
+      "question": "Choose the correct Akkusativ pronoun: Er sieht ___. (me)",
+      "options": [
+        "ich",
+        "mich",
+        "mir",
+        "mein"
+      ],
+      "answer": "mich",
+      "explanation": "sehen takes an Akkusativ object."
+    },
+    {
+      "id": 3,
+      "section": "Personal pronouns",
+      "type": "mcq",
+      "question": "Choose the correct Dativ pronoun: Sie hilft ___. (me)",
+      "options": [
+        "ich",
+        "mich",
+        "mir",
+        "mein"
+      ],
+      "answer": "mir",
+      "explanation": "helfen takes Dativ."
+    },
+    {
+      "id": 4,
+      "section": "Personal pronouns",
+      "type": "mcq",
+      "question": "___ bist heute müde. (you, singular)",
+      "options": [
+        "Du",
+        "Dich",
+        "Dir",
+        "Dein"
+      ],
+      "answer": "Du",
+      "explanation": "The subject is du."
+    },
+    {
+      "id": 5,
+      "section": "Personal pronouns",
+      "type": "mcq",
+      "question": "Ich kenne ___. (him)",
+      "options": [
+        "er",
+        "ihn",
+        "ihm",
+        "sein"
+      ],
+      "answer": "ihn",
+      "explanation": "kennen takes Akkusativ."
+    },
+    {
+      "id": 6,
+      "section": "Personal pronouns",
+      "type": "mcq",
+      "question": "Ich danke ___. (her)",
+      "options": [
+        "sie",
+        "ihr",
+        "ihre",
+        "ihren"
+      ],
+      "answer": "ihr",
+      "explanation": "danken takes Dativ."
+    },
+    {
+      "id": 7,
+      "section": "Personal pronouns",
+      "type": "mcq",
+      "question": "Wir besuchen ___. (them)",
+      "options": [
+        "ihnen",
+        "sie",
+        "ihr",
+        "euch"
+      ],
+      "answer": "sie",
+      "explanation": "besuchen takes Akkusativ."
+    },
+    {
+      "id": 8,
+      "section": "Personal pronouns",
+      "type": "mcq",
+      "question": "Ich antworte ___. (you, singular)",
+      "options": [
+        "dich",
+        "dir",
+        "du",
+        "dein"
+      ],
+      "answer": "dir",
+      "explanation": "antworten takes Dativ."
+    },
+    {
+      "id": 9,
+      "section": "Personal pronouns",
+      "type": "mcq",
+      "question": "Choose the formal Dativ pronoun: Ich helfe ___.",
+      "options": [
+        "Sie",
+        "Ihnen",
+        "Ihr",
+        "Dich"
+      ],
+      "answer": "Ihnen",
+      "explanation": "Formal Sie becomes Ihnen in Dativ."
+    },
+    {
+      "id": 10,
+      "section": "Personal pronouns",
+      "type": "mcq",
+      "question": "___ wohnen in Chemnitz. (we)",
+      "options": [
+        "Uns",
+        "Wir",
+        "Unser",
+        "Ihnen"
+      ],
+      "answer": "Wir",
+      "explanation": "Wir is the subject form."
+    },
+    {
+      "id": 11,
+      "section": "Cases and articles",
+      "type": "mcq",
+      "question": "___ Mann schläft.",
+      "options": [
+        "Der",
+        "Den",
+        "Dem",
+        "Des"
+      ],
+      "answer": "Der",
+      "explanation": "The subject is Nominativ."
+    },
+    {
+      "id": 12,
+      "section": "Cases and articles",
+      "type": "mcq",
+      "question": "Ich sehe ___ Mann.",
+      "options": [
+        "der",
+        "den",
+        "dem",
+        "des"
+      ],
+      "answer": "den",
+      "explanation": "sehen takes Akkusativ; masculine der → den."
+    },
+    {
+      "id": 13,
+      "section": "Cases and articles",
+      "type": "mcq",
+      "question": "Ich helfe ___ Mann.",
+      "options": [
+        "der",
+        "den",
+        "dem",
+        "des"
+      ],
+      "answer": "dem",
+      "explanation": "helfen takes Dativ."
+    },
+    {
+      "id": 14,
+      "section": "Cases and articles",
+      "type": "mcq",
+      "question": "Sie kauft ___ Apfel.",
+      "options": [
+        "ein",
+        "einen",
+        "einem",
+        "einer"
+      ],
+      "answer": "einen",
+      "explanation": "Apfel is masculine Akkusativ."
+    },
+    {
+      "id": 15,
+      "section": "Cases and articles",
+      "type": "mcq",
+      "question": "Das ist ___ Tisch.",
+      "options": [
+        "einen",
+        "ein",
+        "einem",
+        "einer"
+      ],
+      "answer": "ein",
+      "explanation": "After sein, use Nominativ."
+    },
+    {
+      "id": 16,
+      "section": "Cases and articles",
+      "type": "mcq",
+      "question": "Ich gebe ___ Frau das Buch.",
+      "options": [
+        "die",
+        "der",
+        "den",
+        "dem"
+      ],
+      "answer": "der",
+      "explanation": "The receiver is Dativ; feminine die → der."
+    },
+    {
+      "id": 17,
+      "section": "Cases and articles",
+      "type": "mcq",
+      "question": "Wir besuchen ___ Lehrer.",
+      "options": [
+        "dem",
+        "den",
+        "der",
+        "des"
+      ],
+      "answer": "den",
+      "explanation": "The teacher is the direct object; Akkusativ masculine."
+    },
+    {
+      "id": 18,
+      "section": "Cases and articles",
+      "type": "mcq",
+      "question": "Er fährt mit ___ Bus.",
+      "options": [
+        "der",
+        "den",
+        "dem",
+        "des"
+      ],
+      "answer": "dem",
+      "explanation": "mit always takes Dativ."
+    },
+    {
+      "id": 19,
+      "section": "Cases and articles",
+      "type": "mcq",
+      "question": "Das Geschenk ist für ___ Vater.",
+      "options": [
+        "mein",
+        "meinen",
+        "meinem",
+        "meiner"
+      ],
+      "answer": "meinen",
+      "explanation": "für takes Akkusativ; masculine meinen."
+    },
+    {
+      "id": 20,
+      "section": "Cases and articles",
+      "type": "mcq",
+      "question": "Ich kaufe ___ Tasche.",
+      "options": [
+        "eine",
+        "einer",
+        "einen",
+        "einem"
+      ],
+      "answer": "eine",
+      "explanation": "Tasche is feminine Akkusativ; article form stays eine."
+    },
+    {
+      "id": 21,
+      "section": "Cases and articles",
+      "type": "mcq",
+      "question": "Sie trinkt ___ Kaffee.",
+      "options": [
+        "kein",
+        "keine",
+        "keinen",
+        "keinem"
+      ],
+      "answer": "keinen",
+      "explanation": "Kaffee is masculine Akkusativ."
+    },
+    {
+      "id": 22,
+      "section": "Cases and articles",
+      "type": "mcq",
+      "question": "Wir helfen ___ Kindern.",
+      "options": [
+        "die",
+        "den",
+        "dem",
+        "der"
+      ],
+      "answer": "den",
+      "explanation": "Dativ plural uses den; Kindern already has -n."
+    },
+    {
+      "id": 23,
+      "section": "Cases and articles",
+      "type": "mcq",
+      "question": "___ Kind spielt im Garten.",
+      "options": [
+        "Das",
+        "Dem",
+        "Den",
+        "Des"
+      ],
+      "answer": "Das",
+      "explanation": "The child is the subject: Nominativ."
+    },
+    {
+      "id": 24,
+      "section": "Cases and articles",
+      "type": "mcq",
+      "question": "Ich sehe ___ Kinder.",
+      "options": [
+        "die",
+        "den",
+        "dem",
+        "der"
+      ],
+      "answer": "die",
+      "explanation": "Plural Akkusativ uses die."
+    },
+    {
+      "id": 25,
+      "section": "Cases and articles",
+      "type": "mcq",
+      "question": "Er schenkt ___ Bruder einen Ball.",
+      "options": [
+        "sein",
+        "seinen",
+        "seinem",
+        "seiner"
+      ],
+      "answer": "seinem",
+      "explanation": "Brother is the recipient: Dativ masculine."
+    },
+    {
+      "id": 26,
+      "section": "Cases and articles",
+      "type": "mcq",
+      "question": "Ich brauche ___ neuen Computer.",
+      "options": [
+        "ein",
+        "einen",
+        "einem",
+        "einer"
+      ],
+      "answer": "einen",
+      "explanation": "Computer is masculine direct object."
+    },
+    {
+      "id": 27,
+      "section": "Cases and articles",
+      "type": "mcq",
+      "question": "Das Auto gehört ___. (I)",
+      "options": [
+        "ich",
+        "mich",
+        "mir",
+        "mein"
+      ],
+      "answer": "mir",
+      "explanation": "gehören takes Dativ."
+    },
+    {
+      "id": 28,
+      "section": "Cases and articles",
+      "type": "mcq",
+      "question": "Die Musik gefällt ___. (we)",
+      "options": [
+        "wir",
+        "uns",
+        "unser",
+        "unserem"
+      ],
+      "answer": "uns",
+      "explanation": "gefallen takes Dativ."
+    },
+    {
+      "id": 29,
+      "section": "Cases and articles",
+      "type": "mcq",
+      "question": "Ich schreibe ___ Freund eine Nachricht.",
+      "options": [
+        "mein",
+        "meinen",
+        "meinem",
+        "meiner"
+      ],
+      "answer": "meinem",
+      "explanation": "Friend is the recipient: Dativ masculine."
+    },
+    {
+      "id": 30,
+      "section": "Cases and articles",
+      "type": "mcq",
+      "question": "Er kauft ___ Film.",
+      "options": [
+        "der",
+        "den",
+        "dem",
+        "die"
+      ],
+      "answer": "den",
+      "explanation": "Film is masculine Akkusativ."
+    },
+    {
+      "id": 31,
+      "section": "Cases and articles",
+      "type": "mcq",
+      "question": "Ich bin ___ Student.",
+      "options": [
+        "ein",
+        "einen",
+        "einem",
+        "einer"
+      ],
+      "answer": "ein",
+      "explanation": "After sein, use Nominativ."
+    },
+    {
+      "id": 32,
+      "section": "Cases and articles",
+      "type": "mcq",
+      "question": "Wir danken ___ Lehrerinnen.",
+      "options": [
+        "die",
+        "den",
+        "der",
+        "dem"
+      ],
+      "answer": "den",
+      "explanation": "Danken takes Dativ; plural article den."
+    },
+    {
+      "id": 33,
+      "section": "Cases and articles",
+      "type": "mcq",
+      "question": "Sie nimmt ___ Schlüssel.",
+      "options": [
+        "der",
+        "den",
+        "dem",
+        "die"
+      ],
+      "answer": "den",
+      "explanation": "nehmen takes Akkusativ."
+    },
+    {
+      "id": 34,
+      "section": "Cases and articles",
+      "type": "mcq",
+      "question": "Ich fahre zu ___ Arzt.",
+      "options": [
+        "den",
+        "dem",
+        "der",
+        "die"
+      ],
+      "answer": "dem",
+      "explanation": "zu takes Dativ."
+    },
+    {
+      "id": 35,
+      "section": "Cases and articles",
+      "type": "mcq",
+      "question": "Er kommt aus ___ Türkei.",
+      "options": [
+        "die",
+        "der",
+        "den",
+        "dem"
+      ],
+      "answer": "der",
+      "explanation": "aus takes Dativ; feminine die → der."
+    },
+    {
+      "id": 36,
+      "section": "Cases and articles",
+      "type": "mcq",
+      "question": "Ich wohne bei ___ Eltern.",
+      "options": [
+        "meine",
+        "meinen",
+        "meiner",
+        "mein"
+      ],
+      "answer": "meinen",
+      "explanation": "bei takes Dativ; plural possessive meinen."
+    },
+    {
+      "id": 37,
+      "section": "Cases and articles",
+      "type": "mcq",
+      "question": "Ich gehe ohne ___ Regenschirm.",
+      "options": [
+        "mein",
+        "meinen",
+        "meinem",
+        "meiner"
+      ],
+      "answer": "meinen",
+      "explanation": "ohne takes Akkusativ."
+    },
+    {
+      "id": 38,
+      "section": "Cases and articles",
+      "type": "mcq",
+      "question": "Sie wartet auf ___ Bus.",
+      "options": [
+        "der",
+        "den",
+        "dem",
+        "die"
+      ],
+      "answer": "den",
+      "explanation": "auf warten auf is a fixed Akkusativ verb-preposition phrase."
+    },
+    {
+      "id": 39,
+      "section": "Cases and articles",
+      "type": "mcq",
+      "question": "Ich gebe ___ Kind einen Apfel.",
+      "options": [
+        "das",
+        "dem",
+        "den",
+        "des"
+      ],
+      "answer": "dem",
+      "explanation": "The child receives the apple: Dativ."
+    },
+    {
+      "id": 40,
+      "section": "Cases and articles",
+      "type": "mcq",
+      "question": "Er zeigt ___ Frau den Weg.",
+      "options": [
+        "die",
+        "der",
+        "den",
+        "dem"
+      ],
+      "answer": "der",
+      "explanation": "The woman is the recipient: Dativ."
+    },
+    {
+      "id": 41,
+      "section": "Prepositions and time",
+      "type": "mcq",
+      "question": "Ich fahre ___ dem Bus.",
+      "options": [
+        "mit",
+        "für",
+        "durch",
+        "ohne"
+      ],
+      "answer": "mit",
+      "explanation": "mit always takes Dativ."
+    },
+    {
+      "id": 42,
+      "section": "Prepositions and time",
+      "type": "mcq",
+      "question": "Das ist ___ meinen Bruder.",
+      "options": [
+        "mit",
+        "für",
+        "aus",
+        "bei"
+      ],
+      "answer": "für",
+      "explanation": "für always takes Akkusativ."
+    },
+    {
+      "id": 43,
+      "section": "Prepositions and time",
+      "type": "mcq",
+      "question": "Wir gehen ___ den Park.",
+      "options": [
+        "durch",
+        "mit",
+        "bei",
+        "von"
+      ],
+      "answer": "durch",
+      "explanation": "durch takes Akkusativ."
+    },
+    {
+      "id": 44,
+      "section": "Prepositions and time",
+      "type": "mcq",
+      "question": "Sie kommt ___ der Schule.",
+      "options": [
+        "aus",
+        "für",
+        "gegen",
+        "ohne"
+      ],
+      "answer": "aus",
+      "explanation": "aus takes Dativ."
+    },
+    {
+      "id": 45,
+      "section": "Prepositions and time",
+      "type": "mcq",
+      "question": "Ich wohne ___ einem Jahr hier. (for one year and still live here)",
+      "options": [
+        "vor",
+        "seit",
+        "um",
+        "gegen"
+      ],
+      "answer": "seit",
+      "explanation": "seit describes something that started in the past and continues."
+    },
+    {
+      "id": 46,
+      "section": "Prepositions and time",
+      "type": "mcq",
+      "question": "Ich bin ___ zwei Tagen angekommen. (two days ago)",
+      "options": [
+        "seit",
+        "vor",
+        "am",
+        "um"
+      ],
+      "answer": "vor",
+      "explanation": "vor means ago in this time expression."
+    },
+    {
+      "id": 47,
+      "section": "Prepositions and time",
+      "type": "mcq",
+      "question": "Das Buch liegt ___ dem Tisch.",
+      "options": [
+        "auf",
+        "auf den",
+        "für",
+        "durch"
+      ],
+      "answer": "auf",
+      "explanation": "Wo? location → Dativ: auf dem Tisch."
+    },
+    {
+      "id": 48,
+      "section": "Prepositions and time",
+      "type": "mcq",
+      "question": "Ich lege das Buch ___ Tisch.",
+      "options": [
+        "auf dem",
+        "auf den",
+        "mit dem",
+        "bei dem"
+      ],
+      "answer": "auf den",
+      "explanation": "Wohin? destination → Akkusativ."
+    },
+    {
+      "id": 49,
+      "section": "Prepositions and time",
+      "type": "mcq",
+      "question": "Ich bin ___ Zimmer.",
+      "options": [
+        "ins",
+        "im",
+        "in den",
+        "in die"
+      ],
+      "answer": "im",
+      "explanation": "Wo? location; im = in dem, Dativ."
+    },
+    {
+      "id": 50,
+      "section": "Prepositions and time",
+      "type": "mcq",
+      "question": "Ich gehe ___ Zimmer.",
+      "options": [
+        "im",
+        "ins",
+        "in dem",
+        "bei dem"
+      ],
+      "answer": "ins",
+      "explanation": "Wohin? destination; ins = in das, Akkusativ."
+    },
+    {
+      "id": 51,
+      "section": "Prepositions and time",
+      "type": "mcq",
+      "question": "Der Kurs beginnt ___ neun Uhr.",
+      "options": [
+        "am",
+        "im",
+        "um",
+        "seit"
+      ],
+      "answer": "um",
+      "explanation": "um is used for exact clock time."
+    },
+    {
+      "id": 52,
+      "section": "Prepositions and time",
+      "type": "mcq",
+      "question": "___ Montag arbeite ich nicht.",
+      "options": [
+        "Im",
+        "Um",
+        "Am",
+        "Seit"
+      ],
+      "answer": "Am",
+      "explanation": "am is used for days."
+    },
+    {
+      "id": 53,
+      "section": "Prepositions and time",
+      "type": "mcq",
+      "question": "___ Winter ist es kalt.",
+      "options": [
+        "Am",
+        "Um",
+        "Im",
+        "Seit"
+      ],
+      "answer": "Im",
+      "explanation": "im is used for seasons."
+    },
+    {
+      "id": 54,
+      "section": "Prepositions and time",
+      "type": "mcq",
+      "question": "Ich fahre ___ meiner Freundin.",
+      "options": [
+        "mit",
+        "für",
+        "gegen",
+        "ohne"
+      ],
+      "answer": "mit",
+      "explanation": "mit requires Dativ."
+    },
+    {
+      "id": 55,
+      "section": "Prepositions and time",
+      "type": "mcq",
+      "question": "Er geht ___ Arzt.",
+      "options": [
+        "zum",
+        "für den",
+        "durch dem",
+        "ohne dem"
+      ],
+      "answer": "zum",
+      "explanation": "zu dem contracts to zum and takes Dativ."
+    },
+    {
+      "id": 56,
+      "section": "Prepositions and time",
+      "type": "mcq",
+      "question": "Das Bild hängt ___ der Wand.",
+      "options": [
+        "an",
+        "an die",
+        "für",
+        "durch"
+      ],
+      "answer": "an",
+      "explanation": "Wo? location; an der Wand is Dativ."
+    },
+    {
+      "id": 57,
+      "section": "Prepositions and time",
+      "type": "mcq",
+      "question": "Ich hänge das Bild ___ Wand.",
+      "options": [
+        "an der",
+        "an die",
+        "mit der",
+        "bei der"
+      ],
+      "answer": "an die",
+      "explanation": "Wohin? destination; Akkusativ."
+    },
+    {
+      "id": 58,
+      "section": "Prepositions and time",
+      "type": "mcq",
+      "question": "Sie geht ___ die Straße.",
+      "options": [
+        "durch",
+        "mit",
+        "bei",
+        "aus"
+      ],
+      "answer": "durch",
+      "explanation": "durch takes Akkusativ."
+    },
+    {
+      "id": 59,
+      "section": "Prepositions and time",
+      "type": "mcq",
+      "question": "Ich komme ___ Deutschland.",
+      "options": [
+        "aus",
+        "für",
+        "um",
+        "ohne"
+      ],
+      "answer": "aus",
+      "explanation": "aus takes Dativ."
+    },
+    {
+      "id": 60,
+      "section": "Prepositions and time",
+      "type": "mcq",
+      "question": "Wir bleiben ___ Hause.",
+      "options": [
+        "zu",
+        "nach",
+        "durch",
+        "gegen"
+      ],
+      "answer": "zu",
+      "explanation": "zu Hause is a fixed expression."
+    },
+    {
+      "id": 61,
+      "section": "Prepositions and time",
+      "type": "mcq",
+      "question": "Ich lerne Deutsch ___ sechs Monaten. (still learning)",
+      "options": [
+        "vor",
+        "seit",
+        "um",
+        "am"
+      ],
+      "answer": "seit",
+      "explanation": "seit + Dativ indicates continuing duration."
+    },
+    {
+      "id": 62,
+      "section": "Prepositions and time",
+      "type": "mcq",
+      "question": "Wir treffen uns ___ Abend.",
+      "options": [
+        "im",
+        "am",
+        "um",
+        "seit"
+      ],
+      "answer": "am",
+      "explanation": "am Abend is the usual expression."
+    },
+    {
+      "id": 63,
+      "section": "Prepositions and time",
+      "type": "mcq",
+      "question": "Ich bin ___ der Nacht wach.",
+      "options": [
+        "am",
+        "in",
+        "um",
+        "bei"
+      ],
+      "answer": "in",
+      "explanation": "The expression is in der Nacht."
+    },
+    {
+      "id": 64,
+      "section": "Prepositions and time",
+      "type": "mcq",
+      "question": "Das Geschenk ist ___ dich.",
+      "options": [
+        "mit",
+        "für",
+        "aus",
+        "bei"
+      ],
+      "answer": "für",
+      "explanation": "für takes Akkusativ."
+    },
+    {
+      "id": 65,
+      "section": "Prepositions and time",
+      "type": "mcq",
+      "question": "Er läuft ___ den Wald.",
+      "options": [
+        "durch",
+        "mit",
+        "bei",
+        "zu"
+      ],
+      "answer": "durch",
+      "explanation": "durch takes Akkusativ."
+    },
+    {
+      "id": 66,
+      "section": "Verbs and tenses",
+      "type": "mcq",
+      "question": "Partizip II of machen is ___.",
+      "options": [
+        "gemacht",
+        "machte",
+        "machen",
+        "gemachen"
+      ],
+      "answer": "gemacht",
+      "explanation": "machen → gemacht."
+    },
+    {
+      "id": 67,
+      "section": "Verbs and tenses",
+      "type": "mcq",
+      "question": "Partizip II of lernen is ___.",
+      "options": [
+        "gelernen",
+        "gelernt",
+        "lernte",
+        "lernen"
+      ],
+      "answer": "gelernt",
+      "explanation": "Regular verbs often use ge- + stem + -t."
+    },
+    {
+      "id": 68,
+      "section": "Verbs and tenses",
+      "type": "mcq",
+      "question": "Partizip II of gehen is ___.",
+      "options": [
+        "gegeht",
+        "gegangen",
+        "gingen",
+        "gegehen"
+      ],
+      "answer": "gegangen",
+      "explanation": "gehen is irregular: gegangen."
+    },
+    {
+      "id": 69,
+      "section": "Verbs and tenses",
+      "type": "mcq",
+      "question": "Partizip II of studieren is ___.",
+      "options": [
+        "gestudiert",
+        "studiert",
+        "studieren",
+        "studierte"
+      ],
+      "answer": "studiert",
+      "explanation": "Verbs ending in -ieren usually do not add ge-."
+    },
+    {
+      "id": 70,
+      "section": "Verbs and tenses",
+      "type": "mcq",
+      "question": "Choose the correct Perfekt: Ich ___ gestern gelernt.",
+      "options": [
+        "bin",
+        "habe",
+        "hatte",
+        "werde"
+      ],
+      "answer": "habe",
+      "explanation": "lernen uses haben in Perfekt."
+    },
+    {
+      "id": 71,
+      "section": "Verbs and tenses",
+      "type": "mcq",
+      "question": "Choose the correct Perfekt: Ich ___ nach Berlin gefahren.",
+      "options": [
+        "habe",
+        "bin",
+        "war",
+        "hat"
+      ],
+      "answer": "bin",
+      "explanation": "fahren to a destination uses sein."
+    },
+    {
+      "id": 72,
+      "section": "Verbs and tenses",
+      "type": "mcq",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "Ich habe Sport gemacht.",
+        "Ich Sport habe gemacht.",
+        "Ich gemacht habe Sport.",
+        "Ich habe gemacht Sport."
+      ],
+      "answer": "Ich habe Sport gemacht.",
+      "explanation": "In a main clause, the auxiliary is in position 2 and Partizip II goes at the end."
+    },
+    {
+      "id": 73,
+      "section": "Verbs and tenses",
+      "type": "mcq",
+      "question": "Gestern ___ ich zu Hause.",
+      "options": [
+        "bin gewesen",
+        "war",
+        "habe sein",
+        "gewesen bin"
+      ],
+      "answer": "war",
+      "explanation": "war is the Präteritum of sein and is common in speech."
+    },
+    {
+      "id": 74,
+      "section": "Verbs and tenses",
+      "type": "mcq",
+      "question": "Als Kind ___ ich viel Fußball spielen.",
+      "options": [
+        "konnte",
+        "gekonnt",
+        "kann",
+        "habe können"
+      ],
+      "answer": "konnte",
+      "explanation": "konnte is Präteritum of können."
+    },
+    {
+      "id": 75,
+      "section": "Verbs and tenses",
+      "type": "mcq",
+      "question": "Ich ___ heute arbeiten.",
+      "options": [
+        "muss",
+        "müssen",
+        "musste",
+        "gemusst"
+      ],
+      "answer": "muss",
+      "explanation": "Present modal verb with ich: muss."
+    },
+    {
+      "id": 76,
+      "section": "Verbs and tenses",
+      "type": "mcq",
+      "question": "Ich habe meine Hausaufgaben ___.",
+      "options": [
+        "machen",
+        "gemacht",
+        "machte",
+        "gemachen"
+      ],
+      "answer": "gemacht",
+      "explanation": "Perfekt uses Partizip II."
+    },
+    {
+      "id": 77,
+      "section": "Verbs and tenses",
+      "type": "mcq",
+      "question": "Er ist früh ___. (aufstehen)",
+      "options": [
+        "aufgestanden",
+        "geaufsteht",
+        "aufstehen",
+        "stand auf"
+      ],
+      "answer": "aufgestanden",
+      "explanation": "aufstehen → aufgestanden; Perfekt with sein."
+    },
+    {
+      "id": 78,
+      "section": "Verbs and tenses",
+      "type": "mcq",
+      "question": "Sie hat Informatik ___. (studieren)",
+      "options": [
+        "gestudiert",
+        "studiert",
+        "studieren",
+        "studierte"
+      ],
+      "answer": "studiert",
+      "explanation": "studieren ends in -ieren and normally has no ge-."
+    },
+    {
+      "id": 79,
+      "section": "Verbs and tenses",
+      "type": "mcq",
+      "question": "Wir ___ gestern Pizza gegessen.",
+      "options": [
+        "haben",
+        "sind",
+        "waren",
+        "sein"
+      ],
+      "answer": "haben",
+      "explanation": "essen uses haben."
+    },
+    {
+      "id": 80,
+      "section": "Verbs and tenses",
+      "type": "mcq",
+      "question": "Er ___ eingeschlafen.",
+      "options": [
+        "hat",
+        "ist",
+        "war",
+        "haben"
+      ],
+      "answer": "ist",
+      "explanation": "einschlafen describes a change of state and uses sein."
+    },
+    {
+      "id": 81,
+      "section": "Verbs and tenses",
+      "type": "mcq",
+      "question": "Ich ___ gestern nicht kommen.",
+      "options": [
+        "konnte",
+        "gekonnt",
+        "kann",
+        "habe können"
+      ],
+      "answer": "konnte",
+      "explanation": "Präteritum konnte is common for modal verbs."
+    },
+    {
+      "id": 82,
+      "section": "Verbs and tenses",
+      "type": "mcq",
+      "question": "Ich ___ schon einmal in Berlin gewesen.",
+      "options": [
+        "bin",
+        "habe",
+        "war",
+        "werde"
+      ],
+      "answer": "bin",
+      "explanation": "Perfekt of sein uses sein: bin gewesen."
+    },
+    {
+      "id": 83,
+      "section": "Verbs and tenses",
+      "type": "mcq",
+      "question": "Choose the infinitive: 'gelernt'.",
+      "options": [
+        "lernen",
+        "lernt",
+        "lernte",
+        "lernst"
+      ],
+      "answer": "lernen",
+      "explanation": "lernen is the dictionary form; gelernt is Partizip II."
+    },
+    {
+      "id": 84,
+      "section": "Verbs and tenses",
+      "type": "mcq",
+      "question": "Choose the conjugated verb: 'Wir gehen nach Hause.'",
+      "options": [
+        "gehen",
+        "nach",
+        "Hause",
+        "Wir"
+      ],
+      "answer": "gehen",
+      "explanation": "gehen is conjugated for wir."
+    },
+    {
+      "id": 85,
+      "section": "Verbs and tenses",
+      "type": "mcq",
+      "question": "Choose the Partizip II: 'Ich habe gegessen.'",
+      "options": [
+        "habe",
+        "Ich",
+        "gegessen",
+        "essen"
+      ],
+      "answer": "gegessen",
+      "explanation": "gegessen is the participle."
+    },
+    {
+      "id": 86,
+      "section": "Verbs and tenses",
+      "type": "mcq",
+      "question": "Ich ___ jeden Tag Deutsch.",
+      "options": [
+        "lerne",
+        "gelernt",
+        "habe lernen",
+        "lernen"
+      ],
+      "answer": "lerne",
+      "explanation": "Präsens describes a current or regular action."
+    },
+    {
+      "id": 87,
+      "section": "Verbs and tenses",
+      "type": "mcq",
+      "question": "Letzte Woche ___ ich krank.",
+      "options": [
+        "bin",
+        "war",
+        "habe",
+        "werde"
+      ],
+      "answer": "war",
+      "explanation": "A past state is commonly expressed with war."
+    },
+    {
+      "id": 88,
+      "section": "Verbs and tenses",
+      "type": "mcq",
+      "question": "Morgen ___ ich nach Berlin fahren.",
+      "options": [
+        "werde",
+        "bin",
+        "habe",
+        "war"
+      ],
+      "answer": "werde",
+      "explanation": "werden + infinitive can express the future."
+    },
+    {
+      "id": 89,
+      "section": "Verbs and tenses",
+      "type": "mcq",
+      "question": "Er ___ gestern um sieben Uhr aufgestanden.",
+      "options": [
+        "hat",
+        "ist",
+        "war",
+        "haben"
+      ],
+      "answer": "ist",
+      "explanation": "aufstehen uses sein in Perfekt."
+    },
+    {
+      "id": 90,
+      "section": "Verbs and tenses",
+      "type": "mcq",
+      "question": "Partizip II of besuchen is ___.",
+      "options": [
+        "gebesucht",
+        "besucht",
+        "besuchen",
+        "besuchte"
+      ],
+      "answer": "besucht",
+      "explanation": "The inseparable prefix be- usually prevents ge-."
+    },
+    {
+      "id": 91,
+      "section": "Verbs and tenses",
+      "type": "mcq",
+      "question": "Partizip II of einkaufen is ___.",
+      "options": [
+        "eingekauft",
+        "geeingekauft",
+        "einkaufen",
+        "kaufte ein"
+      ],
+      "answer": "eingekauft",
+      "explanation": "Separable verbs often place ge between prefix and stem: ein-ge-kauft."
+    },
+    {
+      "id": 92,
+      "section": "Verbs and tenses",
+      "type": "mcq",
+      "question": "Which is Perfekt?",
+      "options": [
+        "Ich machte die Arbeit.",
+        "Ich habe die Arbeit gemacht.",
+        "Ich mache die Arbeit.",
+        "Ich werde die Arbeit machen."
+      ],
+      "answer": "Ich habe die Arbeit gemacht.",
+      "explanation": "haben + Partizip II forms Perfekt."
+    },
+    {
+      "id": 93,
+      "section": "Verbs and tenses",
+      "type": "mcq",
+      "question": "Which is Präteritum?",
+      "options": [
+        "Ich habe Zeit gehabt.",
+        "Ich hatte Zeit.",
+        "Ich habe Zeit.",
+        "Ich werde Zeit haben."
+      ],
+      "answer": "Ich hatte Zeit.",
+      "explanation": "hatte is the Präteritum of haben."
+    },
+    {
+      "id": 94,
+      "section": "Verbs and tenses",
+      "type": "mcq",
+      "question": "Ich ___ nach Hause gegangen.",
+      "options": [
+        "habe",
+        "bin",
+        "war",
+        "hatte"
+      ],
+      "answer": "bin",
+      "explanation": "gehen uses sein in Perfekt."
+    },
+    {
+      "id": 95,
+      "section": "Verbs and tenses",
+      "type": "mcq",
+      "question": "Weil ich müde ___, gehe ich schlafen.",
+      "options": [
+        "bin",
+        "habe",
+        "sein",
+        "war bin"
+      ],
+      "answer": "bin",
+      "explanation": "In a weil subordinate clause, the conjugated verb goes to the end."
+    },
+    {
+      "id": 96,
+      "section": "Word order and sentence structure",
+      "type": "mcq",
+      "question": "Choose the correct statement.",
+      "options": [
+        "Heute ich lerne Deutsch.",
+        "Heute lerne ich Deutsch.",
+        "Heute Deutsch ich lerne.",
+        "Lerne heute ich Deutsch."
+      ],
+      "answer": "Heute lerne ich Deutsch.",
+      "explanation": "In a main statement the conjugated verb is in position 2."
+    },
+    {
+      "id": 97,
+      "section": "Word order and sentence structure",
+      "type": "mcq",
+      "question": "Choose the correct yes/no question.",
+      "options": [
+        "Du lernst Deutsch?",
+        "Lernst du Deutsch?",
+        "Lernst Deutsch du?",
+        "Deutsch du lernst?"
+      ],
+      "answer": "Lernst du Deutsch?",
+      "explanation": "Yes/no questions usually start with the conjugated verb."
+    },
+    {
+      "id": 98,
+      "section": "Word order and sentence structure",
+      "type": "mcq",
+      "question": "Choose the correct W-question.",
+      "options": [
+        "Wann du kommst?",
+        "Wann kommst du?",
+        "Wann du kommst an?",
+        "Kommst wann du?"
+      ],
+      "answer": "Wann kommst du?",
+      "explanation": "W-word first, conjugated verb second."
+    },
+    {
+      "id": 99,
+      "section": "Word order and sentence structure",
+      "type": "mcq",
+      "question": "Choose the correct sentence with a separable verb.",
+      "options": [
+        "Ich aufstehe um sieben.",
+        "Ich stehe um sieben auf.",
+        "Ich stehe auf um sieben.",
+        "Ich auf um sieben stehe."
+      ],
+      "answer": "Ich stehe um sieben auf.",
+      "explanation": "The prefix of a separable verb goes to the end in a main clause."
+    },
+    {
+      "id": 100,
+      "section": "Word order and sentence structure",
+      "type": "mcq",
+      "question": "Choose the correct modal-verb sentence.",
+      "options": [
+        "Ich muss lerne Deutsch.",
+        "Ich muss Deutsch lernen.",
+        "Ich lernen muss Deutsch.",
+        "Ich muss lernen Deutsch."
+      ],
+      "answer": "Ich muss Deutsch lernen.",
+      "explanation": "Modal verb is conjugated; the infinitive goes to the end."
+    },
+    {
+      "id": 101,
+      "section": "Word order and sentence structure",
+      "type": "mcq",
+      "question": "Choose the correct weil sentence.",
+      "options": [
+        "Ich bleibe zu Hause, weil ich bin krank.",
+        "Ich bleibe zu Hause, weil ich krank bin.",
+        "Ich bleibe zu Hause, weil bin ich krank.",
+        "Ich bleibe zu Hause, weil krank ich bin."
+      ],
+      "answer": "Ich bleibe zu Hause, weil ich krank bin.",
+      "explanation": "The conjugated verb goes to the end after weil."
+    },
+    {
+      "id": 102,
+      "section": "Word order and sentence structure",
+      "type": "mcq",
+      "question": "Choose the correct deshalb sentence.",
+      "options": [
+        "Ich bin müde. Deshalb ich gehe ins Bett.",
+        "Ich bin müde. Deshalb gehe ich ins Bett.",
+        "Ich bin müde. Deshalb ich ins Bett gehe.",
+        "Ich bin müde. Deshalb ins Bett ich gehe."
+      ],
+      "answer": "Ich bin müde. Deshalb gehe ich ins Bett.",
+      "explanation": "deshalb begins a main clause; verb follows in position 2."
+    },
+    {
+      "id": 103,
+      "section": "Word order and sentence structure",
+      "type": "mcq",
+      "question": "Choose the correct Perfekt word order.",
+      "options": [
+        "Ich habe gestern eingekauft.",
+        "Ich gestern habe eingekauft.",
+        "Ich habe eingekauft gestern.",
+        "Ich eingekauft habe gestern."
+      ],
+      "answer": "Ich habe gestern eingekauft.",
+      "explanation": "Auxiliary in position 2; participle at the end."
+    },
+    {
+      "id": 104,
+      "section": "Word order and sentence structure",
+      "type": "mcq",
+      "question": "Choose the correct word order with a modal.",
+      "options": [
+        "Heute ich muss arbeiten.",
+        "Heute muss ich arbeiten.",
+        "Heute arbeiten muss ich.",
+        "Heute muss arbeiten ich."
+      ],
+      "answer": "Heute muss ich arbeiten.",
+      "explanation": "The conjugated modal stays in position 2."
+    },
+    {
+      "id": 105,
+      "section": "Word order and sentence structure",
+      "type": "mcq",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "Der Lehrer erklärt uns die Aufgabe.",
+        "Der Lehrer uns erklärt die Aufgabe.",
+        "Der Lehrer erklärt die Aufgabe uns."
+      ],
+      "answer": "Der Lehrer erklärt uns die Aufgabe.",
+      "explanation": "A natural basic order is subject + verb + recipient + thing."
+    },
+    {
+      "id": 106,
+      "section": "Word order and sentence structure",
+      "type": "mcq",
+      "question": "Choose the correct question: Where do you live?",
+      "options": [
+        "Wo wohnst du?",
+        "Wo du wohnst?",
+        "Wohnst wo du?",
+        "Wo wohnen du?"
+      ],
+      "answer": "Wo wohnst du?",
+      "explanation": "W-question: Wo + conjugated verb + subject."
+    },
+    {
+      "id": 107,
+      "section": "Word order and sentence structure",
+      "type": "mcq",
+      "question": "Choose the correct sentence with time first.",
+      "options": [
+        "Morgen ich gehe zur Uni.",
+        "Morgen gehe ich zur Uni.",
+        "Morgen zur Uni ich gehe.",
+        "Gehe morgen ich zur Uni."
+      ],
+      "answer": "Morgen gehe ich zur Uni.",
+      "explanation": "When Morgen is first, the verb remains second and subject follows."
+    },
+    {
+      "id": 108,
+      "section": "Word order and sentence structure",
+      "type": "mcq",
+      "question": "Choose the correct subordinate clause.",
+      "options": [
+        "..., dass er heute kommt.",
+        "..., dass kommt er heute.",
+        "..., dass er kommt heute."
+      ],
+      "answer": "... , dass er heute kommt.",
+      "explanation": "dass, like weil, sends the conjugated verb to the end."
+    },
+    {
+      "id": 109,
+      "section": "Word order and sentence structure",
+      "type": "mcq",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "Ich will einen Kaffee trinken.",
+        "Ich will trinken einen Kaffee.",
+        "Ich einen Kaffee will trinken.",
+        "Ich trinken will einen Kaffee."
+      ],
+      "answer": "Ich will einen Kaffee trinken.",
+      "explanation": "With a modal, the infinitive goes to the end."
+    },
+    {
+      "id": 110,
+      "section": "Word order and sentence structure",
+      "type": "mcq",
+      "question": "Choose the correct present separable verb.",
+      "options": [
+        "Sie ruft ihre Mutter an.",
+        "Sie anruft ihre Mutter.",
+        "Sie ruft an ihre Mutter.",
+        "Sie ihre Mutter anruft."
+      ],
+      "answer": "Sie ruft ihre Mutter an.",
+      "explanation": "anrufen separates: ruft ... an."
+    },
+    {
+      "id": 111,
+      "section": "Word order and sentence structure",
+      "type": "mcq",
+      "question": "Choose the correct question.",
+      "options": [
+        "Hast du heute Zeit?",
+        "Du hast heute Zeit?",
+        "Hast heute du Zeit?",
+        "Heute du hast Zeit?"
+      ],
+      "answer": "Hast du heute Zeit?",
+      "explanation": "Yes/no question begins with the conjugated verb."
+    },
+    {
+      "id": 112,
+      "section": "Word order and sentence structure",
+      "type": "mcq",
+      "question": "Choose the correct sentence with Perfekt and time first.",
+      "options": [
+        "Gestern ich habe gekocht.",
+        "Gestern habe ich gekocht.",
+        "Gestern gekocht habe ich.",
+        "Gestern habe gekocht ich."
+      ],
+      "answer": "Gestern habe ich gekocht.",
+      "explanation": "Time element first, auxiliary second, participle at end."
+    },
+    {
+      "id": 113,
+      "section": "Word order and sentence structure",
+      "type": "mcq",
+      "question": "Choose the correct weil clause.",
+      "options": [
+        "..., weil ich keine Zeit habe.",
+        "..., weil habe ich keine Zeit.",
+        "..., weil ich habe keine Zeit."
+      ],
+      "answer": "... , weil ich keine Zeit habe.",
+      "explanation": "The verb habe is at the end of the subordinate clause."
+    },
+    {
+      "id": 114,
+      "section": "Word order and sentence structure",
+      "type": "mcq",
+      "question": "Choose the correct sentence with two verbs.",
+      "options": [
+        "Ich kann heute kommen.",
+        "Ich kann komme heute.",
+        "Ich heute kann kommen.",
+        "Ich kommen kann heute."
+      ],
+      "answer": "Ich kann heute kommen.",
+      "explanation": "Modal verb is conjugated; second verb remains infinitive."
+    },
+    {
+      "id": 115,
+      "section": "Word order and sentence structure",
+      "type": "mcq",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "Am Wochenende besuche ich meine Familie.",
+        "Am Wochenende ich besuche meine Familie.",
+        "Am Wochenende meine Familie besuche ich."
+      ],
+      "answer": "Am Wochenende besuche ich meine Familie.",
+      "explanation": "The conjugated verb is second element."
+    },
+    {
+      "id": 116,
+      "section": "Negation, preferences, adjectives and time",
+      "type": "mcq",
+      "question": "Ich habe ___ Auto. (no car)",
+      "options": [
+        "nicht",
+        "kein",
+        "keinen",
+        "keinem"
+      ],
+      "answer": "kein",
+      "explanation": "Auto is neuter and kein negates the noun."
+    },
+    {
+      "id": 117,
+      "section": "Negation, preferences, adjectives and time",
+      "type": "mcq",
+      "question": "Ich trinke ___ Kaffee.",
+      "options": [
+        "nicht",
+        "kein",
+        "keinen",
+        "keinem"
+      ],
+      "answer": "keinen",
+      "explanation": "Kaffee is masculine Akkusativ; kein becomes keinen."
+    },
+    {
+      "id": 118,
+      "section": "Negation, preferences, adjectives and time",
+      "type": "mcq",
+      "question": "Die Wohnung ist ___ groß.",
+      "options": [
+        "kein",
+        "keine",
+        "nicht",
+        "keinen"
+      ],
+      "answer": "nicht",
+      "explanation": "nicht negates an adjective."
+    },
+    {
+      "id": 119,
+      "section": "Negation, preferences, adjectives and time",
+      "type": "mcq",
+      "question": "Das ist ___ mein Schlüssel.",
+      "options": [
+        "kein",
+        "nicht",
+        "keinen",
+        "keinem"
+      ],
+      "answer": "nicht",
+      "explanation": "nicht negates the specific phrase mein Schlüssel."
+    },
+    {
+      "id": 120,
+      "section": "Negation, preferences, adjectives and time",
+      "type": "mcq",
+      "question": "Choose the correct sentence for 'I like pizza.'",
+      "options": [
+        "Ich mag Pizza.",
+        "Ich gern Pizza.",
+        "Ich möchte Pizza gern.",
+        "Ich mag essen Pizza."
+      ],
+      "answer": "Ich mag Pizza.",
+      "explanation": "mögen is used with a noun to express liking."
+    },
+    {
+      "id": 121,
+      "section": "Negation, preferences, adjectives and time",
+      "type": "mcq",
+      "question": "Choose the correct sentence for 'I enjoy swimming.'",
+      "options": [
+        "Ich mag schwimmen.",
+        "Ich schwimme gern.",
+        "Ich gern schwimme.",
+        "Ich möchte schwimmen gern."
+      ],
+      "answer": "Ich schwimme gern.",
+      "explanation": "gern is used with a verb to show enjoyment."
+    },
+    {
+      "id": 122,
+      "section": "Negation, preferences, adjectives and time",
+      "type": "mcq",
+      "question": "Choose the correct sentence: I prefer tea to coffee.",
+      "options": [
+        "Ich trinke lieber Tee als Kaffee.",
+        "Ich trinke gern Tee als Kaffee.",
+        "Ich mag lieber trinken Tee.",
+        "Ich am liebsten Tee Kaffee."
+      ],
+      "answer": "Ich trinke lieber Tee als Kaffee.",
+      "explanation": "lieber ... als compares preferences."
+    },
+    {
+      "id": 123,
+      "section": "Negation, preferences, adjectives and time",
+      "type": "mcq",
+      "question": "Choose the correct polite request.",
+      "options": [
+        "Ich möchte einen Tee, bitte.",
+        "Ich mag einen Tee, bitte.",
+        "Ich gern einen Tee.",
+        "Ich möchte gern trinke Tee."
+      ],
+      "answer": "Ich möchte einen Tee, bitte.",
+      "explanation": "möchte means would like."
+    },
+    {
+      "id": 124,
+      "section": "Negation, preferences, adjectives and time",
+      "type": "mcq",
+      "question": "Choose the correct sentence: I speak German well.",
+      "options": [
+        "Ich spreche gut Deutsch.",
+        "Ich spreche gern Deutsch.",
+        "Ich spreche lieber Deutsch.",
+        "Ich spreche am liebsten Deutsch."
+      ],
+      "answer": "Ich spreche gut Deutsch.",
+      "explanation": "gut describes ability/quality."
+    },
+    {
+      "id": 125,
+      "section": "Negation, preferences, adjectives and time",
+      "type": "mcq",
+      "question": "Choose the correct sentence: I enjoy speaking German.",
+      "options": [
+        "Ich spreche gut Deutsch.",
+        "Ich spreche gern Deutsch.",
+        "Ich spreche besser Deutsch.",
+        "Ich spreche lieber Deutsch."
+      ],
+      "answer": "Ich spreche gern Deutsch.",
+      "explanation": "gern describes enjoyment."
+    },
+    {
+      "id": 126,
+      "section": "Negation, preferences, adjectives and time",
+      "type": "mcq",
+      "question": "Das Auto ist ___.",
+      "options": [
+        "schnell",
+        "schnelles",
+        "schneller",
+        "schnellen"
+      ],
+      "answer": "schnell",
+      "explanation": "Adjectives after sein have no ending."
+    },
+    {
+      "id": 127,
+      "section": "Negation, preferences, adjectives and time",
+      "type": "mcq",
+      "question": "Das ist ein ___ Auto.",
+      "options": [
+        "schnell",
+        "schnelles",
+        "schnellen",
+        "schneller"
+      ],
+      "answer": "schnelles",
+      "explanation": "Before a neuter noun after ein, schnell becomes schnelles."
+    },
+    {
+      "id": 128,
+      "section": "Negation, preferences, adjectives and time",
+      "type": "mcq",
+      "question": "Der Kaffee ist ___.",
+      "options": [
+        "heiß",
+        "heißen",
+        "heißer",
+        "heißem"
+      ],
+      "answer": "heiß",
+      "explanation": "After ist, the adjective has no ending."
+    },
+    {
+      "id": 129,
+      "section": "Negation, preferences, adjectives and time",
+      "type": "mcq",
+      "question": "Ich trinke einen ___ Kaffee.",
+      "options": [
+        "heiß",
+        "heißen",
+        "heißes",
+        "heißer"
+      ],
+      "answer": "heißen",
+      "explanation": "Before masculine Akkusativ Kaffee, the adjective takes -en."
+    },
+    {
+      "id": 130,
+      "section": "Negation, preferences, adjectives and time",
+      "type": "mcq",
+      "question": "Der Kurs beginnt ___ acht Uhr.",
+      "options": [
+        "am",
+        "im",
+        "um",
+        "seit"
+      ],
+      "answer": "um",
+      "explanation": "Exact clock time uses um."
+    },
+    {
+      "id": 131,
+      "section": "Negation, preferences, adjectives and time",
+      "type": "mcq",
+      "question": "Ich habe ___ Montag Deutschkurs.",
+      "options": [
+        "im",
+        "um",
+        "am",
+        "seit"
+      ],
+      "answer": "am",
+      "explanation": "Days use am."
+    },
+    {
+      "id": 132,
+      "section": "Negation, preferences, adjectives and time",
+      "type": "mcq",
+      "question": "Wir fahren ___ Sommer nach Italien.",
+      "options": [
+        "am",
+        "im",
+        "um",
+        "vor"
+      ],
+      "answer": "im",
+      "explanation": "Seasons use im."
+    },
+    {
+      "id": 133,
+      "section": "Negation, preferences, adjectives and time",
+      "type": "mcq",
+      "question": "Ich wohne ___ 2024 in Deutschland und wohne noch hier.",
+      "options": [
+        "vor",
+        "seit",
+        "um",
+        "am"
+      ],
+      "answer": "seit",
+      "explanation": "seit indicates a situation that started in the past and continues."
+    },
+    {
+      "id": 134,
+      "section": "Negation, preferences, adjectives and time",
+      "type": "mcq",
+      "question": "Ich bin ___ einer Woche angekommen.",
+      "options": [
+        "seit",
+        "vor",
+        "um",
+        "am"
+      ],
+      "answer": "vor",
+      "explanation": "vor einer Woche = a week ago."
+    },
+    {
+      "id": 135,
+      "section": "Negation, preferences, adjectives and time",
+      "type": "mcq",
+      "question": "Choose the correct form: ___ ist dein Geburtstag?",
+      "options": [
+        "Wann",
+        "Wo",
+        "Wohin",
+        "Wem"
+      ],
+      "answer": "Wann",
+      "explanation": "Wann asks when."
+    },
+    {
+      "id": 136,
+      "section": "Negation, preferences, adjectives and time",
+      "type": "mcq",
+      "question": "Choose the correct form: ___ gehst du? — In die Schule.",
+      "options": [
+        "Wo",
+        "Wohin",
+        "Wem",
+        "Wen"
+      ],
+      "answer": "Wohin",
+      "explanation": "Wohin asks destination."
+    },
+    {
+      "id": 137,
+      "section": "Negation, preferences, adjectives and time",
+      "type": "mcq",
+      "question": "Choose the correct form: ___ bist du? — Im Zimmer.",
+      "options": [
+        "Wohin",
+        "Wo",
+        "Wen",
+        "Wem"
+      ],
+      "answer": "Wo",
+      "explanation": "Wo asks location."
+    },
+    {
+      "id": 138,
+      "section": "Negation, preferences, adjectives and time",
+      "type": "mcq",
+      "question": "Choose the correct plural dative phrase.",
+      "options": [
+        "mit den Kindern",
+        "mit die Kinder",
+        "mit den Kinder",
+        "mit dem Kindern"
+      ],
+      "answer": "mit den Kindern",
+      "explanation": "mit takes Dativ; plural article den and noun ending -n."
+    },
+    {
+      "id": 139,
+      "section": "Negation, preferences, adjectives and time",
+      "type": "mcq",
+      "question": "Choose the correct sentence after sein.",
+      "options": [
+        "Er ist ein Arzt.",
+        "Er ist einen Arzt.",
+        "Er ist einem Arzt.",
+        "Er ist einer Arzt."
+      ],
+      "answer": "Er ist ein Arzt.",
+      "explanation": "sein links the subject to a nominative description."
+    },
+    {
+      "id": 140,
+      "section": "Negation, preferences, adjectives and time",
+      "type": "mcq",
+      "question": "Choose the correct time phrase for 'at night'.",
+      "options": [
+        "am Nacht",
+        "in der Nacht",
+        "im Nacht",
+        "um Nacht"
+      ],
+      "answer": "in der Nacht",
+      "explanation": "The usual expression is in der Nacht."
+    },
+    {
+      "id": 141,
+      "section": "Personal pronouns",
+      "type": "fill_blank",
+      "question": "___ lerne Deutsch. (I)",
+      "answer": "Ich",
+      "explanation": "The subject form is ich."
+    },
+    {
+      "id": 142,
+      "section": "Personal pronouns",
+      "type": "fill_blank",
+      "question": "Er sieht ___. (me)",
+      "answer": "mich",
+      "explanation": "sehen takes Akkusativ."
+    },
+    {
+      "id": 143,
+      "section": "Personal pronouns",
+      "type": "fill_blank",
+      "question": "Sie hilft ___. (me)",
+      "answer": "mir",
+      "explanation": "helfen takes Dativ."
+    },
+    {
+      "id": 144,
+      "section": "Personal pronouns",
+      "type": "fill_blank",
+      "question": "Ich danke ___. (you, singular)",
+      "answer": "dir",
+      "explanation": "danken takes Dativ."
+    },
+    {
+      "id": 145,
+      "section": "Personal pronouns",
+      "type": "fill_blank",
+      "question": "Wir besuchen ___. (them)",
+      "answer": "sie",
+      "explanation": "besuchen takes Akkusativ."
+    },
+    {
+      "id": 146,
+      "section": "Cases and articles",
+      "type": "fill_blank",
+      "question": "___ Mann schläft. (Nominativ)",
+      "answer": "Der",
+      "explanation": "The subject is Nominativ."
+    },
+    {
+      "id": 147,
+      "section": "Cases and articles",
+      "type": "fill_blank",
+      "question": "Ich sehe ___ Mann.",
+      "answer": "den",
+      "explanation": "Akkusativ masculine: der → den."
+    },
+    {
+      "id": 148,
+      "section": "Cases and articles",
+      "type": "fill_blank",
+      "question": "Ich helfe ___ Mann.",
+      "answer": "dem",
+      "explanation": "helfen takes Dativ."
+    },
+    {
+      "id": 149,
+      "section": "Cases and articles",
+      "type": "fill_blank",
+      "question": "Ich kaufe ___ Hund. (ein)",
+      "answer": "einen",
+      "explanation": "Hund is masculine Akkusativ."
+    },
+    {
+      "id": 150,
+      "section": "Cases and articles",
+      "type": "fill_blank",
+      "question": "Das ist ___ Auto. (ein)",
+      "answer": "ein",
+      "explanation": "After sein, use Nominativ."
+    },
+    {
+      "id": 151,
+      "section": "Cases and articles",
+      "type": "fill_blank",
+      "question": "Ich gebe ___ Frau das Buch.",
+      "answer": "der",
+      "explanation": "The receiver is Dativ feminine."
+    },
+    {
+      "id": 152,
+      "section": "Cases and articles",
+      "type": "fill_blank",
+      "question": "Wir fahren mit ___ Bus.",
+      "answer": "dem",
+      "explanation": "mit takes Dativ."
+    },
+    {
+      "id": 153,
+      "section": "Cases and articles",
+      "type": "fill_blank",
+      "question": "Das Geschenk ist für ___ Vater. (mein)",
+      "answer": "meinen",
+      "explanation": "für takes Akkusativ."
+    },
+    {
+      "id": 154,
+      "section": "Cases and articles",
+      "type": "fill_blank",
+      "question": "Er schenkt ___ Schwester Blumen. (seine)",
+      "answer": "seiner",
+      "explanation": "The recipient is Dativ feminine."
+    },
+    {
+      "id": 155,
+      "section": "Cases and articles",
+      "type": "fill_blank",
+      "question": "Ich schreibe ___ Freund eine E-Mail. (mein)",
+      "answer": "meinem",
+      "explanation": "The recipient is Dativ masculine."
+    },
+    {
+      "id": 156,
+      "section": "Cases and articles",
+      "type": "fill_blank",
+      "question": "Das Buch gehört ___. (I)",
+      "answer": "mir",
+      "explanation": "gehören takes Dativ."
+    },
+    {
+      "id": 157,
+      "section": "Prepositions",
+      "type": "fill_blank",
+      "question": "Ich fahre ___ dem Bus.",
+      "answer": "mit",
+      "explanation": "mit takes Dativ."
+    },
+    {
+      "id": 158,
+      "section": "Prepositions",
+      "type": "fill_blank",
+      "question": "Das ist ___ dich.",
+      "answer": "für",
+      "explanation": "für takes Akkusativ."
+    },
+    {
+      "id": 159,
+      "section": "Prepositions",
+      "type": "fill_blank",
+      "question": "Sie kommt ___ der Schule.",
+      "answer": "aus",
+      "explanation": "aus takes Dativ."
+    },
+    {
+      "id": 160,
+      "section": "Prepositions",
+      "type": "fill_blank",
+      "question": "Ich wohne ___ zwei Jahren hier and still live here.",
+      "answer": "seit",
+      "explanation": "seit indicates continuing duration."
+    },
+    {
+      "id": 161,
+      "section": "Prepositions",
+      "type": "fill_blank",
+      "question": "Ich bin ___ drei Tagen angekommen.",
+      "answer": "vor",
+      "explanation": "vor means ago."
+    },
+    {
+      "id": 162,
+      "section": "Prepositions",
+      "type": "fill_blank",
+      "question": "Das Buch liegt auf ___ Tisch.",
+      "answer": "dem",
+      "explanation": "Wo? location uses Dativ."
+    },
+    {
+      "id": 163,
+      "section": "Prepositions",
+      "type": "fill_blank",
+      "question": "Ich lege das Buch auf ___ Tisch.",
+      "answer": "den",
+      "explanation": "Wohin? destination uses Akkusativ."
+    },
+    {
+      "id": 164,
+      "section": "Prepositions",
+      "type": "fill_blank",
+      "question": "Ich bin ___ Zimmer. (in dem)",
+      "answer": "im",
+      "explanation": "im = in dem, Dativ location."
+    },
+    {
+      "id": 165,
+      "section": "Prepositions",
+      "type": "fill_blank",
+      "question": "Ich gehe ___ Zimmer. (in das)",
+      "answer": "ins",
+      "explanation": "ins = in das, Akkusativ destination."
+    },
+    {
+      "id": 166,
+      "section": "Time",
+      "type": "fill_blank",
+      "question": "Der Zug fährt ___ neun Uhr.",
+      "answer": "um",
+      "explanation": "Exact time uses um."
+    },
+    {
+      "id": 167,
+      "section": "Time",
+      "type": "fill_blank",
+      "question": "___ Freitag habe ich frei.",
+      "answer": "Am",
+      "explanation": "Days use am."
+    },
+    {
+      "id": 168,
+      "section": "Time",
+      "type": "fill_blank",
+      "question": "___ Winter trinke ich gern Tee.",
+      "answer": "Im",
+      "explanation": "Seasons use im."
+    },
+    {
+      "id": 169,
+      "section": "Time",
+      "type": "fill_blank",
+      "question": "Wir treffen uns ___ Abend.",
+      "answer": "am",
+      "explanation": "am Abend is the standard expression."
+    },
+    {
+      "id": 170,
+      "section": "Time",
+      "type": "fill_blank",
+      "question": "Ich war ___ der Nacht wach.",
+      "answer": "in",
+      "explanation": "The expression is in der Nacht."
+    },
+    {
+      "id": 171,
+      "section": "Verb forms",
+      "type": "fill_blank",
+      "question": "Partizip II of machen: ___.",
+      "answer": "gemacht",
+      "explanation": "machen → gemacht."
+    },
+    {
+      "id": 172,
+      "section": "Verb forms",
+      "type": "fill_blank",
+      "question": "Partizip II of gehen: ___.",
+      "answer": "gegangen",
+      "explanation": "gehen is irregular."
+    },
+    {
+      "id": 173,
+      "section": "Verb forms",
+      "type": "fill_blank",
+      "question": "Partizip II of studieren: ___.",
+      "answer": "studiert",
+      "explanation": "-ieren verbs usually have no ge-."
+    },
+    {
+      "id": 174,
+      "section": "Verb forms",
+      "type": "fill_blank",
+      "question": "Ich habe Deutsch ___. (lernen)",
+      "answer": "gelernt",
+      "explanation": "Perfekt uses Partizip II."
+    },
+    {
+      "id": 175,
+      "section": "Verb forms",
+      "type": "fill_blank",
+      "question": "Ich ___ nach Hause gegangen. (sein, ich)",
+      "answer": "bin",
+      "explanation": "gehen uses sein."
+    },
+    {
+      "id": 176,
+      "section": "Verb forms",
+      "type": "fill_blank",
+      "question": "Ich ___ Pizza gegessen. (haben, ich)",
+      "answer": "habe",
+      "explanation": "essen uses haben."
+    },
+    {
+      "id": 177,
+      "section": "Verb forms",
+      "type": "fill_blank",
+      "question": "Er ist früh ___. (aufstehen)",
+      "answer": "aufgestanden",
+      "explanation": "aufstehen → aufgestanden."
+    },
+    {
+      "id": 178,
+      "section": "Verb forms",
+      "type": "fill_blank",
+      "question": "Sie hat Informatik ___. (studieren)",
+      "answer": "studiert",
+      "explanation": "studieren has no ge-."
+    },
+    {
+      "id": 179,
+      "section": "Verb forms",
+      "type": "fill_blank",
+      "question": "Ich ___ gestern müde. (Präteritum sein)",
+      "answer": "war",
+      "explanation": "war is past of sein."
+    },
+    {
+      "id": 180,
+      "section": "Verb forms",
+      "type": "fill_blank",
+      "question": "Wir ___ keine Zeit. (Präteritum haben)",
+      "answer": "hatten",
+      "explanation": "hatten is past of haben for wir."
+    },
+    {
+      "id": 181,
+      "section": "Verb forms",
+      "type": "fill_blank",
+      "question": "Ich ___ heute arbeiten. (müssen, Präsens)",
+      "answer": "muss",
+      "explanation": "ich muss."
+    },
+    {
+      "id": 182,
+      "section": "Verb forms",
+      "type": "fill_blank",
+      "question": "Als Kind ___ ich schwimmen. (können, Präteritum)",
+      "answer": "konnte",
+      "explanation": "konnte is common Präteritum."
+    },
+    {
+      "id": 183,
+      "section": "Word order",
+      "type": "fill_blank",
+      "question": "Heute ___ ich Deutsch. (lernen)",
+      "answer": "lerne",
+      "explanation": "The conjugated verb is second element."
+    },
+    {
+      "id": 184,
+      "section": "Word order",
+      "type": "fill_blank",
+      "question": "___ du Deutsch? (yes/no question: lernen)",
+      "answer": "Lernst",
+      "explanation": "Yes/no questions begin with the verb."
+    },
+    {
+      "id": 185,
+      "section": "Word order",
+      "type": "fill_blank",
+      "question": "Wann ___ du? (kommen)",
+      "answer": "kommst",
+      "explanation": "W-question + verb + subject."
+    },
+    {
+      "id": 186,
+      "section": "Word order",
+      "type": "fill_blank",
+      "question": "Ich stehe um sieben ___. (aufstehen)",
+      "answer": "auf",
+      "explanation": "Separable prefix goes to the end."
+    },
+    {
+      "id": 187,
+      "section": "Word order",
+      "type": "fill_blank",
+      "question": "Ich muss Deutsch ___. (lernen)",
+      "answer": "lernen",
+      "explanation": "Modal verb + infinitive at the end."
+    },
+    {
+      "id": 188,
+      "section": "Word order",
+      "type": "fill_blank",
+      "question": "..., weil ich müde ___. (sein)",
+      "answer": "bin",
+      "explanation": "weil-clause verb goes to the end."
+    },
+    {
+      "id": 189,
+      "section": "Word order",
+      "type": "fill_blank",
+      "question": "Ich bin müde. Deshalb ___ ich ins Bett. (gehen)",
+      "answer": "gehe",
+      "explanation": "deshalb starts a main clause, verb next."
+    },
+    {
+      "id": 190,
+      "section": "Word order",
+      "type": "fill_blank",
+      "question": "Gestern ___ ich Pizza gegessen. (haben)",
+      "answer": "habe",
+      "explanation": "Perfekt auxiliary is in position 2."
+    },
+    {
+      "id": 191,
+      "section": "Negation",
+      "type": "fill_blank",
+      "question": "Ich habe ___ Auto. (no car)",
+      "answer": "kein",
+      "explanation": "kein negates an indefinite noun."
+    },
+    {
+      "id": 192,
+      "section": "Negation",
+      "type": "fill_blank",
+      "question": "Ich trinke ___ Kaffee.",
+      "answer": "keinen",
+      "explanation": "Kaffee is masculine Akkusativ."
+    },
+    {
+      "id": 193,
+      "section": "Negation",
+      "type": "fill_blank",
+      "question": "Die Wohnung ist ___ groß.",
+      "answer": "nicht",
+      "explanation": "nicht negates an adjective."
+    },
+    {
+      "id": 194,
+      "section": "Negation",
+      "type": "fill_blank",
+      "question": "Das ist ___ mein Schlüssel.",
+      "answer": "nicht",
+      "explanation": "nicht negates a specific possessive phrase."
+    },
+    {
+      "id": 195,
+      "section": "Preferences",
+      "type": "fill_blank",
+      "question": "Ich ___ Pizza. (like, mögen)",
+      "answer": "mag",
+      "explanation": "mögen with a noun."
+    },
+    {
+      "id": 196,
+      "section": "Preferences",
+      "type": "fill_blank",
+      "question": "Ich esse ___ Pizza. (enjoy)",
+      "answer": "gern",
+      "explanation": "gern expresses enjoyment of an action."
+    },
+    {
+      "id": 197,
+      "section": "Preferences",
+      "type": "fill_blank",
+      "question": "Ich trinke ___ Tee als Kaffee. (prefer)",
+      "answer": "lieber",
+      "explanation": "lieber ... als compares preferences."
+    },
+    {
+      "id": 198,
+      "section": "Preferences",
+      "type": "fill_blank",
+      "question": "Ich ___ einen Tee, bitte. (would like)",
+      "answer": "möchte",
+      "explanation": "möchte is polite 'would like'."
+    },
+    {
+      "id": 199,
+      "section": "Preferences",
+      "type": "fill_blank",
+      "question": "Ich spreche ___ Deutsch. (well)",
+      "answer": "gut",
+      "explanation": "gut describes ability."
+    },
+    {
+      "id": 200,
+      "section": "Preferences",
+      "type": "fill_blank",
+      "question": "Ich spreche ___ Deutsch. (enjoy speaking)",
+      "answer": "gern",
+      "explanation": "gern describes enjoyment."
+    },
+    {
+      "id": 201,
+      "section": "Adjectives",
+      "type": "fill_blank",
+      "question": "Das Auto ist ___. (schnell)",
+      "answer": "schnell",
+      "explanation": "Adjectives after sein have no ending."
+    },
+    {
+      "id": 202,
+      "section": "Adjectives",
+      "type": "fill_blank",
+      "question": "Das ist ein ___ Auto. (schnell)",
+      "answer": "schnelles",
+      "explanation": "Neuter noun after ein takes -es here."
+    },
+    {
+      "id": 203,
+      "section": "Adjectives",
+      "type": "fill_blank",
+      "question": "Ich trinke einen ___ Kaffee. (heiß)",
+      "answer": "heißen",
+      "explanation": "Masculine Akkusativ adjective ending is -en here."
+    },
+    {
+      "id": 204,
+      "section": "Cases and articles",
+      "type": "fill_blank",
+      "question": "Wir helfen ___ Kindern.",
+      "answer": "den",
+      "explanation": "Dative plural article is den."
+    },
+    {
+      "id": 205,
+      "section": "Cases and articles",
+      "type": "fill_blank",
+      "question": "Ich nehme ___ Schlüssel.",
+      "answer": "den",
+      "explanation": "nehmen takes Akkusativ masculine."
+    },
+    {
+      "id": 206,
+      "section": "Cases and articles",
+      "type": "fill_blank",
+      "question": "Ich fahre zu ___ Arzt.",
+      "answer": "dem",
+      "explanation": "zu takes Dativ."
+    },
+    {
+      "id": 207,
+      "section": "Cases and articles",
+      "type": "fill_blank",
+      "question": "Er kommt aus ___ Türkei.",
+      "answer": "der",
+      "explanation": "aus + Dativ feminine."
+    },
+    {
+      "id": 208,
+      "section": "Prepositions",
+      "type": "fill_blank",
+      "question": "Das Bild hängt an ___ Wand.",
+      "answer": "der",
+      "explanation": "Wo? location uses Dativ."
+    },
+    {
+      "id": 209,
+      "section": "Prepositions",
+      "type": "fill_blank",
+      "question": "Ich hänge das Bild an ___ Wand.",
+      "answer": "die",
+      "explanation": "Wohin? destination uses Akkusativ."
+    },
+    {
+      "id": 210,
+      "section": "Word order",
+      "type": "fill_blank",
+      "question": "Heute ___ ich arbeiten. (müssen)",
+      "answer": "muss",
+      "explanation": "Conjugated modal is in position 2."
+    },
+    {
+      "id": 211,
+      "section": "Word order",
+      "type": "fill_blank",
+      "question": "Ich kann morgen ___. (kommen)",
+      "answer": "kommen",
+      "explanation": "Infinitive follows modal at the end."
+    },
+    {
+      "id": 212,
+      "section": "Verb forms",
+      "type": "fill_blank",
+      "question": "Ich habe gestern Sport ___. (machen)",
+      "answer": "gemacht",
+      "explanation": "Partizip II at the end."
+    },
+    {
+      "id": 213,
+      "section": "Verb forms",
+      "type": "fill_blank",
+      "question": "Er ___ früh eingeschlafen. (sein)",
+      "answer": "ist",
+      "explanation": "einschlafen uses sein."
+    },
+    {
+      "id": 214,
+      "section": "Verb forms",
+      "type": "fill_blank",
+      "question": "Wir ___ nach Hause gefahren. (sein)",
+      "answer": "sind",
+      "explanation": "fahren to a destination uses sein."
+    },
+    {
+      "id": 215,
+      "section": "Time",
+      "type": "fill_blank",
+      "question": "Ich wohne ___ 2024 hier. (still live here)",
+      "answer": "seit",
+      "explanation": "seit indicates continuing duration."
+    },
+    {
+      "id": 216,
+      "section": "Time",
+      "type": "fill_blank",
+      "question": "Ich bin ___ einer Woche gekommen. (ago)",
+      "answer": "vor",
+      "explanation": "vor + time period = ago."
+    },
+    {
+      "id": 217,
+      "section": "Word order",
+      "type": "fill_blank",
+      "question": "..., dass er heute ___. (kommen)",
+      "answer": "kommt",
+      "explanation": "dass-clause verb goes to the end."
+    },
+    {
+      "id": 218,
+      "section": "Personal pronouns",
+      "type": "fill_blank",
+      "question": "Ich kenne ___. (him)",
+      "answer": "ihn",
+      "explanation": "kennen takes Akkusativ."
+    },
+    {
+      "id": 219,
+      "section": "Personal pronouns",
+      "type": "fill_blank",
+      "question": "Ich antworte ___. (her)",
+      "answer": "ihr",
+      "explanation": "antworten takes Dativ."
+    },
+    {
+      "id": 220,
+      "section": "Cases and articles",
+      "type": "fill_blank",
+      "question": "Ich gebe ___ Kind einen Ball.",
+      "answer": "dem",
+      "explanation": "The child is the receiver: Dativ."
+    },
+    {
+      "id": 221,
+      "section": "Cases and articles",
+      "type": "fill_blank",
+      "question": "Der Vater schenkt dem Sohn ___ Computer.",
+      "answer": "einen",
+      "explanation": "Computer is masculine Akkusativ."
+    },
+    {
+      "id": 222,
+      "section": "Word order",
+      "type": "fill_blank",
+      "question": "___ lerne ich Deutsch, weil ich in Deutschland wohne. (Today)",
+      "answer": "Heute",
+      "explanation": "A time element can be first; verb remains second."
+    },
+    {
+      "id": 223,
+      "section": "Negation",
+      "type": "fill_blank",
+      "question": "Ich habe ___ Zeit. (no time)",
+      "answer": "keine",
+      "explanation": "Zeit is feminine and kein agrees with it."
+    },
+    {
+      "id": 224,
+      "section": "Preferences",
+      "type": "fill_blank",
+      "question": "Am ___ esse ich Sushi. (most preferably)",
+      "answer": "liebsten",
+      "explanation": "The expression is am liebsten."
+    },
+    {
+      "id": 225,
+      "section": "Prepositions",
+      "type": "fill_blank",
+      "question": "Wir gehen ___ den Park. (through)",
+      "answer": "durch",
+      "explanation": "durch takes Akkusativ."
+    },
+    {
+      "id": 226,
+      "section": "Prepositions",
+      "type": "fill_blank",
+      "question": "Ich fahre ___ meinen Bruder. (without)",
+      "answer": "ohne",
+      "explanation": "ohne takes Akkusativ."
+    },
+    {
+      "id": 227,
+      "section": "Cases and articles",
+      "type": "fill_blank",
+      "question": "Das Essen schmeckt ___ Gästen. (the guests)",
+      "answer": "den",
+      "explanation": "schmecken takes Dativ; plural article den."
+    },
+    {
+      "id": 228,
+      "section": "Word order",
+      "type": "fill_blank",
+      "question": "Ich rufe meine Mutter ___. (anrufen)",
+      "answer": "an",
+      "explanation": "Separable prefix at the end."
+    },
+    {
+      "id": 229,
+      "section": "Verb forms",
+      "type": "fill_blank",
+      "question": "Partizip II of besuchen: ___.",
+      "answer": "besucht",
+      "explanation": "be- is inseparable; no ge-."
+    },
+    {
+      "id": 230,
+      "section": "Verb forms",
+      "type": "fill_blank",
+      "question": "Partizip II of einkaufen: ___.",
+      "answer": "eingekauft",
+      "explanation": "Separable prefix + ge + stem."
+    },
+    {
+      "id": 231,
+      "section": "Cases and articles",
+      "type": "fill_blank",
+      "question": "Das ist ___ guter Arzt.",
+      "answer": "ein",
+      "explanation": "After sein, use Nominativ."
+    },
+    {
+      "id": 232,
+      "section": "Cases and articles",
+      "type": "fill_blank",
+      "question": "Ich sehe ___ neuen Film.",
+      "answer": "den",
+      "explanation": "Film is masculine Akkusativ."
+    },
+    {
+      "id": 233,
+      "section": "Prepositions",
+      "type": "fill_blank",
+      "question": "Ich gehe ___ Schule. (to the school)",
+      "answer": "in die",
+      "explanation": "Wohin? destination with in + Akkusativ."
+    },
+    {
+      "id": 234,
+      "section": "Prepositions",
+      "type": "fill_blank",
+      "question": "Ich bin ___ Schule. (at school)",
+      "answer": "in der",
+      "explanation": "Wo? location with in + Dativ."
+    },
+    {
+      "id": 235,
+      "section": "Word order",
+      "type": "fill_blank",
+      "question": "Lernst du Deutsch? — Ja, ich ___. (lernen)",
+      "answer": "lerne",
+      "explanation": "Present conjugation with ich is lerne."
+    },
+    {
+      "id": 236,
+      "section": "Word order",
+      "type": "fill_blank",
+      "question": "Warum bleibst du zu Hause? — Weil ich krank ___.",
+      "answer": "bin",
+      "explanation": "Verb at the end of weil clause."
+    },
+    {
+      "id": 237,
+      "section": "Cases and articles",
+      "type": "fill_blank",
+      "question": "Ich sehe ___ Bruder. (my)",
+      "answer": "meinen",
+      "explanation": "Bruder is masculine Akkusativ; mein becomes meinen."
+    },
+    {
+      "id": 238,
+      "section": "Cases and articles",
+      "type": "fill_blank",
+      "question": "Ich spreche mit ___ Lehrerin. (the)",
+      "answer": "der",
+      "explanation": "mit takes Dativ; feminine die becomes der."
+    },
+    {
+      "id": 239,
+      "section": "Cases and articles",
+      "type": "fill_blank",
+      "question": "Er gibt ___ Kindern Süßigkeiten. (the)",
+      "answer": "den",
+      "explanation": "Dativ plural uses den."
+    },
+    {
+      "id": 240,
+      "section": "Prepositions",
+      "type": "fill_blank",
+      "question": "Wir gehen ___ Kino. (into the cinema)",
+      "answer": "ins",
+      "explanation": "Wohin? in + das becomes ins; Akkusativ."
+    },
+    {
+      "id": 241,
+      "section": "Prepositions",
+      "type": "fill_blank",
+      "question": "Wir sind ___ Kino. (in the cinema)",
+      "answer": "im",
+      "explanation": "Wo? in + dem becomes im; Dativ."
+    },
+    {
+      "id": 242,
+      "section": "Verb forms",
+      "type": "fill_blank",
+      "question": "Partizip II of kaufen: ___.",
+      "answer": "gekauft",
+      "explanation": "Regular verbs often form Partizip II with ge- + stem + -t."
+    },
+    {
+      "id": 243,
+      "section": "Verb forms",
+      "type": "fill_blank",
+      "question": "Partizip II of anrufen: ___.",
+      "answer": "angerufen",
+      "explanation": "Separable prefix an- plus ge inside; anrufen → angerufen."
+    },
+    {
+      "id": 244,
+      "section": "Verb forms",
+      "type": "fill_blank",
+      "question": "Sie ___ gestern lange gearbeitet. (haben)",
+      "answer": "hat",
+      "explanation": "arbeiten uses haben; with sie (she), hat."
+    },
+    {
+      "id": 245,
+      "section": "Word order",
+      "type": "fill_blank",
+      "question": "Ich mache das Fenster ___. (zumachen)",
+      "answer": "zu",
+      "explanation": "The separable prefix zu goes to the end."
+    },
+    {
+      "id": 246,
+      "section": "Word order",
+      "type": "fill_blank",
+      "question": "Kannst du mir bitte ___? (helfen)",
+      "answer": "helfen",
+      "explanation": "After modal kannst, the infinitive goes to the end."
+    },
+    {
+      "id": 247,
+      "section": "Negation",
+      "type": "fill_blank",
+      "question": "Ich habe ___ Bruder. (no brother)",
+      "answer": "keinen",
+      "explanation": "Bruder is masculine Akkusativ; kein becomes keinen."
+    },
+    {
+      "id": 248,
+      "section": "Preferences",
+      "type": "fill_blank",
+      "question": "Am liebsten ___ ich Musik. (hören)",
+      "answer": "höre",
+      "explanation": "The conjugated verb remains in position 2 after am liebsten."
+    },
+    {
+      "id": 249,
+      "section": "Time",
+      "type": "fill_blank",
+      "question": "Der Unterricht ist ___ Dienstag. (on Tuesday)",
+      "answer": "am",
+      "explanation": "Days use am."
+    },
+    {
+      "id": 250,
+      "section": "Adjectives",
+      "type": "fill_blank",
+      "question": "Die Kinder sind ___. (müde)",
+      "answer": "müde",
+      "explanation": "Adjectives after sein have no ending."
+    }
+  ],
+  "scoring": {
+    "suggested_points_per_question": 1,
+    "maximum_score": 250,
+    "bands": [
+      {
+        "min": 225,
+        "max": 250,
+        "label": "Excellent foundation mastery"
+      },
+      {
+        "min": 200,
+        "max": 224,
+        "label": "Strong; review a few weak areas"
+      },
+      {
+        "min": 175,
+        "max": 199,
+        "label": "Developing; revise missed topics"
+      },
+      {
+        "min": 125,
+        "max": 174,
+        "label": "Needs more practice"
+      },
+      {
+        "min": 0,
+        "max": 124,
+        "label": "Review the foundations and try again"
+      }
+    ]
+  },
+  "implementation_notes": {
+    "recommended_question_fields": [
+      "id",
+      "section",
+      "type",
+      "question",
+      "options",
+      "answer",
+      "explanation"
+    ],
+    "mcq_answer_storage": "The answer field stores the exact correct option text.",
+    "fill_blank_answer_storage": "The answer field stores the expected word or phrase. Trim spaces and allow case-insensitive matching where appropriate.",
+    "web_app_behavior": "Randomize questions and MCQ options only if the answer mapping is preserved. Show explanations after submission. Offer a review mode filtered by incorrect answers."
+  }
+}

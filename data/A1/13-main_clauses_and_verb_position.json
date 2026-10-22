@@ -1,0 +1,133 @@
+{
+  "order": 59,
+  "topic_number": 59,
+  "title": "Main Clauses and Verb Position",
+  "german_title": "Hauptsätze und Verbposition",
+  "level": "A1",
+  "language": "en",
+  "definition": "A German main clause is a complete statement that can stand on its own. In a standard main clause, the conjugated verb occupies the second sentence position (V2), even when another element begins the sentence.",
+  "rules": [
+    {
+      "title": "Subject first: verb second",
+      "explanation": "The subject is the first element and the conjugated verb is second.",
+      "examples": [
+        {
+          "german": "Ich gehe heute zur Arbeit.",
+          "english": "I am going to work today."
+        },
+        {
+          "german": "Meine Freundin wohnt in Berlin.",
+          "english": "My friend lives in Berlin."
+        }
+      ]
+    },
+    {
+      "title": "Another element first: verb still second",
+      "explanation": "When time, place, or another element is first, the subject usually moves after the verb.",
+      "examples": [
+        {
+          "german": "Heute gehe ich zur Arbeit.",
+          "english": "Today I am going to work."
+        },
+        {
+          "german": "Nach der Arbeit koche ich.",
+          "english": "After work I cook."
+        },
+        {
+          "german": "In Deutschland lerne ich Deutsch.",
+          "english": "In Germany I am learning German."
+        }
+      ]
+    },
+    {
+      "title": "Conjunctions und, aber, oder, denn",
+      "explanation": "These coordinating conjunctions do not change the normal verb-second order in the clause that follows.",
+      "examples": [
+        {
+          "german": "Ich lerne Deutsch und mein Bruder lernt Englisch.",
+          "english": "I learn German and my brother learns English."
+        },
+        {
+          "german": "Ich bin müde, aber ich gehe zur Arbeit.",
+          "english": "I am tired, but I am going to work."
+        },
+        {
+          "german": "Ich bleibe zu Hause, denn ich bin krank.",
+          "english": "I am staying at home because I am ill."
+        }
+      ]
+    },
+    {
+      "title": "Verb brackets with modal verbs",
+      "explanation": "With a modal verb, the modal is conjugated in position two and the main verb in the infinitive goes to the end.",
+      "examples": [
+        {
+          "german": "Ich kann heute nicht kommen.",
+          "english": "I cannot come today."
+        },
+        {
+          "german": "Am Abend muss ich arbeiten.",
+          "english": "In the evening I have to work."
+        }
+      ]
+    },
+    {
+      "title": "Verb brackets with separable verbs",
+      "explanation": "In a main clause, the conjugated verb part comes in position two and the separable prefix goes to the end.",
+      "examples": [
+        {
+          "german": "Ich stehe um sieben Uhr auf.",
+          "english": "I get up at seven o'clock."
+        },
+        {
+          "german": "Der Zug kommt um acht Uhr an.",
+          "english": "The train arrives at eight o'clock."
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "V2": {
+      "description": "The conjugated verb is the second sentence element.",
+      "example": "Morgen fahre ich nach Berlin."
+    },
+    "coordinating_conjunctions": [
+      "und",
+      "aber",
+      "oder",
+      "denn"
+    ]
+  },
+  "common_mistakes": [
+    {
+      "wrong": "Morgen ich fahre nach Berlin.",
+      "correct": "Morgen fahre ich nach Berlin.",
+      "explanation": "The conjugated verb must be in position two."
+    },
+    {
+      "wrong": "Ich aufstehe um sieben Uhr.",
+      "correct": "Ich stehe um sieben Uhr auf.",
+      "explanation": "A separable prefix goes to the end in a main clause."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "Ich arbeite heute.",
+      "english": "I work today."
+    },
+    {
+      "german": "Heute arbeite ich.",
+      "english": "Today I work."
+    },
+    {
+      "german": "Ich kann kommen.",
+      "english": "I can come."
+    },
+    {
+      "german": "Ich stehe früh auf.",
+      "english": "I get up early."
+    }
+  ],
+  "mastery_goal": "You can apply the verb-second rule when the subject is first or when time/place comes first, and recognize basic verb brackets.",
+  "next_topic": "Modal verbs"
+}

@@ -1,0 +1,178 @@
+{
+  "order": 71,
+  "topic_number": 71,
+  "title": "Adjectives and Descriptions",
+  "german_title": "Adjektive und Beschreibungen",
+  "level": "A1",
+  "language": "en",
+  "definition": "Adjectives describe people, objects, places, and feelings. In basic A1 sentences, adjectives after sein or werden do not take an ending: Das Haus ist groß. Adjectives placed directly before nouns can take endings, which are a later grammar step.",
+  "rules": [
+    {
+      "title": "Adjectives after sein",
+      "explanation": "After sein, the adjective normally stays in its basic form.",
+      "examples": [
+        {
+          "german": "Das Haus ist groß.",
+          "english": "The house is big."
+        },
+        {
+          "german": "Die Tasche ist teuer.",
+          "english": "The bag is expensive."
+        },
+        {
+          "german": "Ich bin müde.",
+          "english": "I am tired."
+        },
+        {
+          "german": "Die Kinder sind glücklich.",
+          "english": "The children are happy."
+        }
+      ]
+    },
+    {
+      "title": "Describe people",
+      "explanation": "Use common adjectives for appearance, personality, and feelings.",
+      "examples": [
+        {
+          "german": "Er ist freundlich.",
+          "english": "He is friendly."
+        },
+        {
+          "german": "Sie ist groß und sportlich.",
+          "english": "She is tall and athletic."
+        },
+        {
+          "german": "Mein Bruder ist lustig.",
+          "english": "My brother is funny."
+        },
+        {
+          "german": "Ich bin heute müde.",
+          "english": "I am tired today."
+        }
+      ]
+    },
+    {
+      "title": "Describe objects and places",
+      "explanation": "Adjectives can describe size, colour, price, age, and condition.",
+      "examples": [
+        {
+          "german": "Das Auto ist neu und schnell.",
+          "english": "The car is new and fast."
+        },
+        {
+          "german": "Die Wohnung ist klein, aber schön.",
+          "english": "The apartment is small but beautiful."
+        },
+        {
+          "german": "Der Kaffee ist heiß.",
+          "english": "The coffee is hot."
+        },
+        {
+          "german": "Das Handy ist teuer.",
+          "english": "The mobile phone is expensive."
+        }
+      ]
+    },
+    {
+      "title": "Opposites",
+      "explanation": "Learn adjectives in pairs to remember them more easily.",
+      "examples": [
+        {
+          "german": "groß ↔ klein",
+          "english": "big ↔ small"
+        },
+        {
+          "german": "alt ↔ jung / alt ↔ neu",
+          "english": "old ↔ young / old ↔ new"
+        },
+        {
+          "german": "teuer ↔ billig",
+          "english": "expensive ↔ cheap"
+        },
+        {
+          "german": "langsam ↔ schnell",
+          "english": "slow ↔ fast"
+        },
+        {
+          "german": "warm ↔ kalt",
+          "english": "warm ↔ cold"
+        },
+        {
+          "german": "hell ↔ dunkel",
+          "english": "light ↔ dark"
+        }
+      ]
+    },
+    {
+      "title": "Adjectives before nouns",
+      "explanation": "Before a noun, adjectives often take endings: ein großes Haus, eine schöne Wohnung. The ending depends on gender, case, and article; learn these patterns separately.",
+      "examples": [
+        {
+          "german": "ein großes Haus",
+          "english": "a big house"
+        },
+        {
+          "german": "eine schöne Wohnung",
+          "english": "a beautiful apartment"
+        },
+        {
+          "german": "einen kleinen Hund",
+          "english": "a small dog",
+          "note": "Accusative masculine ending -en."
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "after_sein": "Das Zimmer ist sauber. — The room is clean.",
+    "before_noun": "Das ist ein sauberes Zimmer. — That is a clean room."
+  },
+  "common_mistakes": [
+    {
+      "wrong": "Das Haus ist große.",
+      "correct": "Das Haus ist groß.",
+      "explanation": "After sein, the adjective has no ending."
+    },
+    {
+      "wrong": "Der Kaffee ist heißer (when simply meaning hot).",
+      "correct": "Der Kaffee ist heiß.",
+      "explanation": "Use the base adjective unless you are making a comparison."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "groß / klein",
+      "english": "big / small"
+    },
+    {
+      "german": "schön / hässlich",
+      "english": "beautiful / ugly"
+    },
+    {
+      "german": "teuer / billig",
+      "english": "expensive / cheap"
+    },
+    {
+      "german": "alt / jung",
+      "english": "old / young"
+    },
+    {
+      "german": "neu / alt",
+      "english": "new / old"
+    },
+    {
+      "german": "warm / kalt",
+      "english": "warm / cold"
+    },
+    {
+      "german": "freundlich",
+      "english": "friendly"
+    },
+    {
+      "german": "müde",
+      "english": "tired"
+    }
+  ],
+  "mastery_goal": "You can describe people, things, and places with common adjectives in short A1 sentences.",
+  "next_topic": "Demonstrative articles"
+}

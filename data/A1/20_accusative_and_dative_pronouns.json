@@ -1,0 +1,186 @@
+{
+  "order": 66,
+  "topic_number": 66,
+  "title": "Accusative and Dative Pronouns",
+  "german_title": "Akkusativ- und Dativpronomen",
+  "level": "A1",
+  "language": "en",
+  "definition": "German personal pronouns change depending on their grammatical case. Accusative pronouns commonly represent a direct object; dative pronouns commonly represent an indirect object or are required by certain verbs and prepositions.",
+  "rules": [
+    {
+      "title": "Accusative pronouns",
+      "explanation": "Learn these forms for direct objects: mich, dich, ihn, sie, es, uns, euch, sie, Sie.",
+      "examples": [
+        {
+          "german": "Er sieht mich.",
+          "english": "He sees me."
+        },
+        {
+          "german": "Ich kenne dich.",
+          "english": "I know you."
+        },
+        {
+          "german": "Wir besuchen ihn.",
+          "english": "We visit him."
+        },
+        {
+          "german": "Sie hört uns.",
+          "english": "She hears us."
+        }
+      ]
+    },
+    {
+      "title": "Dative pronouns",
+      "explanation": "Learn these forms: mir, dir, ihm, ihr, ihm, uns, euch, ihnen, Ihnen.",
+      "examples": [
+        {
+          "german": "Kannst du mir helfen?",
+          "english": "Can you help me?"
+        },
+        {
+          "german": "Ich danke dir.",
+          "english": "I thank you."
+        },
+        {
+          "german": "Wir geben ihm das Buch.",
+          "english": "We give him the book."
+        },
+        {
+          "german": "Das gefällt ihr.",
+          "english": "She likes that. / That appeals to her."
+        }
+      ]
+    },
+    {
+      "title": "Compare direct and indirect objects",
+      "explanation": "With verbs such as geben, the person receiving something is often dative and the thing given is accusative.",
+      "examples": [
+        {
+          "german": "Ich gebe dir das Buch.",
+          "english": "I give you the book.",
+          "note": "dir = dative recipient; das Buch = accusative thing given."
+        },
+        {
+          "german": "Sie zeigt mir den Weg.",
+          "english": "She shows me the way."
+        },
+        {
+          "german": "Kannst du uns einen Stift geben?",
+          "english": "Can you give us a pen?"
+        }
+      ]
+    },
+    {
+      "title": "Pronouns with common verbs",
+      "explanation": "Helfen takes dative; sehen takes accusative; gefallen commonly uses a dative pronoun for the person who likes something.",
+      "examples": [
+        {
+          "german": "Ich helfe ihm.",
+          "english": "I help him."
+        },
+        {
+          "german": "Ich sehe ihn.",
+          "english": "I see him."
+        },
+        {
+          "german": "Das gefällt mir.",
+          "english": "I like that."
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "pronoun_table": [
+      {
+        "person": "ich",
+        "accusative": "mich",
+        "dative": "mir"
+      },
+      {
+        "person": "du",
+        "accusative": "dich",
+        "dative": "dir"
+      },
+      {
+        "person": "er",
+        "accusative": "ihn",
+        "dative": "ihm"
+      },
+      {
+        "person": "sie (she)",
+        "accusative": "sie",
+        "dative": "ihr"
+      },
+      {
+        "person": "es",
+        "accusative": "es",
+        "dative": "ihm"
+      },
+      {
+        "person": "wir",
+        "accusative": "uns",
+        "dative": "uns"
+      },
+      {
+        "person": "ihr (you plural)",
+        "accusative": "euch",
+        "dative": "euch"
+      },
+      {
+        "person": "sie (they)",
+        "accusative": "sie",
+        "dative": "ihnen"
+      },
+      {
+        "person": "Sie (formal you)",
+        "accusative": "Sie",
+        "dative": "Ihnen"
+      }
+    ]
+  },
+  "common_mistakes": [
+    {
+      "wrong": "Kannst du ich helfen?",
+      "correct": "Kannst du mir helfen?",
+      "explanation": "Helfen takes the dative, so ich becomes mir."
+    },
+    {
+      "wrong": "Ich sehe ihm.",
+      "correct": "Ich sehe ihn.",
+      "explanation": "Sehen takes the accusative, so er becomes ihn."
+    },
+    {
+      "wrong": "Ich gebe du das Buch.",
+      "correct": "Ich gebe dir das Buch.",
+      "explanation": "The recipient is dative: du becomes dir."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "mich / mir",
+      "english": "me — accusative / dative"
+    },
+    {
+      "german": "dich / dir",
+      "english": "you — accusative / dative"
+    },
+    {
+      "german": "ihn / ihm",
+      "english": "him — accusative / dative"
+    },
+    {
+      "german": "sie / ihr",
+      "english": "her — accusative / dative"
+    },
+    {
+      "german": "uns / uns",
+      "english": "us — accusative / dative"
+    },
+    {
+      "german": "euch / euch",
+      "english": "you all — accusative / dative"
+    }
+  ],
+  "mastery_goal": "You can choose common accusative and dative pronouns and use them with frequent A1 verbs.",
+  "next_topic": "Prepositions of place"
+}

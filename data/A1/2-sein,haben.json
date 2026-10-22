@@ -1,0 +1,352 @@
+{
+  "order": 2,
+  "topic_number": 47,
+  "title": "The Verbs sein and haben",
+  "german_title": "Die Verben sein und haben",
+  "level": "A1",
+  "language": {
+    "explanation": "English",
+    "examples": "German with English translations"
+  },
+  "definition": {
+    "english": "Sein means 'to be' and haben means 'to have'. They are two essential German verbs used to describe identity, states, location, possession, and many common expressions.",
+    "examples": [
+      {
+        "german": "Ich bin Student.",
+        "english": "I am a student.",
+        "verb": "sein"
+      },
+      {
+        "german": "Ich habe ein Buch.",
+        "english": "I have a book.",
+        "verb": "haben"
+      }
+    ]
+  },
+  "conjugation": {
+    "sein": [
+      {
+        "pronoun": "ich",
+        "form": "bin",
+        "example": "Ich bin müde.",
+        "english": "I am tired."
+      },
+      {
+        "pronoun": "du",
+        "form": "bist",
+        "example": "Du bist nett.",
+        "english": "You are nice."
+      },
+      {
+        "pronoun": "er/sie/es",
+        "form": "ist",
+        "example": "Sie ist hier.",
+        "english": "She is here."
+      },
+      {
+        "pronoun": "wir",
+        "form": "sind",
+        "example": "Wir sind bereit.",
+        "english": "We are ready."
+      },
+      {
+        "pronoun": "ihr",
+        "form": "seid",
+        "example": "Ihr seid pünktlich.",
+        "english": "You are punctual."
+      },
+      {
+        "pronoun": "sie/Sie",
+        "form": "sind",
+        "example": "Sie sind freundlich.",
+        "english": "They are friendly. / You are friendly (formal)."
+      }
+    ],
+    "haben": [
+      {
+        "pronoun": "ich",
+        "form": "habe",
+        "example": "Ich habe Zeit.",
+        "english": "I have time."
+      },
+      {
+        "pronoun": "du",
+        "form": "hast",
+        "example": "Du hast einen Bruder.",
+        "english": "You have a brother."
+      },
+      {
+        "pronoun": "er/sie/es",
+        "form": "hat",
+        "example": "Er hat ein Auto.",
+        "english": "He has a car."
+      },
+      {
+        "pronoun": "wir",
+        "form": "haben",
+        "example": "Wir haben Hunger.",
+        "english": "We are hungry. (Literally: We have hunger.)"
+      },
+      {
+        "pronoun": "ihr",
+        "form": "habt",
+        "example": "Ihr habt eine Frage.",
+        "english": "You have a question."
+      },
+      {
+        "pronoun": "sie/Sie",
+        "form": "haben",
+        "example": "Sie haben Zeit.",
+        "english": "They have time. / You have time (formal)."
+      }
+    ]
+  },
+  "usage_rules": [
+    {
+      "title": "Use sein for identity and profession",
+      "rule": "Use sein to say who someone is or what their profession is. Professions usually appear without an indefinite article when stating someone's job.",
+      "examples": [
+        {
+          "german": "Ich bin Salman.",
+          "english": "I am Salman."
+        },
+        {
+          "german": "Er ist Lehrer.",
+          "english": "He is a teacher."
+        },
+        {
+          "german": "Wir sind Studenten.",
+          "english": "We are students."
+        }
+      ]
+    },
+    {
+      "title": "Use sein for condition, description, and location",
+      "rule": "Use sein with adjectives and to say where a person or thing is.",
+      "examples": [
+        {
+          "german": "Ich bin müde.",
+          "english": "I am tired."
+        },
+        {
+          "german": "Das Wetter ist kalt.",
+          "english": "The weather is cold."
+        },
+        {
+          "german": "Wir sind in Chemnitz.",
+          "english": "We are in Chemnitz."
+        }
+      ]
+    },
+    {
+      "title": "Use haben for possession",
+      "rule": "Use haben to say that someone owns or has something. The thing possessed is often in the accusative case; this case is studied in a later topic.",
+      "examples": [
+        {
+          "german": "Ich habe ein Handy.",
+          "english": "I have a mobile phone."
+        },
+        {
+          "german": "Sie hat eine Tasche.",
+          "english": "She has a bag."
+        },
+        {
+          "german": "Wir haben zwei Bücher.",
+          "english": "We have two books."
+        }
+      ]
+    },
+    {
+      "title": "Use haben in common expressions",
+      "rule": "German uses haben in expressions where English often uses 'be'. Learn these as fixed phrases.",
+      "examples": [
+        {
+          "german": "Ich habe Hunger.",
+          "english": "I am hungry. (Literally: I have hunger.)"
+        },
+        {
+          "german": "Ich habe Durst.",
+          "english": "I am thirsty. (Literally: I have thirst.)"
+        },
+        {
+          "german": "Ich habe Zeit.",
+          "english": "I have time."
+        },
+        {
+          "german": "Ich habe Angst.",
+          "english": "I am afraid. (Literally: I have fear.)"
+        },
+        {
+          "german": "Ich habe Glück.",
+          "english": "I am lucky. (Literally: I have luck.)"
+        }
+      ]
+    },
+    {
+      "title": "Use haben for age",
+      "rule": "German expresses age with haben, not sein.",
+      "examples": [
+        {
+          "german": "Ich bin 27 Jahre alt.",
+          "english": "I am 27 years old.",
+          "note": "Age is an exception: German uses sein here, not haben."
+        }
+      ]
+    }
+  ],
+  "sentence_structure": {
+    "statement": {
+      "rule": "In a normal main clause, the conjugated verb usually occupies the second position.",
+      "examples": [
+        {
+          "german": "Ich bin müde.",
+          "english": "I am tired."
+        },
+        {
+          "german": "Heute habe ich Zeit.",
+          "english": "Today I have time."
+        }
+      ]
+    },
+    "yes_no_question": {
+      "rule": "For a yes/no question, put the conjugated verb before the subject.",
+      "examples": [
+        {
+          "german": "Bist du müde?",
+          "english": "Are you tired?"
+        },
+        {
+          "german": "Hast du Zeit?",
+          "english": "Do you have time?"
+        }
+      ]
+    },
+    "negation": {
+      "rule": "Use nicht to negate many adjectives or states, and kein to negate an indefinite noun. More detailed negation rules are covered in Topic 55.",
+      "examples": [
+        {
+          "german": "Ich bin nicht müde.",
+          "english": "I am not tired."
+        },
+        {
+          "german": "Ich habe kein Auto.",
+          "english": "I do not have a car."
+        }
+      ]
+    }
+  },
+  "comparison": [
+    {
+      "meaning": "to be",
+      "german_verb": "sein",
+      "example": "Ich bin müde.",
+      "english": "I am tired."
+    },
+    {
+      "meaning": "to have",
+      "german_verb": "haben",
+      "example": "Ich habe Zeit.",
+      "english": "I have time."
+    },
+    {
+      "meaning": "age",
+      "german_verb": "sein",
+      "example": "Ich bin 27 Jahre alt.",
+      "english": "I am 27 years old."
+    },
+    {
+      "meaning": "hunger or thirst",
+      "german_verb": "haben",
+      "example": "Ich habe Hunger.",
+      "english": "I am hungry."
+    }
+  ],
+  "common_mistakes": [
+    {
+      "incorrect": "Ich ist müde.",
+      "correct": "Ich bin müde.",
+      "explanation": "Use bin with ich."
+    },
+    {
+      "incorrect": "Du seid nett.",
+      "correct": "Du bist nett.",
+      "explanation": "Use bist with du."
+    },
+    {
+      "incorrect": "Er haben ein Auto.",
+      "correct": "Er hat ein Auto.",
+      "explanation": "Use hat with er, sie, or es."
+    },
+    {
+      "incorrect": "Ich habe 27 Jahre alt.",
+      "correct": "Ich bin 27 Jahre alt.",
+      "explanation": "German expresses age with sein."
+    },
+    {
+      "incorrect": "Ich bin Hunger.",
+      "correct": "Ich habe Hunger.",
+      "explanation": "The fixed German expression uses haben."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "ich bin",
+      "english": "I am"
+    },
+    {
+      "german": "du bist",
+      "english": "you are (informal singular)"
+    },
+    {
+      "german": "er/sie/es ist",
+      "english": "he/she/it is"
+    },
+    {
+      "german": "wir sind",
+      "english": "we are"
+    },
+    {
+      "german": "ihr seid",
+      "english": "you are (informal plural)"
+    },
+    {
+      "german": "sie/Sie sind",
+      "english": "they are / you are (formal)"
+    },
+    {
+      "german": "ich habe",
+      "english": "I have"
+    },
+    {
+      "german": "du hast",
+      "english": "you have (informal singular)"
+    },
+    {
+      "german": "er/sie/es hat",
+      "english": "he/she/it has"
+    },
+    {
+      "german": "wir haben",
+      "english": "we have"
+    },
+    {
+      "german": "ihr habt",
+      "english": "you have (informal plural)"
+    },
+    {
+      "german": "sie/Sie haben",
+      "english": "they have / you have (formal)"
+    }
+  ],
+  "mastery_goal": [
+    "Conjugate sein and haben with all personal pronouns.",
+    "Choose sein for identity, descriptions, conditions, and location.",
+    "Choose haben for possession and expressions such as Hunger and Durst.",
+    "Form yes/no questions by placing the conjugated verb first.",
+    "Avoid common mistakes involving bin, bist, ist, sind, habe, hast, hat, haben, and habt."
+  ],
+  "next_topic": {
+    "number": 48,
+    "title": "Regular verbs in the present tense"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "order": 74,
+  "topic_number": 74,
+  "title": "Dates and Ordinal Numbers",
+  "german_title": "Datum und Ordnungszahlen",
+  "level": "A1",
+  "language": "en",
+  "definition": "Dates in German commonly use ordinal numbers for the day, followed by the month. Written dates often use day.month.year, for example 22.10.2026. Ordinal numbers are also used for floors, order, and birthdays.",
+  "rules": [
+    {
+      "title": "Ask for and give the date",
+      "explanation": "Ask Welches Datum haben wir heute? or Der Wievielte ist heute? A common answer is Heute ist der ...",
+      "examples": [
+        {
+          "german": "Welches Datum haben wir heute?",
+          "english": "What is today's date?"
+        },
+        {
+          "german": "Heute ist der zweiundzwanzigste Oktober.",
+          "english": "Today is the twenty-second of October."
+        },
+        {
+          "german": "Mein Geburtstag ist am fünften Mai.",
+          "english": "My birthday is on the fifth of May."
+        }
+      ]
+    },
+    {
+      "title": "Written date format",
+      "explanation": "In German, the usual written order is day, month, year, with dots after the day and month numbers.",
+      "examples": [
+        {
+          "german": "22.10.2026",
+          "english": "22 October 2026"
+        },
+        {
+          "german": "05.05.1998",
+          "english": "5 May 1998"
+        }
+      ]
+    },
+    {
+      "title": "Ordinal numbers",
+      "explanation": "From 1 to 19, ordinal numbers commonly take -te; from 20 onward they commonly take -ste. Some forms are irregular and should be memorized.",
+      "examples": [
+        {
+          "german": "erste",
+          "english": "first"
+        },
+        {
+          "german": "dritte",
+          "english": "third"
+        },
+        {
+          "german": "vierte",
+          "english": "fourth"
+        },
+        {
+          "german": "siebte",
+          "english": "seventh"
+        },
+        {
+          "german": "achte",
+          "english": "eighth"
+        },
+        {
+          "german": "zwanzigste",
+          "english": "twentieth"
+        },
+        {
+          "german": "zweiundzwanzigste",
+          "english": "twenty-second"
+        }
+      ]
+    },
+    {
+      "title": "Dates with am",
+      "explanation": "When giving the date of an event, am is followed by the dative form of the ordinal number, commonly ending in -ten or -sten.",
+      "examples": [
+        {
+          "german": "am ersten Januar",
+          "english": "on the first of January"
+        },
+        {
+          "german": "am dritten März",
+          "english": "on the third of March"
+        },
+        {
+          "german": "am zwanzigsten Juni",
+          "english": "on the twentieth of June"
+        }
+      ]
+    },
+    {
+      "title": "Birthdays and invitations",
+      "explanation": "Use Geburtstag for birthday and Wann hast du Geburtstag? to ask when someone's birthday is.",
+      "examples": [
+        {
+          "german": "Wann hast du Geburtstag?",
+          "english": "When is your birthday?"
+        },
+        {
+          "german": "Ich habe am zwölften August Geburtstag.",
+          "english": "My birthday is on the twelfth of August."
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "written_date": "22.10.2026",
+    "spoken_date": "der zweiundzwanzigste Oktober",
+    "with_am": "am zweiundzwanzigsten Oktober"
+  },
+  "common_mistakes": [
+    {
+      "wrong": "am zweiundzwanzigste Oktober",
+      "correct": "am zweiundzwanzigsten Oktober",
+      "explanation": "After am, the ordinal takes the dative ending -en."
+    },
+    {
+      "wrong": "10.22.2026",
+      "correct": "22.10.2026",
+      "explanation": "German dates normally use day.month.year."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "erste",
+      "english": "first"
+    },
+    {
+      "german": "zweite",
+      "english": "second"
+    },
+    {
+      "german": "dritte",
+      "english": "third"
+    },
+    {
+      "german": "vierte",
+      "english": "fourth"
+    },
+    {
+      "german": "siebte",
+      "english": "seventh"
+    },
+    {
+      "german": "zwanzigste",
+      "english": "twentieth"
+    },
+    {
+      "german": "am ersten Mai",
+      "english": "on the first of May"
+    }
+  ],
+  "mastery_goal": "You can read and say common dates, ask about birthdays, and use basic ordinal numbers with am.",
+  "next_topic": "Frequency words"
+}

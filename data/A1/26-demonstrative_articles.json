@@ -1,0 +1,157 @@
+{
+  "order": 72,
+  "topic_number": 72,
+  "title": "Demonstrative Articles",
+  "german_title": "Demonstrativartikel",
+  "level": "A1",
+  "language": "en",
+  "definition": "Demonstrative words point to a particular person or thing, often meaning 'this', 'that', or 'these'. In A1 German, dieser, diese, dieses change according to the noun's gender, number, and case. In everyday speech, das is also commonly used to point something out.",
+  "rules": [
+    {
+      "title": "Basic forms in the nominative",
+      "explanation": "Use dieser with masculine nouns, diese with feminine and plural nouns, and dieses with neuter nouns.",
+      "examples": [
+        {
+          "german": "Dieser Mann ist mein Lehrer.",
+          "english": "This man is my teacher."
+        },
+        {
+          "german": "Diese Frau ist nett.",
+          "english": "This woman is nice."
+        },
+        {
+          "german": "Dieses Kind ist müde.",
+          "english": "This child is tired."
+        },
+        {
+          "german": "Diese Bücher sind interessant.",
+          "english": "These books are interesting."
+        }
+      ]
+    },
+    {
+      "title": "Pointing with das",
+      "explanation": "Das ist ... is a very common way to identify or point at something.",
+      "examples": [
+        {
+          "german": "Was ist das? — Das ist ein Schlüssel.",
+          "english": "What is that? — That is a key."
+        },
+        {
+          "german": "Wer ist das? — Das ist meine Schwester.",
+          "english": "Who is that? — That is my sister."
+        }
+      ]
+    },
+    {
+      "title": "Demonstratives in the accusative",
+      "explanation": "In the accusative, masculine dieser changes to diesen. Feminine diese, neuter dieses, and plural diese stay the same.",
+      "examples": [
+        {
+          "german": "Ich kenne diesen Mann.",
+          "english": "I know this man."
+        },
+        {
+          "german": "Ich kaufe diese Tasche.",
+          "english": "I am buying this bag."
+        },
+        {
+          "german": "Ich lese dieses Buch.",
+          "english": "I am reading this book."
+        }
+      ]
+    },
+    {
+      "title": "Demonstratives in the dative",
+      "explanation": "In the dative, common forms are diesem (masculine/neuter), dieser (feminine), and diesen (plural, usually with -n on the noun if possible).",
+      "examples": [
+        {
+          "german": "Ich helfe diesem Mann.",
+          "english": "I help this man."
+        },
+        {
+          "german": "Ich spreche mit dieser Frau.",
+          "english": "I speak with this woman."
+        },
+        {
+          "german": "Ich spiele mit diesen Kindern.",
+          "english": "I play with these children."
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "nominative": [
+      {
+        "gender": "Masculine",
+        "form": "dieser Mann"
+      },
+      {
+        "gender": "Feminine",
+        "form": "diese Frau"
+      },
+      {
+        "gender": "Neuter",
+        "form": "dieses Kind"
+      },
+      {
+        "gender": "Plural",
+        "form": "diese Kinder"
+      }
+    ],
+    "accusative": [
+      {
+        "gender": "Masculine",
+        "form": "diesen Mann"
+      },
+      {
+        "gender": "Feminine",
+        "form": "diese Frau"
+      },
+      {
+        "gender": "Neuter",
+        "form": "dieses Kind"
+      },
+      {
+        "gender": "Plural",
+        "form": "diese Kinder"
+      }
+    ]
+  },
+  "common_mistakes": [
+    {
+      "wrong": "Diese Mann ist nett.",
+      "correct": "Dieser Mann ist nett.",
+      "explanation": "Mann is masculine nominative, so use dieser."
+    },
+    {
+      "wrong": "Ich kenne dieser Mann.",
+      "correct": "Ich kenne diesen Mann.",
+      "explanation": "Masculine accusative uses diesen."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "dieser Mann",
+      "english": "this man"
+    },
+    {
+      "german": "diese Frau",
+      "english": "this woman"
+    },
+    {
+      "german": "dieses Kind",
+      "english": "this child"
+    },
+    {
+      "german": "diese Kinder",
+      "english": "these children"
+    },
+    {
+      "german": "diesen Mann",
+      "english": "this man — accusative"
+    }
+  ],
+  "mastery_goal": "You can point out people and things and use basic dieser/diese/dieses forms in common cases.",
+  "next_topic": "Time expressions and clock times"
+}

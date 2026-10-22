@@ -1,0 +1,164 @@
+{
+  "order": 61,
+  "topic_number": 61,
+  "title": "Separable Verbs",
+  "german_title": "Trennbare Verben",
+  "level": "A1",
+  "language": "en",
+  "definition": "Some German verbs have a prefix that separates from the main verb in a main clause. The conjugated verb stem stays in its usual position and the prefix moves to the end.",
+  "rules": [
+    {
+      "title": "Basic structure",
+      "explanation": "In a simple main clause, conjugate the verb and place its separable prefix at the end.",
+      "examples": [
+        {
+          "german": "Ich stehe um sieben Uhr auf.",
+          "english": "I get up at seven o'clock."
+        },
+        {
+          "german": "Er kauft heute ein.",
+          "english": "He shops today."
+        },
+        {
+          "german": "Wir rufen dich an.",
+          "english": "We call you."
+        }
+      ]
+    },
+    {
+      "title": "Common separable prefixes",
+      "explanation": "Common separable prefixes include an-, auf-, ein-, aus-, mit-, ab-, zurück-, and vor-.",
+      "examples": [
+        {
+          "german": "anrufen",
+          "english": "to call"
+        },
+        {
+          "german": "aufstehen",
+          "english": "to get up"
+        },
+        {
+          "german": "einkaufen",
+          "english": "to shop"
+        },
+        {
+          "german": "ausgehen",
+          "english": "to go out"
+        },
+        {
+          "german": "mitkommen",
+          "english": "to come along"
+        },
+        {
+          "german": "zurückkommen",
+          "english": "to come back"
+        }
+      ]
+    },
+    {
+      "title": "Conjugation and separation",
+      "explanation": "The verb stem is conjugated according to the subject, while the prefix remains unchanged at the end.",
+      "examples": [
+        {
+          "german": "Ich rufe dich an.",
+          "english": "I call you."
+        },
+        {
+          "german": "Du rufst mich an.",
+          "english": "You call me."
+        },
+        {
+          "german": "Sie ruft ihre Mutter an.",
+          "english": "She calls her mother."
+        }
+      ]
+    },
+    {
+      "title": "In yes/no and W-questions",
+      "explanation": "The prefix still goes to the end of a main-clause question.",
+      "examples": [
+        {
+          "german": "Stehst du früh auf?",
+          "english": "Do you get up early?"
+        },
+        {
+          "german": "Wann kaufst du ein?",
+          "english": "When do you go shopping?"
+        },
+        {
+          "german": "Rufst du mich heute an?",
+          "english": "Will you call me today?"
+        }
+      ]
+    },
+    {
+      "title": "With modal verbs",
+      "explanation": "When a separable verb is used as the infinitive after a modal verb, it usually stays together at the end.",
+      "examples": [
+        {
+          "german": "Ich muss früh aufstehen.",
+          "english": "I have to get up early."
+        },
+        {
+          "german": "Wir wollen heute einkaufen.",
+          "english": "We want to go shopping."
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "main_clause": {
+      "pattern": "Subject + conjugated verb + ... + prefix",
+      "example": "Ich mache das Fenster auf."
+    },
+    "with_modal": {
+      "pattern": "Subject + modal verb + ... + full infinitive",
+      "example": "Ich muss aufstehen."
+    }
+  },
+  "common_mistakes": [
+    {
+      "wrong": "Ich aufstehe um sieben Uhr.",
+      "correct": "Ich stehe um sieben Uhr auf.",
+      "explanation": "The prefix moves to the end in a main clause."
+    },
+    {
+      "wrong": "Ich stehe auf um sieben Uhr.",
+      "correct": "Ich stehe um sieben Uhr auf.",
+      "explanation": "Put the prefix at the end after the other sentence information in this neutral example."
+    },
+    {
+      "wrong": "Ich muss stehe früh auf.",
+      "correct": "Ich muss früh aufstehen.",
+      "explanation": "After a modal verb, use the full infinitive."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "aufstehen",
+      "english": "to get up"
+    },
+    {
+      "german": "einkaufen",
+      "english": "to shop"
+    },
+    {
+      "german": "anrufen",
+      "english": "to call"
+    },
+    {
+      "german": "ausgehen",
+      "english": "to go out"
+    },
+    {
+      "german": "mitkommen",
+      "english": "to come along"
+    },
+    {
+      "german": "zurückkommen",
+      "english": "to come back"
+    }
+  ],
+  "mastery_goal": "You can recognize common separable verbs, separate the prefix in main clauses, and keep the infinitive together after a modal verb.",
+  "next_topic": "Imperative sentences"
+}

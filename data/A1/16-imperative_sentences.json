@@ -1,0 +1,179 @@
+{
+  "order": 62,
+  "topic_number": 62,
+  "title": "Imperative Sentences",
+  "german_title": "Imperativ",
+  "level": "A1",
+  "language": "en",
+  "definition": "The imperative is used to give instructions, requests, advice, or commands. German forms differ for du (one person informally), ihr (several people informally), and Sie (formal).",
+  "rules": [
+    {
+      "title": "Imperative with du",
+      "explanation": "Usually use the verb stem without the subject pronoun du. Many verbs use the stem alone; some can take -e. Verbs with a stem vowel change may keep that change.",
+      "examples": [
+        {
+          "german": "Komm bitte!",
+          "english": "Please come!"
+        },
+        {
+          "german": "Mach die Tür zu!",
+          "english": "Close the door!"
+        },
+        {
+          "german": "Lies den Text!",
+          "english": "Read the text!"
+        }
+      ]
+    },
+    {
+      "title": "Imperative with ihr",
+      "explanation": "Use the same verb form as the present-tense ihr form, but omit ihr.",
+      "examples": [
+        {
+          "german": "Kommt bitte!",
+          "english": "Please come!"
+        },
+        {
+          "german": "Macht die Tür zu!",
+          "english": "Close the door!"
+        },
+        {
+          "german": "Lest den Text!",
+          "english": "Read the text!"
+        }
+      ]
+    },
+    {
+      "title": "Formal imperative with Sie",
+      "explanation": "Use the infinitive + Sie, with the verb first.",
+      "examples": [
+        {
+          "german": "Kommen Sie bitte!",
+          "english": "Please come!"
+        },
+        {
+          "german": "Warten Sie hier!",
+          "english": "Wait here!"
+        },
+        {
+          "german": "Sprechen Sie langsam!",
+          "english": "Speak slowly!"
+        }
+      ]
+    },
+    {
+      "title": "Polite requests with bitte",
+      "explanation": "Bitte makes a command or request more polite.",
+      "examples": [
+        {
+          "german": "Helfen Sie mir bitte.",
+          "english": "Please help me."
+        },
+        {
+          "german": "Mach bitte das Fenster auf.",
+          "english": "Please open the window."
+        },
+        {
+          "german": "Seid bitte leise.",
+          "english": "Please be quiet."
+        }
+      ]
+    },
+    {
+      "title": "Separable verbs in the imperative",
+      "explanation": "For du and ihr commands, the prefix is usually placed at the end. In formal commands, the infinitive comes first and the prefix stays attached.",
+      "examples": [
+        {
+          "german": "Steh bitte auf!",
+          "english": "Please get up!"
+        },
+        {
+          "german": "Steht bitte auf!",
+          "english": "Please get up! — to several people"
+        },
+        {
+          "german": "Stehen Sie bitte auf!",
+          "english": "Please get up! — formal"
+        }
+      ]
+    },
+    {
+      "title": "Common irregular forms",
+      "explanation": "Memorize frequent imperative forms, especially sein.",
+      "examples": [
+        {
+          "german": "Sei vorsichtig!",
+          "english": "Be careful! — du"
+        },
+        {
+          "german": "Seid vorsichtig!",
+          "english": "Be careful! — ihr"
+        },
+        {
+          "german": "Seien Sie vorsichtig!",
+          "english": "Be careful! — formal"
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "forms": [
+      {
+        "person": "du",
+        "pattern": "verb stem / imperative form",
+        "example": "Komm!"
+      },
+      {
+        "person": "ihr",
+        "pattern": "present-tense ihr form without ihr",
+        "example": "Kommt!"
+      },
+      {
+        "person": "Sie",
+        "pattern": "infinitive + Sie",
+        "example": "Kommen Sie!"
+      }
+    ]
+  },
+  "common_mistakes": [
+    {
+      "wrong": "Du komm!",
+      "correct": "Komm!",
+      "explanation": "The du pronoun is normally omitted in an imperative."
+    },
+    {
+      "wrong": "Kommst Sie bitte!",
+      "correct": "Kommen Sie bitte!",
+      "explanation": "Formal imperative uses the infinitive followed by Sie."
+    },
+    {
+      "wrong": "Aufsteh bitte!",
+      "correct": "Steh bitte auf!",
+      "explanation": "The separable prefix moves to the end for this du command."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "Komm!",
+      "english": "Come! — informal singular"
+    },
+    {
+      "german": "Kommt!",
+      "english": "Come! — informal plural"
+    },
+    {
+      "german": "Kommen Sie!",
+      "english": "Come! — formal"
+    },
+    {
+      "german": "Bitte warten Sie.",
+      "english": "Please wait."
+    },
+    {
+      "german": "Sei vorsichtig!",
+      "english": "Be careful! — informal singular"
+    }
+  ],
+  "mastery_goal": "You can give simple commands and polite requests using du, ihr, and Sie imperative forms.",
+  "next_topic": "Sentence connectors and basic conjunctions"
+}

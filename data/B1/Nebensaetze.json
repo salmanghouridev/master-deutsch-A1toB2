@@ -1,0 +1,48 @@
+{
+  "order": 1,
+  "category": "Sentence structure",
+  "title": "Nebensätze",
+  "titleEn": "Subordinate Clauses with weil, dass, obwohl & wenn",
+  "summary": "A subordinate clause (*Nebensatz*) cannot stand alone and is always separated by a comma. After a subordinating conjunction (*weil, dass, obwohl, wenn, als, ob*), the **conjugated verb moves to the very end** of the clause.",
+  "explanation": "While German main clauses keep the conjugated verb in Position 2, subordinate clauses push the conjugated verb (including auxiliaries and modals) to the final position right before the period or comma.",
+  "table": {
+    "headers": ["Conjunction", "Meaning", "Example (Verb at the end)"],
+    "rows": [
+      ["**weil / da**", "because / since", "Ich bleibe zu Hause, **weil** ich heute krank **bin**."],
+      ["**dass**", "that", "Ich weiß, **dass** er morgen **ankommt**."],
+      ["**obwohl**", "although", "Er geht spazieren, **obwohl** es stark **regnet**."],
+      ["**wenn**", "if / whenever", "**Wenn** ich Zeit **habe**, **lese** ich ein Buch."],
+      ["**als**", "when (single past event)", "**Als** ich ein Kind **war**, **lebte** ich in Wien."]
+    ]
+  },
+  "rules": [
+    "In a *Nebensatz*, the conjugated verb stands at the **very end** of the clause.",
+    "Separable verbs stay **joined together** at the end of a *Nebensatz* (*..., weil der Zug um 8 Uhr **ankommt***).",
+    "**Verb-Comma-Verb Rule:** When a sentence begins with the *Nebensatz*, the entire subordinate clause occupies Position 1 of the main clause, so the main clause begins immediately with its conjugated verb."
+  ],
+  "examples": [
+    { "de": "Ich lerne Deutsch, **weil** ich in Deutschland arbeiten **möchte**.", "en": "I am learning German because I want to work in Germany." },
+    { "de": "**Weil** ich krank **bin**, **bleibe** ich heute im Bett.", "en": "Because I am sick, I am staying in bed today." },
+    { "de": "Sie fragt, **ob** der Kurs heute **stattfindet**.", "en": "She asks whether the course is taking place today." }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Ich bleibe zu Hause, weil ich bin müde.",
+      "correct": "Ich bleibe zu Hause, weil ich müde bin.",
+      "explanation": "'weil' is a subordinating conjunction, so the conjugated verb 'bin' must go to the end of the clause."
+    },
+    {
+      "incorrect": "Wenn es regnet, ich bleibe zu Hause.",
+      "correct": "Wenn es regnet, bleibe ich zu Hause.",
+      "explanation": "The Nebensatz occupies Position 1, so the main clause must follow immediately with its verb (bleibe)."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Er kauft das Auto nicht, obwohl es sehr günstig ___ (sein).",
+      "answer": "ist",
+      "hint": "Conjugated verb 'ist' goes to the very end after 'obwohl'."
+    }
+  ],
+  "note": "Use **als** only for a single, completed event or period in the past (*Als ich 10 Jahre alt war...*). For present, future, or repeated past events, use **wenn**."
+}

@@ -1,0 +1,158 @@
+{
+  "order": 73,
+  "topic_number": 73,
+  "title": "Time Expressions and Clock Times",
+  "german_title": "Zeitangaben und Uhrzeiten",
+  "level": "A1",
+  "language": "en",
+  "definition": "German uses specific expressions to ask and tell the time, talk about daily schedules, and describe when events happen. Official time often uses the 24-hour clock; everyday speech also uses informal expressions such as halb acht.",
+  "rules": [
+    {
+      "title": "Ask and tell the time",
+      "explanation": "Ask Wie spät ist es? or Wie viel Uhr ist es? Use Es ist ... to answer.",
+      "examples": [
+        {
+          "german": "Wie spät ist es?",
+          "english": "What time is it?"
+        },
+        {
+          "german": "Es ist acht Uhr.",
+          "english": "It is eight o'clock."
+        },
+        {
+          "german": "Es ist acht Uhr fünfzehn.",
+          "english": "It is 8:15."
+        },
+        {
+          "german": "Es ist vierzehn Uhr dreißig.",
+          "english": "It is 14:30."
+        }
+      ]
+    },
+    {
+      "title": "Informal time expressions",
+      "explanation": "German halb refers to the half-hour before the next hour. Viertel nach means quarter past; Viertel vor means quarter to.",
+      "examples": [
+        {
+          "german": "halb acht",
+          "english": "7:30",
+          "note": "Halfway to eight."
+        },
+        {
+          "german": "Viertel nach drei",
+          "english": "3:15"
+        },
+        {
+          "german": "Viertel vor vier",
+          "english": "3:45"
+        },
+        {
+          "german": "zehn nach sechs",
+          "english": "6:10"
+        },
+        {
+          "german": "zehn vor sechs",
+          "english": "5:50"
+        }
+      ]
+    },
+    {
+      "title": "At what time?",
+      "explanation": "Use um before a clock time.",
+      "examples": [
+        {
+          "german": "Der Unterricht beginnt um neun Uhr.",
+          "english": "Class starts at nine o'clock."
+        },
+        {
+          "german": "Ich gehe um halb sieben zur Arbeit.",
+          "english": "I go to work at 6:30."
+        }
+      ]
+    },
+    {
+      "title": "Parts of the day",
+      "explanation": "Use am with many parts of the day, but in der Nacht for at night.",
+      "examples": [
+        {
+          "german": "am Morgen",
+          "english": "in the morning"
+        },
+        {
+          "german": "am Nachmittag",
+          "english": "in the afternoon"
+        },
+        {
+          "german": "am Abend",
+          "english": "in the evening"
+        },
+        {
+          "german": "in der Nacht",
+          "english": "at night"
+        }
+      ]
+    },
+    {
+      "title": "Useful schedule phrases",
+      "explanation": "Use von ... bis for a time range and gegen for approximately.",
+      "examples": [
+        {
+          "german": "Ich arbeite von neun bis fünf.",
+          "english": "I work from nine to five."
+        },
+        {
+          "german": "Der Bus kommt gegen zehn Uhr.",
+          "english": "The bus arrives around ten o'clock."
+        },
+        {
+          "german": "Ich stehe jeden Tag um sieben Uhr auf.",
+          "english": "I get up at seven every day."
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "formal": "Es ist siebzehn Uhr fünfundvierzig. — It is 17:45.",
+    "informal": "Es ist Viertel vor sechs. — It is 5:45."
+  },
+  "common_mistakes": [
+    {
+      "wrong": "Es ist halb acht meaning 8:30.",
+      "correct": "Es ist halb acht = 7:30.",
+      "explanation": "Halb acht means halfway to eight."
+    },
+    {
+      "wrong": "Ich komme am acht Uhr.",
+      "correct": "Ich komme um acht Uhr.",
+      "explanation": "Use um for clock times."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "Wie spät ist es?",
+      "english": "What time is it?"
+    },
+    {
+      "german": "Es ist ... Uhr.",
+      "english": "It is ... o'clock."
+    },
+    {
+      "german": "halb acht",
+      "english": "7:30"
+    },
+    {
+      "german": "Viertel nach drei",
+      "english": "3:15"
+    },
+    {
+      "german": "Viertel vor vier",
+      "english": "3:45"
+    },
+    {
+      "german": "um",
+      "english": "at (a clock time)"
+    }
+  ],
+  "mastery_goal": "You can ask for and tell the time, understand common informal clock expressions, and describe a daily schedule.",
+  "next_topic": "Dates and ordinal numbers"
+}

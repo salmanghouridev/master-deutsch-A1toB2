@@ -1,0 +1,120 @@
+{
+  "order": 58,
+  "topic_number": 58,
+  "title": "Sentence Structure",
+  "german_title": "Satzbau",
+  "level": "A1",
+  "language": "en",
+  "definition": "German sentence structure describes where the subject, conjugated verb, and other sentence parts go. In a normal main clause, the conjugated verb is in position two; questions and commands follow different patterns.",
+  "rules": [
+    {
+      "title": "Basic statement",
+      "explanation": "A common pattern is subject + conjugated verb + other information.",
+      "examples": [
+        {
+          "german": "Ich lerne Deutsch.",
+          "english": "I am learning German."
+        },
+        {
+          "german": "Wir wohnen in Chemnitz.",
+          "english": "We live in Chemnitz."
+        }
+      ]
+    },
+    {
+      "title": "The conjugated verb is in position two",
+      "explanation": "Position two means the second sentence element, not always the second word. If time or place comes first, the subject usually comes after the verb.",
+      "examples": [
+        {
+          "german": "Heute lerne ich Deutsch.",
+          "english": "Today I am learning German."
+        },
+        {
+          "german": "Am Montag arbeite ich.",
+          "english": "On Monday I work."
+        },
+        {
+          "german": "In Chemnitz wohne ich.",
+          "english": "I live in Chemnitz."
+        }
+      ]
+    },
+    {
+      "title": "Time, manner, place",
+      "explanation": "A useful neutral order for several details is time, manner, place (TMP), although emphasis and context can change the order.",
+      "examples": [
+        {
+          "german": "Ich fahre morgen mit dem Bus nach Berlin.",
+          "english": "I am travelling to Berlin by bus tomorrow.",
+          "note": "Time: morgen; manner: mit dem Bus; destination/place: nach Berlin."
+        }
+      ]
+    },
+    {
+      "title": "Negation position",
+      "explanation": "Nicht often comes near the end when negating the whole action, but it can come before the specific word or phrase being negated.",
+      "examples": [
+        {
+          "german": "Ich arbeite heute nicht.",
+          "english": "I am not working today."
+        },
+        {
+          "german": "Ich fahre nicht mit dem Bus.",
+          "english": "I am not going by bus."
+        }
+      ]
+    },
+    {
+      "title": "Questions use different word order",
+      "explanation": "In a yes/no question, the conjugated verb comes first. In a W-question, the question word comes first and the verb follows.",
+      "examples": [
+        {
+          "german": "Kommst du heute?",
+          "english": "Are you coming today?"
+        },
+        {
+          "german": "Wann kommst du?",
+          "english": "When are you coming?"
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "statement": "Ich lerne heute Deutsch.",
+    "time_first": "Heute lerne ich Deutsch.",
+    "yes_no_question": "Lernst du heute Deutsch?",
+    "w_question": "Wann lernst du Deutsch?"
+  },
+  "common_mistakes": [
+    {
+      "wrong": "Heute ich lerne Deutsch.",
+      "correct": "Heute lerne ich Deutsch.",
+      "explanation": "The conjugated verb stays in position two."
+    },
+    {
+      "wrong": "Morgen ich arbeite.",
+      "correct": "Morgen arbeite ich.",
+      "explanation": "When a time phrase is first, the verb comes next and the subject follows."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "Ich lerne Deutsch.",
+      "english": "Subject + verb + rest"
+    },
+    {
+      "german": "Heute lerne ich Deutsch.",
+      "english": "Time first + verb second + subject"
+    },
+    {
+      "german": "Lernst du Deutsch?",
+      "english": "Verb first for yes/no questions"
+    },
+    {
+      "german": "Wann lernst du Deutsch?",
+      "english": "Question word first, then verb"
+    }
+  ],
+  "mastery_goal": "You can build simple statements and questions and keep the conjugated verb in the correct position.",
+  "next_topic": "Main clauses and verb position"
+}

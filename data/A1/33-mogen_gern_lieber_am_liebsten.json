@@ -1,0 +1,142 @@
+{
+  "order": 79,
+  "topic_number": 79,
+  "title": "mögen, gern, lieber, am liebsten",
+  "german_title": "mögen, gern, lieber, am liebsten",
+  "level": "A1",
+  "language": "en",
+  "definition": "These words express likes and preferences. Mögen is a conjugated verb meaning 'to like'; gern describes doing something gladly; lieber compares preferences; am liebsten expresses the strongest preference.",
+  "rules": [
+    {
+      "title": "mögen — to like",
+      "explanation": "Mögen is a verb and changes according to the subject.",
+      "examples": [
+        {
+          "german": "Ich mag Kaffee.",
+          "english": "I like coffee."
+        },
+        {
+          "german": "Sie mag Musik.",
+          "english": "She likes music."
+        },
+        {
+          "german": "Wir mögen Pizza.",
+          "english": "We like pizza."
+        }
+      ]
+    },
+    {
+      "title": "gern — like doing something",
+      "explanation": "Place gern after the conjugated verb to say that you enjoy doing an activity.",
+      "examples": [
+        {
+          "german": "Ich schwimme gern.",
+          "english": "I like swimming."
+        },
+        {
+          "german": "Er liest gern.",
+          "english": "He likes reading."
+        },
+        {
+          "german": "Wir kochen gern.",
+          "english": "We like cooking."
+        }
+      ]
+    },
+    {
+      "title": "lieber — prefer / rather",
+      "explanation": "Use lieber to compare activities or things you prefer.",
+      "examples": [
+        {
+          "german": "Ich trinke lieber Tee als Kaffee.",
+          "english": "I prefer tea to coffee."
+        },
+        {
+          "german": "Ich gehe lieber zu Fuß.",
+          "english": "I prefer walking."
+        },
+        {
+          "german": "Sie liest lieber als sie fernsieht.",
+          "english": "She prefers reading to watching TV."
+        }
+      ]
+    },
+    {
+      "title": "am liebsten — like best",
+      "explanation": "Use am liebsten to express your favourite activity or strongest preference.",
+      "examples": [
+        {
+          "german": "Am liebsten höre ich Musik.",
+          "english": "I like listening to music best."
+        },
+        {
+          "german": "Ich esse am liebsten Pizza.",
+          "english": "Pizza is what I like eating best."
+        },
+        {
+          "german": "Wir reisen am liebsten mit dem Zug.",
+          "english": "We like travelling by train best."
+        }
+      ]
+    },
+    {
+      "title": "Compare the patterns",
+      "explanation": "Mögen is used with a noun; gern/lieber/am liebsten commonly describe how much you like an action.",
+      "examples": [
+        {
+          "german": "Ich mag Kaffee.",
+          "english": "I like coffee."
+        },
+        {
+          "german": "Ich trinke gern Kaffee.",
+          "english": "I like drinking coffee."
+        },
+        {
+          "german": "Ich trinke lieber Tee.",
+          "english": "I prefer drinking tea."
+        },
+        {
+          "german": "Am liebsten trinke ich Wasser.",
+          "english": "Most of all, I like drinking water."
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "like": "Ich spiele gern Fußball.",
+    "prefer": "Ich spiele lieber Tennis.",
+    "like_best": "Am liebsten spiele ich Basketball."
+  },
+  "common_mistakes": [
+    {
+      "wrong": "Ich gern schwimme.",
+      "correct": "Ich schwimme gern.",
+      "explanation": "In a simple main clause, the conjugated verb is in position two."
+    },
+    {
+      "wrong": "Ich mag gern Fußball spielen (when intending a simple preference).",
+      "correct": "Ich spiele gern Fußball.",
+      "explanation": "For liking an activity, a simple A1 pattern is verb + gern."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "mögen",
+      "english": "to like"
+    },
+    {
+      "german": "gern",
+      "english": "gladly / like doing"
+    },
+    {
+      "german": "lieber",
+      "english": "rather / prefer"
+    },
+    {
+      "german": "am liebsten",
+      "english": "most of all / like best"
+    }
+  ],
+  "mastery_goal": "You can talk about your likes, preferred activities, and favourite things using the four common patterns.",
+  "next_topic": "Fixed-preposition verbs"
+}

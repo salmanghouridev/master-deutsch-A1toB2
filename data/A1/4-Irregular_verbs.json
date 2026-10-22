@@ -1,0 +1,593 @@
+{
+  "order": 4,
+  "topic_number": 49,
+  "title": "Irregular Verbs in the Present Tense",
+  "german_title": "Unregelmäßige Verben im Präsens",
+  "level": "A1",
+  "language": {
+    "explanation": "English",
+    "examples": "German with English translations"
+  },
+  "definition": {
+    "english": "Irregular verbs do not always follow the standard present-tense pattern. Some have special forms that must be memorised; others change their stem vowel mainly in the du and er/sie/es forms.",
+    "example": {
+      "german": "essen → ich esse, du isst, er isst",
+      "english": "to eat → I eat, you eat, he/she/it eats"
+    }
+  },
+  "important_rule": {
+    "english": "Many A1 stem-changing verbs change only in the du and er/sie/es forms. The wir, ihr, and sie/Sie forms usually keep the infinitive stem pattern.",
+    "examples": [
+      {
+        "infinitive": "sprechen",
+        "forms": "ich spreche; du sprichst; er spricht; wir sprechen; ihr sprecht; sie sprechen"
+      },
+      {
+        "infinitive": "fahren",
+        "forms": "ich fahre; du fährst; er fährt; wir fahren; ihr fahrt; sie fahren"
+      }
+    ]
+  },
+  "verb_groups": [
+    {
+      "group": "Core irregular verbs",
+      "rule": "Memorise these complete conjugations because the forms are highly irregular.",
+      "verbs": [
+        {
+          "infinitive": "sein",
+          "english": "to be",
+          "forms": [
+            {
+              "pronoun": "ich",
+              "form": "bin"
+            },
+            {
+              "pronoun": "du",
+              "form": "bist"
+            },
+            {
+              "pronoun": "er/sie/es",
+              "form": "ist"
+            },
+            {
+              "pronoun": "wir",
+              "form": "sind"
+            },
+            {
+              "pronoun": "ihr",
+              "form": "seid"
+            },
+            {
+              "pronoun": "sie/Sie",
+              "form": "sind"
+            }
+          ],
+          "example": {
+            "german": "Ich bin müde.",
+            "english": "I am tired."
+          }
+        },
+        {
+          "infinitive": "haben",
+          "english": "to have",
+          "forms": [
+            {
+              "pronoun": "ich",
+              "form": "habe"
+            },
+            {
+              "pronoun": "du",
+              "form": "hast"
+            },
+            {
+              "pronoun": "er/sie/es",
+              "form": "hat"
+            },
+            {
+              "pronoun": "wir",
+              "form": "haben"
+            },
+            {
+              "pronoun": "ihr",
+              "form": "habt"
+            },
+            {
+              "pronoun": "sie/Sie",
+              "form": "haben"
+            }
+          ],
+          "example": {
+            "german": "Ich habe Zeit.",
+            "english": "I have time."
+          }
+        },
+        {
+          "infinitive": "werden",
+          "english": "to become",
+          "forms": [
+            {
+              "pronoun": "ich",
+              "form": "werde"
+            },
+            {
+              "pronoun": "du",
+              "form": "wirst"
+            },
+            {
+              "pronoun": "er/sie/es",
+              "form": "wird"
+            },
+            {
+              "pronoun": "wir",
+              "form": "werden"
+            },
+            {
+              "pronoun": "ihr",
+              "form": "werdet"
+            },
+            {
+              "pronoun": "sie/Sie",
+              "form": "werden"
+            }
+          ],
+          "example": {
+            "german": "Es wird kalt.",
+            "english": "It is getting cold."
+          }
+        },
+        {
+          "infinitive": "wissen",
+          "english": "to know a fact",
+          "forms": [
+            {
+              "pronoun": "ich",
+              "form": "weiß"
+            },
+            {
+              "pronoun": "du",
+              "form": "weißt"
+            },
+            {
+              "pronoun": "er/sie/es",
+              "form": "weiß"
+            },
+            {
+              "pronoun": "wir",
+              "form": "wissen"
+            },
+            {
+              "pronoun": "ihr",
+              "form": "wisst"
+            },
+            {
+              "pronoun": "sie/Sie",
+              "form": "wissen"
+            }
+          ],
+          "example": {
+            "german": "Ich weiß das nicht.",
+            "english": "I don't know that."
+          }
+        }
+      ]
+    },
+    {
+      "group": "Stem-changing verbs: e → i",
+      "verbs": [
+        {
+          "infinitive": "essen",
+          "english": "to eat",
+          "forms": [
+            "esse",
+            "isst",
+            "isst",
+            "essen",
+            "esst",
+            "essen"
+          ],
+          "example": {
+            "german": "Du isst Brot.",
+            "english": "You eat bread."
+          }
+        },
+        {
+          "infinitive": "sprechen",
+          "english": "to speak",
+          "forms": [
+            "spreche",
+            "sprichst",
+            "spricht",
+            "sprechen",
+            "sprecht",
+            "sprechen"
+          ],
+          "example": {
+            "german": "Er spricht Deutsch.",
+            "english": "He speaks German."
+          }
+        },
+        {
+          "infinitive": "helfen",
+          "english": "to help",
+          "forms": [
+            "helfe",
+            "hilfst",
+            "hilft",
+            "helfen",
+            "helft",
+            "helfen"
+          ],
+          "example": {
+            "german": "Du hilfst mir.",
+            "english": "You help me."
+          }
+        },
+        {
+          "infinitive": "nehmen",
+          "english": "to take",
+          "forms": [
+            "nehme",
+            "nimmst",
+            "nimmt",
+            "nehmen",
+            "nehmt",
+            "nehmen"
+          ],
+          "example": {
+            "german": "Er nimmt den Bus.",
+            "english": "He takes the bus."
+          }
+        },
+        {
+          "infinitive": "geben",
+          "english": "to give",
+          "forms": [
+            "gebe",
+            "gibst",
+            "gibt",
+            "geben",
+            "gebt",
+            "geben"
+          ],
+          "example": {
+            "german": "Sie gibt mir das Buch.",
+            "english": "She gives me the book."
+          }
+        },
+        {
+          "infinitive": "treffen",
+          "english": "to meet",
+          "forms": [
+            "treffe",
+            "triffst",
+            "trifft",
+            "treffen",
+            "trefft",
+            "treffen"
+          ],
+          "example": {
+            "german": "Ich treffe meinen Freund.",
+            "english": "I meet my friend."
+          }
+        },
+        {
+          "infinitive": "vergessen",
+          "english": "to forget",
+          "forms": [
+            "vergesse",
+            "vergisst",
+            "vergisst",
+            "vergessen",
+            "vergesst",
+            "vergessen"
+          ],
+          "example": {
+            "german": "Du vergisst den Termin.",
+            "english": "You forget the appointment."
+          }
+        }
+      ]
+    },
+    {
+      "group": "Stem-changing verbs: e → ie",
+      "verbs": [
+        {
+          "infinitive": "sehen",
+          "english": "to see",
+          "forms": [
+            "sehe",
+            "siehst",
+            "sieht",
+            "sehen",
+            "seht",
+            "sehen"
+          ],
+          "example": {
+            "german": "Ich sehe dich.",
+            "english": "I see you."
+          }
+        },
+        {
+          "infinitive": "lesen",
+          "english": "to read",
+          "forms": [
+            "lese",
+            "liest",
+            "liest",
+            "lesen",
+            "lest",
+            "lesen"
+          ],
+          "example": {
+            "german": "Er liest ein Buch.",
+            "english": "He reads a book."
+          }
+        }
+      ]
+    },
+    {
+      "group": "Stem-changing verbs: a → ä",
+      "verbs": [
+        {
+          "infinitive": "fahren",
+          "english": "to travel/drive",
+          "forms": [
+            "fahre",
+            "fährst",
+            "fährt",
+            "fahren",
+            "fahrt",
+            "fahren"
+          ],
+          "example": {
+            "german": "Du fährst mit dem Bus.",
+            "english": "You travel by bus."
+          }
+        },
+        {
+          "infinitive": "schlafen",
+          "english": "to sleep",
+          "forms": [
+            "schlafe",
+            "schläfst",
+            "schläft",
+            "schlafen",
+            "schlaft",
+            "schlafen"
+          ],
+          "example": {
+            "german": "Das Kind schläft.",
+            "english": "The child sleeps."
+          }
+        },
+        {
+          "infinitive": "tragen",
+          "english": "to carry/wear",
+          "forms": [
+            "trage",
+            "trägst",
+            "trägt",
+            "tragen",
+            "tragt",
+            "tragen"
+          ],
+          "example": {
+            "german": "Er trägt eine Jacke.",
+            "english": "He is wearing a jacket."
+          }
+        },
+        {
+          "infinitive": "waschen",
+          "english": "to wash",
+          "forms": [
+            "wasche",
+            "wäschst",
+            "wäscht",
+            "waschen",
+            "wascht",
+            "waschen"
+          ],
+          "example": {
+            "german": "Du wäschst deine Hände.",
+            "english": "You wash your hands."
+          }
+        },
+        {
+          "infinitive": "laufen",
+          "english": "to run/walk",
+          "forms": [
+            "laufe",
+            "läufst",
+            "läuft",
+            "laufen",
+            "lauft",
+            "laufen"
+          ],
+          "example": {
+            "german": "Er läuft schnell.",
+            "english": "He runs fast."
+          }
+        },
+        {
+          "infinitive": "schlafen",
+          "english": "to sleep",
+          "forms": [
+            "schlafe",
+            "schläfst",
+            "schläft",
+            "schlafen",
+            "schlaft",
+            "schlafen"
+          ],
+          "example": {
+            "german": "Ich schlafe gut.",
+            "english": "I sleep well."
+          }
+        }
+      ]
+    },
+    {
+      "group": "Other common irregular forms",
+      "verbs": [
+        {
+          "infinitive": "fahren",
+          "english": "to drive/travel",
+          "forms": [
+            "fahre",
+            "fährst",
+            "fährt",
+            "fahren",
+            "fahrt",
+            "fahren"
+          ]
+        },
+        {
+          "infinitive": "mögen",
+          "english": "to like",
+          "forms": [
+            "mag",
+            "magst",
+            "mag",
+            "mögen",
+            "mögt",
+            "mögen"
+          ]
+        },
+        {
+          "infinitive": "können",
+          "english": "can/be able to",
+          "forms": [
+            "kann",
+            "kannst",
+            "kann",
+            "können",
+            "könnt",
+            "können"
+          ]
+        },
+        {
+          "infinitive": "müssen",
+          "english": "must/have to",
+          "forms": [
+            "muss",
+            "musst",
+            "muss",
+            "müssen",
+            "müsst",
+            "müssen"
+          ]
+        },
+        {
+          "infinitive": "dürfen",
+          "english": "may/be allowed to",
+          "forms": [
+            "darf",
+            "darfst",
+            "darf",
+            "dürfen",
+            "dürft",
+            "dürfen"
+          ]
+        },
+        {
+          "infinitive": "wollen",
+          "english": "to want",
+          "forms": [
+            "will",
+            "willst",
+            "will",
+            "wollen",
+            "wollt",
+            "wollen"
+          ]
+        },
+        {
+          "infinitive": "sollen",
+          "english": "should/be supposed to",
+          "forms": [
+            "soll",
+            "sollst",
+            "soll",
+            "sollen",
+            "sollt",
+            "sollen"
+          ]
+        }
+      ]
+    }
+  ],
+  "common_mistakes": [
+    {
+      "incorrect": "Du esst Brot.",
+      "correct": "Du isst Brot.",
+      "explanation": "For essen, du uses isst; esst is the ihr form."
+    },
+    {
+      "incorrect": "Er sprecht Deutsch.",
+      "correct": "Er spricht Deutsch.",
+      "explanation": "For sprechen, er/sie/es uses spricht."
+    },
+    {
+      "incorrect": "Du seht mich.",
+      "correct": "Du siehst mich.",
+      "explanation": "For sehen, du uses siehst."
+    },
+    {
+      "incorrect": "Er fahr nach Berlin.",
+      "correct": "Er fährt nach Berlin.",
+      "explanation": "For fahren, er/sie/es uses fährt."
+    }
+  ],
+  "memorization_list": [
+    {
+      "infinitive": "sein",
+      "key_forms": "bin – bist – ist"
+    },
+    {
+      "infinitive": "haben",
+      "key_forms": "habe – hast – hat"
+    },
+    {
+      "infinitive": "essen",
+      "key_forms": "esse – isst – isst"
+    },
+    {
+      "infinitive": "sprechen",
+      "key_forms": "spreche – sprichst – spricht"
+    },
+    {
+      "infinitive": "sehen",
+      "key_forms": "sehe – siehst – sieht"
+    },
+    {
+      "infinitive": "lesen",
+      "key_forms": "lese – liest – liest"
+    },
+    {
+      "infinitive": "fahren",
+      "key_forms": "fahre – fährst – fährt"
+    },
+    {
+      "infinitive": "nehmen",
+      "key_forms": "nehme – nimmst – nimmt"
+    },
+    {
+      "infinitive": "geben",
+      "key_forms": "gebe – gibst – gibt"
+    },
+    {
+      "infinitive": "können",
+      "key_forms": "kann – kannst – kann"
+    }
+  ],
+  "mastery_goal": [
+    "Recognise which verbs have special present-tense forms.",
+    "Memorise the core forms of sein, haben, werden, and wissen.",
+    "Identify common vowel changes in du and er/sie/es.",
+    "Conjugate common A1 irregular verbs in simple sentences."
+  ],
+  "next_topic": {
+    "number": 50,
+    "title": "Verb Conjugation"
+  }
+}

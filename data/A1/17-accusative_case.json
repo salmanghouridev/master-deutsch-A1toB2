@@ -1,0 +1,279 @@
+{
+  "order": 63,
+  "topic_number": 63,
+  "title": "Accusative Case",
+  "german_title": "Akkusativ",
+  "level": "A1",
+  "language": "en",
+  "definition": "The accusative case (Akkusativ) is commonly used for the direct object—the person or thing directly affected by an action. In the basic nominative-to-accusative article change, masculine der/ein changes to den/einen; feminine die/eine and neuter das/ein stay the same. Plural definite die also stays die.",
+  "rules": [
+    {
+      "title": "Find the direct object",
+      "explanation": "Ask wen? (whom?) or was? (what?) after the verb to help identify the direct object.",
+      "examples": [
+        {
+          "german": "Ich sehe den Mann.",
+          "english": "I see the man.",
+          "note": "Wen sehe ich? — den Mann."
+        },
+        {
+          "german": "Sie kauft ein Buch.",
+          "english": "She buys a book.",
+          "note": "Was kauft sie? — ein Buch."
+        },
+        {
+          "german": "Wir besuchen unsere Freunde.",
+          "english": "We visit our friends."
+        }
+      ]
+    },
+    {
+      "title": "Definite articles in the accusative",
+      "explanation": "Only the masculine definite article changes in this basic pattern: der → den. Feminine, neuter, and plural articles stay the same.",
+      "examples": [
+        {
+          "german": "der Mann → den Mann",
+          "english": "the man — nominative → accusative"
+        },
+        {
+          "german": "die Frau → die Frau",
+          "english": "the woman — nominative → accusative"
+        },
+        {
+          "german": "das Kind → das Kind",
+          "english": "the child — nominative → accusative"
+        },
+        {
+          "german": "die Kinder → die Kinder",
+          "english": "the children — nominative → accusative"
+        }
+      ]
+    },
+    {
+      "title": "Indefinite articles in the accusative",
+      "explanation": "For ein-words, masculine ein changes to einen. Feminine eine and neuter ein remain unchanged.",
+      "examples": [
+        {
+          "german": "Ich sehe einen Mann.",
+          "english": "I see a man."
+        },
+        {
+          "german": "Ich kaufe eine Tasche.",
+          "english": "I am buying a bag."
+        },
+        {
+          "german": "Er hat ein Auto.",
+          "english": "He has a car."
+        }
+      ]
+    },
+    {
+      "title": "Possessive articles and kein in the accusative",
+      "explanation": "Possessive articles and kein follow the same basic ending pattern as ein: masculine gets -en, while feminine and neuter singular forms remain unchanged. In plural, keine is used.",
+      "examples": [
+        {
+          "german": "Ich sehe meinen Bruder.",
+          "english": "I see my brother."
+        },
+        {
+          "german": "Sie besucht ihre Mutter.",
+          "english": "She visits her mother."
+        },
+        {
+          "german": "Wir haben kein Geld.",
+          "english": "We have no money."
+        },
+        {
+          "german": "Er hat keinen Hund.",
+          "english": "He has no dog."
+        },
+        {
+          "german": "Ich kenne deine Freunde.",
+          "english": "I know your friends."
+        }
+      ]
+    },
+    {
+      "title": "Common verbs followed by the accusative",
+      "explanation": "Many everyday verbs take a direct object in the accusative. Learn these verbs with example sentences.",
+      "examples": [
+        {
+          "german": "haben",
+          "english": "to have",
+          "note": "Ich habe einen Bruder. — I have a brother."
+        },
+        {
+          "german": "sehen",
+          "english": "to see",
+          "note": "Ich sehe den Bus. — I see the bus."
+        },
+        {
+          "german": "kaufen",
+          "english": "to buy",
+          "note": "Sie kauft einen Apfel. — She buys an apple."
+        },
+        {
+          "german": "brauchen",
+          "english": "to need",
+          "note": "Wir brauchen einen Tisch. — We need a table."
+        },
+        {
+          "german": "finden",
+          "english": "to find / think",
+          "note": "Ich finde den Film gut. — I think the film is good."
+        },
+        {
+          "german": "essen",
+          "english": "to eat",
+          "note": "Er isst einen Apfel. — He eats an apple."
+        }
+      ]
+    },
+    {
+      "title": "Accusative pronouns",
+      "explanation": "Some personal pronouns also change in the accusative. Important A1 forms are ich → mich, du → dich, er → ihn, wir → uns, and ihr → euch.",
+      "examples": [
+        {
+          "german": "Er sieht mich.",
+          "english": "He sees me."
+        },
+        {
+          "german": "Ich kenne dich.",
+          "english": "I know you."
+        },
+        {
+          "german": "Wir besuchen ihn.",
+          "english": "We visit him."
+        },
+        {
+          "german": "Sie hört uns.",
+          "english": "She hears us."
+        },
+        {
+          "german": "Ich sehe euch.",
+          "english": "I see you all."
+        }
+      ]
+    },
+    {
+      "title": "Common accusative prepositions",
+      "explanation": "These common prepositions require the accusative: durch, für, gegen, ohne, and um. Learn them with a short phrase.",
+      "examples": [
+        {
+          "german": "für meinen Vater",
+          "english": "for my father"
+        },
+        {
+          "german": "ohne einen Regenschirm",
+          "english": "without an umbrella"
+        },
+        {
+          "german": "durch den Park",
+          "english": "through the park"
+        },
+        {
+          "german": "gegen die Wand",
+          "english": "against the wall"
+        },
+        {
+          "german": "um den Tisch",
+          "english": "around the table"
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "article_changes": [
+      {
+        "gender": "Masculine",
+        "nominative": "der / ein",
+        "accusative": "den / einen",
+        "example": "Der Mann kommt. Ich sehe den Mann."
+      },
+      {
+        "gender": "Feminine",
+        "nominative": "die / eine",
+        "accusative": "die / eine",
+        "example": "Die Frau kommt. Ich sehe die Frau."
+      },
+      {
+        "gender": "Neuter",
+        "nominative": "das / ein",
+        "accusative": "das / ein",
+        "example": "Das Kind kommt. Ich sehe das Kind."
+      },
+      {
+        "gender": "Plural",
+        "nominative": "die / no indefinite article",
+        "accusative": "die / no indefinite article",
+        "example": "Die Kinder kommen. Ich sehe die Kinder."
+      }
+    ],
+    "nominative_vs_accusative": [
+      {
+        "nominative": "Der Hund schläft.",
+        "english_nominative": "The dog is sleeping.",
+        "accusative": "Ich sehe den Hund.",
+        "english_accusative": "I see the dog."
+      }
+    ]
+  },
+  "common_mistakes": [
+    {
+      "wrong": "Ich sehe der Mann.",
+      "correct": "Ich sehe den Mann.",
+      "explanation": "Mann is masculine and is the direct object, so der changes to den."
+    },
+    {
+      "wrong": "Ich habe ein Bruder.",
+      "correct": "Ich habe einen Bruder.",
+      "explanation": "Masculine ein changes to einen in the accusative."
+    },
+    {
+      "wrong": "Ich sehe den Frau.",
+      "correct": "Ich sehe die Frau.",
+      "explanation": "Feminine die does not change in the accusative."
+    },
+    {
+      "wrong": "Er sieht ich.",
+      "correct": "Er sieht mich.",
+      "explanation": "The accusative pronoun for ich is mich."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "der → den",
+      "english": "masculine definite article"
+    },
+    {
+      "german": "ein → einen",
+      "english": "masculine indefinite article"
+    },
+    {
+      "german": "die → die",
+      "english": "feminine and plural definite article"
+    },
+    {
+      "german": "das → das",
+      "english": "neuter definite article"
+    },
+    {
+      "german": "ich → mich",
+      "english": "I → me"
+    },
+    {
+      "german": "du → dich",
+      "english": "you → you"
+    },
+    {
+      "german": "er → ihn",
+      "english": "he → him"
+    },
+    {
+      "german": "durch, für, gegen, ohne, um",
+      "english": "common accusative prepositions"
+    }
+  ],
+  "mastery_goal": "You can identify a direct object, use den/einen for masculine accusative nouns, keep feminine and neuter articles correct, and use common accusative pronouns and prepositions in basic A1 sentences.",
+  "next_topic": "Dative case (Dativ)"
+}

@@ -1,0 +1,135 @@
+{
+  "order": 57,
+  "topic_number": 57,
+  "title": "Yes/No Questions",
+  "german_title": "Ja-/Nein-Fragen",
+  "level": "A1",
+  "language": "en",
+  "definition": "Yes/no questions are questions that can be answered with ja (yes) or nein (no). In a basic German yes/no question, the conjugated verb comes first, followed by the subject.",
+  "rules": [
+    {
+      "title": "Basic word order",
+      "explanation": "Pattern: conjugated verb + subject + the rest of the sentence.",
+      "examples": [
+        {
+          "german": "Wohnst du in Chemnitz?",
+          "english": "Do you live in Chemnitz?"
+        },
+        {
+          "german": "Lernst du Deutsch?",
+          "english": "Are you learning German?"
+        },
+        {
+          "german": "Ist er müde?",
+          "english": "Is he tired?"
+        }
+      ]
+    },
+    {
+      "title": "Answering yes/no questions",
+      "explanation": "Answer with ja or nein, and add a short sentence when useful.",
+      "examples": [
+        {
+          "german": "Kommst du heute? – Ja, ich komme heute.",
+          "english": "Are you coming today? – Yes, I am coming today."
+        },
+        {
+          "german": "Hast du Zeit? – Nein, ich habe keine Zeit.",
+          "english": "Do you have time? – No, I don't have time."
+        }
+      ]
+    },
+    {
+      "title": "Questions with haben and sein",
+      "explanation": "Put the conjugated form of haben or sein at the beginning.",
+      "examples": [
+        {
+          "german": "Hast du einen Bruder?",
+          "english": "Do you have a brother?"
+        },
+        {
+          "german": "Bist du Student?",
+          "english": "Are you a student?"
+        },
+        {
+          "german": "Sind Sie bereit?",
+          "english": "Are you ready? — formal"
+        }
+      ]
+    },
+    {
+      "title": "Questions with modal verbs",
+      "explanation": "Put the modal verb first; the main verb stays in the infinitive at the end.",
+      "examples": [
+        {
+          "german": "Kannst du schwimmen?",
+          "english": "Can you swim?"
+        },
+        {
+          "german": "Musst du heute arbeiten?",
+          "english": "Do you have to work today?"
+        },
+        {
+          "german": "Willst du einen Kaffee trinken?",
+          "english": "Do you want to drink a coffee?"
+        }
+      ]
+    },
+    {
+      "title": "Yes/no questions versus W-questions",
+      "explanation": "Yes/no questions start with the conjugated verb. W-questions start with a question word followed by the conjugated verb.",
+      "examples": [
+        {
+          "german": "Wohnst du hier?",
+          "english": "Do you live here?"
+        },
+        {
+          "german": "Wo wohnst du?",
+          "english": "Where do you live?"
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "yes_no": {
+      "pattern": "Verb + subject + rest",
+      "example": "Kommst du heute?"
+    },
+    "w_question": {
+      "pattern": "Question word + verb + subject",
+      "example": "Wann kommst du?"
+    }
+  },
+  "common_mistakes": [
+    {
+      "wrong": "Du wohnst in Chemnitz?",
+      "correct": "Wohnst du in Chemnitz?",
+      "explanation": "For a standard yes/no question, put the conjugated verb first."
+    },
+    {
+      "wrong": "Kann du helfen?",
+      "correct": "Kannst du helfen?",
+      "explanation": "Use the correct conjugated modal verb form."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "Kommst du?",
+      "english": "Are you coming?"
+    },
+    {
+      "german": "Hast du Zeit?",
+      "english": "Do you have time?"
+    },
+    {
+      "german": "Bist du bereit?",
+      "english": "Are you ready?"
+    },
+    {
+      "german": "Kannst du helfen?",
+      "english": "Can you help?"
+    }
+  ],
+  "mastery_goal": "You can form and answer basic yes/no questions with regular verbs, sein, haben, and modal verbs.",
+  "next_topic": "Sentence structure"
+}

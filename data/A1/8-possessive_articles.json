@@ -1,0 +1,211 @@
+{
+  "order": 54,
+  "topic_number": 54,
+  "title": "Possessive Articles",
+  "german_title": "Possessivartikel",
+  "level": "A1",
+  "language": "en",
+  "definition": "Possessive articles show who owns or is connected to something. Common forms include mein (my), dein (your, informal singular), sein (his/its), ihr (her/their), unser (our), euer (your, plural), and Ihr (your, formal). In the nominative, endings depend on the noun's gender and number.",
+  "rules": [
+    {
+      "title": "Basic possessive words",
+      "explanation": "Choose the possessive stem according to the owner, then add an ending if required by the noun.",
+      "examples": [
+        {
+          "german": "mein Vater",
+          "english": "my father"
+        },
+        {
+          "german": "deine Mutter",
+          "english": "your mother"
+        },
+        {
+          "german": "sein Kind",
+          "english": "his child"
+        },
+        {
+          "german": "ihre Freunde",
+          "english": "her friends"
+        }
+      ]
+    },
+    {
+      "title": "Nominative endings",
+      "explanation": "For masculine and neuter singular nouns, the basic form usually has no -e ending: mein Vater, mein Kind. Feminine singular and plural nouns usually take -e: meine Mutter, meine Kinder.",
+      "examples": [
+        {
+          "german": "mein Bruder",
+          "english": "my brother — masculine"
+        },
+        {
+          "german": "meine Schwester",
+          "english": "my sister — feminine"
+        },
+        {
+          "german": "mein Auto",
+          "english": "my car — neuter"
+        },
+        {
+          "german": "meine Bücher",
+          "english": "my books — plural"
+        }
+      ]
+    },
+    {
+      "title": "Forms by owner",
+      "explanation": "The stem changes with the owner, but the ending pattern follows the noun in this basic nominative pattern.",
+      "examples": [
+        {
+          "german": "ich → mein / meine",
+          "english": "I → my"
+        },
+        {
+          "german": "du → dein / deine",
+          "english": "you (informal) → your"
+        },
+        {
+          "german": "er / es → sein / seine",
+          "english": "he / it → his / its"
+        },
+        {
+          "german": "sie → ihr / ihre",
+          "english": "she → her"
+        },
+        {
+          "german": "wir → unser / unsere",
+          "english": "we → our"
+        },
+        {
+          "german": "ihr → euer / eure",
+          "english": "you all → your"
+        },
+        {
+          "german": "sie → ihr / ihre",
+          "english": "they → their"
+        },
+        {
+          "german": "Sie → Ihr / Ihre",
+          "english": "you (formal) → your"
+        }
+      ]
+    },
+    {
+      "title": "Simple questions and answers",
+      "explanation": "Use a possessive article before the noun; the noun does not need an additional definite article.",
+      "examples": [
+        {
+          "german": "Ist das dein Buch?",
+          "english": "Is that your book?"
+        },
+        {
+          "german": "Ja, das ist mein Buch.",
+          "english": "Yes, that is my book."
+        },
+        {
+          "german": "Wie heißt deine Schwester?",
+          "english": "What is your sister's name?"
+        },
+        {
+          "german": "Unsere Wohnung ist klein.",
+          "english": "Our apartment is small."
+        }
+      ]
+    },
+    {
+      "title": "Euer changes to eure before feminine/plural nouns",
+      "explanation": "The stem euer commonly loses the second e when an ending is added: eure Mutter, eure Freunde.",
+      "examples": [
+        {
+          "german": "euer Vater",
+          "english": "your father (to a group)"
+        },
+        {
+          "german": "eure Mutter",
+          "english": "your mother (to a group)"
+        },
+        {
+          "german": "eure Kinder",
+          "english": "your children"
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "noun_gender_examples": [
+      {
+        "gender": "Masculine",
+        "form": "mein Vater",
+        "translation": "my father"
+      },
+      {
+        "gender": "Feminine",
+        "form": "meine Mutter",
+        "translation": "my mother"
+      },
+      {
+        "gender": "Neuter",
+        "form": "mein Kind",
+        "translation": "my child"
+      },
+      {
+        "gender": "Plural",
+        "form": "meine Freunde",
+        "translation": "my friends"
+      }
+    ]
+  },
+  "common_mistakes": [
+    {
+      "wrong": "meine Vater",
+      "correct": "mein Vater",
+      "explanation": "Masculine nominative uses mein."
+    },
+    {
+      "wrong": "mein Mutter",
+      "correct": "meine Mutter",
+      "explanation": "Feminine nominative uses meine."
+    },
+    {
+      "wrong": "das mein Buch",
+      "correct": "mein Buch",
+      "explanation": "Do not normally put der/die/das before a possessive article."
+    },
+    {
+      "wrong": "euer Mutter",
+      "correct": "eure Mutter",
+      "explanation": "Euer takes the ending -e here."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "mein / meine",
+      "english": "my"
+    },
+    {
+      "german": "dein / deine",
+      "english": "your (informal singular)"
+    },
+    {
+      "german": "sein / seine",
+      "english": "his / its"
+    },
+    {
+      "german": "ihr / ihre",
+      "english": "her / their"
+    },
+    {
+      "german": "unser / unsere",
+      "english": "our"
+    },
+    {
+      "german": "euer / eure",
+      "english": "your (plural)"
+    },
+    {
+      "german": "Ihr / Ihre",
+      "english": "your (formal)"
+    }
+  ],
+  "mastery_goal": "You can choose common possessive articles and use mein/meine, dein/deine, and related forms with masculine, feminine, neuter, and plural nouns in the nominative.",
+  "next_topic": "nicht and kein"
+}

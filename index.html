@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>German Grammar Compendium — A1 to B1</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="layout">
+    <!-- Left Sidebar / Table of Contents -->
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <span class="doc-badge">COMPENDIUM</span>
+        <h1>Deutsche Grammatik</h1>
+        <p class="subtitle">Personal Knowledge Base (A1 – B1)</p>
+      </div>
+
+      <div class="search-box">
+        <input type="text" id="searchInput" placeholder="Search grammar rules..." autocomplete="off">
+        <span class="search-shortcut">/</span>
+      </div>
+
+      <div class="level-filters">
+        <button class="filter-btn active" data-filter="all">All</button>
+        <button class="filter-btn" data-filter="A1">A1</button>
+        <button class="filter-btn" data-filter="A2">A2</button>
+        <button class="filter-btn" data-filter="B1">B1</button>
+      </div>
+
+      <nav class="toc" id="toc">
+        <!-- Populated dynamically or statically synced -->
+        <div class="toc-group" data-level-group="A1">
+          <div class="toc-group-title"><span class="badge badge-a1">A1</span> Foundations</div>
+          <ul>
+            <li><a href="#a1-word-order" class="toc-link">1.1 Sentence Structure & V2 Rule</a></li>
+            <li><a href="#a1-articles-cases" class="toc-link">1.2 Articles & Cases (Nom / Akk)</a></li>
+          </ul>
+        </div>
+
+        <div class="toc-group" data-level-group="A2">
+          <div class="toc-group-title"><span class="badge badge-a2">A2</span> Expanding Expression</div>
+          <ul>
+            <li><a href="#a2-perfekt" class="toc-link">2.1 Das Perfekt ( Conversational Past )</a></li>
+            <li><a href="#a2-wechsel" class="toc-link">2.2 Two-Way Prepositions</a></li>
+          </ul>
+        </div>
+
+        <div class="toc-group" data-level-group="B1">
+          <div class="toc-group-title"><span class="badge badge-b1">B1</span> Intermediate Mastery</div>
+          <ul>
+            <li><a href="#b1-nebensaetze" class="toc-link">3.1 Subordinate Clauses (Nebensätze)</a></li>
+            <li><a href="#b1-passiv" class="toc-link">3.2 Passive Voice (Vorgangspassiv)</a></li>
+          </ul>
+        </div>
+      </nav>
+
+      <div class="sidebar-footer">
+        <button id="printBtn" class="print-btn" title="Print or Save as PDF">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polyline points="6 9 6 2 18 2 18 9"></polyline>
+            <path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path>
+            <rect x="6" y="14" width="12" height="8"></rect>
+          </svg>
+          Print / Export PDF
+        </button>
+      </div>
+    </aside>
+
+    <!-- Main Document Sheet -->
+    <main class="document-container">
+      <article class="paper-sheet">
+        <!-- Document Title Header -->
+        <header class="doc-header">
+          <div class="doc-meta">
+            <span>GERMAN LANGUAGE NOTES</span>
+            <span>•</span>
+            <span>CEFR A1 – B1</span>
+            <span>•</span>
+            <span id="topicCount">6 Topics Listed</span>
+          </div>
+          <h1 class="doc-title">German Grammar Reference Sheet</h1>
+          <p class="doc-intro">
+            A structured, lightweight handbook of German grammar rules, tables, and examples from beginner (A1) to intermediate (B1). Ready to be expanded topic by topic.
+          </p>
+        </header>
+
+        <hr class="doc-divider">
+
+        <!-- ================= LEVEL A1 ================= -->
+        <section class="level-section" data-level="A1">
+          <div class="level-banner">
+            <span class="badge badge-a1">LEVEL A1</span>
+            <h2>A1 — Foundations & Basic Sentences</h2>
+          </div>
+
+          <!-- Topic 1.1 -->
+          <div class="grammar-entry" id="a1-word-order" data-level="A1">
+            <div class="entry-header">
+              <span class="section-num">§ 1.1</span>
+              <h3>Sentence Structure & The V2 Rule (Wortstellung)</h3>
+              <span class="badge badge-a1">A1</span>
+            </div>
+            <p class="entry-summary">
+              In German main clauses (<em>Hauptsätze</em>), the conjugated verb <strong>always</strong> occupies the <strong>2nd position</strong> (Position II). For Yes/No questions, the verb moves to Position I.
+            </p>
+
+            <div class="table-wrapper">
+              <table class="grammar-table">
+                <thead>
+                  <tr>
+                    <th>Type</th>
+                    <th>Position I</th>
+                    <th class="highlight-col">Position II (Verb)</th>
+                    <th>Middle Field (Time / Object)</th>
+                    <th>Sentence End</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td><span class="tag">Standard</span></td>
+                    <td>Ich</td>
+                    <td class="highlight-col"><strong>lerne</strong></td>
+                    <td>heute zu Hause</td>
+                    <td>Deutsch.</td>
+                  </tr>
+                  <tr>
+                    <td><span class="tag">Inversion</span></td>
+                    <td>Heute</td>
+                    <td class="highlight-col"><strong>lerne</strong></td>
+                    <td>ich zu Hause</td>
+                    <td>Deutsch.</td>
+                  </tr>
+                  <tr>
+                    <td><span class="tag">W-Frage</span></td>
+                    <td>Was</td>
+                    <td class="highlight-col"><strong>lernst</strong></td>
+                    <td>du heute</td>
+                    <td>zu Hause?</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+
+            <div class="callout callout-tip">
+              <strong>Key Rule (Subjekt-Verb-Inversion):</strong> Position I does not have to be the subject. If you start with a time or place element (e.g., <em>Heute</em>), the subject moves immediately <em>after</em> the verb (Position III).
+            </div>
+          </div>
+
+          <!-- Topic 1.2 -->
+          <div class="grammar-entry" id="a1-articles-cases" data-level="A1">
+            <div class="entry-header">
+              <span class="section-num">§ 1.2</span>
+              <h3>Definite Articles & Cases (Nominativ vs. Akkusativ)</h3>
+              <span class="badge badge-a1">A1</span>
+            </div>
+            <p class="entry-summary">
+              The <strong>Nominativ</strong> marks the subject (who/what is acting), while the <strong>Akkusativ</strong> marks the direct object. Only the <strong>masculine</strong> article changes in the Accusative case (<em>der → den</em>, <em>ein → einen</em>).
+            </p>
+
+            <div class="table-wrapper">
+              <table class="grammar-table">
+                <thead>
+                  <tr>
+                    <th>Case</th>
+                    <th>Masculine (m)</th>
+                    <th>Feminine (f)</th>
+                    <th>Neuter (n)</th>
+                    <th>Plural (pl)</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td><strong>Nominativ</strong> (Subject)</td>
+                    <td><strong>der</strong> / ein</td>
+                    <td><strong>die</strong> / eine</td>
+                    <td><strong>das</strong> / ein</td>
+                    <td><strong>die</strong> / —</td>
+                  </tr>
+                  <tr>
+                    <td><strong>Akkusativ</strong> (Direct Obj.)</td>
+                    <td class="change-cell"><strong>den</strong> / einen</td>
+                    <td><strong>die</strong> / eine</td>
+                    <td><strong>das</strong> / ein</td>
+                    <td><strong>die</strong> / —</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+
+            <div class="example-list">
+              <div class="example-item">
+                <span class="de"><strong>Der Hund</strong> (Nom.) sucht <strong>den Ball</strong> (Akk.).</span>
+                <span class="en">The dog looks for the ball.</span>
+              </div>
+              <div class="example-item">
+                <span class="de">Ich kaufe <strong>einen Apfel</strong> (m), <strong>eine Banane</strong> (f) und <strong>ein Brot</strong> (n).</span>
+                <span class="en">I am buying an apple, a banana, and a loaf of bread.</span>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- ================= LEVEL A2 ================= -->
+        <section class="level-section" data-level="A2">
+          <div class="level-banner">
+            <span class="badge badge-a2">LEVEL A2</span>
+            <h2>A2 — Past Tense & Spatial Prepositions</h2>
+          </div>
+
+          <!-- Topic 2.1 -->
+          <div class="grammar-entry" id="a2-perfekt" data-level="A2">
+            <div class="entry-header">
+              <span class="section-num">§ 2.1</span>
+              <h3>Conversational Past (Das Perfekt — haben vs. sein)</h3>
+              <span class="badge badge-a2">A2</span>
+            </div>
+            <p class="entry-summary">
+              Formed with the auxiliary verb <strong>haben</strong> or <strong>sein</strong> in Position II and the <strong>Partizip II</strong> at the very end of the sentence (<em>Satzklammer</em>).
+            </p>
+
+            <div class="formula-box">
+              <code>Subject + [haben / sein (Pos. II)] + ... Middle Field ... + [Partizip II (End)]</code>
+            </div>
+
+            <div class="two-col-grid">
+              <div class="rule-card">
+                <h4>When to use <code>sein</code></h4>
+                <ul>
+                  <li><strong>Movement A → B:</strong> <em>gehen, fahren, fliegen, kommen</em></li>
+                  <li><strong>Change of State:</strong> <em>aufwachen, einschlafen, wachsen</em></li>
+                  <li><strong>Exceptions:</strong> <em>sein, bleiben, passieren</em></li>
+                </ul>
+              </div>
+              <div class="rule-card">
+                <h4>When to use <code>haben</code></h4>
+                <ul>
+                  <li>All verbs taking an <strong>Akkusativ object</strong> (transitive)</li>
+                  <li>All <strong>reflexive verbs</strong> (<em>sich waschen, sich freuen</em>)</li>
+                  <li>All <strong>modal verbs</strong> & stationary actions (<em>schlafen, arbeiten</em>)</li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="example-list">
+              <div class="example-item">
+                <span class="de">Wir <strong>sind</strong> gestern nach Berlin <strong>gefahren</strong>.</span>
+                <span class="en">We drove to Berlin yesterday. (Movement → sein)</span>
+              </div>
+              <div class="example-item">
+                <span class="de">Ich <strong>habe</strong> den ganzen Tag Deutsch <strong>gelernt</strong>.</span>
+                <span class="en">I studied German the whole day. (Transitive → haben)</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Topic 2.2 -->
+          <div class="grammar-entry" id="a2-wechsel" data-level="A2">
+            <div class="entry-header">
+              <span class="section-num">§ 2.2</span>
+              <h3>Two-Way Prepositions (Wechselpräpositionen)</h3>
+              <span class="badge badge-a2">A2</span>
+            </div>
+            <p class="entry-summary">
+              The 9 prepositions (<em>in, an, auf, neben, hinter, über, unter, vor, zwischen</em>) take either <strong>Akkusativ</strong> or <strong>Dativ</strong> depending on direction vs. static location.
+            </p>
+
+            <div class="table-wrapper">
+              <table class="grammar-table">
+                <thead>
+                  <tr>
+                    <th>Question</th>
+                    <th>Meaning</th>
+                    <th>Case</th>
+                    <th>Typical Verbs</th>
+                    <th>Example</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td><strong>Wohin?</strong></td>
+                    <td>Direction / Motion</td>
+                    <td class="change-cell"><strong>Akkusativ</strong></td>
+                    <td>stellen, legen, setzen, gehen</td>
+                    <td>Ich lege das Buch <strong>auf den</strong> Tisch.</td>
+                  </tr>
+                  <tr>
+                    <td><strong>Wo?</strong></td>
+                    <td>Static Position</td>
+                    <td class="highlight-col"><strong>Dativ</strong></td>
+                    <td>stehen, liegen, sitzen, sein</td>
+                    <td>Das Buch liegt <strong>auf dem</strong> Tisch.</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+
+        <!-- ================= LEVEL B1 ================= -->
+        <section class="level-section" data-level="B1">
+          <div class="level-banner">
+            <span class="badge badge-b1">LEVEL B1</span>
+            <h2>B1 — Complex Clauses & Passive Voice</h2>
+          </div>
+
+          <!-- Topic 3.1 -->
+          <div class="grammar-entry" id="b1-nebensaetze" data-level="B1">
+            <div class="entry-header">
+              <span class="section-num">§ 3.1</span>
+              <h3>Subordinate Clauses (Nebensätze: weil, dass, obwohl, wenn)</h3>
+              <span class="badge badge-b1">B1</span>
+            </div>
+            <p class="entry-summary">
+              Subordinating conjunctions send the <strong>conjugated verb to the very end</strong> of the clause. Always separate main and subordinate clauses with a comma.
+            </p>
+
+            <div class="table-wrapper">
+              <table class="grammar-table">
+                <thead>
+                  <tr>
+                    <th>Connector</th>
+                    <th>Meaning</th>
+                    <th>Example Sentence (Verb at the end)</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td><strong>weil / da</strong></td>
+                    <td>because / since</td>
+                    <td>Ich bleibe zu Hause, <strong>weil</strong> ich heute krank <strong>bin</strong>.</td>
+                  </tr>
+                  <tr>
+                    <td><strong>obwohl</strong></td>
+                    <td>although</td>
+                    <td>Er geht spazieren, <strong>obwohl</strong> es stark <strong>regnet</strong>.</td>
+                  </tr>
+                  <tr>
+                    <td><strong>wenn / als</strong></td>
+                    <td>when / if (present vs. past 1x)</td>
+                    <td><strong>Als</strong> ich ein Kind <strong>war</strong>, <strong>lebte</strong> ich in München.</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+
+            <div class="callout callout-note">
+              <strong>Verb-Comma-Verb Rule:</strong> When a sentence <em>starts</em> with the Nebensatz, the entire Nebensatz counts as Position I of the main clause, so the main clause starts immediately with its conjugated verb (e.g., <em>Weil ich krank <strong>bin</strong>, <strong>bleibe</strong> ich zu Hause.</em>).
+            </div>
+          </div>
+
+          <!-- Topic 3.2 -->
+          <div class="grammar-entry" id="b1-passiv" data-level="B1">
+            <div class="entry-header">
+              <span class="section-num">§ 3.2</span>
+              <h3>Process Passive (Vorgangspassiv — werden + Partizip II)</h3>
+              <span class="badge badge-b1">B1</span>
+            </div>
+            <p class="entry-summary">
+              Used when the <strong>action itself</strong> is more important than who performs it. Formed with a conjugated form of <strong>werden</strong> + <strong>Partizip II</strong>.
+            </p>
+
+            <div class="table-wrapper">
+              <table class="grammar-table">
+                <thead>
+                  <tr>
+                    <th>Tense</th>
+                    <th>Formula</th>
+                    <th>Active (Aktiv)</th>
+                    <th>Passive (Vorgangspassiv)</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td><strong>Präsens</strong></td>
+                    <td><code>wird + Partizip II</code></td>
+                    <td>Der Mechaniker repariert das Auto.</td>
+                    <td>Das Auto <strong>wird</strong> (vom Mechaniker) <strong>repariert</strong>.</td>
+                  </tr>
+                  <tr>
+                    <td><strong>Präteritum</strong></td>
+                    <td><code>wurde + Partizip II</code></td>
+                    <td>Der Mechaniker reparierte das Auto.</td>
+                    <td>Das Auto <strong>wurde repariert</strong>.</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+
+        <!-- Empty State for Search -->
+        <div id="emptyState" class="empty-state" hidden>
+          <p>No grammar entries match your current filter or search query.</p>
+        </div>
+
+        <footer class="doc-footer">
+          <span>German Grammar Reference (A1–B1)</span>
+          <span>Send your next grammar topic in chat to add it to this sheet.</span>
+        </footer>
+      </article>
+    </main>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

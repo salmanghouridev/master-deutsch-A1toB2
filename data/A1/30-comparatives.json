@@ -1,0 +1,159 @@
+{
+  "order": 76,
+  "topic_number": 76,
+  "title": "Comparatives",
+  "german_title": "Komparativ",
+  "level": "A1",
+  "language": "en",
+  "definition": "The comparative form compares two people, things, or actions. Many German adjectives form the comparative by adding -er; some common adjectives are irregular or take an umlaut.",
+  "rules": [
+    {
+      "title": "Regular comparative: adjective + -er",
+      "explanation": "Add -er to many adjectives. Use als to introduce the second item in a comparison.",
+      "examples": [
+        {
+          "german": "Mein Bruder ist größer als ich.",
+          "english": "My brother is taller than me."
+        },
+        {
+          "german": "Der Zug ist schneller als der Bus.",
+          "english": "The train is faster than the bus."
+        },
+        {
+          "german": "Dieses Buch ist interessanter als das andere.",
+          "english": "This book is more interesting than the other one."
+        }
+      ]
+    },
+    {
+      "title": "Comparatives with umlaut",
+      "explanation": "Some short adjectives with a, o, or u take an umlaut in the comparative.",
+      "examples": [
+        {
+          "german": "alt → älter",
+          "english": "old → older"
+        },
+        {
+          "german": "jung → jünger",
+          "english": "young → younger"
+        },
+        {
+          "german": "groß → größer",
+          "english": "big/tall → bigger/taller"
+        },
+        {
+          "german": "kalt → kälter",
+          "english": "cold → colder"
+        }
+      ]
+    },
+    {
+      "title": "Important irregular forms",
+      "explanation": "Memorize common irregular comparisons.",
+      "examples": [
+        {
+          "german": "gut → besser",
+          "english": "good → better"
+        },
+        {
+          "german": "viel → mehr",
+          "english": "much/many → more"
+        },
+        {
+          "german": "gern → lieber",
+          "english": "gladly → rather/preferably"
+        },
+        {
+          "german": "hoch → höher",
+          "english": "high → higher"
+        }
+      ]
+    },
+    {
+      "title": "Use als, not wie, for unequal comparisons",
+      "explanation": "Use größer als for 'bigger than'. Gleichheit uses so ... wie or genauso ... wie.",
+      "examples": [
+        {
+          "german": "Berlin ist größer als Chemnitz.",
+          "english": "Berlin is bigger than Chemnitz."
+        },
+        {
+          "german": "Er ist so groß wie sein Bruder.",
+          "english": "He is as tall as his brother."
+        },
+        {
+          "german": "Das Auto ist genauso teuer wie das andere.",
+          "english": "The car is just as expensive as the other one."
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "base_comparative": [
+      {
+        "base": "klein",
+        "comparative": "kleiner"
+      },
+      {
+        "base": "schnell",
+        "comparative": "schneller"
+      },
+      {
+        "base": "alt",
+        "comparative": "älter"
+      },
+      {
+        "base": "gut",
+        "comparative": "besser"
+      },
+      {
+        "base": "viel",
+        "comparative": "mehr"
+      },
+      {
+        "base": "gern",
+        "comparative": "lieber"
+      }
+    ]
+  },
+  "common_mistakes": [
+    {
+      "wrong": "Mein Auto ist schneller wie dein Auto.",
+      "correct": "Mein Auto ist schneller als dein Auto.",
+      "explanation": "Use als for unequal comparisons."
+    },
+    {
+      "wrong": "gut → guter (meaning better)",
+      "correct": "gut → besser",
+      "explanation": "Gut has an irregular comparative."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "-er",
+      "english": "common comparative ending"
+    },
+    {
+      "german": "als",
+      "english": "than"
+    },
+    {
+      "german": "so ... wie",
+      "english": "as ... as"
+    },
+    {
+      "german": "gut → besser",
+      "english": "good → better"
+    },
+    {
+      "german": "viel → mehr",
+      "english": "much/many → more"
+    },
+    {
+      "german": "gern → lieber",
+      "english": "gladly → rather/preferably"
+    }
+  ],
+  "mastery_goal": "You can form common comparatives and compare people or things using als and so ... wie.",
+  "next_topic": "Everyday activities in the present tense"
+}

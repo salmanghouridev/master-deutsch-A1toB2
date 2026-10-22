@@ -1,0 +1,175 @@
+{
+  "order": 67,
+  "topic_number": 67,
+  "title": "Prepositions of Place",
+  "german_title": "Lokale Präpositionen",
+  "level": "A1",
+  "language": "en",
+  "definition": "Prepositions of place explain where someone or something is, where it is going, or where it comes from. Some German place prepositions take a fixed case; two-way prepositions can take dative for location and accusative for destination or direction.",
+  "rules": [
+    {
+      "title": "Where? — location with dative",
+      "explanation": "For location with two-way prepositions, ask wo? and usually use the dative.",
+      "examples": [
+        {
+          "german": "Das Buch liegt auf dem Tisch.",
+          "english": "The book is lying on the table."
+        },
+        {
+          "german": "Ich bin in der Küche.",
+          "english": "I am in the kitchen."
+        },
+        {
+          "german": "Die Lampe hängt über dem Tisch.",
+          "english": "The lamp is hanging above the table."
+        }
+      ]
+    },
+    {
+      "title": "Where to? — direction with accusative",
+      "explanation": "With two-way prepositions, ask wohin? and use the accusative when something moves to a destination.",
+      "examples": [
+        {
+          "german": "Ich lege das Buch auf den Tisch.",
+          "english": "I put the book onto the table."
+        },
+        {
+          "german": "Ich gehe in die Küche.",
+          "english": "I am going into the kitchen."
+        },
+        {
+          "german": "Er hängt das Bild über das Sofa.",
+          "english": "He hangs the picture above the sofa."
+        }
+      ]
+    },
+    {
+      "title": "Common two-way prepositions",
+      "explanation": "The main two-way prepositions are an, auf, hinter, in, neben, über, unter, vor, and zwischen.",
+      "examples": [
+        {
+          "german": "Der Stuhl steht neben dem Tisch.",
+          "english": "The chair is next to the table."
+        },
+        {
+          "german": "Der Hund liegt unter dem Bett.",
+          "english": "The dog is lying under the bed."
+        },
+        {
+          "german": "Ich stelle den Stuhl neben den Tisch.",
+          "english": "I put the chair next to the table."
+        }
+      ]
+    },
+    {
+      "title": "Fixed prepositions of place",
+      "explanation": "Some common place prepositions take a fixed case: aus, bei, nach, von, zu take dative; durch takes accusative.",
+      "examples": [
+        {
+          "german": "Ich komme aus der Schule.",
+          "english": "I am coming from school."
+        },
+        {
+          "german": "Ich bin bei meinem Freund.",
+          "english": "I am at my friend's place."
+        },
+        {
+          "german": "Wir fahren nach Berlin.",
+          "english": "We are going to Berlin."
+        },
+        {
+          "german": "Ich gehe zum Bahnhof.",
+          "english": "I am going to the train station."
+        },
+        {
+          "german": "Wir gehen durch den Park.",
+          "english": "We walk through the park."
+        }
+      ]
+    },
+    {
+      "title": "Useful contractions",
+      "explanation": "Common contractions include im = in dem, ins = in das, am = an dem, ans = an das, zum = zu dem, and zur = zu der.",
+      "examples": [
+        {
+          "german": "Ich bin im Supermarkt.",
+          "english": "I am in the supermarket."
+        },
+        {
+          "german": "Ich gehe ins Kino.",
+          "english": "I am going to the cinema."
+        },
+        {
+          "german": "Wir treffen uns am Bahnhof.",
+          "english": "We meet at the train station."
+        },
+        {
+          "german": "Ich gehe zur Arbeit.",
+          "english": "I am going to work."
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "two_way_rule": {
+      "wo": "Dative for location: Das Glas steht auf dem Tisch.",
+      "wohin": "Accusative for destination: Ich stelle das Glas auf den Tisch."
+    },
+    "two_way_prepositions": [
+      "an",
+      "auf",
+      "hinter",
+      "in",
+      "neben",
+      "über",
+      "unter",
+      "vor",
+      "zwischen"
+    ]
+  },
+  "common_mistakes": [
+    {
+      "wrong": "Das Buch liegt auf den Tisch.",
+      "correct": "Das Buch liegt auf dem Tisch.",
+      "explanation": "This describes a location (wo?), so use dative."
+    },
+    {
+      "wrong": "Ich gehe in der Küche.",
+      "correct": "Ich gehe in die Küche.",
+      "explanation": "This describes movement into a destination (wohin?), so use accusative."
+    },
+    {
+      "wrong": "Ich fahre mit den Bus.",
+      "correct": "Ich fahre mit dem Bus.",
+      "explanation": "Mit always takes the dative."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "wo?",
+      "english": "where? — location, often dative with two-way prepositions"
+    },
+    {
+      "german": "wohin?",
+      "english": "where to? — destination, often accusative with two-way prepositions"
+    },
+    {
+      "german": "in, auf, an, neben, unter",
+      "english": "common place prepositions"
+    },
+    {
+      "german": "im",
+      "english": "in dem"
+    },
+    {
+      "german": "ins",
+      "english": "in das"
+    },
+    {
+      "german": "zum / zur",
+      "english": "zu dem / zu der"
+    }
+  ],
+  "mastery_goal": "You can describe locations and destinations and choose dative versus accusative with common two-way prepositions.",
+  "next_topic": "Prepositions of time"
+}

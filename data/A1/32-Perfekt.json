@@ -1,0 +1,168 @@
+{
+  "order": 78,
+  "topic_number": 78,
+  "title": "Perfect Tense",
+  "german_title": "Perfekt",
+  "level": "A1",
+  "language": "en",
+  "definition": "The German Perfekt is a common past tense used in everyday conversation to talk about completed actions. It is usually formed with haben or sein in the present tense plus a past participle (Partizip II) at the end of the clause.",
+  "rules": [
+    {
+      "title": "Basic structure",
+      "explanation": "Pattern: subject + conjugated haben/sein + other information + past participle.",
+      "examples": [
+        {
+          "german": "Ich habe Deutsch gelernt.",
+          "english": "I studied/have studied German."
+        },
+        {
+          "german": "Wir haben Pizza gegessen.",
+          "english": "We ate/have eaten pizza."
+        },
+        {
+          "german": "Sie ist nach Hause gegangen.",
+          "english": "She went/has gone home."
+        }
+      ]
+    },
+    {
+      "title": "Regular past participles",
+      "explanation": "Many regular verbs form the participle with ge- + stem + -t. Verbs ending in -ieren do not use ge-.",
+      "examples": [
+        {
+          "german": "machen → gemacht",
+          "english": "to do/make → done/made"
+        },
+        {
+          "german": "lernen → gelernt",
+          "english": "to learn → learned"
+        },
+        {
+          "german": "kaufen → gekauft",
+          "english": "to buy → bought"
+        },
+        {
+          "german": "studieren → studiert",
+          "english": "to study → studied"
+        }
+      ]
+    },
+    {
+      "title": "Irregular past participles",
+      "explanation": "Many common verbs have irregular participles ending in -en; learn them individually.",
+      "examples": [
+        {
+          "german": "essen → gegessen",
+          "english": "to eat → eaten"
+        },
+        {
+          "german": "sehen → gesehen",
+          "english": "to see → seen"
+        },
+        {
+          "german": "schreiben → geschrieben",
+          "english": "to write → written"
+        },
+        {
+          "german": "trinken → getrunken",
+          "english": "to drink → drunk"
+        },
+        {
+          "german": "gehen → gegangen",
+          "english": "to go → gone"
+        }
+      ]
+    },
+    {
+      "title": "haben or sein?",
+      "explanation": "Most verbs use haben. Many verbs expressing movement from one place to another or a change of state use sein, including gehen, fahren, kommen, werden, and aufstehen.",
+      "examples": [
+        {
+          "german": "Ich habe gearbeitet.",
+          "english": "I worked."
+        },
+        {
+          "german": "Ich bin nach Berlin gefahren.",
+          "english": "I travelled to Berlin."
+        },
+        {
+          "german": "Er ist früh aufgestanden.",
+          "english": "He got up early."
+        }
+      ]
+    },
+    {
+      "title": "Separable and inseparable verbs",
+      "explanation": "Separable verbs commonly place ge- between the prefix and stem (aufstehen → aufgestanden). Inseparable prefixes such as be-, ver-, er-, and ent- usually do not take ge-.",
+      "examples": [
+        {
+          "german": "einkaufen → eingekauft",
+          "english": "to shop → shopped"
+        },
+        {
+          "german": "anrufen → angerufen",
+          "english": "to call → called"
+        },
+        {
+          "german": "besuchen → besucht",
+          "english": "to visit → visited"
+        },
+        {
+          "german": "verstehen → verstanden",
+          "english": "to understand → understood"
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "structure": "Ich habe gestern gearbeitet.",
+    "haben": "Ich habe gekocht.",
+    "sein": "Ich bin nach Hause gegangen.",
+    "word_order": "The participle goes at the end of the clause."
+  },
+  "common_mistakes": [
+    {
+      "wrong": "Ich habe nach Hause gegangen.",
+      "correct": "Ich bin nach Hause gegangen.",
+      "explanation": "Gehen usually takes sein in the Perfekt."
+    },
+    {
+      "wrong": "Ich gelernt habe Deutsch.",
+      "correct": "Ich habe Deutsch gelernt.",
+      "explanation": "The conjugated auxiliary is in position two; the participle goes at the end."
+    },
+    {
+      "wrong": "Ich habe studiert gelernt (for 'I studied').",
+      "correct": "Ich habe studiert.",
+      "explanation": "Studieren forms the participle studiert without ge-."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "haben/sein + Partizip II",
+      "english": "basic Perfekt structure"
+    },
+    {
+      "german": "machen → gemacht",
+      "english": "do/make → done/made"
+    },
+    {
+      "german": "lernen → gelernt",
+      "english": "learn → learned"
+    },
+    {
+      "german": "essen → gegessen",
+      "english": "eat → eaten"
+    },
+    {
+      "german": "gehen → gegangen",
+      "english": "go → gone"
+    },
+    {
+      "german": "aufstehen → aufgestanden",
+      "english": "get up → got up"
+    }
+  ],
+  "mastery_goal": "You can describe past events using haben or sein plus the correct participle and place the participle at the end.",
+  "next_topic": "mögen, gern, lieber, am liebsten"
+}

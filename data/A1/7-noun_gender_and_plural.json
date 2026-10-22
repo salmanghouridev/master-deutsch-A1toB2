@@ -1,0 +1,195 @@
+{
+  "order": 53,
+  "topic_number": 53,
+  "title": "Noun Gender and Plural",
+  "german_title": "Nomen: Genus und Plural",
+  "level": "A1",
+  "language": "en",
+  "definition": "Every German noun has a grammatical gender: masculine (der), feminine (die), or neuter (das). Nouns also have singular and plural forms. Gender is not always predictable, so learn each noun with its article and plural form.",
+  "rules": [
+    {
+      "title": "Three grammatical genders",
+      "explanation": "Learn the article with each noun. Grammatical gender does not always match a person's or object's natural gender.",
+      "examples": [
+        {
+          "german": "der Tisch",
+          "english": "the table — masculine"
+        },
+        {
+          "german": "die Tür",
+          "english": "the door — feminine"
+        },
+        {
+          "german": "das Fenster",
+          "english": "the window — neuter"
+        }
+      ]
+    },
+    {
+      "title": "Common gender clues",
+      "explanation": "These patterns help, but they have exceptions. The safest method is to memorize the article with the noun.",
+      "examples": [
+        {
+          "german": "der Lehrer",
+          "english": "the male teacher",
+          "note": "Many male people nouns are masculine."
+        },
+        {
+          "german": "die Zeitung",
+          "english": "the newspaper",
+          "note": "Nouns ending in -ung are usually feminine."
+        },
+        {
+          "german": "die Möglichkeit",
+          "english": "the possibility",
+          "note": "Nouns ending in -keit or -heit are usually feminine."
+        },
+        {
+          "german": "das Mädchen",
+          "english": "the girl",
+          "note": "Nouns ending in -chen are neuter."
+        }
+      ]
+    },
+    {
+      "title": "Making plurals",
+      "explanation": "German plural forms use several patterns: -e, -er, -(e)n, -s, or no ending. Some nouns also change a, o, or u to ä, ö, or ü.",
+      "examples": [
+        {
+          "german": "der Tisch → die Tische",
+          "english": "the table → the tables"
+        },
+        {
+          "german": "die Frau → die Frauen",
+          "english": "the woman → the women"
+        },
+        {
+          "german": "das Kind → die Kinder",
+          "english": "the child → the children"
+        },
+        {
+          "german": "das Auto → die Autos",
+          "english": "the car → the cars"
+        },
+        {
+          "german": "der Lehrer → die Lehrer",
+          "english": "the teacher → the teachers"
+        },
+        {
+          "german": "der Apfel → die Äpfel",
+          "english": "the apple → the apples"
+        }
+      ]
+    },
+    {
+      "title": "Plural article",
+      "explanation": "The definite article for all plural nouns is die, regardless of the noun's singular gender.",
+      "examples": [
+        {
+          "german": "der Stuhl → die Stühle",
+          "english": "the chair → the chairs"
+        },
+        {
+          "german": "die Lampe → die Lampen",
+          "english": "the lamp → the lamps"
+        },
+        {
+          "german": "das Buch → die Bücher",
+          "english": "the book → the books"
+        }
+      ]
+    },
+    {
+      "title": "Learn three pieces together",
+      "explanation": "When learning vocabulary, memorize singular article, singular noun, and plural form as one unit.",
+      "examples": [
+        {
+          "german": "das Buch – die Bücher",
+          "english": "the book – the books"
+        },
+        {
+          "german": "die Stadt – die Städte",
+          "english": "the city – the cities"
+        },
+        {
+          "german": "der Zug – die Züge",
+          "english": "the train – the trains"
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "plural_patterns": [
+      {
+        "pattern": "-e (sometimes umlaut)",
+        "example": "der Tisch → die Tische"
+      },
+      {
+        "pattern": "-er (sometimes umlaut)",
+        "example": "das Kind → die Kinder"
+      },
+      {
+        "pattern": "-(e)n",
+        "example": "die Frau → die Frauen"
+      },
+      {
+        "pattern": "-s",
+        "example": "das Auto → die Autos"
+      },
+      {
+        "pattern": "no ending",
+        "example": "der Lehrer → die Lehrer"
+      }
+    ]
+  },
+  "common_mistakes": [
+    {
+      "wrong": "Tisch",
+      "correct": "der Tisch – die Tische",
+      "explanation": "Learn the article and plural form together."
+    },
+    {
+      "wrong": "die Buch",
+      "correct": "das Buch",
+      "explanation": "Buch is neuter."
+    },
+    {
+      "wrong": "das Bücher",
+      "correct": "die Bücher",
+      "explanation": "All plural definite articles are die."
+    },
+    {
+      "wrong": "die Autos (singular)",
+      "correct": "das Auto (singular)",
+      "explanation": "Autos is plural; Auto is singular."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "der",
+      "english": "masculine"
+    },
+    {
+      "german": "die",
+      "english": "feminine and all plural nouns"
+    },
+    {
+      "german": "das",
+      "english": "neuter"
+    },
+    {
+      "german": "das Buch – die Bücher",
+      "english": "the book – the books"
+    },
+    {
+      "german": "die Frau – die Frauen",
+      "english": "the woman – the women"
+    },
+    {
+      "german": "das Auto – die Autos",
+      "english": "the car – the cars"
+    }
+  ],
+  "mastery_goal": "You can identify the three grammatical genders, recognize common gender clues, and learn common plural patterns with their articles.",
+  "next_topic": "Possessive articles (mein, dein, sein, ihr...)"
+}

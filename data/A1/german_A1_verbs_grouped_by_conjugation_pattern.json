@@ -1,0 +1,5042 @@
+{
+  "title": "A1 German Verbs Grouped for Easy Learning",
+  "level": "A1",
+  "purpose": "Learn verbs by conjugation pattern instead of memorising 115 unrelated tables.",
+  "key_explanation": {
+    "regular_example": {
+      "infinitive": "kommen",
+      "forms": [
+        "ich komme",
+        "du kommst",
+        "er/sie/es kommt",
+        "wir kommen",
+        "ihr kommt",
+        "sie/Sie kommen"
+      ],
+      "why": "The stem komm- stays the same. Add the normal endings: -e, -st, -t, -en, -t, -en."
+    },
+    "stem_changing_example": {
+      "infinitive": "essen",
+      "forms": [
+        "ich esse",
+        "du isst",
+        "er/sie/es isst",
+        "wir essen",
+        "ihr esst",
+        "sie/Sie essen"
+      ],
+      "why": "The stem vowel changes from e to i in du and er/sie/es. Learn these forms specially."
+    }
+  },
+  "recommended_learning_order": [
+    "1. Memorize sein, haben, werden and wissen.",
+    "2. Learn the regular endings once; then practise regular verbs as a group.",
+    "3. Learn stem-changing verbs, especially the du and er/sie/es forms.",
+    "4. Learn modal verbs.",
+    "5. Learn separable verbs and put the prefix at the end of a main clause.",
+    "6. Learn reflexive verbs with their pronouns (mich, dich, sich, uns, euch, sich).",
+    "7. Review spelling/pronunciation adjustments such as arbeiten → du arbeitest."
+  ],
+  "regular_endings": [
+    {
+      "pronoun": "ich",
+      "ending": "-e"
+    },
+    {
+      "pronoun": "du",
+      "ending": "-st"
+    },
+    {
+      "pronoun": "er/sie/es",
+      "ending": "-t"
+    },
+    {
+      "pronoun": "wir",
+      "ending": "-en"
+    },
+    {
+      "pronoun": "ihr",
+      "ending": "-t"
+    },
+    {
+      "pronoun": "sie/Sie",
+      "ending": "-en"
+    }
+  ],
+  "groups": {
+    "memorize_first_irregular": [
+      {
+        "infinitive": "sein",
+        "english": "to be",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "bin"
+          },
+          {
+            "pronoun": "du",
+            "form": "bist"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "ist"
+          },
+          {
+            "pronoun": "wir",
+            "form": "sind"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "seid"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "sind"
+          }
+        ],
+        "pattern_or_note": "highly irregular core verb"
+      },
+      {
+        "infinitive": "haben",
+        "english": "to have",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "habe"
+          },
+          {
+            "pronoun": "du",
+            "form": "hast"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "hat"
+          },
+          {
+            "pronoun": "wir",
+            "form": "haben"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "habt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "haben"
+          }
+        ],
+        "pattern_or_note": "irregular in du (hast) and er (hat)"
+      },
+      {
+        "infinitive": "werden",
+        "english": "to become",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "werde"
+          },
+          {
+            "pronoun": "du",
+            "form": "wirst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "wird"
+          },
+          {
+            "pronoun": "wir",
+            "form": "werden"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "werdet"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "werden"
+          }
+        ],
+        "pattern_or_note": "irregular in du (wirst) and er (wird)"
+      },
+      {
+        "infinitive": "wissen",
+        "english": "to know a fact",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "weiß"
+          },
+          {
+            "pronoun": "du",
+            "form": "weißt"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "weiß"
+          },
+          {
+            "pronoun": "wir",
+            "form": "wissen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "wisst"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "wissen"
+          }
+        ],
+        "pattern_or_note": "ich & er/sie/es have no ending (weiß)"
+      }
+    ],
+    "stem_changing": [
+      {
+        "infinitive": "sehen",
+        "english": "to see",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "sehe"
+          },
+          {
+            "pronoun": "du",
+            "form": "siehst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "sieht"
+          },
+          {
+            "pronoun": "wir",
+            "form": "sehen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "seht"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "sehen"
+          }
+        ],
+        "pattern_or_note": "vowel change e → ie"
+      },
+      {
+        "infinitive": "lesen",
+        "english": "to read",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "lese"
+          },
+          {
+            "pronoun": "du",
+            "form": "liest"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "liest"
+          },
+          {
+            "pronoun": "wir",
+            "form": "lesen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "lest"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "lesen"
+          }
+        ],
+        "pattern_or_note": "vowel change e → ie"
+      },
+      {
+        "infinitive": "sprechen",
+        "english": "to speak",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "spreche"
+          },
+          {
+            "pronoun": "du",
+            "form": "sprichst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "spricht"
+          },
+          {
+            "pronoun": "wir",
+            "form": "sprechen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "sprecht"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "sprechen"
+          }
+        ],
+        "pattern_or_note": "vowel change e → i"
+      },
+      {
+        "infinitive": "helfen",
+        "english": "to help",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "helfe"
+          },
+          {
+            "pronoun": "du",
+            "form": "hilfst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "hilft"
+          },
+          {
+            "pronoun": "wir",
+            "form": "helfen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "helft"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "helfen"
+          }
+        ],
+        "pattern_or_note": "vowel change e → i"
+      },
+      {
+        "infinitive": "essen",
+        "english": "to eat",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "esse"
+          },
+          {
+            "pronoun": "du",
+            "form": "isst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "isst"
+          },
+          {
+            "pronoun": "wir",
+            "form": "essen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "esst"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "essen"
+          }
+        ],
+        "pattern_or_note": "vowel change e → i"
+      },
+      {
+        "infinitive": "geben",
+        "english": "to give",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "gebe"
+          },
+          {
+            "pronoun": "du",
+            "form": "gibst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "gibt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "geben"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "gebt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "geben"
+          }
+        ],
+        "pattern_or_note": "vowel change e → i"
+      },
+      {
+        "infinitive": "treffen",
+        "english": "to meet",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "treffe"
+          },
+          {
+            "pronoun": "du",
+            "form": "triffst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "trifft"
+          },
+          {
+            "pronoun": "wir",
+            "form": "treffen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "trefft"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "treffen"
+          }
+        ],
+        "pattern_or_note": "vowel change e → i"
+      },
+      {
+        "infinitive": "nehmen",
+        "english": "to take",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "nehme"
+          },
+          {
+            "pronoun": "du",
+            "form": "nimmst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "nimmt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "nehmen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "nehmt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "nehmen"
+          }
+        ],
+        "pattern_or_note": "vowel change e → i"
+      },
+      {
+        "infinitive": "fahren",
+        "english": "to travel / drive",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "fahre"
+          },
+          {
+            "pronoun": "du",
+            "form": "fährst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "fährt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "fahren"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "fahrt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "fahren"
+          }
+        ],
+        "pattern_or_note": "vowel change a → ä"
+      },
+      {
+        "infinitive": "schlafen",
+        "english": "to sleep",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "schlafe"
+          },
+          {
+            "pronoun": "du",
+            "form": "schläfst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "schläft"
+          },
+          {
+            "pronoun": "wir",
+            "form": "schlafen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "schlaft"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "schlafen"
+          }
+        ],
+        "pattern_or_note": "vowel change a → ä"
+      },
+      {
+        "infinitive": "tragen",
+        "english": "to carry / wear",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "trage"
+          },
+          {
+            "pronoun": "du",
+            "form": "trägst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "trägt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "tragen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "tragt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "tragen"
+          }
+        ],
+        "pattern_or_note": "vowel change a → ä"
+      },
+      {
+        "infinitive": "waschen",
+        "english": "to wash",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "wasche"
+          },
+          {
+            "pronoun": "du",
+            "form": "wäschst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "wäscht"
+          },
+          {
+            "pronoun": "wir",
+            "form": "waschen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "wascht"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "waschen"
+          }
+        ],
+        "pattern_or_note": "vowel change a → ä"
+      },
+      {
+        "infinitive": "laufen",
+        "english": "to run / walk",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "laufe"
+          },
+          {
+            "pronoun": "du",
+            "form": "läufst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "läuft"
+          },
+          {
+            "pronoun": "wir",
+            "form": "laufen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "lauft"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "laufen"
+          }
+        ],
+        "pattern_or_note": "vowel change au → äu"
+      },
+      {
+        "infinitive": "fallen",
+        "english": "to fall",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "falle"
+          },
+          {
+            "pronoun": "du",
+            "form": "fällst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "fällt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "fallen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "fallt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "fallen"
+          }
+        ],
+        "pattern_or_note": "vowel change a → ä"
+      },
+      {
+        "infinitive": "halten",
+        "english": "to stop / hold",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "halte"
+          },
+          {
+            "pronoun": "du",
+            "form": "hältst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "hält"
+          },
+          {
+            "pronoun": "wir",
+            "form": "halten"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "haltet"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "halten"
+          }
+        ],
+        "pattern_or_note": "vowel change a → ä"
+      },
+      {
+        "infinitive": "lassen",
+        "english": "to let / leave",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "lasse"
+          },
+          {
+            "pronoun": "du",
+            "form": "lässt"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "lässt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "lassen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "lasst"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "lassen"
+          }
+        ],
+        "pattern_or_note": "vowel change a → ä"
+      },
+      {
+        "infinitive": "fangen",
+        "english": "to catch",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "fange"
+          },
+          {
+            "pronoun": "du",
+            "form": "fängst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "fängt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "fangen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "fangt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "fangen"
+          }
+        ],
+        "pattern_or_note": "vowel change a → ä"
+      },
+      {
+        "infinitive": "vergessen",
+        "english": "to forget",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "vergesse"
+          },
+          {
+            "pronoun": "du",
+            "form": "vergisst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "vergisst"
+          },
+          {
+            "pronoun": "wir",
+            "form": "vergessen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "vergesst"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "vergessen"
+          }
+        ],
+        "pattern_or_note": "vowel change e → i"
+      },
+      {
+        "infinitive": "empfehlen",
+        "english": "to recommend",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "empfehle"
+          },
+          {
+            "pronoun": "du",
+            "form": "empfiehlst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "empfiehlt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "empfehlen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "empfehlt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "empfehlen"
+          }
+        ],
+        "pattern_or_note": "vowel change e → ie"
+      },
+      {
+        "infinitive": "brechen",
+        "english": "to break",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "breche"
+          },
+          {
+            "pronoun": "du",
+            "form": "brichst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "bricht"
+          },
+          {
+            "pronoun": "wir",
+            "form": "brechen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "brecht"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "brechen"
+          }
+        ],
+        "pattern_or_note": "vowel change e → i"
+      },
+      {
+        "infinitive": "stehlen",
+        "english": "to steal",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "stehle"
+          },
+          {
+            "pronoun": "du",
+            "form": "stiehlst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "stiehlt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "stehlen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "stehlt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "stehlen"
+          }
+        ],
+        "pattern_or_note": "vowel change e → ie"
+      },
+      {
+        "infinitive": "werfen",
+        "english": "to throw",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "werfe"
+          },
+          {
+            "pronoun": "du",
+            "form": "wirfst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "wirft"
+          },
+          {
+            "pronoun": "wir",
+            "form": "werfen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "werft"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "werfen"
+          }
+        ],
+        "pattern_or_note": "vowel change e → i"
+      }
+    ],
+    "regular_present_tense": [
+      {
+        "infinitive": "lernen",
+        "english": "to learn",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "lerne"
+          },
+          {
+            "pronoun": "du",
+            "form": "lernst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "lernt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "lernen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "lernt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "lernen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "machen",
+        "english": "to do / make",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "mache"
+          },
+          {
+            "pronoun": "du",
+            "form": "machst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "macht"
+          },
+          {
+            "pronoun": "wir",
+            "form": "machen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "macht"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "machen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "wohnen",
+        "english": "to live / reside",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "wohne"
+          },
+          {
+            "pronoun": "du",
+            "form": "wohnst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "wohnt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "wohnen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "wohnt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "wohnen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "kommen",
+        "english": "to come",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "komme"
+          },
+          {
+            "pronoun": "du",
+            "form": "kommst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "kommt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "kommen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "kommt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "kommen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "gehen",
+        "english": "to go / walk",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "gehe"
+          },
+          {
+            "pronoun": "du",
+            "form": "gehst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "geht"
+          },
+          {
+            "pronoun": "wir",
+            "form": "gehen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "geht"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "gehen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "kaufen",
+        "english": "to buy",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "kaufe"
+          },
+          {
+            "pronoun": "du",
+            "form": "kaufst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "kauft"
+          },
+          {
+            "pronoun": "wir",
+            "form": "kaufen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "kauft"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "kaufen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "trinken",
+        "english": "to drink",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "trinke"
+          },
+          {
+            "pronoun": "du",
+            "form": "trinkst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "trinkt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "trinken"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "trinkt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "trinken"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "hören",
+        "english": "to hear / listen",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "höre"
+          },
+          {
+            "pronoun": "du",
+            "form": "hörst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "hört"
+          },
+          {
+            "pronoun": "wir",
+            "form": "hören"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "hört"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "hören"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "fragen",
+        "english": "to ask",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "frage"
+          },
+          {
+            "pronoun": "du",
+            "form": "fragst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "fragt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "fragen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "fragt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "fragen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "sagen",
+        "english": "to say",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "sage"
+          },
+          {
+            "pronoun": "du",
+            "form": "sagst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "sagt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "sagen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "sagt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "sagen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "spielen",
+        "english": "to play",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "spiele"
+          },
+          {
+            "pronoun": "du",
+            "form": "spielst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "spielt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "spielen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "spielt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "spielen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "studieren",
+        "english": "to study at university",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "studiere"
+          },
+          {
+            "pronoun": "du",
+            "form": "studierst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "studiert"
+          },
+          {
+            "pronoun": "wir",
+            "form": "studieren"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "studiert"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "studieren"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "schreiben",
+        "english": "to write",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "schreibe"
+          },
+          {
+            "pronoun": "du",
+            "form": "schreibst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "schreibt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "schreiben"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "schreibt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "schreiben"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "brauchen",
+        "english": "to need",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "brauche"
+          },
+          {
+            "pronoun": "du",
+            "form": "brauchst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "braucht"
+          },
+          {
+            "pronoun": "wir",
+            "form": "brauchen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "braucht"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "brauchen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "suchen",
+        "english": "to search / look for",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "suche"
+          },
+          {
+            "pronoun": "du",
+            "form": "suchst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "sucht"
+          },
+          {
+            "pronoun": "wir",
+            "form": "suchen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "sucht"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "suchen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "bleiben",
+        "english": "to stay / remain",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "bleibe"
+          },
+          {
+            "pronoun": "du",
+            "form": "bleibst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "bleibt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "bleiben"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "bleibt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "bleiben"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "bringen",
+        "english": "to bring",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "bringe"
+          },
+          {
+            "pronoun": "du",
+            "form": "bringst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "bringt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "bringen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "bringt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "bringen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "denken",
+        "english": "to think",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "denke"
+          },
+          {
+            "pronoun": "du",
+            "form": "denkst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "denkt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "denken"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "denkt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "denken"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "glauben",
+        "english": "to believe",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "glaube"
+          },
+          {
+            "pronoun": "du",
+            "form": "glaubst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "glaubt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "glauben"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "glaubt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "glauben"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "hoffen",
+        "english": "to hope",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "hoffe"
+          },
+          {
+            "pronoun": "du",
+            "form": "hoffst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "hofft"
+          },
+          {
+            "pronoun": "wir",
+            "form": "hoffen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "hofft"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "hoffen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "kochen",
+        "english": "to cook",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "koche"
+          },
+          {
+            "pronoun": "du",
+            "form": "kochst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "kocht"
+          },
+          {
+            "pronoun": "wir",
+            "form": "kochen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "kocht"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "kochen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "lieben",
+        "english": "to love",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "liebe"
+          },
+          {
+            "pronoun": "du",
+            "form": "liebst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "liebt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "lieben"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "liebt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "lieben"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "leben",
+        "english": "to live",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "lebe"
+          },
+          {
+            "pronoun": "du",
+            "form": "lebst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "lebt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "leben"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "lebt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "leben"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "zahlen",
+        "english": "to pay",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "zahle"
+          },
+          {
+            "pronoun": "du",
+            "form": "zahlst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "zahlt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "zahlen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "zahlt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "zahlen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "bezahlen",
+        "english": "to pay for",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "bezahle"
+          },
+          {
+            "pronoun": "du",
+            "form": "bezahlst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "bezahlt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "bezahlen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "bezahlt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "bezahlen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "verkaufen",
+        "english": "to sell",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "verkaufe"
+          },
+          {
+            "pronoun": "du",
+            "form": "verkaufst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "verkauft"
+          },
+          {
+            "pronoun": "wir",
+            "form": "verkaufen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "verkauft"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "verkaufen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "verstehen",
+        "english": "to understand",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "verstehe"
+          },
+          {
+            "pronoun": "du",
+            "form": "verstehst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "versteht"
+          },
+          {
+            "pronoun": "wir",
+            "form": "verstehen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "versteht"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "verstehen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "beginnen",
+        "english": "to begin",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "beginne"
+          },
+          {
+            "pronoun": "du",
+            "form": "beginnst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "beginnt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "beginnen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "beginnt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "beginnen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "gewinnen",
+        "english": "to win",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "gewinne"
+          },
+          {
+            "pronoun": "du",
+            "form": "gewinnst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "gewinnt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "gewinnen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "gewinnt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "gewinnen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "verlieren",
+        "english": "to lose",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "verliere"
+          },
+          {
+            "pronoun": "du",
+            "form": "verlierst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "verliert"
+          },
+          {
+            "pronoun": "wir",
+            "form": "verlieren"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "verliert"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "verlieren"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "erklären",
+        "english": "to explain",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "erkläre"
+          },
+          {
+            "pronoun": "du",
+            "form": "erklärst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "erklärt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "erklären"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "erklärt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "erklären"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "erzählen",
+        "english": "to tell a story",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "erzähle"
+          },
+          {
+            "pronoun": "du",
+            "form": "erzählst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "erzählt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "erzählen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "erzählt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "erzählen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "besuchen",
+        "english": "to visit",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "besuche"
+          },
+          {
+            "pronoun": "du",
+            "form": "besuchst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "besucht"
+          },
+          {
+            "pronoun": "wir",
+            "form": "besuchen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "besucht"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "besuchen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "bestellen",
+        "english": "to order",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "bestelle"
+          },
+          {
+            "pronoun": "du",
+            "form": "bestellst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "bestellt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "bestellen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "bestellt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "bestellen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "funktionieren",
+        "english": "to function / work",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "funktioniere"
+          },
+          {
+            "pronoun": "du",
+            "form": "funktionierst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "funktioniert"
+          },
+          {
+            "pronoun": "wir",
+            "form": "funktionieren"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "funktioniert"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "funktionieren"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "fotografieren",
+        "english": "to photograph",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "fotografiere"
+          },
+          {
+            "pronoun": "du",
+            "form": "fotografierst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "fotografiert"
+          },
+          {
+            "pronoun": "wir",
+            "form": "fotografieren"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "fotografiert"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "fotografieren"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "telefonieren",
+        "english": "to make a phone call",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "telefoniere"
+          },
+          {
+            "pronoun": "du",
+            "form": "telefonierst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "telefoniert"
+          },
+          {
+            "pronoun": "wir",
+            "form": "telefonieren"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "telefoniert"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "telefonieren"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "reparieren",
+        "english": "to repair",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "repariere"
+          },
+          {
+            "pronoun": "du",
+            "form": "reparierst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "repariert"
+          },
+          {
+            "pronoun": "wir",
+            "form": "reparieren"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "repariert"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "reparieren"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "passieren",
+        "english": "to happen",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "passiere"
+          },
+          {
+            "pronoun": "du",
+            "form": "passierst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "passiert"
+          },
+          {
+            "pronoun": "wir",
+            "form": "passieren"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "passiert"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "passieren"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "duschen",
+        "english": "to shower",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "dusche"
+          },
+          {
+            "pronoun": "du",
+            "form": "duschst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "duscht"
+          },
+          {
+            "pronoun": "wir",
+            "form": "duschen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "duscht"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "duschen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "frühstücken",
+        "english": "to eat breakfast",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "frühstücke"
+          },
+          {
+            "pronoun": "du",
+            "form": "frühstückst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "frühstückt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "frühstücken"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "frühstückt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "frühstücken"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "schenken",
+        "english": "to gift",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "schenke"
+          },
+          {
+            "pronoun": "du",
+            "form": "schenkst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "schenkt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "schenken"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "schenkt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "schenken"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "schmecken",
+        "english": "to taste",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "schmecke"
+          },
+          {
+            "pronoun": "du",
+            "form": "schmeckst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "schmeckt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "schmecken"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "schmeckt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "schmecken"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "passen",
+        "english": "to fit / suit",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "passe"
+          },
+          {
+            "pronoun": "du",
+            "form": "passst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "passt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "passen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "passt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "passen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "danken",
+        "english": "to thank",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "danke"
+          },
+          {
+            "pronoun": "du",
+            "form": "dankst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "dankt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "danken"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "dankt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "danken"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "feiern",
+        "english": "to celebrate",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "feiere"
+          },
+          {
+            "pronoun": "du",
+            "form": "feierst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "feiert"
+          },
+          {
+            "pronoun": "wir",
+            "form": "feieren"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "feiert"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "feieren"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "rauchen",
+        "english": "to smoke",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "rauche"
+          },
+          {
+            "pronoun": "du",
+            "form": "rauchst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "raucht"
+          },
+          {
+            "pronoun": "wir",
+            "form": "rauchen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "raucht"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "rauchen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "schwimmen",
+        "english": "to swim",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "schwimme"
+          },
+          {
+            "pronoun": "du",
+            "form": "schwimmst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "schwimmt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "schwimmen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "schwimmt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "schwimmen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "fliegen",
+        "english": "to fly",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "fliege"
+          },
+          {
+            "pronoun": "du",
+            "form": "fliegst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "fliegt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "fliegen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "fliegt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "fliegen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "holen",
+        "english": "to fetch / get",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "hole"
+          },
+          {
+            "pronoun": "du",
+            "form": "holst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "holt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "holen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "holt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "holen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "zeigen",
+        "english": "to show",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "zeige"
+          },
+          {
+            "pronoun": "du",
+            "form": "zeigst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "zeigt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "zeigen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "zeigt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "zeigen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "setzen",
+        "english": "to set / put",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "setze"
+          },
+          {
+            "pronoun": "du",
+            "form": "setzst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "setzt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "setzen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "setzt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "setzen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "stellen",
+        "english": "to put upright",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "stelle"
+          },
+          {
+            "pronoun": "du",
+            "form": "stellst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "stellt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "stellen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "stellt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "stellen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "legen",
+        "english": "to lay / put flat",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "lege"
+          },
+          {
+            "pronoun": "du",
+            "form": "legst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "legt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "legen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "legt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "legen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "bitten",
+        "english": "to request",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "bitte"
+          },
+          {
+            "pronoun": "du",
+            "form": "bittst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "bittt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "bitten"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "bittt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "bitten"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "putzen",
+        "english": "to clean",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "putze"
+          },
+          {
+            "pronoun": "du",
+            "form": "putzst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "putzt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "putzen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "putzt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "putzen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "planen",
+        "english": "to plan",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "plane"
+          },
+          {
+            "pronoun": "du",
+            "form": "planst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "plant"
+          },
+          {
+            "pronoun": "wir",
+            "form": "planen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "plant"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "planen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "fehlen",
+        "english": "to miss / be lacking",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "fehle"
+          },
+          {
+            "pronoun": "du",
+            "form": "fehlst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "fehlt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "fehlen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "fehlt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "fehlen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "kosten",
+        "english": "to cost",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "koste"
+          },
+          {
+            "pronoun": "du",
+            "form": "kostst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "kostt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "kosten"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "kostt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "kosten"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "buchen",
+        "english": "to book",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "buche"
+          },
+          {
+            "pronoun": "du",
+            "form": "buchst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "bucht"
+          },
+          {
+            "pronoun": "wir",
+            "form": "buchen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "bucht"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "buchen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "packen",
+        "english": "to pack",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "packe"
+          },
+          {
+            "pronoun": "du",
+            "form": "packst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "packt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "packen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "packt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "packen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "mieten",
+        "english": "to rent",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "miete"
+          },
+          {
+            "pronoun": "du",
+            "form": "mietst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "miett"
+          },
+          {
+            "pronoun": "wir",
+            "form": "mieten"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "miett"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "mieten"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "vermieten",
+        "english": "to rent out",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "vermiete"
+          },
+          {
+            "pronoun": "du",
+            "form": "vermietst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "vermiett"
+          },
+          {
+            "pronoun": "wir",
+            "form": "vermieten"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "vermiett"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "vermieten"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "parken",
+        "english": "to park",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "parke"
+          },
+          {
+            "pronoun": "du",
+            "form": "parkst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "parkt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "parken"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "parkt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "parken"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "schauen",
+        "english": "to look / watch",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "schaue"
+          },
+          {
+            "pronoun": "du",
+            "form": "schaust"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "schaut"
+          },
+          {
+            "pronoun": "wir",
+            "form": "schauen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "schaut"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "schauen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "lachen",
+        "english": "to laugh",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "lache"
+          },
+          {
+            "pronoun": "du",
+            "form": "lachst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "lacht"
+          },
+          {
+            "pronoun": "wir",
+            "form": "lachen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "lacht"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "lachen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      },
+      {
+        "infinitive": "weinen",
+        "english": "to cry",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "weine"
+          },
+          {
+            "pronoun": "du",
+            "form": "weinst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "weint"
+          },
+          {
+            "pronoun": "wir",
+            "form": "weinen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "weint"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "weinen"
+          }
+        ],
+        "pattern_or_note": "regular verb pattern"
+      }
+    ],
+    "separable_verbs": [
+      {
+        "infinitive": "abholen",
+        "english": "to pick up",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "hole ab"
+          },
+          {
+            "pronoun": "du",
+            "form": "holst ab"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "holt ab"
+          },
+          {
+            "pronoun": "wir",
+            "form": "holen ab"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "holt ab"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "holen ab"
+          }
+        ],
+        "pattern_or_note": "separable prefix ab-"
+      },
+      {
+        "infinitive": "anrufen",
+        "english": "to call (phone)",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "rufe an"
+          },
+          {
+            "pronoun": "du",
+            "form": "rufst an"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "ruft an"
+          },
+          {
+            "pronoun": "wir",
+            "form": "rufen an"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "ruft an"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "rufen an"
+          }
+        ],
+        "pattern_or_note": "separable prefix an-"
+      },
+      {
+        "infinitive": "aufstehen",
+        "english": "to get up / wake up",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "stehe auf"
+          },
+          {
+            "pronoun": "du",
+            "form": "stehst auf"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "steht auf"
+          },
+          {
+            "pronoun": "wir",
+            "form": "stehen auf"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "steht auf"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "stehen auf"
+          }
+        ],
+        "pattern_or_note": "separable prefix auf-"
+      },
+      {
+        "infinitive": "aufräumen",
+        "english": "to tidy up",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "räume auf"
+          },
+          {
+            "pronoun": "du",
+            "form": "räumst auf"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "räumt auf"
+          },
+          {
+            "pronoun": "wir",
+            "form": "räumen auf"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "räumt auf"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "räumen auf"
+          }
+        ],
+        "pattern_or_note": "separable prefix auf-"
+      },
+      {
+        "infinitive": "einkaufen",
+        "english": "to go grocery shopping",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "kaufe ein"
+          },
+          {
+            "pronoun": "du",
+            "form": "kaufst ein"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "kauft ein"
+          },
+          {
+            "pronoun": "wir",
+            "form": "kaufen ein"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "kauft ein"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "kaufen ein"
+          }
+        ],
+        "pattern_or_note": "separable prefix ein-"
+      },
+      {
+        "infinitive": "einladen",
+        "english": "to invite",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "lade ein"
+          },
+          {
+            "pronoun": "du",
+            "form": "lädst ein"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "lädt ein"
+          },
+          {
+            "pronoun": "wir",
+            "form": "laden ein"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "ladt ein"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "laden ein"
+          }
+        ],
+        "pattern_or_note": "separable prefix ein-"
+      },
+      {
+        "infinitive": "fernsehen",
+        "english": "to watch TV",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "sehe fern"
+          },
+          {
+            "pronoun": "du",
+            "form": "siehst fern"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "sieht fern"
+          },
+          {
+            "pronoun": "wir",
+            "form": "sehen fern"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "seht fern"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "sehen fern"
+          }
+        ],
+        "pattern_or_note": "separable prefix fern-"
+      },
+      {
+        "infinitive": "mitkommen",
+        "english": "to come along",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "komme mit"
+          },
+          {
+            "pronoun": "du",
+            "form": "kommst mit"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "kommt mit"
+          },
+          {
+            "pronoun": "wir",
+            "form": "kommen mit"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "kommt mit"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "kommen mit"
+          }
+        ],
+        "pattern_or_note": "separable prefix mit-"
+      },
+      {
+        "infinitive": "mitbringen",
+        "english": "to bring along",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "bringe mit"
+          },
+          {
+            "pronoun": "du",
+            "form": "bringst mit"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "bringt mit"
+          },
+          {
+            "pronoun": "wir",
+            "form": "bringen mit"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "bringt mit"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "bringen mit"
+          }
+        ],
+        "pattern_or_note": "separable prefix mit-"
+      },
+      {
+        "infinitive": "mitnehmen",
+        "english": "to take along",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "nehme mit"
+          },
+          {
+            "pronoun": "du",
+            "form": "nimmst mit"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "nimmt mit"
+          },
+          {
+            "pronoun": "wir",
+            "form": "nehmen mit"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "nehmt mit"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "nehmen mit"
+          }
+        ],
+        "pattern_or_note": "separable prefix mit-"
+      },
+      {
+        "infinitive": "vorstellen",
+        "english": "to introduce",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "stelle vor"
+          },
+          {
+            "pronoun": "du",
+            "form": "stellst vor"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "stellt vor"
+          },
+          {
+            "pronoun": "wir",
+            "form": "stellen vor"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "stellt vor"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "stellen vor"
+          }
+        ],
+        "pattern_or_note": "separable prefix vor-"
+      },
+      {
+        "infinitive": "kennenlernen",
+        "english": "to get to know",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "lerne kennen"
+          },
+          {
+            "pronoun": "du",
+            "form": "lernst kennen"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "lernt kennen"
+          },
+          {
+            "pronoun": "wir",
+            "form": "lernen kennen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "lernt kennen"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "lernen kennen"
+          }
+        ],
+        "pattern_or_note": "separable prefix kennen-"
+      },
+      {
+        "infinitive": "aussehen",
+        "english": "to look / appear",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "sehe aus"
+          },
+          {
+            "pronoun": "du",
+            "form": "siehst aus"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "sieht aus"
+          },
+          {
+            "pronoun": "wir",
+            "form": "sehen aus"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "seht aus"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "sehen aus"
+          }
+        ],
+        "pattern_or_note": "separable prefix aus-"
+      },
+      {
+        "infinitive": "ankommen",
+        "english": "to arrive",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "komme an"
+          },
+          {
+            "pronoun": "du",
+            "form": "kommst an"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "kommt an"
+          },
+          {
+            "pronoun": "wir",
+            "form": "kommen an"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "kommt an"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "kommen an"
+          }
+        ],
+        "pattern_or_note": "separable prefix an-"
+      },
+      {
+        "infinitive": "aufmachen",
+        "english": "to open",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "mache auf"
+          },
+          {
+            "pronoun": "du",
+            "form": "machst auf"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "macht auf"
+          },
+          {
+            "pronoun": "wir",
+            "form": "machen auf"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "macht auf"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "machen auf"
+          }
+        ],
+        "pattern_or_note": "separable prefix auf-"
+      },
+      {
+        "infinitive": "zumachen",
+        "english": "to close",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "mache zu"
+          },
+          {
+            "pronoun": "du",
+            "form": "machst zu"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "macht zu"
+          },
+          {
+            "pronoun": "wir",
+            "form": "machen zu"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "macht zu"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "machen zu"
+          }
+        ],
+        "pattern_or_note": "separable prefix zu-"
+      },
+      {
+        "infinitive": "anfangen",
+        "english": "to begin",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "fange an"
+          },
+          {
+            "pronoun": "du",
+            "form": "fängst an"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "fängt an"
+          },
+          {
+            "pronoun": "wir",
+            "form": "fangen an"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "fangt an"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "fangen an"
+          }
+        ],
+        "pattern_or_note": "separable prefix an-"
+      },
+      {
+        "infinitive": "anmachen",
+        "english": "to turn on",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "mache an"
+          },
+          {
+            "pronoun": "du",
+            "form": "machst an"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "macht an"
+          },
+          {
+            "pronoun": "wir",
+            "form": "machen an"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "macht an"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "machen an"
+          }
+        ],
+        "pattern_or_note": "separable prefix an-"
+      },
+      {
+        "infinitive": "ausmachen",
+        "english": "to turn off",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "mache aus"
+          },
+          {
+            "pronoun": "du",
+            "form": "machst aus"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "macht aus"
+          },
+          {
+            "pronoun": "wir",
+            "form": "machen aus"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "macht aus"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "machen aus"
+          }
+        ],
+        "pattern_or_note": "separable prefix aus-"
+      }
+    ],
+    "modal_verbs_and_moechten": [
+      {
+        "infinitive": "können",
+        "english": "can / to be able to",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "kann"
+          },
+          {
+            "pronoun": "du",
+            "form": "kannst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "kann"
+          },
+          {
+            "pronoun": "wir",
+            "form": "können"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "könnt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "können"
+          }
+        ],
+        "pattern_or_note": "modal verb: vowel change ö → a"
+      },
+      {
+        "infinitive": "müssen",
+        "english": "must / to have to",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "muss"
+          },
+          {
+            "pronoun": "du",
+            "form": "musst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "muss"
+          },
+          {
+            "pronoun": "wir",
+            "form": "müssen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "müsst"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "müssen"
+          }
+        ],
+        "pattern_or_note": "modal verb: vowel change ü → u"
+      },
+      {
+        "infinitive": "wollen",
+        "english": "to want",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "will"
+          },
+          {
+            "pronoun": "du",
+            "form": "willst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "will"
+          },
+          {
+            "pronoun": "wir",
+            "form": "wollen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "wollt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "wollen"
+          }
+        ],
+        "pattern_or_note": "modal verb: vowel change o → i"
+      },
+      {
+        "infinitive": "dürfen",
+        "english": "may / to be allowed to",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "darf"
+          },
+          {
+            "pronoun": "du",
+            "form": "darfst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "darf"
+          },
+          {
+            "pronoun": "wir",
+            "form": "dürfen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "dürft"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "dürfen"
+          }
+        ],
+        "pattern_or_note": "modal verb: vowel change ü → a"
+      },
+      {
+        "infinitive": "sollen",
+        "english": "should / to be supposed to",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "soll"
+          },
+          {
+            "pronoun": "du",
+            "form": "sollst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "soll"
+          },
+          {
+            "pronoun": "wir",
+            "form": "sollen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "sollt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "sollen"
+          }
+        ],
+        "pattern_or_note": "modal verb: regular stem, no 1st/3rd ending"
+      },
+      {
+        "infinitive": "mögen",
+        "english": "to like",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "mag"
+          },
+          {
+            "pronoun": "du",
+            "form": "magst"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "mag"
+          },
+          {
+            "pronoun": "wir",
+            "form": "mögen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "mögt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "mögen"
+          }
+        ],
+        "pattern_or_note": "modal verb: vowel change ö → a"
+      },
+      {
+        "infinitive": "möchten",
+        "english": "would like",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "möchte"
+          },
+          {
+            "pronoun": "du",
+            "form": "möchtest"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "möchte"
+          },
+          {
+            "pronoun": "wir",
+            "form": "möchten"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "möchtet"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "möchten"
+          }
+        ],
+        "pattern_or_note": "polite subjunctive used like a modal verb"
+      }
+    ],
+    "reflexive_verbs": [
+      {
+        "infinitive": "sich freuen",
+        "english": "to be glad / to look forward",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "freue mich"
+          },
+          {
+            "pronoun": "du",
+            "form": "freust dich"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "freut sich"
+          },
+          {
+            "pronoun": "wir",
+            "form": "freuen uns"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "freut euch"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "freuen sich"
+          }
+        ],
+        "pattern_or_note": "reflexive verb with Akkusativ pronoun"
+      },
+      {
+        "infinitive": "sich waschen",
+        "english": "to wash oneself",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "wasche mich"
+          },
+          {
+            "pronoun": "du",
+            "form": "wäschst dich"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "wäscht sich"
+          },
+          {
+            "pronoun": "wir",
+            "form": "waschen uns"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "wascht euch"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "waschen sich"
+          }
+        ],
+        "pattern_or_note": "reflexive verb + vowel change a → ä"
+      },
+      {
+        "infinitive": "sich anziehen",
+        "english": "to get dressed",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "ziehe mich an"
+          },
+          {
+            "pronoun": "du",
+            "form": "ziehst dich an"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "zieht sich an"
+          },
+          {
+            "pronoun": "wir",
+            "form": "ziehen uns an"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "zieht euch an"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "ziehen sich an"
+          }
+        ],
+        "pattern_or_note": "reflexive + separable verb"
+      },
+      {
+        "infinitive": "sich ausruhen",
+        "english": "to rest / relax",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "ruhe mich aus"
+          },
+          {
+            "pronoun": "du",
+            "form": "ruhst dich aus"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "ruht sich aus"
+          },
+          {
+            "pronoun": "wir",
+            "form": "ruhen uns aus"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "ruht euch aus"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "ruhen sich aus"
+          }
+        ],
+        "pattern_or_note": "reflexive + separable verb"
+      }
+    ],
+    "pronunciation_spelling_adjustment": [
+      {
+        "infinitive": "arbeiten",
+        "english": "to work",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "arbeite"
+          },
+          {
+            "pronoun": "du",
+            "form": "arbeitest"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "arbeitet"
+          },
+          {
+            "pronoun": "wir",
+            "form": "arbeiten"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "arbeitet"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "arbeiten"
+          }
+        ],
+        "pattern_or_note": "stem in -t adds -e- in du/er/ihr"
+      },
+      {
+        "infinitive": "antworten",
+        "english": "to answer",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "antworte"
+          },
+          {
+            "pronoun": "du",
+            "form": "antwortest"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "antwortet"
+          },
+          {
+            "pronoun": "wir",
+            "form": "antworten"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "antwortet"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "antworten"
+          }
+        ],
+        "pattern_or_note": "stem in -t adds -e- in du/er/ihr"
+      },
+      {
+        "infinitive": "warten",
+        "english": "to wait",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "warte"
+          },
+          {
+            "pronoun": "du",
+            "form": "wartest"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "wartet"
+          },
+          {
+            "pronoun": "wir",
+            "form": "warten"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "wartet"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "warten"
+          }
+        ],
+        "pattern_or_note": "stem in -t adds -e- in du/er/ihr"
+      },
+      {
+        "infinitive": "finden",
+        "english": "to find",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "finde"
+          },
+          {
+            "pronoun": "du",
+            "form": "findest"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "findet"
+          },
+          {
+            "pronoun": "wir",
+            "form": "finden"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "findet"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "finden"
+          }
+        ],
+        "pattern_or_note": "stem in -d adds -e- in du/er/ihr"
+      },
+      {
+        "infinitive": "öffnen",
+        "english": "to open",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "öffne"
+          },
+          {
+            "pronoun": "du",
+            "form": "öffnest"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "öffnet"
+          },
+          {
+            "pronoun": "wir",
+            "form": "öffnen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "öffnet"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "öffnen"
+          }
+        ],
+        "pattern_or_note": "stem in -fn adds -e- in du/er/ihr"
+      },
+      {
+        "infinitive": "atmen",
+        "english": "to breathe",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "atme"
+          },
+          {
+            "pronoun": "du",
+            "form": "atmest"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "atmet"
+          },
+          {
+            "pronoun": "wir",
+            "form": "atmen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "atmet"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "atmen"
+          }
+        ],
+        "pattern_or_note": "stem in -tm adds -e- in du/er/ihr"
+      },
+      {
+        "infinitive": "heißen",
+        "english": "to be called",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "heiße"
+          },
+          {
+            "pronoun": "du",
+            "form": "heißt"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "heißt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "heißen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "heißt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "heißen"
+          }
+        ],
+        "pattern_or_note": "stem in -ß: du ending takes only -t"
+      },
+      {
+        "infinitive": "tanzen",
+        "english": "to dance",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "tanze"
+          },
+          {
+            "pronoun": "du",
+            "form": "tanzt"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "tanzt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "tanzen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "tanzt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "tanzen"
+          }
+        ],
+        "pattern_or_note": "stem in -z: du ending takes only -t"
+      },
+      {
+        "infinitive": "reisen",
+        "english": "to travel",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "reise"
+          },
+          {
+            "pronoun": "du",
+            "form": "reist"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "reist"
+          },
+          {
+            "pronoun": "wir",
+            "form": "reisen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "reist"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "reisen"
+          }
+        ],
+        "pattern_or_note": "stem in -s: du ending takes only -t"
+      },
+      {
+        "infinitive": "sitzen",
+        "english": "to sit",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "sitze"
+          },
+          {
+            "pronoun": "du",
+            "form": "sitzt"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "sitzt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "sitzen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "sitzt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "sitzen"
+          }
+        ],
+        "pattern_or_note": "stem in -tz: du ending takes only -t"
+      },
+      {
+        "infinitive": "grüßen",
+        "english": "to greet",
+        "conjugation": [
+          {
+            "pronoun": "ich",
+            "form": "grüße"
+          },
+          {
+            "pronoun": "du",
+            "form": "grüßt"
+          },
+          {
+            "pronoun": "er/sie/es",
+            "form": "grüßt"
+          },
+          {
+            "pronoun": "wir",
+            "form": "grüßen"
+          },
+          {
+            "pronoun": "ihr",
+            "form": "grüßt"
+          },
+          {
+            "pronoun": "sie/Sie",
+            "form": "grüßen"
+          }
+        ],
+        "pattern_or_note": "stem in -ß: du ending takes only -t"
+      }
+    ]
+  },
+  "all_verbs": [
+    {
+      "infinitive": "sein",
+      "english": "to be",
+      "group": "memorize_first_irregular",
+      "pattern_or_note": "highly irregular core verb"
+    },
+    {
+      "infinitive": "haben",
+      "english": "to have",
+      "group": "memorize_first_irregular",
+      "pattern_or_note": "irregular in du (hast) and er (hat)"
+    },
+    {
+      "infinitive": "werden",
+      "english": "to become",
+      "group": "memorize_first_irregular",
+      "pattern_or_note": "irregular in du (wirst) and er (wird)"
+    },
+    {
+      "infinitive": "wissen",
+      "english": "to know a fact",
+      "group": "memorize_first_irregular",
+      "pattern_or_note": "ich & er/sie/es have no ending (weiß)"
+    },
+    {
+      "infinitive": "sehen",
+      "english": "to see",
+      "group": "stem_changing",
+      "pattern_or_note": "vowel change e → ie"
+    },
+    {
+      "infinitive": "lesen",
+      "english": "to read",
+      "group": "stem_changing",
+      "pattern_or_note": "vowel change e → ie"
+    },
+    {
+      "infinitive": "sprechen",
+      "english": "to speak",
+      "group": "stem_changing",
+      "pattern_or_note": "vowel change e → i"
+    },
+    {
+      "infinitive": "helfen",
+      "english": "to help",
+      "group": "stem_changing",
+      "pattern_or_note": "vowel change e → i"
+    },
+    {
+      "infinitive": "essen",
+      "english": "to eat",
+      "group": "stem_changing",
+      "pattern_or_note": "vowel change e → i"
+    },
+    {
+      "infinitive": "geben",
+      "english": "to give",
+      "group": "stem_changing",
+      "pattern_or_note": "vowel change e → i"
+    },
+    {
+      "infinitive": "treffen",
+      "english": "to meet",
+      "group": "stem_changing",
+      "pattern_or_note": "vowel change e → i"
+    },
+    {
+      "infinitive": "nehmen",
+      "english": "to take",
+      "group": "stem_changing",
+      "pattern_or_note": "vowel change e → i"
+    },
+    {
+      "infinitive": "fahren",
+      "english": "to travel / drive",
+      "group": "stem_changing",
+      "pattern_or_note": "vowel change a → ä"
+    },
+    {
+      "infinitive": "schlafen",
+      "english": "to sleep",
+      "group": "stem_changing",
+      "pattern_or_note": "vowel change a → ä"
+    },
+    {
+      "infinitive": "tragen",
+      "english": "to carry / wear",
+      "group": "stem_changing",
+      "pattern_or_note": "vowel change a → ä"
+    },
+    {
+      "infinitive": "waschen",
+      "english": "to wash",
+      "group": "stem_changing",
+      "pattern_or_note": "vowel change a → ä"
+    },
+    {
+      "infinitive": "laufen",
+      "english": "to run / walk",
+      "group": "stem_changing",
+      "pattern_or_note": "vowel change au → äu"
+    },
+    {
+      "infinitive": "fallen",
+      "english": "to fall",
+      "group": "stem_changing",
+      "pattern_or_note": "vowel change a → ä"
+    },
+    {
+      "infinitive": "halten",
+      "english": "to stop / hold",
+      "group": "stem_changing",
+      "pattern_or_note": "vowel change a → ä"
+    },
+    {
+      "infinitive": "lassen",
+      "english": "to let / leave",
+      "group": "stem_changing",
+      "pattern_or_note": "vowel change a → ä"
+    },
+    {
+      "infinitive": "fangen",
+      "english": "to catch",
+      "group": "stem_changing",
+      "pattern_or_note": "vowel change a → ä"
+    },
+    {
+      "infinitive": "vergessen",
+      "english": "to forget",
+      "group": "stem_changing",
+      "pattern_or_note": "vowel change e → i"
+    },
+    {
+      "infinitive": "empfehlen",
+      "english": "to recommend",
+      "group": "stem_changing",
+      "pattern_or_note": "vowel change e → ie"
+    },
+    {
+      "infinitive": "brechen",
+      "english": "to break",
+      "group": "stem_changing",
+      "pattern_or_note": "vowel change e → i"
+    },
+    {
+      "infinitive": "stehlen",
+      "english": "to steal",
+      "group": "stem_changing",
+      "pattern_or_note": "vowel change e → ie"
+    },
+    {
+      "infinitive": "werfen",
+      "english": "to throw",
+      "group": "stem_changing",
+      "pattern_or_note": "vowel change e → i"
+    },
+    {
+      "infinitive": "lernen",
+      "english": "to learn",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "machen",
+      "english": "to do / make",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "wohnen",
+      "english": "to live / reside",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "kommen",
+      "english": "to come",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "gehen",
+      "english": "to go / walk",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "kaufen",
+      "english": "to buy",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "trinken",
+      "english": "to drink",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "hören",
+      "english": "to hear / listen",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "fragen",
+      "english": "to ask",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "sagen",
+      "english": "to say",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "spielen",
+      "english": "to play",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "studieren",
+      "english": "to study at university",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "schreiben",
+      "english": "to write",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "brauchen",
+      "english": "to need",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "suchen",
+      "english": "to search / look for",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "bleiben",
+      "english": "to stay / remain",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "bringen",
+      "english": "to bring",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "denken",
+      "english": "to think",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "glauben",
+      "english": "to believe",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "hoffen",
+      "english": "to hope",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "kochen",
+      "english": "to cook",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "lieben",
+      "english": "to love",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "leben",
+      "english": "to live",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "zahlen",
+      "english": "to pay",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "bezahlen",
+      "english": "to pay for",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "verkaufen",
+      "english": "to sell",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "verstehen",
+      "english": "to understand",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "beginnen",
+      "english": "to begin",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "gewinnen",
+      "english": "to win",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "verlieren",
+      "english": "to lose",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "erklären",
+      "english": "to explain",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "erzählen",
+      "english": "to tell a story",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "besuchen",
+      "english": "to visit",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "bestellen",
+      "english": "to order",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "funktionieren",
+      "english": "to function / work",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "fotografieren",
+      "english": "to photograph",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "telefonieren",
+      "english": "to make a phone call",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "reparieren",
+      "english": "to repair",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "passieren",
+      "english": "to happen",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "duschen",
+      "english": "to shower",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "frühstücken",
+      "english": "to eat breakfast",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "schenken",
+      "english": "to gift",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "schmecken",
+      "english": "to taste",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "passen",
+      "english": "to fit / suit",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "danken",
+      "english": "to thank",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "feiern",
+      "english": "to celebrate",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "rauchen",
+      "english": "to smoke",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "schwimmen",
+      "english": "to swim",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "fliegen",
+      "english": "to fly",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "holen",
+      "english": "to fetch / get",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "zeigen",
+      "english": "to show",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "setzen",
+      "english": "to set / put",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "stellen",
+      "english": "to put upright",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "legen",
+      "english": "to lay / put flat",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "bitten",
+      "english": "to request",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "putzen",
+      "english": "to clean",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "planen",
+      "english": "to plan",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "fehlen",
+      "english": "to miss / be lacking",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "kosten",
+      "english": "to cost",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "buchen",
+      "english": "to book",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "packen",
+      "english": "to pack",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "mieten",
+      "english": "to rent",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "vermieten",
+      "english": "to rent out",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "parken",
+      "english": "to park",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "schauen",
+      "english": "to look / watch",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "lachen",
+      "english": "to laugh",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "weinen",
+      "english": "to cry",
+      "group": "regular_present_tense",
+      "pattern_or_note": "regular verb pattern"
+    },
+    {
+      "infinitive": "abholen",
+      "english": "to pick up",
+      "group": "separable_verbs",
+      "pattern_or_note": "separable prefix ab-"
+    },
+    {
+      "infinitive": "anrufen",
+      "english": "to call (phone)",
+      "group": "separable_verbs",
+      "pattern_or_note": "separable prefix an-"
+    },
+    {
+      "infinitive": "aufstehen",
+      "english": "to get up / wake up",
+      "group": "separable_verbs",
+      "pattern_or_note": "separable prefix auf-"
+    },
+    {
+      "infinitive": "aufräumen",
+      "english": "to tidy up",
+      "group": "separable_verbs",
+      "pattern_or_note": "separable prefix auf-"
+    },
+    {
+      "infinitive": "einkaufen",
+      "english": "to go grocery shopping",
+      "group": "separable_verbs",
+      "pattern_or_note": "separable prefix ein-"
+    },
+    {
+      "infinitive": "einladen",
+      "english": "to invite",
+      "group": "separable_verbs",
+      "pattern_or_note": "separable prefix ein-"
+    },
+    {
+      "infinitive": "fernsehen",
+      "english": "to watch TV",
+      "group": "separable_verbs",
+      "pattern_or_note": "separable prefix fern-"
+    },
+    {
+      "infinitive": "mitkommen",
+      "english": "to come along",
+      "group": "separable_verbs",
+      "pattern_or_note": "separable prefix mit-"
+    },
+    {
+      "infinitive": "mitbringen",
+      "english": "to bring along",
+      "group": "separable_verbs",
+      "pattern_or_note": "separable prefix mit-"
+    },
+    {
+      "infinitive": "mitnehmen",
+      "english": "to take along",
+      "group": "separable_verbs",
+      "pattern_or_note": "separable prefix mit-"
+    },
+    {
+      "infinitive": "vorstellen",
+      "english": "to introduce",
+      "group": "separable_verbs",
+      "pattern_or_note": "separable prefix vor-"
+    },
+    {
+      "infinitive": "kennenlernen",
+      "english": "to get to know",
+      "group": "separable_verbs",
+      "pattern_or_note": "separable prefix kennen-"
+    },
+    {
+      "infinitive": "aussehen",
+      "english": "to look / appear",
+      "group": "separable_verbs",
+      "pattern_or_note": "separable prefix aus-"
+    },
+    {
+      "infinitive": "ankommen",
+      "english": "to arrive",
+      "group": "separable_verbs",
+      "pattern_or_note": "separable prefix an-"
+    },
+    {
+      "infinitive": "aufmachen",
+      "english": "to open",
+      "group": "separable_verbs",
+      "pattern_or_note": "separable prefix auf-"
+    },
+    {
+      "infinitive": "zumachen",
+      "english": "to close",
+      "group": "separable_verbs",
+      "pattern_or_note": "separable prefix zu-"
+    },
+    {
+      "infinitive": "anfangen",
+      "english": "to begin",
+      "group": "separable_verbs",
+      "pattern_or_note": "separable prefix an-"
+    },
+    {
+      "infinitive": "anmachen",
+      "english": "to turn on",
+      "group": "separable_verbs",
+      "pattern_or_note": "separable prefix an-"
+    },
+    {
+      "infinitive": "ausmachen",
+      "english": "to turn off",
+      "group": "separable_verbs",
+      "pattern_or_note": "separable prefix aus-"
+    },
+    {
+      "infinitive": "können",
+      "english": "can / to be able to",
+      "group": "modal_verbs_and_moechten",
+      "pattern_or_note": "modal verb: vowel change ö → a"
+    },
+    {
+      "infinitive": "müssen",
+      "english": "must / to have to",
+      "group": "modal_verbs_and_moechten",
+      "pattern_or_note": "modal verb: vowel change ü → u"
+    },
+    {
+      "infinitive": "wollen",
+      "english": "to want",
+      "group": "modal_verbs_and_moechten",
+      "pattern_or_note": "modal verb: vowel change o → i"
+    },
+    {
+      "infinitive": "dürfen",
+      "english": "may / to be allowed to",
+      "group": "modal_verbs_and_moechten",
+      "pattern_or_note": "modal verb: vowel change ü → a"
+    },
+    {
+      "infinitive": "sollen",
+      "english": "should / to be supposed to",
+      "group": "modal_verbs_and_moechten",
+      "pattern_or_note": "modal verb: regular stem, no 1st/3rd ending"
+    },
+    {
+      "infinitive": "mögen",
+      "english": "to like",
+      "group": "modal_verbs_and_moechten",
+      "pattern_or_note": "modal verb: vowel change ö → a"
+    },
+    {
+      "infinitive": "möchten",
+      "english": "would like",
+      "group": "modal_verbs_and_moechten",
+      "pattern_or_note": "polite subjunctive used like a modal verb"
+    },
+    {
+      "infinitive": "sich freuen",
+      "english": "to be glad / to look forward",
+      "group": "reflexive_verbs",
+      "pattern_or_note": "reflexive verb with Akkusativ pronoun"
+    },
+    {
+      "infinitive": "sich waschen",
+      "english": "to wash oneself",
+      "group": "reflexive_verbs",
+      "pattern_or_note": "reflexive verb + vowel change a → ä"
+    },
+    {
+      "infinitive": "sich anziehen",
+      "english": "to get dressed",
+      "group": "reflexive_verbs",
+      "pattern_or_note": "reflexive + separable verb"
+    },
+    {
+      "infinitive": "sich ausruhen",
+      "english": "to rest / relax",
+      "group": "reflexive_verbs",
+      "pattern_or_note": "reflexive + separable verb"
+    },
+    {
+      "infinitive": "arbeiten",
+      "english": "to work",
+      "group": "pronunciation_spelling_adjustment",
+      "pattern_or_note": "stem in -t adds -e- in du/er/ihr"
+    },
+    {
+      "infinitive": "antworten",
+      "english": "to answer",
+      "group": "pronunciation_spelling_adjustment",
+      "pattern_or_note": "stem in -t adds -e- in du/er/ihr"
+    },
+    {
+      "infinitive": "warten",
+      "english": "to wait",
+      "group": "pronunciation_spelling_adjustment",
+      "pattern_or_note": "stem in -t adds -e- in du/er/ihr"
+    },
+    {
+      "infinitive": "finden",
+      "english": "to find",
+      "group": "pronunciation_spelling_adjustment",
+      "pattern_or_note": "stem in -d adds -e- in du/er/ihr"
+    },
+    {
+      "infinitive": "öffnen",
+      "english": "to open",
+      "group": "pronunciation_spelling_adjustment",
+      "pattern_or_note": "stem in -fn adds -e- in du/er/ihr"
+    },
+    {
+      "infinitive": "atmen",
+      "english": "to breathe",
+      "group": "pronunciation_spelling_adjustment",
+      "pattern_or_note": "stem in -tm adds -e- in du/er/ihr"
+    },
+    {
+      "infinitive": "heißen",
+      "english": "to be called",
+      "group": "pronunciation_spelling_adjustment",
+      "pattern_or_note": "stem in -ß: du ending takes only -t"
+    },
+    {
+      "infinitive": "tanzen",
+      "english": "to dance",
+      "group": "pronunciation_spelling_adjustment",
+      "pattern_or_note": "stem in -z: du ending takes only -t"
+    },
+    {
+      "infinitive": "reisen",
+      "english": "to travel",
+      "group": "pronunciation_spelling_adjustment",
+      "pattern_or_note": "stem in -s: du ending takes only -t"
+    },
+    {
+      "infinitive": "sitzen",
+      "english": "to sit",
+      "group": "pronunciation_spelling_adjustment",
+      "pattern_or_note": "stem in -tz: du ending takes only -t"
+    },
+    {
+      "infinitive": "grüßen",
+      "english": "to greet",
+      "group": "pronunciation_spelling_adjustment",
+      "pattern_or_note": "stem in -ß: du ending takes only -t"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "order": 75,
+  "topic_number": 75,
+  "title": "Frequency Words",
+  "german_title": "Häufigkeitsadverbien",
+  "level": "A1",
+  "language": "en",
+  "definition": "Frequency words describe how often an action happens. They usually appear near the verb or after the conjugated verb in simple statements, though the exact position can vary with emphasis.",
+  "rules": [
+    {
+      "title": "Common frequency words",
+      "explanation": "Memorize the most useful words from always to never.",
+      "examples": [
+        {
+          "german": "immer",
+          "english": "always"
+        },
+        {
+          "german": "fast immer",
+          "english": "almost always"
+        },
+        {
+          "german": "oft",
+          "english": "often"
+        },
+        {
+          "german": "häufig",
+          "english": "frequently"
+        },
+        {
+          "german": "manchmal",
+          "english": "sometimes"
+        },
+        {
+          "german": "selten",
+          "english": "rarely"
+        },
+        {
+          "german": "fast nie",
+          "english": "almost never"
+        },
+        {
+          "german": "nie",
+          "english": "never"
+        }
+      ]
+    },
+    {
+      "title": "Use frequency words in statements",
+      "explanation": "Place the frequency word naturally after the conjugated verb or later in the sentence.",
+      "examples": [
+        {
+          "german": "Ich trinke immer morgens Kaffee.",
+          "english": "I always drink coffee in the morning."
+        },
+        {
+          "german": "Er kommt oft zu spät.",
+          "english": "He often arrives late."
+        },
+        {
+          "german": "Wir gehen manchmal ins Kino.",
+          "english": "We sometimes go to the cinema."
+        },
+        {
+          "german": "Sie fährt selten mit dem Taxi.",
+          "english": "She rarely takes a taxi."
+        }
+      ]
+    },
+    {
+      "title": "Ask how often",
+      "explanation": "Use Wie oft? to ask how frequently something happens.",
+      "examples": [
+        {
+          "german": "Wie oft machst du Sport?",
+          "english": "How often do you exercise?"
+        },
+        {
+          "german": "Ich mache dreimal pro Woche Sport.",
+          "english": "I exercise three times a week."
+        },
+        {
+          "german": "Wie oft lernst du Deutsch?",
+          "english": "How often do you study German?"
+        }
+      ]
+    },
+    {
+      "title": "Frequency plus time expressions",
+      "explanation": "Combine frequency words with daily, weekly, or monthly expressions.",
+      "examples": [
+        {
+          "german": "Ich gehe jeden Tag spazieren.",
+          "english": "I go for a walk every day."
+        },
+        {
+          "german": "Wir treffen uns einmal pro Woche.",
+          "english": "We meet once a week."
+        },
+        {
+          "german": "Er besucht seine Eltern zweimal im Monat.",
+          "english": "He visits his parents twice a month."
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "frequency_scale": [
+      "immer",
+      "fast immer",
+      "oft / häufig",
+      "manchmal",
+      "selten",
+      "fast nie",
+      "nie"
+    ]
+  },
+  "common_mistakes": [
+    {
+      "wrong": "Ich gehe nie nicht ins Kino.",
+      "correct": "Ich gehe nie ins Kino.",
+      "explanation": "Nie already means never; normally do not add nicht as a second negation."
+    },
+    {
+      "wrong": "Wie viele machst du Sport?",
+      "correct": "Wie oft machst du Sport?",
+      "explanation": "Use wie oft to ask how frequently."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "immer",
+      "english": "always"
+    },
+    {
+      "german": "oft",
+      "english": "often"
+    },
+    {
+      "german": "manchmal",
+      "english": "sometimes"
+    },
+    {
+      "german": "selten",
+      "english": "rarely"
+    },
+    {
+      "german": "nie",
+      "english": "never"
+    },
+    {
+      "german": "jeden Tag",
+      "english": "every day"
+    },
+    {
+      "german": "einmal pro Woche",
+      "english": "once a week"
+    },
+    {
+      "german": "Wie oft?",
+      "english": "How often?"
+    }
+  ],
+  "mastery_goal": "You can describe how often you do daily activities and ask others about their routines.",
+  "next_topic": "Comparatives"
+}

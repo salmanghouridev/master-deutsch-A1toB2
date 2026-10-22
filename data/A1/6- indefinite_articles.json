@@ -1,0 +1,191 @@
+{
+  "order": 52,
+  "topic_number": 52,
+  "title": "Indefinite Articles",
+  "german_title": "Unbestimmte Artikel",
+  "level": "A1",
+  "language": "en",
+  "definition": "Indefinite articles are the German words for “a” or “an.” In the nominative case, use ein with masculine and neuter singular nouns, eine with feminine singular nouns. German has no indefinite article in the plural.",
+  "rules": [
+    {
+      "title": "The basic forms",
+      "explanation": "Use ein for masculine nouns, eine for feminine nouns, and ein for neuter nouns in the nominative case.",
+      "examples": [
+        {
+          "german": "ein Mann",
+          "english": "a man",
+          "note": "Masculine"
+        },
+        {
+          "german": "eine Frau",
+          "english": "a woman",
+          "note": "Feminine"
+        },
+        {
+          "german": "ein Kind",
+          "english": "a child",
+          "note": "Neuter"
+        }
+      ]
+    },
+    {
+      "title": "Use the article in simple sentences",
+      "explanation": "The indefinite article comes before a singular noun when you mean one non-specific person or thing.",
+      "examples": [
+        {
+          "german": "Das ist ein Tisch.",
+          "english": "That is a table."
+        },
+        {
+          "german": "Sie ist eine Lehrerin.",
+          "english": "She is a teacher."
+        },
+        {
+          "german": "Er hat ein Auto.",
+          "english": "He has a car."
+        }
+      ]
+    },
+    {
+      "title": "Plural: usually no indefinite article",
+      "explanation": "German does not have a plural form of ein/eine. Use the noun without an indefinite article, or use words such as einige when you mean “some.”",
+      "examples": [
+        {
+          "german": "Das sind Bücher.",
+          "english": "Those are books."
+        },
+        {
+          "german": "Hier sind Kinder.",
+          "english": "There are children here."
+        },
+        {
+          "german": "Hier sind einige Bücher.",
+          "english": "There are some books here."
+        }
+      ]
+    },
+    {
+      "title": "Negative article: kein",
+      "explanation": "Kein is used to say “not a/no” with nouns that would use ein/eine or with nouns without an article. In the nominative, its forms are kein, keine, kein; the plural form is keine.",
+      "examples": [
+        {
+          "german": "Das ist kein Tisch.",
+          "english": "That is not a table."
+        },
+        {
+          "german": "Das ist keine Tasche.",
+          "english": "That is not a bag."
+        },
+        {
+          "german": "Das ist kein Auto.",
+          "english": "That is not a car."
+        },
+        {
+          "german": "Das sind keine Bücher.",
+          "english": "Those are not books."
+        }
+      ]
+    },
+    {
+      "title": "Compare ein/eine with der/die/das",
+      "explanation": "Use ein/eine for “a/an” when the person or thing is not specifically identified; use der/die/das for “the” when it is specific or already known.",
+      "examples": [
+        {
+          "german": "Das ist ein Hund.",
+          "english": "That is a dog."
+        },
+        {
+          "german": "Der Hund ist klein.",
+          "english": "The dog is small."
+        },
+        {
+          "german": "Ich sehe eine Katze.",
+          "english": "I see a cat."
+        },
+        {
+          "german": "Die Katze ist schwarz.",
+          "english": "The cat is black."
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "nominative_forms": [
+      {
+        "gender": "Masculine",
+        "definite": "der",
+        "indefinite": "ein",
+        "example": "der Stuhl → ein Stuhl"
+      },
+      {
+        "gender": "Feminine",
+        "definite": "die",
+        "indefinite": "eine",
+        "example": "die Lampe → eine Lampe"
+      },
+      {
+        "gender": "Neuter",
+        "definite": "das",
+        "indefinite": "ein",
+        "example": "das Buch → ein Buch"
+      },
+      {
+        "gender": "Plural",
+        "definite": "die",
+        "indefinite": "no article",
+        "example": "die Bücher → Bücher"
+      }
+    ]
+  },
+  "common_mistakes": [
+    {
+      "wrong": "eine Mann",
+      "correct": "ein Mann",
+      "explanation": "Mann is masculine."
+    },
+    {
+      "wrong": "ein Frau",
+      "correct": "eine Frau",
+      "explanation": "Frau is feminine."
+    },
+    {
+      "wrong": "eine Kind",
+      "correct": "ein Kind",
+      "explanation": "Kind is neuter."
+    },
+    {
+      "wrong": "ein Bücher",
+      "correct": "Bücher",
+      "explanation": "There is no plural form of ein/eine."
+    },
+    {
+      "wrong": "Das ist nicht ein Auto.",
+      "correct": "Das ist kein Auto.",
+      "explanation": "Use kein to negate a noun with ein/eine in this basic pattern."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "ein Mann",
+      "english": "a man"
+    },
+    {
+      "german": "eine Frau",
+      "english": "a woman"
+    },
+    {
+      "german": "ein Kind",
+      "english": "a child"
+    },
+    {
+      "german": "Bücher",
+      "english": "books — no indefinite article"
+    },
+    {
+      "german": "kein / keine / kein / keine",
+      "english": "no / not a — masculine, feminine, neuter, plural"
+    }
+  ],
+  "mastery_goal": "You can choose ein, eine, or no article for common nominative singular and plural nouns, and you can distinguish “a/an” from “the.”",
+  "next_topic": "Noun gender and plural"
+}
