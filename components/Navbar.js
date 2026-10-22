@@ -238,43 +238,50 @@ export default function Navbar() {
 
         {/* Mobile Collapsible Drawer */}
         {mobileMenuOpen && (
-          <nav className="mobile-drawer" aria-label="Mobile navigation">
-            <Link
-              href="/"
-              className={`mobile-nav-link ${isCollectionActive ? "active" : ""}`}
+          <>
+            <div
+              className="mobile-drawer-backdrop"
               onClick={() => setMobileMenuOpen(false)}
-            >
-              Collection
-            </Link>
-            <Link
-              href="/A1"
-              className={`mobile-nav-link ${activeLevel === "A1" ? "active" : ""}`}
-              onClick={() => setMobileMenuOpen(false)}
-            >
-              <span className="level-dot level-dot-a1" /> A1 — Beginner Foundations
-            </Link>
-            <Link
-              href="/A2"
-              className={`mobile-nav-link ${activeLevel === "A2" ? "active" : ""}`}
-              onClick={() => setMobileMenuOpen(false)}
-            >
-              <span className="level-dot level-dot-a2" /> A2 — Elementary Expression
-            </Link>
-            <Link
-              href="/B1"
-              className={`mobile-nav-link ${activeLevel === "B1" ? "active" : ""}`}
-              onClick={() => setMobileMenuOpen(false)}
-            >
-              <span className="level-dot level-dot-b1" /> B1 — Intermediate Mastery
-            </Link>
-            <Link
-              href="/test"
-              className={`mobile-nav-link ${isTestActive ? "active" : ""}`}
-              onClick={() => setMobileMenuOpen(false)}
-            >
-              Tests & Progress Cards
-            </Link>
-          </nav>
+              aria-hidden="true"
+            />
+            <nav className="mobile-drawer" aria-label="Mobile navigation">
+              <Link
+                href="/"
+                className={`mobile-nav-link ${isCollectionActive ? "active" : ""}`}
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                Collection
+              </Link>
+              <Link
+                href="/A1"
+                className={`mobile-nav-link ${activeLevel === "A1" ? "active" : ""}`}
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                <span className="level-dot level-dot-a1" /> A1 — Beginner Foundations
+              </Link>
+              <Link
+                href="/A2"
+                className={`mobile-nav-link ${activeLevel === "A2" ? "active" : ""}`}
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                <span className="level-dot level-dot-a2" /> A2 — Elementary Expression
+              </Link>
+              <Link
+                href="/B1"
+                className={`mobile-nav-link ${activeLevel === "B1" ? "active" : ""}`}
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                <span className="level-dot level-dot-b1" /> B1 — Intermediate Mastery
+              </Link>
+              <Link
+                href="/test"
+                className={`mobile-nav-link ${isTestActive ? "active" : ""}`}
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                Tests & Progress Cards
+              </Link>
+            </nav>
+          </>
         )}
       </header>
 
@@ -307,7 +314,8 @@ export default function Navbar() {
                 onClick={() => setSearchOpen(false)}
                 aria-label="Close search"
               >
-                Esc
+                <span className="search-close-desktop">Esc</span>
+                <span className="search-close-mobile"><CloseIcon size={16} /></span>
               </button>
             </div>
 

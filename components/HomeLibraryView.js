@@ -181,13 +181,17 @@ export default function HomeLibraryView({ folders = [] }) {
                 </button>
 
                 <Link href={`/A1/${topic.slug}`} className="simple-topic-link">
-                  <span className="simple-topic-num">{topic.order}.</span>
-                  <span className="simple-topic-title">{topic.title}</span>
-                  {topic.titleEn && (
-                    <span className="simple-topic-en">
-                      — {topic.titleEn}
-                    </span>
-                  )}
+                  <div className="simple-topic-text-col">
+                    <div className="simple-topic-main-line">
+                      <span className="simple-topic-num">{topic.order}.</span>
+                      <span className="simple-topic-title">{topic.title}</span>
+                    </div>
+                    {topic.titleEn && (
+                      <span className="simple-topic-en">
+                        {topic.titleEn}
+                      </span>
+                    )}
+                  </div>
                 </Link>
 
                 <span className={`simple-status-tag ${isDone ? "done" : "pending"}`}>

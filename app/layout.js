@@ -9,6 +9,13 @@ export const metadata = {
     "Lightweight German language study notes for A1, A2, and B1 grammar.",
 };
 
+export const viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 5,
+  themeColor: "#ffffff",
+};
+
 export default function RootLayout({ children }) {
   const searchIndex = getSearchIndex();
 
