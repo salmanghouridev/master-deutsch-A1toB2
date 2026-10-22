@@ -290,17 +290,8 @@ export default function VerbCompendiumView({ compendium }) {
                 className={`verb-card ${isLearned ? "is-learned" : ""}`}
               >
                 <div className="verb-card-header">
-                  <div className="verb-card-title-col">
+                  <div className="verb-card-top-row">
                     <h3 className="verb-infinitive">{verb.infinitive}</h3>
-                    <span className="verb-english">{verb.english}</span>
-                  </div>
-
-                  <div className="verb-card-header-actions">
-                    {verb.pattern_or_note && (
-                      <span className="verb-pattern-pill" title={verb.pattern_or_note}>
-                        {verb.pattern_or_note}
-                      </span>
-                    )}
                     <button
                       type="button"
                       onClick={() => toggleLearned(verb.infinitive)}
@@ -314,6 +305,18 @@ export default function VerbCompendiumView({ compendium }) {
                       <span className="verb-check-label">{isLearned ? "Done" : "Learn"}</span>
                     </button>
                   </div>
+
+                  <div className="verb-card-sub-row">
+                    <span className="verb-english">{verb.english}</span>
+                  </div>
+
+                  {verb.pattern_or_note && (
+                    <div className="verb-pattern-row">
+                      <span className="verb-pattern-pill" title={verb.pattern_or_note}>
+                        {verb.pattern_or_note}
+                      </span>
+                    </div>
+                  )}
                 </div>
 
                 {/* 6-form Conjugation Table */}

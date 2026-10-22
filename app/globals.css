@@ -2607,11 +2607,6 @@ strong {
     grid-template-columns: 1fr;
   }
 
-  .verb-card-header {
-    flex-wrap: wrap;
-    gap: 8px;
-  }
-
   .verb-check-btn {
     min-height: 34px;
     padding: 6px 10px;
@@ -4314,31 +4309,31 @@ strong {
 
 .verb-card-header {
   display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  gap: 10px;
+  flex-direction: column;
+  gap: 4px;
   margin-bottom: 12px;
 }
 
-.verb-card-title-col {
-  display: flex;
-  flex-direction: column;
-  min-width: 0;
-  flex: 1;
-}
-
-.verb-card-header-actions {
+.verb-card-top-row {
   display: flex;
   align-items: center;
-  gap: 6px;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-  flex-shrink: 0;
+  justify-content: space-between;
+  gap: 10px;
+  min-width: 0;
 }
 
 .verb-infinitive {
   font-size: 20px;
-  margin-bottom: 2px;
+  font-weight: 700;
+  margin: 0;
+  line-height: 1.25;
+  color: var(--text-primary);
+  min-width: 0;
+}
+
+.verb-card-sub-row {
+  display: flex;
+  align-items: baseline;
 }
 
 .verb-english {
@@ -4346,20 +4341,26 @@ strong {
   font-style: italic;
   font-size: 14px;
   color: var(--text-secondary);
+  line-height: 1.35;
+}
+
+.verb-pattern-row {
+  margin-top: 4px;
+  display: flex;
+  align-items: center;
 }
 
 .verb-pattern-pill {
-  font-size: 11px;
+  font-size: 11.5px;
   font-weight: 600;
-  padding: 2px 7px;
+  padding: 3px 8px;
   border-radius: 4px;
   background-color: var(--yellow-bg);
   border: 1px solid var(--yellow-border);
   color: var(--yellow-text);
-  white-space: nowrap;
-  max-width: 140px;
-  overflow: hidden;
-  text-overflow: ellipsis;
+  line-height: 1.35;
+  display: inline-block;
+  max-width: 100%;
 }
 
 .verb-check-btn {
