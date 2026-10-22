@@ -126,6 +126,7 @@ export default function Navbar() {
 
   const isCollectionActive = pathname === "/";
   const isTestActive = pathname.startsWith("/test");
+  const isVocabActive = pathname.startsWith("/vocab");
   const activeLevel =
     pathname.startsWith("/A1")
       ? "A1"
@@ -193,6 +194,13 @@ export default function Navbar() {
             >
               <span className="level-dot level-dot-b1" />
               B1
+            </Link>
+
+            <Link
+              href="/vocab"
+              className={`nav-item ${isVocabActive ? "nav-item-active" : ""}`}
+            >
+              Vocabulary
             </Link>
 
             <Link
@@ -272,6 +280,13 @@ export default function Navbar() {
                 onClick={() => setMobileMenuOpen(false)}
               >
                 <span className="level-dot level-dot-b1" /> B1 — Intermediate Mastery
+              </Link>
+              <Link
+                href="/vocab"
+                className={`mobile-nav-link ${isVocabActive ? "active" : ""}`}
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                🗂️ Vocabulary Cards (A1 Topics 2–44)
               </Link>
               <Link
                 href="/test"

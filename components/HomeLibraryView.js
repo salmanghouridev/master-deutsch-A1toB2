@@ -123,6 +123,49 @@ export default function HomeLibraryView({ folders = [] }) {
         </div>
       </div>
 
+      {/* Vocabulary Flashcards Quick Access */}
+      <div className="home-test-card" style={{ borderLeftColor: "#2563eb" }}>
+        <div className="home-test-card-content">
+          <div className="home-test-card-badge-row">
+            <span
+              className="level-badge"
+              style={{
+                backgroundColor: "#dbeafe",
+                color: "#1d4ed8",
+                borderColor: "#bfdbfe",
+              }}
+            >
+              Vocabulary Flashcards
+            </span>
+            <span className="category-tag">
+              43 Topics · 851 Words with 1–2 Letter Hints
+            </span>
+          </div>
+          <h3 className="home-test-card-title">
+            A1 German Vocabulary Cards & Active Recall
+          </h3>
+          <p className="home-test-card-desc">
+            Train your memory with visual image icons, 1–2 letter memory hints, native German speech pronunciation, and active recall practice.
+          </p>
+        </div>
+        <div className="home-test-card-actions">
+          <Link
+            href="/vocab"
+            className="test-primary-btn"
+            style={{ fontSize: "13.5px", backgroundColor: "#111827" }}
+          >
+            Practice Cards Now <ArrowRightIcon size={14} />
+          </Link>
+          <Link
+            href="/vocab"
+            className="test-secondary-btn"
+            style={{ fontSize: "13.5px" }}
+          >
+            Browse 43 Topics
+          </Link>
+        </div>
+      </div>
+
       {/* 3. Simple A1 Topics Checklist */}
       <section className="simple-topics-section" aria-label="A1 Study Topics">
         <div className="simple-list-header">
