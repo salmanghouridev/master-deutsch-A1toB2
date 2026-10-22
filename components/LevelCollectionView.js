@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect, useCallback } from "react";
 import Link from "next/link";
 import { useStudy } from "./StudyProvider";
 import VerbCompendiumView from "./VerbCompendiumView";
@@ -14,12 +14,79 @@ import {
   BookOpenIcon,
 } from "./Icons";
 
-export default function LevelCollectionView({ folder, allLevels = [] }) {
+export default function LevelCollectionView({
+  folder,
+  allLevels = [],
+  initialTab,
+}) {
   const { bookmarks, reviewed, toggleBookmark } = useStudy();
   const isA1 = folder.id === "A1";
-  const [activeTab, setActiveTab] = useState(isA1 ? "foundations" : "all");
+  const [activeTab, setActiveTab] = useState(
+    initialTab || (isA1 ? "foundations" : "all")
+  );
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedCategory, setSelectedCategory] = useState("All");
+
+  // Sync tab with URL on mount and when initialTab changes
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      const path = window.location.pathname.toLowerCase();
+      if (
+        path.endsWith("/verbpattern") ||
+        path.endsWith("/verbpatterns") ||
+        path.endsWith("/verb-pattern") ||
+        path.endsWith("/verb-patterns") ||
+        path.endsWith("/german_a1_verbs_grouped_by_conjugation_pattern")
+      ) {
+        setActiveTab("verbs");
+      } else if (initialTab) {
+        setActiveTab(initialTab);
+      }
+    }
+  }, [initialTab]);
+
+  // Handle browser back and forward buttons
+  useEffect(() => {
+    function onPopState() {
+      if (typeof window !== "undefined") {
+        const path = window.location.pathname.toLowerCase();
+        if (
+          path.endsWith("/verbpattern") ||
+          path.endsWith("/verbpatterns") ||
+          path.endsWith("/verb-pattern") ||
+          path.endsWith("/verb-patterns") ||
+          path.endsWith("/german_a1_verbs_grouped_by_conjugation_pattern")
+        ) {
+          setActiveTab("verbs");
+        } else {
+          setActiveTab(isA1 ? "foundations" : "all");
+        }
+      }
+    }
+    window.addEventListener("popstate", onPopState);
+    return () => window.removeEventListener("popstate", onPopState);
+  }, [isA1]);
+
+  const handleTabChange = useCallback(
+    (tabKey) => {
+      setActiveTab(tabKey);
+      setSelectedCategory("All");
+      if (typeof window !== "undefined") {
+        if (tabKey === "verbs") {
+          const targetUrl = `/${folder.id}/verbpattern`;
+          if (window.location.pathname !== targetUrl) {
+            window.history.pushState(null, "", targetUrl);
+          }
+        } else {
+          const targetUrl = `/${folder.id}`;
+          if (window.location.pathname !== targetUrl) {
+            window.history.pushState(null, "", targetUrl);
+          }
+        }
+      }
+    },
+    [folder.id]
+  );
 
   const foundationsCount = useMemo(
     () => folder.topics.filter((t) => t.order <= 17).length,
@@ -129,87 +196,96 @@ export default function LevelCollectionView({ folder, allLevels = [] }) {
       <div className="level-section-tabs" role="tablist">
         {isA1 ? (
           <>
-            <button
-              type="button"
+            <Link
+              href={`/${folder.id}`}
               className={`section-tab-btn ${
                 activeTab === "foundations" ? "active" : ""
               }`}
-              onClick={() => {
-                setActiveTab("foundations");
-                setSelectedCategory("All");
+              onClick={(e) => {
+                e.preventDefault();
+                handleTabChange("foundations");
               }}
             >
               <BookOpenIcon size={16} />
               <span>Grammar Foundations (0–17)</span>
               <span className="tab-count-badge">{foundationsCount}</span>
-            </button>
+            </Link>
 
-            <button
-              type="button"
+            <Link
+              href={`/${folder.id}`}
               className={`section-tab-btn ${
                 activeTab === "applying" ? "active" : ""
               }`}
-              onClick={() => {
-                setActiveTab("applying");
-                setSelectedCategory("All");
+              onClick={(e) => {
+                e.preventDefault();
+                handleTabChange("applying");
               }}
             >
               <span>🚀 Applying Grammar (18–34)</span>
               <span className="tab-count-badge">{applyingCount}</span>
-            </button>
+            </Link>
 
-            <button
-              type="button"
+            <Link
+              href={`/${folder.id}`}
               className={`section-tab-btn ${
                 activeTab === "all" ? "active" : ""
               }`}
-              onClick={() => {
-                setActiveTab("all");
-                setSelectedCategory("All");
+              onClick={(e) => {
+                e.preventDefault();
+                handleTabChange("all");
               }}
             >
               <span>All Topics</span>
               <span className="tab-count-badge">{folder.topics.length}</span>
-            </button>
+            </Link>
 
             {folder.verbCompendium && (
-              <button
-                type="button"
+              <Link
+                href={`/${folder.id}/verbpattern`}
                 className={`section-tab-btn ${
                   activeTab === "verbs" ? "active" : ""
                 }`}
-                onClick={() => setActiveTab("verbs")}
+                onClick={(e) => {
+                  e.preventDefault();
+                  handleTabChange("verbs");
+                }}
               >
                 <span>⚡ Verb Patterns</span>
                 <span className="tab-count-badge">115</span>
-              </button>
+              </Link>
             )}
           </>
         ) : (
           <>
-            <button
-              type="button"
+            <Link
+              href={`/${folder.id}`}
               className={`section-tab-btn ${
                 activeTab === "all" ? "active" : ""
               }`}
-              onClick={() => setActiveTab("all")}
+              onClick={(e) => {
+                e.preventDefault();
+                handleTabChange("all");
+              }}
             >
               <BookOpenIcon size={16} />
               <span>Grammar Topics</span>
               <span className="tab-count-badge">{folder.topics.length}</span>
-            </button>
+            </Link>
 
             {folder.verbCompendium && (
-              <button
-                type="button"
+              <Link
+                href={`/${folder.id}/verbpattern`}
                 className={`section-tab-btn ${
                   activeTab === "verbs" ? "active" : ""
                 }`}
-                onClick={() => setActiveTab("verbs")}
+                onClick={(e) => {
+                  e.preventDefault();
+                  handleTabChange("verbs");
+                }}
               >
                 <span>⚡ Verb Conjugation Patterns</span>
                 <span className="tab-count-badge">115</span>
-              </button>
+              </Link>
             )}
           </>
         )}
