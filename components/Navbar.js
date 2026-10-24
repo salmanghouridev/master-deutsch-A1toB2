@@ -286,7 +286,7 @@ export default function Navbar() {
                 className={`mobile-nav-link ${isVocabActive ? "active" : ""}`}
                 onClick={() => setMobileMenuOpen(false)}
               >
-                🗂️ Vocabulary Cards (A1 Topics 2–44)
+                🗂️ Vocabulary Cards (A1 & A2)
               </Link>
               <Link
                 href="/test"

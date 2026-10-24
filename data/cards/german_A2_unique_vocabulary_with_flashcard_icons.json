@@ -1,0 +1,3124 @@
+{
+  "title": "German A2 Everyday Vocabulary — Unique Compared with A1",
+  "language": "German",
+  "level": "A2",
+  "comparison_basis": {
+    "a1_source": "German A1 Vocabulary Topics 2–44",
+    "a2_source": "German A2 Vocabulary for Everyday Life in Germany",
+    "method": "Compared normalized German headwords (ignoring noun articles and dictionary plural suffixes). Removed A2 entries already listed in A1 and repeated A2 headwords. Similar English meanings are not automatically treated as duplicates.",
+    "important_note": "This is a practical lexical comparison, not a claim that every word is officially exclusive to CEFR A2. Expressions containing familiar A1 words are kept when they add a distinct everyday meaning."
+  },
+  "topic_count": 23,
+  "vocabulary_count": 130,
+  "removed_entry_count": 100,
+  "topics": [
+    {
+      "number": 1,
+      "title": "Daily routine and household",
+      "german_title": "Tagesablauf und Haushalt",
+      "vocabulary": [
+        {
+          "german": "sich beeilen",
+          "english": "to hurry",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "sich beeilen",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Housing and renting",
+      "german_title": "Wohnen und Miete",
+      "vocabulary": [
+        {
+          "german": "der Mietvertrag",
+          "english": "rental contract",
+          "word_type": "noun",
+          "icon": "gender-masculine",
+          "article": "der",
+          "gender": "masculine",
+          "german_key": "mietvertrag",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "die Nebenkosten",
+          "english": "additional housing costs",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "nebenkosten",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "die Kaution",
+          "english": "security deposit",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "kaution",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "die Heizung",
+          "english": "heating",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "heizung",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "kaputt",
+          "english": "broken",
+          "word_type": "word",
+          "icon": "text",
+          "german_key": "kaputt",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "reparieren",
+          "english": "to repair",
+          "word_type": "verb",
+          "icon": "workflow",
+          "german_key": "reparieren",
+          "synonym_groups": [
+            "syn_004"
+          ],
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "workflow",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": "git-compare",
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "die Hausverwaltung",
+          "english": "property management",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "hausverwaltung",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Shopping and supermarket",
+      "german_title": "Einkaufen und Supermarkt",
+      "vocabulary": [
+        {
+          "german": "die Kasse",
+          "english": "checkout",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "kasse",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "die Pfandflasche",
+          "english": "deposit bottle",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "pfandflasche",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "das Pfand",
+          "english": "bottle deposit",
+          "word_type": "noun",
+          "icon": "gender-neuter",
+          "article": "das",
+          "gender": "neuter",
+          "german_key": "pfand",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "im Angebot sein",
+          "english": "to be on sale",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "im angebot sein",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Food, cooking and restaurant",
+      "german_title": "Essen, Kochen und Restaurant",
+      "vocabulary": [
+        {
+          "german": "die Zutaten",
+          "english": "ingredients",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "zutaten",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "getrennt zahlen",
+          "english": "to pay separately",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "getrennt zahlen",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Public transport and travel",
+      "german_title": "Öffentliche Verkehrsmittel und Reisen",
+      "vocabulary": [
+        {
+          "german": "ausfallen",
+          "english": "to be cancelled",
+          "word_type": "verb",
+          "icon": "workflow",
+          "german_key": "ausfallen",
+          "synonym_groups": [
+            "syn_020"
+          ],
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "workflow",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": "git-compare",
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "die Monatskarte",
+          "english": "monthly pass",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "monatskarte",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Directions and town",
+      "german_title": "Wegbeschreibung und Stadt",
+      "vocabulary": [
+        {
+          "german": "die Innenstadt",
+          "english": "city centre",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "innenstadt",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Appointments and time",
+      "german_title": "Termine und Zeit",
+      "vocabulary": [
+        {
+          "german": "rechtzeitig",
+          "english": "in good time",
+          "word_type": "word",
+          "icon": "text",
+          "german_key": "rechtzeitig",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "die Sprechstunde",
+          "english": "consultation hours",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "sprechstunde",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "sofort",
+          "english": "immediately",
+          "word_type": "word",
+          "icon": "text",
+          "german_key": "sofort",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "frühestens",
+          "english": "at the earliest",
+          "word_type": "word",
+          "icon": "text",
+          "german_key": "frühestens",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "leider",
+          "english": "unfortunately",
+          "word_type": "word",
+          "icon": "text",
+          "german_key": "leider",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Doctor and pharmacy",
+      "german_title": "Arzt und Apotheke",
+      "vocabulary": [
+        {
+          "german": "die Versicherungskarte",
+          "english": "insurance card",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "versicherungskarte",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "der Hausarzt",
+          "english": "family doctor",
+          "word_type": "noun",
+          "icon": "gender-masculine",
+          "article": "der",
+          "gender": "masculine",
+          "german_key": "hausarzt",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "die Beschwerden",
+          "english": "symptoms / complaints",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "beschwerden",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "die Erkältung",
+          "english": "cold",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "erkältung",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "Schmerzen haben",
+          "english": "to have pain",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "schmerzen haben",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Work and job applications",
+      "german_title": "Arbeit und Bewerbung",
+      "vocabulary": [
+        {
+          "german": "der Lebenslauf",
+          "english": "CV / résumé",
+          "word_type": "noun",
+          "icon": "gender-masculine",
+          "article": "der",
+          "gender": "masculine",
+          "german_key": "lebenslauf",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "das Vorstellungsgespräch",
+          "english": "job interview",
+          "word_type": "noun",
+          "icon": "gender-neuter",
+          "article": "das",
+          "gender": "neuter",
+          "german_key": "vorstellungsgespräch",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "die Stelle",
+          "english": "job / position",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "stelle",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "die Teilzeit",
+          "english": "part-time work",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "teilzeit",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "die Vollzeit",
+          "english": "full-time work",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "vollzeit",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "der Arbeitsvertrag",
+          "english": "employment contract",
+          "word_type": "noun",
+          "icon": "gender-masculine",
+          "article": "der",
+          "gender": "masculine",
+          "german_key": "arbeitsvertrag",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "der Stundenlohn",
+          "english": "hourly wage",
+          "word_type": "noun",
+          "icon": "gender-masculine",
+          "article": "der",
+          "gender": "masculine",
+          "german_key": "stundenlohn",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "die Schicht",
+          "english": "shift",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "schicht",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "zuverlässig",
+          "english": "reliable",
+          "word_type": "word",
+          "icon": "text",
+          "german_key": "zuverlässig",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "University and learning",
+      "german_title": "Universität und Lernen",
+      "vocabulary": [
+        {
+          "german": "die Vorlesung",
+          "english": "lecture",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "vorlesung",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "das Seminar",
+          "english": "seminar",
+          "word_type": "noun",
+          "icon": "gender-neuter",
+          "article": "das",
+          "gender": "neuter",
+          "german_key": "seminar",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "sich anmelden",
+          "english": "to register",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "sich anmelden",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "bestehen",
+          "english": "to pass",
+          "word_type": "verb",
+          "icon": "workflow",
+          "german_key": "bestehen",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "workflow",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "durchfallen",
+          "english": "to fail",
+          "word_type": "verb",
+          "icon": "workflow",
+          "german_key": "durchfallen",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "workflow",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "die Unterlagen",
+          "english": "documents / materials",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "unterlagen",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "sich vorbereiten auf",
+          "english": "to prepare for",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "sich vorbereiten auf",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "die Note",
+          "english": "grade",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "note",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Money and banking",
+      "german_title": "Geld und Bank",
+      "vocabulary": [
+        {
+          "german": "bar bezahlen",
+          "english": "to pay in cash",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "bar bezahlen",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "mit Karte bezahlen",
+          "english": "to pay by card",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "mit karte bezahlen",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Phone and internet",
+      "german_title": "Telefon und Internet",
+      "vocabulary": [
+        {
+          "german": "der Empfang",
+          "english": "signal / reception",
+          "word_type": "noun",
+          "icon": "gender-masculine",
+          "article": "der",
+          "gender": "masculine",
+          "german_key": "empfang",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "das WLAN",
+          "english": "Wi-Fi",
+          "word_type": "noun",
+          "icon": "gender-neuter",
+          "article": "das",
+          "gender": "neuter",
+          "german_key": "wlan",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "aufladen",
+          "english": "to charge / top up",
+          "word_type": "verb",
+          "icon": "workflow",
+          "german_key": "aufladen",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "workflow",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "zurückrufen",
+          "english": "to call back",
+          "word_type": "verb",
+          "icon": "workflow",
+          "german_key": "zurückrufen",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "workflow",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "eine Nachricht schicken",
+          "english": "to send a message",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "eine nachricht schicken",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "erreichbar",
+          "english": "reachable",
+          "word_type": "word",
+          "icon": "text",
+          "german_key": "erreichbar",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Clothing and personal care",
+      "german_title": "Kleidung und Körperpflege",
+      "vocabulary": [
+        {
+          "german": "die Umkleidekabine",
+          "english": "changing room",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "umkleidekabine",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "bequem",
+          "english": "comfortable",
+          "word_type": "word",
+          "icon": "text",
+          "german_key": "bequem",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "eng",
+          "english": "tight",
+          "word_type": "word",
+          "icon": "text",
+          "german_key": "eng",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "die Zahnbürste",
+          "english": "toothbrush",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "zahnbürste",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "die Zahnpasta",
+          "english": "toothpaste",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "zahnpasta",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "sich rasieren",
+          "english": "to shave",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "sich rasieren",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Weather and seasons",
+      "german_title": "Wetter und Jahreszeiten",
+      "vocabulary": [
+        {
+          "german": "der Regenschauer",
+          "english": "rain shower",
+          "word_type": "noun",
+          "icon": "gender-masculine",
+          "article": "der",
+          "gender": "masculine",
+          "german_key": "regenschauer",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "frieren",
+          "english": "to feel cold / freeze",
+          "word_type": "verb",
+          "icon": "workflow",
+          "german_key": "frieren",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "workflow",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "die Jahreszeit",
+          "english": "season",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "jahreszeit",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Free time and invitations",
+      "german_title": "Freizeit und Einladungen",
+      "vocabulary": [
+        {
+          "german": "Lust haben auf",
+          "english": "to feel like",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "lust haben auf",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "sich verabreden",
+          "english": "to arrange to meet",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "sich verabreden",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "Bescheid sagen",
+          "english": "to let someone know",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "bescheid sagen",
+          "synonym_groups": [
+            "syn_010"
+          ],
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": "git-compare",
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "mitkommen",
+          "english": "to come along",
+          "word_type": "verb",
+          "icon": "workflow",
+          "german_key": "mitkommen",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "workflow",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "teilnehmen an",
+          "english": "to take part in",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "teilnehmen an",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "der Spaziergang",
+          "english": "walk",
+          "word_type": "noun",
+          "icon": "gender-masculine",
+          "article": "der",
+          "gender": "masculine",
+          "german_key": "spaziergang",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Feelings and opinions",
+      "german_title": "Gefühle und Meinungen",
+      "vocabulary": [
+        {
+          "german": "zufrieden",
+          "english": "satisfied",
+          "word_type": "verb",
+          "icon": "workflow",
+          "german_key": "zufrieden",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "workflow",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "enttäuscht",
+          "english": "disappointed",
+          "word_type": "word",
+          "icon": "text",
+          "german_key": "enttäuscht",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "nervös",
+          "english": "nervous",
+          "word_type": "word",
+          "icon": "text",
+          "german_key": "nervös",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "aufgeregt",
+          "english": "excited / nervous",
+          "word_type": "word",
+          "icon": "text",
+          "german_key": "aufgeregt",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "sich freuen auf",
+          "english": "to look forward to",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "sich freuen auf",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "sich ärgern über",
+          "english": "to be annoyed about",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "sich ärgern über",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "ich glaube, dass",
+          "english": "I believe that",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "ich glaube",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "einverstanden sein",
+          "english": "to agree",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "einverstanden sein",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "recht haben",
+          "english": "to be right",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "recht haben",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "sich entschuldigen",
+          "english": "to apologize",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "sich entschuldigen",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "title": "Problems and asking for help",
+      "german_title": "Probleme und Hilfe",
+      "vocabulary": [
+        {
+          "german": "das Problem",
+          "english": "problem",
+          "word_type": "noun",
+          "icon": "gender-neuter",
+          "article": "das",
+          "gender": "neuter",
+          "german_key": "problem",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "die Lösung",
+          "english": "solution",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "lösung",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "Hilfe brauchen",
+          "english": "to need help",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "hilfe brauchen",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "funktionieren",
+          "english": "to work / function",
+          "word_type": "verb",
+          "icon": "workflow",
+          "german_key": "funktionieren",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "workflow",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "fehlen",
+          "english": "to be missing / absent",
+          "word_type": "verb",
+          "icon": "workflow",
+          "german_key": "fehlen",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "workflow",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "Bescheid wissen",
+          "english": "to be informed",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "bescheid wissen",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "Könnten Sie mir bitte helfen?",
+          "english": "Could you please help me?",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "könnten sie mir bitte helfen",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "Können Sie das bitte wiederholen?",
+          "english": "Could you please repeat that?",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "können sie das bitte wiederholen",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "Rules and obligations",
+      "german_title": "Regeln und Pflichten",
+      "vocabulary": [
+        {
+          "german": "die Regel",
+          "english": "rule",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "regel",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "die Vorschrift",
+          "english": "regulation",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "vorschrift",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "man muss",
+          "english": "one must",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "man muss",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "man darf",
+          "english": "one is allowed to",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "man darf",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "man darf nicht",
+          "english": "one must not",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "man darf nicht",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "notwendig",
+          "english": "necessary",
+          "word_type": "word",
+          "icon": "text",
+          "german_key": "notwendig",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "vorsichtig",
+          "english": "careful",
+          "word_type": "word",
+          "icon": "text",
+          "german_key": "vorsichtig",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "Rücksicht nehmen auf",
+          "english": "to be considerate of",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "rücksicht nehmen auf",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "title": "Environment and recycling",
+      "german_title": "Umwelt und Mülltrennung",
+      "vocabulary": [
+        {
+          "german": "der Restmüll",
+          "english": "general waste",
+          "word_type": "noun",
+          "icon": "gender-masculine",
+          "article": "der",
+          "gender": "masculine",
+          "german_key": "restmüll",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "das Altpapier",
+          "english": "waste paper",
+          "word_type": "noun",
+          "icon": "gender-neuter",
+          "article": "das",
+          "gender": "neuter",
+          "german_key": "altpapier",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "die Biotonne",
+          "english": "organic waste bin",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "biotonne",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "die Verpackung",
+          "english": "packaging",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "verpackung",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "Energie sparen",
+          "english": "to save energy",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "energie sparen",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "umweltfreundlich",
+          "english": "environmentally friendly",
+          "word_type": "word",
+          "icon": "text",
+          "german_key": "umweltfreundlich",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "wiederverwenden",
+          "english": "to reuse",
+          "word_type": "verb",
+          "icon": "workflow",
+          "german_key": "wiederverwenden",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "workflow",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "die Mülltrennung",
+          "english": "waste separation",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "mülltrennung",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "title": "Post and deliveries",
+      "german_title": "Post und Lieferungen",
+      "vocabulary": [
+        {
+          "german": "die Lieferung",
+          "english": "delivery",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "lieferung",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "die Sendungsverfolgung",
+          "english": "shipment tracking",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "sendungsverfolgung",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "zustellen",
+          "english": "to deliver",
+          "word_type": "verb",
+          "icon": "workflow",
+          "german_key": "zustellen",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "workflow",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "die Packstation",
+          "english": "parcel locker",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "packstation",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "die Benachrichtigung",
+          "english": "notification",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "benachrichtigung",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "title": "Official letters and registration",
+      "german_title": "Behördenbriefe und Anmeldung",
+      "vocabulary": [
+        {
+          "german": "die Anmeldung",
+          "english": "registration",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "anmeldung",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "die Ummeldung",
+          "english": "change of address registration",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "ummeldung",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "der Ausweis",
+          "english": "ID card",
+          "word_type": "noun",
+          "icon": "gender-masculine",
+          "article": "der",
+          "gender": "masculine",
+          "german_key": "ausweis",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "das Formular",
+          "english": "form",
+          "word_type": "noun",
+          "icon": "gender-neuter",
+          "article": "das",
+          "gender": "neuter",
+          "german_key": "formular",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "der Antrag",
+          "english": "application",
+          "word_type": "noun",
+          "icon": "gender-masculine",
+          "article": "der",
+          "gender": "masculine",
+          "german_key": "antrag",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "die Bescheinigung",
+          "english": "certificate / confirmation",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "bescheinigung",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "die Frist",
+          "english": "deadline",
+          "word_type": "noun",
+          "icon": "gender-feminine",
+          "article": "die",
+          "gender": "feminine",
+          "german_key": "frist",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "einreichen",
+          "english": "to submit",
+          "word_type": "verb",
+          "icon": "workflow",
+          "german_key": "einreichen",
+          "synonym_groups": [
+            "syn_011"
+          ],
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "workflow",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": "git-compare",
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "title": "Social life and small talk",
+      "german_title": "Soziales Leben und Small Talk",
+      "vocabulary": [
+        {
+          "german": "Wie läuft's?",
+          "english": "How's it going?",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "wie läuft's",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "Was gibt's Neues?",
+          "english": "What's new?",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "was gibt's neues",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "Das klingt gut.",
+          "english": "That sounds good.",
+          "word_type": "noun",
+          "icon": "gender-neuter",
+          "article": "das",
+          "gender": "neuter",
+          "german_key": "klingt gut",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "Das freut mich.",
+          "english": "I'm glad to hear that.",
+          "word_type": "noun",
+          "icon": "gender-neuter",
+          "article": "das",
+          "gender": "neuter",
+          "german_key": "freut mich",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "Macht nichts.",
+          "english": "Never mind.",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "macht nichts",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "Ich bin gleich zurück.",
+          "english": "I'll be right back.",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "ich bin gleich zurück",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "Das kommt darauf an.",
+          "english": "It depends.",
+          "word_type": "noun",
+          "icon": "gender-neuter",
+          "article": "das",
+          "gender": "neuter",
+          "german_key": "kommt darauf an",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "book-text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "Alles klar.",
+          "english": "All right / understood.",
+          "word_type": "phrase",
+          "icon": "messages-square",
+          "german_key": "alles klar",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "messages-square",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "title": "Useful connectors and adverbs",
+      "german_title": "Verbindungswörter und Adverbien",
+      "vocabulary": [
+        {
+          "german": "deshalb",
+          "english": "therefore",
+          "word_type": "word",
+          "icon": "text",
+          "german_key": "deshalb",
+          "synonym_groups": [
+            "syn_006"
+          ],
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": "git-compare",
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "trotzdem",
+          "english": "nevertheless",
+          "word_type": "word",
+          "icon": "text",
+          "german_key": "trotzdem",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "außerdem",
+          "english": "besides / in addition",
+          "word_type": "word",
+          "icon": "text",
+          "german_key": "außerdem",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "während",
+          "english": "while / during",
+          "word_type": "word",
+          "icon": "text",
+          "german_key": "während",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "obwohl",
+          "english": "although",
+          "word_type": "word",
+          "icon": "text",
+          "german_key": "obwohl",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "wenn",
+          "english": "if / when",
+          "word_type": "word",
+          "icon": "text",
+          "german_key": "wenn",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "weil",
+          "english": "because",
+          "word_type": "word",
+          "icon": "text",
+          "german_key": "weil",
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": null,
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        },
+        {
+          "german": "ungefähr",
+          "english": "approximately",
+          "word_type": "word",
+          "icon": "text",
+          "german_key": "ungefähr",
+          "synonym_groups": [
+            "syn_008"
+          ],
+          "flashcard": {
+            "icon": "layers",
+            "front_icon": "book-open",
+            "back_icon": "languages",
+            "content_icon": "text",
+            "review_icon": "rotate-ccw",
+            "synonym_icon": "git-compare",
+            "display_hint": "Show German on the front and English meaning on the back."
+          }
+        }
+      ]
+    }
+  ],
+  "synonym_groups": [
+    {
+      "id": "syn_001",
+      "meaning": "to postpone / move to a later time",
+      "words": [
+        "verschieben",
+        "auf später verlegen"
+      ],
+      "note": "verschieben is the most common everyday choice."
+    },
+    {
+      "id": "syn_002",
+      "meaning": "to cancel an appointment or plan",
+      "words": [
+        "absagen",
+        "stornieren"
+      ],
+      "note": "stornieren is especially common for bookings, orders, and reservations."
+    },
+    {
+      "id": "syn_003",
+      "meaning": "to collect / pick up",
+      "words": [
+        "abholen",
+        "einsammeln"
+      ],
+      "note": "abholen is used for a person, parcel, or order; einsammeln often means collect several things or people."
+    },
+    {
+      "id": "syn_004",
+      "meaning": "to repair / fix",
+      "words": [
+        "reparieren",
+        "in Ordnung bringen"
+      ],
+      "note": "in Ordnung bringen is an everyday expression; context determines the best choice."
+    },
+    {
+      "id": "syn_005",
+      "meaning": "to be allowed",
+      "words": [
+        "dürfen",
+        "erlaubt sein"
+      ],
+      "note": "dürfen is a modal verb; erlaubt sein is an adjective phrase."
+    },
+    {
+      "id": "syn_006",
+      "meaning": "therefore / for that reason",
+      "words": [
+        "deshalb",
+        "deswegen"
+      ],
+      "note": "Usually interchangeable in everyday sentences."
+    },
+    {
+      "id": "syn_007",
+      "meaning": "afterwards / after that",
+      "words": [
+        "danach",
+        "anschließend"
+      ],
+      "note": "anschließend is a little more formal."
+    },
+    {
+      "id": "syn_008",
+      "meaning": "approximately",
+      "words": [
+        "ungefähr",
+        "etwa"
+      ],
+      "note": "Usually interchangeable with numbers and amounts."
+    },
+    {
+      "id": "syn_009",
+      "meaning": "to be happy / pleased",
+      "words": [
+        "sich freuen",
+        "glücklich sein"
+      ],
+      "note": "Not exact synonyms: sich freuen describes feeling glad or looking forward to something; glücklich sein means to be happy."
+    },
+    {
+      "id": "syn_010",
+      "meaning": "to tell someone / let someone know",
+      "words": [
+        "Bescheid sagen",
+        "jemanden informieren"
+      ],
+      "note": "Bescheid sagen is conversational; informieren is more formal."
+    },
+    {
+      "id": "syn_011",
+      "meaning": "to submit / hand in",
+      "words": [
+        "einreichen",
+        "abgeben"
+      ],
+      "note": "Both can mean submit, but abgeben is also used for handing something over."
+    },
+    {
+      "id": "syn_012",
+      "meaning": "to be delayed",
+      "words": [
+        "Verspätung haben",
+        "sich verspäten"
+      ],
+      "note": "Verspätung haben is common for trains/buses; sich verspäten is common for people too."
+    },
+    {
+      "id": "syn_013",
+      "meaning": "to tidy up",
+      "words": [
+        "aufräumen",
+        "ordentlich machen"
+      ],
+      "note": "aufräumen is the natural everyday verb."
+    },
+    {
+      "id": "syn_014",
+      "meaning": "to be reachable / available by phone",
+      "words": [
+        "erreichbar sein",
+        "ans Telefon gehen können"
+      ],
+      "note": "Related meanings, not perfectly interchangeable."
+    },
+    {
+      "id": "syn_015",
+      "meaning": "to understand / get it",
+      "words": [
+        "verstehen",
+        "begreifen"
+      ],
+      "note": "begreifen can imply understanding something more fully."
+    },
+    {
+      "id": "syn_016",
+      "meaning": "nice / friendly",
+      "words": [
+        "nett",
+        "freundlich"
+      ],
+      "note": "nett means nice; freundlich specifically means friendly."
+    },
+    {
+      "id": "syn_017",
+      "meaning": "beautiful / lovely",
+      "words": [
+        "schön",
+        "wunderschön"
+      ],
+      "note": "wunderschön is stronger: very beautiful."
+    },
+    {
+      "id": "syn_018",
+      "meaning": "cheap / inexpensive",
+      "words": [
+        "billig",
+        "günstig"
+      ],
+      "note": "günstig often sounds more positive; billig can sometimes suggest low quality."
+    },
+    {
+      "id": "syn_019",
+      "meaning": "to order",
+      "words": [
+        "bestellen",
+        "ordern"
+      ],
+      "note": "bestellen is the normal choice in restaurants and shops; ordern is more limited."
+    },
+    {
+      "id": "syn_020",
+      "meaning": "to cancel / call off",
+      "words": [
+        "absagen",
+        "ausfallen"
+      ],
+      "note": "Not exact synonyms: absagen means someone cancels; ausfallen means an event/service does not take place."
+    }
+  ],
+  "removed_entries": [
+    {
+      "german": "aufstehen",
+      "english": "to get up",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "sich anziehen",
+      "english": "to get dressed",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "frühstücken",
+      "english": "to have breakfast",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "aufräumen",
+      "english": "to tidy up",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "putzen",
+      "english": "to clean",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "die Wäsche",
+      "english": "laundry",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "die Waschmaschine",
+      "english": "washing machine",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "das Geschirr",
+      "english": "dishes",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "den Müll rausbringen",
+      "english": "to take out the rubbish",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "die Wohnung",
+      "english": "apartment",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "der Vermieter",
+      "english": "landlord",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "die Miete",
+      "english": "rent",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "das Angebot",
+      "english": "special offer",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "der Einkaufswagen",
+      "english": "shopping cart",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "der Kassenbon",
+      "english": "receipt",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "umtauschen",
+      "english": "to exchange",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "zurückgeben",
+      "english": "to return",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "die Öffnungszeiten",
+      "english": "opening hours",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "das Rezept",
+      "english": "recipe",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "die Pfanne",
+      "english": "frying pan",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "schneiden",
+      "english": "to cut",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "braten",
+      "english": "to fry",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "kochen",
+      "english": "to cook / boil",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "bestellen",
+      "english": "to order",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "die Speisekarte",
+      "english": "menu",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "die Rechnung",
+      "english": "bill",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "die Haltestelle",
+      "english": "stop",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "der Fahrplan",
+      "english": "timetable",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "die Verspätung",
+      "english": "delay",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "umsteigen",
+      "english": "to change trains/buses",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "einsteigen",
+      "english": "to get on",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "aussteigen",
+      "english": "to get off",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "die Verbindung",
+      "english": "connection",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "der Bahnsteig",
+      "english": "platform",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "die Kreuzung",
+      "english": "intersection",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "die Ampel",
+      "english": "traffic light",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "geradeaus",
+      "english": "straight ahead",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "abbiegen",
+      "english": "to turn",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "gegenüber",
+      "english": "opposite",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "in der Nähe",
+      "english": "nearby",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "das Rathaus",
+      "english": "town hall",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "die Behörde",
+      "english": "public authority",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "der Eingang",
+      "english": "entrance",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "der Termin",
+      "english": "appointment",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "vereinbaren",
+      "english": "to arrange",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "verschieben",
+      "english": "to postpone",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "absagen",
+      "english": "to cancel",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "pünktlich",
+      "english": "on time",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "die Krankenkasse",
+      "english": "health insurance provider",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "die Apotheke",
+      "english": "pharmacy",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "das Rezept",
+      "english": "prescription",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "der Husten",
+      "english": "cough",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "das Fieber",
+      "english": "fever",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "die Bewerbung",
+      "english": "job application",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "die Prüfung",
+      "english": "exam",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "die Aufgabe",
+      "english": "task / exercise",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "das Konto",
+      "english": "bank account",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "die Überweisung",
+      "english": "bank transfer",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "abheben",
+      "english": "to withdraw",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "einzahlen",
+      "english": "to deposit",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "die Gebühr",
+      "english": "fee",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "die Rechnung",
+      "english": "bill / invoice",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "das Gehalt",
+      "english": "salary",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "sparen",
+      "english": "to save money",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "das Passwort",
+      "english": "password",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "der Akku",
+      "english": "battery",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "herunterladen",
+      "english": "to download",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "hochladen",
+      "english": "to upload",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "die Größe",
+      "english": "size",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "passen",
+      "english": "to fit",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "anprobieren",
+      "english": "to try on",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "weit",
+      "english": "loose",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "das Gewitter",
+      "english": "thunderstorm",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "bewölkt",
+      "english": "cloudy",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "sonnig",
+      "english": "sunny",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "regnerisch",
+      "english": "rainy",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "die Temperatur",
+      "english": "temperature",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "der Frühling",
+      "english": "spring",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "der Herbst",
+      "english": "autumn",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "die Einladung",
+      "english": "invitation",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "einladen",
+      "english": "to invite",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "vorschlagen",
+      "english": "to suggest",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "das Konzert",
+      "english": "concert",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "helfen",
+      "english": "to help",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "verlieren",
+      "english": "to lose",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "erlaubt",
+      "english": "allowed",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "verboten",
+      "english": "forbidden",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "der Abfall",
+      "english": "waste",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "recyceln",
+      "english": "to recycle",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "das Paket",
+      "english": "parcel",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "der Absender",
+      "english": "sender",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "der Empfänger",
+      "english": "recipient",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "abholen",
+      "english": "to collect",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "unterschreiben",
+      "english": "to sign",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "der Reisepass",
+      "english": "passport",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "ausfüllen",
+      "english": "to fill in",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "Kein Problem.",
+      "english": "No problem.",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "Gern geschehen.",
+      "english": "You're welcome.",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "zuerst",
+      "english": "first",
+      "reason": "already present in A1"
+    },
+    {
+      "german": "danach",
+      "english": "after that",
+      "reason": "already present in A1"
+    }
+  ],
+  "icon_system": {
+    "icon_library": "Lucide",
+    "card_icons": {
+      "flashcard": "layers",
+      "front": "book-open",
+      "back": "languages",
+      "audio": "volume-2",
+      "example": "message-circle",
+      "remember": "bookmark",
+      "noun": "book-text",
+      "verb": "workflow",
+      "adjective": "palette",
+      "phrase": "messages-square",
+      "synonym": "git-compare",
+      "review": "rotate-ccw"
+    },
+    "gender_icons": {
+      "gender-masculine": {
+        "article": "der",
+        "gender": "masculine",
+        "icon": "circle"
+      },
+      "gender-feminine": {
+        "article": "die",
+        "gender": "feminine",
+        "icon": "circle-dot"
+      },
+      "gender-neuter": {
+        "article": "das",
+        "gender": "neuter",
+        "icon": "square"
+      }
+    },
+    "usage_note": "Render icon names using Lucide where available. Gender markers are intentionally distinct simple shapes; apply separate accessible labels such as 'der / masculine', 'die / feminine', and 'das / neuter'."
+  },
+  "flashcard_ui": {
+    "front_field": "german",
+    "back_field": "english",
+    "show_word_type_icon": true,
+    "show_noun_gender_marker": true,
+    "show_synonym_indicator_when_available": true,
+    "flip_icon": "layers",
+    "front_icon": "book-open",
+    "back_icon": "languages",
+    "review_icon": "rotate-ccw",
+    "note": "Icon metadata only: the frontend must implement flip/reveal behavior and accessible labels."
+  }
+}

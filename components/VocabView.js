@@ -37,10 +37,15 @@ function playGermanPronunciation(text) {
   }
 }
 
-export default function VocabView({ vocabData }) {
-  const { topics = [], allWords = [] } = vocabData || {};
+export default function VocabView({ a1Data, a2Data, initialLevel = "A1" }) {
+  // Level state: "A1" or "A2"
+  const [selectedLevel, setSelectedLevel] = useState(initialLevel || "A1");
 
-  // Persistence State
+  // Active level data
+  const activeVocabData = selectedLevel === "A2" ? (a2Data || {}) : (a1Data || {});
+  const { topics = [], allWords = [] } = activeVocabData;
+
+  // Persistence State (tracked per level)
   const [starredIds, setStarredIds] = useState([]);
   const [masteredIds, setMasteredIds] = useState([]);
   const [isHydrated, setIsHydrated] = useState(false);
@@ -55,7 +60,7 @@ export default function VocabView({ vocabData }) {
   // Flashcard Deck State
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isFlipped, setIsFlipped] = useState(false);
-  const [hintLevel, setHintLevel] = useState(2); // default 2-letter hint as requested!
+  const [hintLevel, setHintLevel] = useState(2); // default 2-letter hint
   const [guessInput, setGuessInput] = useState("");
   const [guessFeedback, setGuessFeedback] = useState(null); // 'correct' | 'wrong' | null
   const [isAutoPlaying, setIsAutoPlaying] = useState(false);
@@ -66,24 +71,88 @@ export default function VocabView({ vocabData }) {
   const inputRef = useRef(null);
   const autoPlayTimerRef = useRef(null);
 
-  // Load from localStorage on mount
+  // Sync with URL query parameter or localStorage on initial mount
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      const params = new URLSearchParams(window.location.search);
+      const urlLvl = params.get("level");
+      if (urlLvl && (urlLvl.toUpperCase() === "A2" || urlLvl.toUpperCase() === "A1")) {
+        setSelectedLevel(urlLvl.toUpperCase());
+      } else {
+        const storedLvl = localStorage.getItem("vocab_active_level_v1");
+        if (storedLvl && (storedLvl.toUpperCase() === "A2" || storedLvl.toUpperCase() === "A1")) {
+          setSelectedLevel(storedLvl.toUpperCase());
+        }
+      }
+    }
+  }, []);
+
+  // Listen for browser popstate (back/forward)
+  useEffect(() => {
+    function onPopState() {
+      if (typeof window !== "undefined") {
+        const params = new URLSearchParams(window.location.search);
+        const urlLvl = params.get("level");
+        if (urlLvl && (urlLvl.toUpperCase() === "A2" || urlLvl.toUpperCase() === "A1")) {
+          setSelectedLevel(urlLvl.toUpperCase());
+        }
+      }
+    }
+    window.addEventListener("popstate", onPopState);
+    return () => window.removeEventListener("popstate", onPopState);
+  }, []);
+
+  // Load Starred and Mastered when level changes
   useEffect(() => {
     try {
-      const sStored = localStorage.getItem("a1_vocab_starred_v1");
+      const lvlKey = selectedLevel.toLowerCase();
+      const sStored = localStorage.getItem(`${lvlKey}_vocab_starred_v1`);
       if (sStored) {
         const parsed = JSON.parse(sStored);
         if (Array.isArray(parsed)) setStarredIds(parsed);
+      } else {
+        setStarredIds([]);
       }
-      const mStored = localStorage.getItem("a1_vocab_mastered_v1");
+      const mStored = localStorage.getItem(`${lvlKey}_vocab_mastered_v1`);
       if (mStored) {
         const parsed = JSON.parse(mStored);
         if (Array.isArray(parsed)) setMasteredIds(parsed);
+      } else {
+        setMasteredIds([]);
       }
     } catch (e) {
       console.warn("Failed to read localStorage:", e);
     }
     setIsHydrated(true);
+  }, [selectedLevel]);
+
+  // Reset card state when moving to next/prev card or switching level
+  const resetCardInteractions = useCallback(() => {
+    setIsFlipped(false);
+    setHintLevel(2);
+    setGuessInput("");
+    setGuessFeedback(null);
   }, []);
+
+  // Switch between A1 and A2 level tabs
+  const handleLevelChange = (newLevel) => {
+    if (newLevel === selectedLevel) return;
+    setSelectedLevel(newLevel);
+    setSelectedTopicNum("all");
+    setSelectedCategory("All");
+    setSearchQuery("");
+    setOnlyStarred(false);
+    setCurrentIndex(0);
+    resetCardInteractions();
+
+    if (typeof window !== "undefined") {
+      try {
+        localStorage.setItem("vocab_active_level_v1", newLevel);
+      } catch (e) {}
+      const targetUrl = `/vocab?level=${newLevel}`;
+      window.history.pushState(null, "", targetUrl);
+    }
+  };
 
   // Save Starred to localStorage
   const toggleStar = useCallback((id) => {
@@ -91,13 +160,14 @@ export default function VocabView({ vocabData }) {
       const isStarred = prev.includes(id);
       const next = isStarred ? prev.filter((x) => x !== id) : [...prev, id];
       try {
-        localStorage.setItem("a1_vocab_starred_v1", JSON.stringify(next));
+        const lvlKey = selectedLevel.toLowerCase();
+        localStorage.setItem(`${lvlKey}_vocab_starred_v1`, JSON.stringify(next));
       } catch (e) {
         console.warn("Failed to save starred:", e);
       }
       return next;
     });
-  }, []);
+  }, [selectedLevel]);
 
   // Save Mastered to localStorage
   const toggleMastered = useCallback((id) => {
@@ -105,13 +175,25 @@ export default function VocabView({ vocabData }) {
       const isMastered = prev.includes(id);
       const next = isMastered ? prev.filter((x) => x !== id) : [...prev, id];
       try {
-        localStorage.setItem("a1_vocab_mastered_v1", JSON.stringify(next));
+        const lvlKey = selectedLevel.toLowerCase();
+        localStorage.setItem(`${lvlKey}_vocab_mastered_v1`, JSON.stringify(next));
       } catch (e) {
         console.warn("Failed to save mastered:", e);
       }
       return next;
     });
-  }, []);
+  }, [selectedLevel]);
+
+  // Reset progress for active level
+  const handleResetProgress = () => {
+    if (window.confirm(`Reset all mastered ${selectedLevel} vocabulary progress?`)) {
+      setMasteredIds([]);
+      try {
+        const lvlKey = selectedLevel.toLowerCase();
+        localStorage.removeItem(`${lvlKey}_vocab_mastered_v1`);
+      } catch (e) {}
+    }
+  };
 
   // Filter words for the deck
   const activeDeck = useMemo(() => {
@@ -140,7 +222,6 @@ export default function VocabView({ vocabData }) {
     }
 
     if (isShuffled) {
-      // Deterministic-ish shuffle or clone
       const shuffled = [...list];
       for (let i = shuffled.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
@@ -156,14 +237,6 @@ export default function VocabView({ vocabData }) {
   const currentCard = activeDeck[currentIndex] || activeDeck[0] || null;
   const isStarred = currentCard && starredIds.includes(currentCard.id);
   const isMastered = currentCard && masteredIds.includes(currentCard.id);
-
-  // Reset card state when moving to next/prev card
-  const resetCardInteractions = useCallback(() => {
-    setIsFlipped(false);
-    setHintLevel(2);
-    setGuessInput("");
-    setGuessFeedback(null);
-  }, []);
 
   // Next / Prev Handlers
   const handleNext = useCallback(() => {
@@ -186,10 +259,8 @@ export default function VocabView({ vocabData }) {
     }
 
     autoPlayTimerRef.current = setInterval(() => {
-      // Flip first, then advance
       setIsFlipped((flipped) => {
         if (!flipped) {
-          // Play speech on flip
           if (currentCard) playGermanPronunciation(currentCard.cleanGerman);
           return true;
         } else {
@@ -235,7 +306,6 @@ export default function VocabView({ vocabData }) {
   useEffect(() => {
     function onKeyDown(e) {
       if (activeTab !== "flashcards") return;
-      // Don't intercept if user is typing in the input
       if (e.target.tagName === "INPUT" || e.target.tagName === "TEXTAREA") {
         if (e.key === "Enter") {
           handleCheckAnswer(e);
@@ -283,7 +353,7 @@ export default function VocabView({ vocabData }) {
     }
   };
 
-  // Categories list
+  // Categories list for selected level
   const categories = ["All", ...new Set(topics.map((t) => t.category))];
 
   // Current Hint Text
@@ -310,26 +380,71 @@ export default function VocabView({ vocabData }) {
       ref={containerRef}
       className={`vocab-shell ${isFullscreen ? "vocab-fullscreen-mode" : ""}`}
     >
+      {/* ── Level Switcher Tabs: A1 Vocab vs A2 Vocab (Requested by User!) ── */}
+      <div className="vocab-level-switcher" role="tablist" aria-label="Vocabulary Levels">
+        <button
+          type="button"
+          className={`vocab-level-tab-btn ${selectedLevel === "A1" ? "active" : ""}`}
+          onClick={() => handleLevelChange("A1")}
+          role="tab"
+          aria-selected={selectedLevel === "A1"}
+        >
+          <span className="level-dot level-dot-a1" />
+          <div className="vocab-level-tab-text">
+            <span className="vocab-level-tab-title">A1 Vocabulary</span>
+            <span className="vocab-level-tab-meta">
+              43 Topics · {a1Data?.totalWords || 851} Words
+            </span>
+          </div>
+        </button>
+
+        <button
+          type="button"
+          className={`vocab-level-tab-btn ${selectedLevel === "A2" ? "active" : ""}`}
+          onClick={() => handleLevelChange("A2")}
+          role="tab"
+          aria-selected={selectedLevel === "A2"}
+        >
+          <span className="level-dot level-dot-a2" />
+          <div className="vocab-level-tab-text">
+            <span className="vocab-level-tab-title">A2 Vocabulary</span>
+            <span className="vocab-level-tab-meta">
+              23 Topics · {a2Data?.totalWords || 130} Words
+            </span>
+          </div>
+        </button>
+      </div>
+
       {/* ── Top Header Card ────────────────────────────────────── */}
       <div className="vocab-header-card">
         <div className="vocab-header-meta-row">
-          <span className="level-badge level-badge-a1">A1 Vocabulary Library</span>
-          <span className="meta-muted">43 Topics · {totalCards} Essential Words</span>
+          <span className={`level-badge level-badge-${selectedLevel.toLowerCase()}`}>
+            Level {selectedLevel} Vocabulary
+          </span>
+          <span className="meta-muted">
+            {topics.length} Topics · {totalCards} Words
+          </span>
           {onlyStarred && (
             <span className="vocab-filter-active-pill">⭐ Starred ({starredCount})</span>
           )}
         </div>
 
-        <h1 className="vocab-main-title">German A1 Vocabulary Flashcards</h1>
+        <h1 className="vocab-main-title">
+          {selectedLevel === "A2"
+            ? "German A2 Everyday Vocabulary Flashcards"
+            : "German A1 Vocabulary Flashcards"}
+        </h1>
         <p className="vocab-main-sub">
-          Master essential German words with visual memory cards, 1–2 letter recall hints, native German speech, and spaced repetition.
+          {selectedLevel === "A2"
+            ? "Step up to A2 with 23 everyday topics: rental contracts, job applications, doctor visits, recycling, and official letters with active recall hints and synonyms."
+            : "Master essential A1 German words with visual memory cards, 1–2 letter recall hints, native German speech, and spaced repetition."}
         </p>
 
         {/* Live Mastery Bar */}
         <div className="vocab-progress-card">
           <div className="vocab-progress-header">
             <div className="vocab-progress-info">
-              <span className="vocab-progress-label">Overall Mastery:</span>
+              <span className="vocab-progress-label">{selectedLevel} Mastery:</span>
               <span className="vocab-progress-stats">
                 <strong>{masteredCount}</strong> of <strong>{totalCards}</strong> words mastered ({progressPct}%)
               </span>
@@ -340,12 +455,7 @@ export default function VocabView({ vocabData }) {
               <button
                 type="button"
                 className="vocab-reset-btn"
-                onClick={() => {
-                  if (window.confirm("Reset all mastered vocabulary progress?")) {
-                    setMasteredIds([]);
-                    localStorage.removeItem("a1_vocab_mastered_v1");
-                  }
-                }}
+                onClick={handleResetProgress}
               >
                 Reset Progress
               </button>
@@ -380,7 +490,7 @@ export default function VocabView({ vocabData }) {
             className={`vocab-mode-btn ${activeTab === "directory" ? "active" : ""}`}
             onClick={() => setActiveTab("directory")}
           >
-            <span>📚 43 Topic Collections</span>
+            <span>📚 {topics.length} Topic Collections</span>
           </button>
           <button
             type="button"
@@ -425,7 +535,9 @@ export default function VocabView({ vocabData }) {
                 resetCardInteractions();
               }}
             >
-              <option value="all">🌟 All 43 Topics ({totalCards} words)</option>
+              <option value="all">
+                🌟 All {topics.length} Topics ({totalCards} words)
+              </option>
               {topics.map((t) => (
                 <option key={t.number} value={t.number}>
                   {t.emoji} {t.number}. {t.title} ({t.wordCount} words)
@@ -445,7 +557,7 @@ export default function VocabView({ vocabData }) {
                 setCurrentIndex(0);
                 resetCardInteractions();
               }}
-              placeholder="Search words (e.g. Brot, bread, coffee)..."
+              placeholder={`Search ${selectedLevel} words (e.g. ${selectedLevel === "A2" ? "Mietvertrag, repair, WLAN" : "Brot, bread, coffee"})...`}
               className="level-search-input"
             />
             {searchQuery && (
@@ -482,7 +594,7 @@ export default function VocabView({ vocabData }) {
       </div>
 
       {/* ════════════════════════════════════════════════════════════
-          VIEW 1: FLASHCARDS DECK MODE (Matching User's Screenshots)
+          VIEW 1: FLASHCARDS DECK MODE
       ════════════════════════════════════════════════════════════ */}
       {activeTab === "flashcards" && (
         <div className="vocab-flashcards-stage">
@@ -491,7 +603,7 @@ export default function VocabView({ vocabData }) {
               <p className="empty-box-title">No cards found</p>
               <p className="empty-box-sub">
                 {onlyStarred
-                  ? "You haven't starred any cards yet. Click the star icon (★) on any card to save it here!"
+                  ? "You haven't starred any cards yet in this level. Click the star icon (★) on any card to save it here!"
                   : "Try clearing your search query or selecting another topic."}
               </p>
               {onlyStarred && (
@@ -513,7 +625,6 @@ export default function VocabView({ vocabData }) {
                   isMastered ? "card-is-mastered" : ""
                 }`}
                 onClick={(e) => {
-                  // Only flip if not clicking an interactive button or input
                   if (
                     e.target.closest("button") ||
                     e.target.closest("input") ||
@@ -561,7 +672,7 @@ export default function VocabView({ vocabData }) {
                     </div>
                   </div>
 
-                  {/* Visual Image / Artwork Frame (Matching Image 1) */}
+                  {/* Visual Image / Artwork Frame */}
                   <div className="vocab-visual-frame">
                     <span className="vocab-visual-glyph" role="img" aria-label={currentCard.english}>
                       {currentCard.visualEmoji}
@@ -574,7 +685,7 @@ export default function VocabView({ vocabData }) {
                     <h2 className="vocab-english-word">{currentCard.english}</h2>
                   </div>
 
-                  {/* ── The 1-2 Letter Hint (Requested by User!) ── */}
+                  {/* ── The 1-2 Letter Hint ── */}
                   <div
                     className="vocab-hint-container"
                     onClick={(e) => e.stopPropagation()}
@@ -661,7 +772,7 @@ export default function VocabView({ vocabData }) {
                   </div>
                 </div>
 
-                {/* ── CARD BACK (Revealed German Word & Audio - Matching Image 2) ── */}
+                {/* ── CARD BACK (Revealed German Word, Synonyms & Audio) ── */}
                 <div className="vocab-card-side vocab-card-back">
                   {/* Card Top Actions: Speaker + Star */}
                   <div className="vocab-card-topbar">
@@ -737,6 +848,33 @@ export default function VocabView({ vocabData }) {
                       </span>
                     </div>
 
+                    {/* A2 Synonym Tip (if available) */}
+                    {currentCard.synonymInfo && (
+                      <div className="vocab-synonym-callout">
+                        <div className="vocab-synonym-title">
+                          <span>💡 Synonym Note:</span>
+                          <strong className="vocab-synonym-meaning">
+                            "{currentCard.synonymInfo.meaning}"
+                          </strong>
+                        </div>
+                        {currentCard.synonymInfo.otherWords?.length > 0 && (
+                          <div className="vocab-synonym-chips">
+                            <span className="vocab-synonym-label">Related:</span>
+                            {currentCard.synonymInfo.otherWords.map((ow) => (
+                              <span key={ow} className="vocab-synonym-chip">
+                                {ow}
+                              </span>
+                            ))}
+                          </div>
+                        )}
+                        {currentCard.synonymInfo.note && (
+                          <p className="vocab-synonym-note">
+                            {currentCard.synonymInfo.note}
+                          </p>
+                        )}
+                      </div>
+                    )}
+
                     {/* Listen Audio Big Button */}
                     <button
                       type="button"
@@ -781,7 +919,7 @@ export default function VocabView({ vocabData }) {
                 </div>
               </div>
 
-              {/* ── BOTTOM TOOLBAR (Matching User's Screenshot Exactly) ── */}
+              {/* ── BOTTOM TOOLBAR ── */}
               <div className="vocab-deck-toolbar">
                 {/* Left Controls: Play/Pause, Shuffle */}
                 <div className="vocab-toolbar-left">
@@ -888,7 +1026,7 @@ export default function VocabView({ vocabData }) {
       )}
 
       {/* ════════════════════════════════════════════════════════════
-          VIEW 2: TOPIC COLLECTIONS DIRECTORY (43 Topics)
+          VIEW 2: TOPIC COLLECTIONS DIRECTORY
       ════════════════════════════════════════════════════════════ */}
       {activeTab === "directory" && (
         <div className="vocab-directory-grid">
@@ -896,7 +1034,7 @@ export default function VocabView({ vocabData }) {
             const topicMastered = t.vocabulary.filter((w) =>
               masteredIds.includes(w.id)
             ).length;
-            const topicPct = Math.round((topicMastered / t.wordCount) * 100);
+            const topicPct = t.wordCount > 0 ? Math.round((topicMastered / t.wordCount) * 100) : 0;
 
             return (
               <div
@@ -958,7 +1096,9 @@ export default function VocabView({ vocabData }) {
       {activeTab === "list" && (
         <div className="vocab-list-table-container">
           <div className="vocab-list-stats-bar">
-            <span>Showing {activeDeck.length} words</span>
+            <span>
+              Showing {activeDeck.length} words in Level {selectedLevel}
+            </span>
           </div>
 
           <div className="vocab-table-wrap">
@@ -999,6 +1139,11 @@ export default function VocabView({ vocabData }) {
                             <span className="vocab-table-plural">, {w.plural}</span>
                           )}
                         </div>
+                        {w.synonymInfo && (
+                          <div className="vocab-table-synonym-hint">
+                            💡 {w.synonymInfo.otherWords?.join(", ")}
+                          </div>
+                        )}
                       </td>
                       <td className="vocab-table-english-cell">{w.english}</td>
                       <td className="vocab-table-topic-cell">

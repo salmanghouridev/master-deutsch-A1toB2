@@ -138,30 +138,30 @@ export default function HomeLibraryView({ folders = [] }) {
               Vocabulary Flashcards
             </span>
             <span className="category-tag">
-              43 Topics · 851 Words with 1–2 Letter Hints
+              A1 & A2 Decks · 66 Topics · 981 Words with 1–2 Letter Hints
             </span>
           </div>
           <h3 className="home-test-card-title">
-            A1 German Vocabulary Cards & Active Recall
+            German Vocabulary Flashcards (A1 & A2)
           </h3>
           <p className="home-test-card-desc">
-            Train your memory with visual image icons, 1–2 letter memory hints, native German speech pronunciation, and active recall practice.
+            Train your memory with visual image icons, 1–2 letter active recall hints, native speech audio, and separate decks for A1 Foundations and A2 Everyday Life.
           </p>
         </div>
         <div className="home-test-card-actions">
           <Link
-            href="/vocab"
+            href="/vocab?level=A1"
             className="test-primary-btn"
             style={{ fontSize: "13.5px", backgroundColor: "#111827" }}
           >
-            Practice Cards Now <ArrowRightIcon size={14} />
+            A1 Vocab Cards <ArrowRightIcon size={14} />
           </Link>
           <Link
-            href="/vocab"
+            href="/vocab?level=A2"
             className="test-secondary-btn"
             style={{ fontSize: "13.5px" }}
           >
-            Browse 43 Topics
+            A2 Vocab Cards →
           </Link>
         </div>
       </div>

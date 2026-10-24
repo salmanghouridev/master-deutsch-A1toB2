@@ -4826,6 +4826,62 @@ strong {
   align-items: center;
 }
 
+/* ── Level Switcher Tabs (A1 Vocab vs A2 Vocab) ──────────── */
+.vocab-level-switcher {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+.vocab-level-tab-btn {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 16px 20px;
+  border-radius: 12px;
+  border: 1.5px solid var(--border-color);
+  background-color: var(--surface-main);
+  cursor: pointer;
+  text-align: left;
+  transition: all 180ms ease;
+  user-select: none;
+}
+
+.vocab-level-tab-btn:hover {
+  border-color: #9ca3af;
+  transform: translateY(-1px);
+}
+
+.vocab-level-tab-btn.active {
+  border-color: #111827;
+  background-color: #ffffff;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+}
+
+.vocab-level-tab-btn.active .vocab-level-tab-title {
+  color: #111827;
+}
+
+.vocab-level-tab-text {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  min-width: 0;
+}
+
+.vocab-level-tab-title {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--text-secondary);
+  line-height: 1.2;
+}
+
+.vocab-level-tab-meta {
+  font-size: 12.5px;
+  color: var(--text-muted);
+}
+
 /* ── Top Header Card ─────────────────────────────────────── */
 .vocab-header-card {
   background-color: var(--surface-main);
@@ -5553,6 +5609,70 @@ strong {
   color: var(--text-muted);
 }
 
+/* A2 Synonym Callout */
+.vocab-synonym-callout {
+  background-color: #f8fafc;
+  border: 1px dashed #cbd5e1;
+  border-radius: 8px;
+  padding: 10px 14px;
+  margin: 6px 0 2px 0;
+  max-width: 90%;
+  text-align: center;
+  font-size: 12.5px;
+}
+
+.vocab-synonym-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  flex-wrap: wrap;
+  color: #475569;
+}
+
+.vocab-synonym-meaning {
+  color: #0f172a;
+}
+
+.vocab-synonym-chips {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  margin-top: 6px;
+  flex-wrap: wrap;
+}
+
+.vocab-synonym-label {
+  color: var(--text-muted);
+  font-size: 11px;
+}
+
+.vocab-synonym-chip {
+  background-color: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 4px;
+  padding: 2px 8px;
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 12px;
+  color: #1e293b;
+}
+
+.vocab-synonym-note {
+  margin: 6px 0 0 0;
+  font-size: 11.5px;
+  color: #64748b;
+  line-height: 1.4;
+}
+
+.vocab-table-synonym-hint {
+  font-size: 11.5px;
+  color: var(--text-muted);
+  font-style: italic;
+  margin-top: 2px;
+}
+
 .vocab-audio-pill-btn {
   display: inline-flex;
   align-items: center;
@@ -5974,6 +6094,16 @@ strong {
 @media (max-width: 640px) {
   .vocab-shell {
     padding: 16px 12px 60px;
+  }
+
+  .vocab-level-switcher {
+    grid-template-columns: 1fr;
+    gap: 8px;
+    margin-bottom: 16px;
+  }
+
+  .vocab-level-tab-btn {
+    padding: 12px 14px;
   }
 
   .vocab-header-card {
