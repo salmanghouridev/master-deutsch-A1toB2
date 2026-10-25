@@ -1,0 +1,666 @@
+{
+  "order": 2,
+  "topic_number": 2,
+  "title": "Accusative and Dative Prepositions",
+  "titleEn": "Accusative and Dative Prepositions",
+  "german_title": "Präpositionen mit Akkusativ und Dativ",
+  "level": "A2",
+  "category": "Prepositions & Cases",
+  "summary": "Master the fixed-case prepositions of Level A2: learn the 7 Accusative Prepositions (durch, für, gegen, ohne, um, entlang, bis) and the 10 Dative Prepositions (bei, nach, zu, mit, seit, aus, außer, von, ab, gegenüber). Understand contractions (zum, zur, beim, vom), postposition word order (entlang, gegenüber), and crucial conversational distinctions like nach Hause vs. zu Hause and um vs. gegen.",
+  "definition": "In German, prepositions govern the grammatical case of the noun phrase, pronoun, or article that follows them. This chapter teaches the seven prepositions that strictly require Akkusativ and the ten prepositions that strictly require Dativ.",
+  "definition_examples": [
+    {
+      "verb": "Akkusativ",
+      "german": "Ich fahre durch den Tunnel.",
+      "english": "I drive through the tunnel. (durch + Akkusativ: der Tunnel → den Tunnel)"
+    },
+    {
+      "verb": "Dativ",
+      "german": "Ich fahre mit dem Bus zur Arbeit.",
+      "english": "I travel by bus to work. (mit + Dativ: dem Bus; zu + Dativ: zur Arbeit)"
+    },
+    {
+      "verb": "Contrast",
+      "german": "Ich gehe nach Hause, denn meine Mutter ist schon zu Hause.",
+      "english": "I am going home (movement: nach Hause), because my mother is already at home (location: zu Hause)."
+    }
+  ],
+  "table": {
+    "headers": [
+      "Case Governed",
+      "List of Prepositions",
+      "Key Article Changes",
+      "Primary Functions",
+      "Complete Sentence Example"
+    ],
+    "rows": [
+      [
+        "**Akkusativ Only** (7)",
+        "**durch, für, gegen, ohne, um, entlang, bis**",
+        "**der → den** / **ein → einen** (f, n, pl stay same)",
+        "Movement through, beneficiary, opposition/approx. time, absence, exact time, along",
+        "Er hat das Geschenk **für meinen Bruder** gekauft."
+      ],
+      [
+        "**Dativ Only** (10)",
+        "**bei, nach, zu, mit, seit, aus, außer, von, ab, gegenüber**",
+        "**dem / der / dem / den (+n)** | **einem / einer**",
+        "Proximity/work, destinations/after, local target/person, instrument/company, duration, origin/materials, exception, source/possession, start time, opposite",
+        "Ich fahre jeden Morgen **mit dem Bus zur Arbeit**."
+      ]
+    ]
+  },
+  "rules": [
+    "**1. The Preposition Dictates the Case:** No matter the verb, if a fixed preposition is present, the case of the following article, noun, pronoun, or adjective is 100% determined by that preposition.",
+    "**2. The 7 Akkusativ Prepositions (DOGFUEB):** Memorize **durch, ohne, gegen, für, um, entlang, bis**. Only masculine changes visibly in Akkusativ (**der → den**, **ein → einen**).",
+    "**3. The 10 Dativ Prepositions:** Memorize **aus, bei, mit, nach, seit, von, zu** plus **außer, ab, gegenüber**. All genders change in Dativ (**dem, der, dem, den + n**).",
+    "**4. Exact vs. Approximate Time:** Use **um** for exact clock times (*um 18 Uhr* = sharp at 6:00), and **gegen** for approximate times (*gegen 18 Uhr* = around 6:00).",
+    "**5. 'bis' vs. 'bis zu':** Use **bis** for times and days without articles (*bis 14 Uhr*, *bis morgen*). Use **bis zu** for places and nouns requiring an article, which triggers Dativ (*bis zum Bahnhof*, *bis zur Endhaltestelle*).",
+    "**6. 'nach Hause' vs. 'zu Hause':** Use **nach Hause** for movement towards home (*Ich gehe nach Hause*). Use **zu Hause** for being located at home (*Ich bin zu Hause*).",
+    "**7. 'zu Fuß' Warning:** Never say *'mit Fuß'*. In German, travelling on foot is strictly expressed as **zu Fuß**.",
+    "**8. Postposition Word Order:** **entlang** and **gegenüber** typically follow the noun or pronoun: *den Fluss entlang*, *mir gegenüber*, *dem Bahnhof gegenüber*."
+  ],
+  "usage_rules": [
+    {
+      "title": "Akkusativ Prepositions in Daily Use (DOGFUEB)",
+      "rule": "Every noun or pronoun directly attached to durch, für, gegen, ohne, um, entlang, or bis must take Akkusativ. Pay special attention to personal pronouns: mich, dich, ihn, sie, es, uns, euch, sie, Sie.",
+      "note": "Remember: Masculine articles become den / einen / meinen / keinen. Feminine, neuter, and plural keep their nominative article forms.",
+      "examples": [
+        {
+          "pronoun": "den (m)",
+          "de": "Ich gehe durch den Park.",
+          "en": "I walk through the park. (durch + masculine Akkusativ)"
+        },
+        {
+          "pronoun": "dich",
+          "de": "Ich kann ohne dich nicht leben.",
+          "en": "I cannot live without you. (ohne + Akkusativ pronoun dich)"
+        },
+        {
+          "pronoun": "den (m)",
+          "de": "Ich bin für den Vorschlag, aber er ist gegen den Plan.",
+          "en": "I am in favour of the proposal, but he is against the plan."
+        }
+      ]
+    },
+    {
+      "title": "Dativ Prepositions and Mandatory Contractions",
+      "rule": "Every noun phrase governed by bei, nach, zu, mit, seit, aus, außer, von, ab, or gegenüber must take Dativ. German frequently contracts prepositions with dative definite articles: bei + dem = beim, zu + dem = zum, zu + der = zur, von + dem = vom.",
+      "note": "Plural nouns in Dativ take den and add an -n to the noun stem (mit den Freunden, seit zwei Monaten).",
+      "examples": [
+        {
+          "pronoun": "beim (bei + dem)",
+          "de": "Die Tasche steht beim Sofa.",
+          "en": "The bag is standing by the sofa."
+        },
+        {
+          "pronoun": "zur (zu + der)",
+          "de": "Ich gehe zur Bäckerei und dann zum Arzt.",
+          "en": "I am going to the bakery and then to the doctor."
+        },
+        {
+          "pronoun": "einem (n)",
+          "de": "Ich lerne seit einem Jahr Deutsch.",
+          "en": "I have been learning German for one year. (seit + Dativ duration)"
+        }
+      ]
+    },
+    {
+      "title": "Travel Destinations: nach vs. in vs. zu",
+      "rule": "To express travel destinations: use 'nach' for cities and countries that have NO article (nach Berlin, nach Deutschland). Use 'in + Akkusativ' for countries that have a feminine or plural article (in die Schweiz, in die Türkei, in die USA). Use 'zu' for local establishments or people within a town (zum Bahnhof, zu meiner Tante).",
+      "note": "Fixed idiom: 'nach Hause' = going home; 'zu Hause' = at home.",
+      "examples": [
+        {
+          "de": "Wir fliegen nach Italien, aber unsere Freunde fliegen in die Türkei.",
+          "en": "We are flying to Italy, but our friends are flying to Turkey."
+        },
+        {
+          "de": "Nach der Arbeit gehe ich direkt nach Hause.",
+          "en": "After work, I am going straight home."
+        }
+      ]
+    },
+    {
+      "title": "Postpositions: entlang & gegenüber",
+      "rule": "While most German prepositions precede the noun, 'entlang' (along) and 'gegenüber' (opposite) typically stand AFTER the noun phrase in A2 conversation.",
+      "note": "den Fluss entlang (Akkusativ follows the noun) vs. dem Bahnhof gegenüber / mir gegenüber (Dativ precedes gegenüber).",
+      "examples": [
+        {
+          "de": "Gehen Sie die Straße entlang und dann links.",
+          "en": "Walk along the street and then turn left."
+        },
+        {
+          "de": "Er sitzt mir gegenüber im Zug.",
+          "en": "He is sitting opposite me on the train."
+        },
+        {
+          "de": "Das Hotel liegt dem Park gegenüber.",
+          "en": "The hotel is situated across from the park."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "topic": "2.1 Recap: What Are Prepositions? (Was sind Präpositionen?)",
+      "heading": "2.1 Recap: What Are Prepositions? (Was sind Präpositionen?)",
+      "core_difference": "A preposition is a relationship word. It connects nouns, pronouns, or phrases to other elements in the sentence, showing relationships of location (Wo?), direction (Wohin?), time (Wann?), or purpose/manner (Wie / Wozu?). In German, prepositions are strictly categorized by the grammatical case they demand.",
+      "comparison": [
+        {
+          "type": "Classification by Function",
+          "meaning": "What logical relationship does the preposition describe?",
+          "how_to_identify": "Ask: Is it location (Wo?), time (Wann?), or direction (Wohin?)?",
+          "example": "auf dem Tisch (location), um 18 Uhr (time), nach Frankfurt (direction)",
+          "english": "on the table / at 6 p.m. / to Frankfurt",
+          "trick": "Function gives the meaning; grammatical case gives the endings!"
+        },
+        {
+          "type": "Classification by Case",
+          "meaning": "Which case ending must be applied to the following article and noun?",
+          "how_to_identify": "Check the preposition's fixed case requirement: Akkusativ, Dativ, or Two-Way.",
+          "example": "für meinen Bruder (Akkusativ) vs. mit meinem Bruder (Dativ)",
+          "english": "for my brother vs. with my brother",
+          "trick": "Always memorize the preposition together with its mandatory case!"
+        }
+      ],
+      "table": {
+        "headers": [
+          "Preposition Category",
+          "Prepositions Included",
+          "Governed Case",
+          "Effect on Articles & Pronouns"
+        ],
+        "rows": [
+          [
+            "Accusative Prepositions",
+            "**durch, für, gegen, ohne, um, entlang, bis**",
+            "**Akkusativ**",
+            "Masculine switches to **den / einen / mich / ihn**; other genders stay unchanged."
+          ],
+          [
+            "Dative Prepositions",
+            "**bei, nach, zu, mit, seit, aus, außer, von, ab, gegenüber**",
+            "**Dativ**",
+            "All genders change: **dem, der, dem, den (+n)** / **mir, dir, ihm, ihr, uns, euch, ihnen**."
+          ],
+          [
+            "Two-Way (Wechsel)",
+            "**an, auf, hinter, in, neben, über, unter, vor, zwischen**",
+            "**Dativ or Akkusativ**",
+            "Dativ for stationary location (*Wo?*); Akkusativ for direction/destination (*Wohin?*)."
+          ]
+        ]
+      },
+      "rule_of_thumb": "Whenever you encounter a preposition from the Akkusativ list, the question of 'Wo?' vs. 'Wohin?' does NOT apply: it is ALWAYS Akkusativ. Similarly, prepositions from the Dativ list are ALWAYS Dativ!"
+    },
+    {
+      "topic": "2.2 The Seven Accusative Prepositions (Die 7 Akkusativ-Präpositionen)",
+      "heading": "2.2 The Seven Accusative Prepositions (Die 7 Akkusativ-Präpositionen)",
+      "core_difference": "These seven prepositions are strictly followed by Akkusativ. Even if the sentence describes a location or static state, the preposition itself forces Akkusativ on every accompanying article, pronoun, and adjective.",
+      "table": {
+        "headers": [
+          "Preposition",
+          "English Meaning",
+          "Core Usage & Context",
+          "German Example Sentence",
+          "English Translation"
+        ],
+        "rows": [
+          [
+            "**durch**",
+            "through, by means of",
+            "Moving through a 3D space, tunnel, park; or through a contact person",
+            "Ich gehe **durch den Park**.",
+            "I walk through the park."
+          ],
+          [
+            "**für**",
+            "for, in favour of",
+            "Beneficiary of a gift/action; duration of time; being in favour (*für etwas sein*)",
+            "Das Geschenk ist **für meinen Vater**.",
+            "The gift is for my father."
+          ],
+          [
+            "**gegen**",
+            "against; around (time)",
+            "Opposition to an idea/rule; collision; approximate time (*gegen 18 Uhr*)",
+            "Ich bin **gegen den Plan**.",
+            "I am against the plan."
+          ],
+          [
+            "**ohne**",
+            "without",
+            "Absence of someone or something; often without article for mass nouns",
+            "Er trinkt Kaffee **ohne Zucker**.",
+            "He drinks coffee without sugar."
+          ],
+          [
+            "**um**",
+            "at (exact time); around",
+            "Exact clock time (*um 18 Uhr*); physical circle around an object (*um den Tisch*)",
+            "Der Film beginnt **um 20 Uhr**.",
+            "The movie starts at 8 p.m."
+          ],
+          [
+            "**entlang**",
+            "along",
+            "Moving alongside a street or river; stands AFTER the noun in Akkusativ",
+            "Fahren Sie **die Straße entlang**.",
+            "Drive along the street."
+          ],
+          [
+            "**bis**",
+            "until, up to",
+            "Target time or day without article; limits duration (*bis morgen, bis 14 Uhr*)",
+            "Ich bleibe **bis nächsten Dienstag**.",
+            "I am staying until next Tuesday."
+          ]
+        ]
+      },
+      "trick": "Mnemonic DOGFUEB: **D**urch, **O**hne, **G**egen, **F**ür, **U**m, **E**ntlang, **B**is. Remember this acronym to instantly identify all 7 accusative prepositions!",
+      "worked_example": {
+        "german": "Die Nachricht kam durch einen Freund für mich.",
+        "english": "The message came through a friend for me.",
+        "analysis": "1) 'durch' requires Akkusativ: masculine Freund becomes 'einen Freund'. 2) 'für' requires Akkusativ: personal pronoun ich becomes 'mich'. Both prepositions trigger Akkusativ independently in the same sentence!"
+      }
+    },
+    {
+      "topic": "2.3 Special Contrasts: bis vs. bis zu & um vs. gegen",
+      "heading": "2.3 Special Contrasts: bis vs. bis zu & um vs. gegen",
+      "core_difference": "Two essential distinctions in Chapter 2 frequently test learners: choosing between 'bis' and 'bis zu', and expressing exact vs. approximate time with 'um' and 'gegen'.",
+      "comparison": [
+        {
+          "term": "bis (Akkusativ)",
+          "what": "Used for times, dates, and days that do NOT use an article.",
+          "how_to_identify": "Followed directly by a clock time, day of the week, or adverb.",
+          "pattern": "bis + Time / Day (no article)",
+          "example": "Ich warte bis 14 Uhr. / Bis morgen!",
+          "english": "I will wait until 2 p.m. / Until tomorrow!",
+          "trick": "No article needed? Use plain 'bis'!"
+        },
+        {
+          "term": "bis zu (Dativ)",
+          "what": "Used for places and destinations that DO require an article.",
+          "how_to_identify": "The presence of 'zu' forces Dativ and commonly forms contractions: zum or zur.",
+          "pattern": "bis + zu + Dativ article (zum / zur)",
+          "example": "Ich fahre bis zum Bahnhof. / bis zur Endstation.",
+          "english": "I drive up to the train station / to the final stop.",
+          "trick": "'zu' is a dative magnet: bis zu dem → bis zum!"
+        },
+        {
+          "term": "um (Exact Time)",
+          "what": "Specifies an exact, sharp clock time.",
+          "how_to_identify": "Look for punctuality: the event starts exactly at that minute.",
+          "pattern": "um + Clock Time",
+          "example": "Wir treffen uns um 18 Uhr.",
+          "english": "We meet at 6:00 p.m. sharp (punctually 18:00).",
+          "trick": "Think: 'um' hits the bullseye on the clock."
+        },
+        {
+          "term": "gegen (Approximate Time)",
+          "what": "Specifies an approximate, estimated time (+/- 10-15 minutes).",
+          "how_to_identify": "Look for flexibility: the speaker means 'around' or 'roughly'.",
+          "pattern": "gegen + Clock Time",
+          "example": "Wir treffen uns gegen 18 Uhr.",
+          "english": "We will meet around 6:00 p.m. (approx. 17:45 - 18:15).",
+          "trick": "Think: 'gegen' is rough, not pinpoint exact."
+        }
+      ],
+      "quick_test": "Which sentence means 'I will drive up to the station': 'Ich fahre bis der Bahnhof' or 'Ich fahre bis zum Bahnhof'? → 'Ich fahre bis zum Bahnhof' because 'zu' demands Dativ (*zu dem → zum*)!"
+    },
+    {
+      "topic": "2.4 The Ten Dative Prepositions (Die 10 Dativ-Präpositionen)",
+      "heading": "2.4 The Ten Dative Prepositions (Die 10 Dativ-Präpositionen)",
+      "core_difference": "These ten prepositions strictly require Dativ. Articles change to dem, der, dem, den (+n), possessives take -em, -er, -en, and pronouns change to mir, dir, ihm, ihr, uns, euch, ihnen, Ihnen.",
+      "table": {
+        "headers": [
+          "Preposition",
+          "English Meaning",
+          "Primary Context & Idioms",
+          "German Example Sentence",
+          "Contracted Form"
+        ],
+        "rows": [
+          [
+            "**bei**",
+            "at, near, with (person/company)",
+            "Location near an object; at work (*bei der Arbeit*); at a company (*bei Siemens*); staying with someone",
+            "Ich bin **bei der Arbeit**.",
+            "bei + dem = **beim** (*beim Sofa*)"
+          ],
+          [
+            "**nach**",
+            "to (cities/countries); after",
+            "Cities, countries without article (*nach Berlin*); directions (*nach links*); time (*nach dem Essen*); idiom *nach Hause*",
+            "Nach dem Essen gehen wir spazieren.",
+            "—"
+          ],
+          [
+            "**zu**",
+            "to (local places/people)",
+            "Local targets inside city (*zur Bäckerei*); to a person (*zu mir*); idioms *zu Hause*, *zu Besuch*",
+            "Ich gehe **zur Ärztin** und dann **zum Arzt**.",
+            "zu + dem = **zum** | zu + der = **zur**"
+          ],
+          [
+            "**mit**",
+            "with; by (transport)",
+            "Accompaniment (*mit meiner Schwester*); transport vehicles (*mit dem Bus*); idiom **zu Fuß** (never mit!)",
+            "Ich fahre jeden Tag **mit dem Zug**.",
+            "—"
+          ],
+          [
+            "**seit**",
+            "since, for (ongoing duration)",
+            "Action started in the past and still continuing now; used with present tense verb",
+            "Er wohnt **seit einem Jahr** in Berlin.",
+            "—"
+          ],
+          [
+            "**aus**",
+            "from (origin); out of; made of",
+            "Origin country/city (*aus Pakistan*); out of a container (*aus der Tasche*); materials (*aus Plastik*); idiom *aus Versehen*",
+            "Er nimmt das Handy **aus der Tasche**.",
+            "—"
+          ],
+          [
+            "**außer**",
+            "except, besides",
+            "Stating an exception (*außer mir*); technical state idiom *außer Betrieb* (out of order)",
+            "**Außer meinem Bruder** war niemand da.",
+            "—"
+          ],
+          [
+            "**von**",
+            "from (source); of (possession)",
+            "Origin point (*von der Arbeit*); sender of gift/letter (*vom Chef*); replacement for Genitiv (*das Auto von meinem Vater*)",
+            "Der Brief ist **von meinem Freund**.",
+            "von + dem = **vom** (*vom Bahnhof*)"
+          ],
+          [
+            "**ab**",
+            "from ... onwards, starting at",
+            "Starting date/time (*ab Montag*, *ab 9 Uhr*, *ab dem 4. August*); starting station (*ab der nächsten Station*)",
+            "Ich habe **ab nächster Woche** Urlaub.",
+            "—"
+          ],
+          [
+            "**gegenüber**",
+            "opposite, across from",
+            "Spatial opposition; stands AFTER the noun or pronoun in standard usage",
+            "Das Hotel liegt **dem Bahnhof gegenüber**.",
+            "— (placed after noun)"
+          ]
+        ]
+      },
+      "memory_pairs": [
+        "aus, bei, mit, nach, seit, von, zu → Always Dativ",
+        "außer, ab, gegenüber → Always Dativ",
+        "bei + dem → beim",
+        "zu + dem → zum",
+        "zu + der → zur",
+        "von + dem → vom"
+      ]
+    },
+    {
+      "topic": "2.5 Crucial Conversational Pairs & Idioms",
+      "heading": "2.5 Crucial Conversational Pairs & Idioms",
+      "core_difference": "Chapter 2 highlights high-frequency German conversational idioms where a single preposition makes all the difference between standard German and an embarrassing mistake.",
+      "quick_comparison": [
+        {
+          "german": "Ich gehe nach Hause.",
+          "english": "I am going home.",
+          "why": "'nach Hause' expresses direction and movement towards one's home."
+        },
+        {
+          "german": "Ich bin zu Hause.",
+          "english": "I am at home.",
+          "why": "'zu Hause' expresses stationary presence inside one's home."
+        },
+        {
+          "german": "Ich gehe zu Fuß.",
+          "english": "I go on foot (I walk).",
+          "why": "German strictly uses 'zu Fuß'. It is a major mistake to say 'mit Fuß'!"
+        },
+        {
+          "german": "Ich fahre mit dem Bus / mit dem Auto.",
+          "english": "I travel by bus / by car.",
+          "why": "Vehicular transport uses 'mit + dem' (Dativ)."
+        },
+        {
+          "german": "Das Gerät ist außer Betrieb.",
+          "english": "The machine / elevator is out of order.",
+          "why": "'außer Betrieb' is the fixed idiomatic expression for broken/non-functional equipment."
+        },
+        {
+          "german": "Ich habe das aus Versehen gemacht.",
+          "english": "I did that by mistake (accidentally).",
+          "why": "'aus Versehen' is the standard German phrase for doing something inadvertently."
+        }
+      ],
+      "common_mistake": {
+        "wrong": "Ich gehe mit Fuß nach Haus, weil ich bin zu Haus.",
+        "correct": "Ich gehe zu Fuß nach Hause, weil ich zu Hause bin.",
+        "why": "Always use 'zu Fuß' for walking, 'nach Hause' for heading home, and 'zu Hause' for being at home."
+      }
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Ich gehe mit Fuß zur Arbeit.",
+      "correct": "Ich gehe zu Fuß zur Arbeit.",
+      "explanation": "Never use 'mit' for walking on foot. The fixed German expression is strictly 'zu Fuß'."
+    },
+    {
+      "incorrect": "Ich fahre mit mein Auto durch der Tunnel.",
+      "correct": "Ich fahre mit meinem Auto durch den Tunnel.",
+      "explanation": "'mit' requires Dativ (meinem Auto), while 'durch' requires Akkusativ (den Tunnel)."
+    },
+    {
+      "incorrect": "Ich bin nach Hause. / Ich gehe zu Hause.",
+      "correct": "Ich bin zu Hause. / Ich gehe nach Hause.",
+      "explanation": "'zu Hause' means resting at home (location). 'nach Hause' means travelling towards home (direction)."
+    },
+    {
+      "incorrect": "Der Zug fährt bis der Bahnhof.",
+      "correct": "Der Zug fährt bis zum Bahnhof.",
+      "explanation": "When 'bis' is paired with a destination noun requiring an article, use 'bis zu' + Dativ (zu dem → zum)."
+    },
+    {
+      "incorrect": "Ich kann ohne dir nicht leben.",
+      "correct": "Ich kann ohne dich nicht leben.",
+      "explanation": "'ohne' strictly requires Akkusativ. The accusative pronoun for 'du' is 'dich', not 'dir'."
+    },
+    {
+      "incorrect": "Wir treffen uns um 18 Uhr ungefähr.",
+      "correct": "Wir treffen uns gegen 18 Uhr.",
+      "explanation": "'um' denotes an exact, punctual time. To say 'around / approximately', use 'gegen 18 Uhr'."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "7 Akkusativ-Präpositionen (DOGFUEB)",
+      "english": "durch, ohne, gegen, für, um, entlang, bis"
+    },
+    {
+      "german": "10 Dativ-Präpositionen",
+      "english": "aus, bei, mit, nach, seit, von, zu + außer, ab, gegenüber"
+    },
+    {
+      "german": "Mandatory Dative Contractions",
+      "english": "beim (bei dem), vom (von dem), zum (zu dem), zur (zu der)"
+    },
+    {
+      "german": "um vs. gegen",
+      "english": "um 18 Uhr = exact at 18:00 | gegen 18 Uhr = approximately around 18:00"
+    },
+    {
+      "german": "bis vs. bis zu",
+      "english": "bis morgen (no article) | bis zum Bahnhof (with dative article)"
+    },
+    {
+      "german": "nach Hause vs. zu Hause",
+      "english": "nach Hause = heading home (movement) | zu Hause = at home (rest)"
+    },
+    {
+      "german": "zu Fuß",
+      "english": "on foot / walking (never say 'mit Fuß'!)"
+    },
+    {
+      "german": "Postpositions (Placed After Noun)",
+      "english": "den Fluss entlang (Akk) | mir gegenüber (Dat)"
+    }
+  ],
+  "vocabulary": [
+    {
+      "article": "der",
+      "word": "Tunnel",
+      "plural": "die Tunnel",
+      "meaning": "tunnel",
+      "exampleDe": "Ich fahre durch den Tunnel.",
+      "exampleEn": "I drive through the tunnel."
+    },
+    {
+      "article": "der",
+      "word": "Bahnhof",
+      "plural": "die Bahnhöfe",
+      "meaning": "train station",
+      "exampleDe": "Das Hotel liegt dem Bahnhof gegenüber.",
+      "exampleEn": "The hotel is located opposite the train station."
+    },
+    {
+      "article": "die",
+      "word": "Bäckerei",
+      "plural": "die Bäckereien",
+      "meaning": "bakery",
+      "exampleDe": "Ich gehe jeden Morgen zur Bäckerei.",
+      "exampleEn": "I go to the bakery every morning."
+    },
+    {
+      "article": "die",
+      "word": "Arbeit",
+      "plural": "die Arbeiten",
+      "meaning": "work / job",
+      "exampleDe": "Nach der Arbeit komme ich zu dir.",
+      "exampleEn": "After work, I will come to your place."
+    },
+    {
+      "article": "der",
+      "word": "Vorschlag",
+      "plural": "die Vorschläge",
+      "meaning": "proposal / suggestion",
+      "exampleDe": "Ich bin für den Vorschlag, aber er ist dagegen.",
+      "exampleEn": "I am in favour of the proposal, but he is against it."
+    },
+    {
+      "article": "der",
+      "word": "Fluss",
+      "plural": "die Flüsse",
+      "meaning": "river",
+      "exampleDe": "Wir spazieren den Fluss entlang.",
+      "exampleEn": "We are strolling along the river."
+    },
+    {
+      "article": "die",
+      "word": "Straße",
+      "plural": "die Straßen",
+      "meaning": "street",
+      "exampleDe": "Fahren Sie die Straße entlang.",
+      "exampleEn": "Drive along the street."
+    },
+    {
+      "article": "der",
+      "word": "Urlaub",
+      "plural": "die Urlaube",
+      "meaning": "vacation / holiday",
+      "exampleDe": "Ich habe ab nächster Woche Urlaub.",
+      "exampleEn": "I am on holiday starting next week."
+    },
+    {
+      "article": "der",
+      "word": "Aufzug",
+      "plural": "die Aufzüge",
+      "meaning": "elevator / lift",
+      "exampleDe": "Der Aufzug ist leider außer Betrieb.",
+      "exampleEn": "The elevator is unfortunately out of order."
+    },
+    {
+      "article": "das",
+      "word": "Versehen",
+      "plural": "—",
+      "meaning": "mistake / oversight (in: aus Versehen)",
+      "exampleDe": "Entschuldigung, das war aus Versehen!",
+      "exampleEn": "Excuse me, that was by mistake!"
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Ich fahre durch _______ (der) Tunnel.",
+      "answer": "den",
+      "hint": "'durch' requires Akkusativ. Masculine 'der Tunnel' becomes 'den Tunnel'."
+    },
+    {
+      "prompt": "Das Geschenk ist für _______ (du).",
+      "answer": "dich",
+      "hint": "'für' requires Akkusativ. The accusative form of 'du' is 'dich'."
+    },
+    {
+      "prompt": "Ich kann ohne _______ (mein) Handy nicht arbeiten.",
+      "answer": "mein",
+      "hint": "'ohne' requires Akkusativ. Neuter 'das Handy' stays 'mein Handy'."
+    },
+    {
+      "prompt": "Wir treffen uns _______ 18 Uhr pünktlich.",
+      "answer": "um",
+      "hint": "Use 'um' for exact, punctual clock times."
+    },
+    {
+      "prompt": "Ich fahre jeden Tag mit _______ (der) Bus.",
+      "answer": "dem",
+      "hint": "'mit' strictly requires Dativ. Masculine 'der Bus' becomes 'dem Bus'."
+    },
+    {
+      "prompt": "Ich gehe jeden Tag _______ Fuß zur Schule. (mit / zu / nach)",
+      "answer": "zu",
+      "hint": "Travelling on foot is strictly the idiom 'zu Fuß' (never 'mit Fuß')."
+    },
+    {
+      "prompt": "Ich gehe jetzt nach der Arbeit nach _______ . (Hause / Haus)",
+      "answer": "Hause",
+      "hint": "Heading towards home is the idiom 'nach Hause'."
+    },
+    {
+      "prompt": "Ich bin heute den ganzen Tag zu _______ . (Hause / Haus)",
+      "answer": "Hause",
+      "hint": "Being present at home is the idiom 'zu Hause'."
+    },
+    {
+      "prompt": "Der Zug fährt bis _______ Bahnhof. (zum / den / bis)",
+      "answer": "zum",
+      "hint": "When using 'bis' with a destination requiring an article, use 'bis zu' + Dativ: 'zu dem' contracts to 'zum'."
+    },
+    {
+      "prompt": "Er sitzt _______ (ich) gegenüber. (Fill in personal pronoun)",
+      "answer": "mir",
+      "hint": "'gegenüber' requires Dativ and stands after the pronoun: 'mir gegenüber'."
+    }
+  ],
+  "mastery_goals": [
+    "Distinguish prepositions by function (place, time, direction) from prepositions by case.",
+    "Recall and immediately apply the 7 accusative prepositions (durch, für, gegen, ohne, um, entlang, bis).",
+    "Recall and immediately apply the 10 dative prepositions (bei, nach, zu, mit, seit, aus, außer, von, ab, gegenüber).",
+    "Fluently apply contractions: beim, vom, zum, zur.",
+    "Correctly use idioms: nach Hause vs. zu Hause, zu Fuß, aus Versehen, and außer Betrieb.",
+    "Differentiate um (exact time) from gegen (approximate time) and bis from bis zu."
+  ],
+  "study_strategy": [
+    "1. Memorize the DOGFUEB acronym for Akkusativ: Durch, Ohne, Gegen, Für, Um, Entlang, Bis.",
+    "2. Sing or chant the classic Dativ rhythm: 'aus, bei, mit, nach, seit, von, zu' + 'außer, ab, gegenüber'.",
+    "3. Drill contractions so they become second nature: 'zu dem → zum', 'zu der → zur', 'bei dem → beim', 'von dem → vom'.",
+    "4. Test yourself with the 10 self-check exercises below until you achieve 10/10."
+  ],
+  "next_topic": {
+    "number": "3",
+    "title": "Wechselpräpositionen (Two-Way Prepositions) & Verbs with Cases"
+  }
+}
