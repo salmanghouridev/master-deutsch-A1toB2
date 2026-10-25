@@ -1,0 +1,672 @@
+{
+  "order": 5,
+  "topic_number": 5,
+  "title": "Indirect Questions: Ob-Clauses and W-Questions",
+  "titleEn": "Indirect Questions: Ob-Clauses and W-Questions",
+  "german_title": "Indirekte Fragen: ob-Sätze und W-Fragen",
+  "level": "A2",
+  "category": "Connectors & Sentence Structure",
+  "summary": "Master polite indirect communication in German: transform direct questions into polite indirect questions using ob (for yes/no questions: 'whether/if') and W-words (for information questions: was, wann, wo). Learn verb-final subordinate word order with separable verbs, modal verbs, and the perfect tense, avoid the English 'if' trap (ob vs. wenn/falls), and apply the correct punctuation (? vs. .).",
+  "definition": "Indirect questions (indirekte Fragen) and uncertainty clauses make German speech polite and natural. Chapter 5 teaches how to embed yes/no questions using ob and specific questions using W-words, always sending the conjugated verb to the end of the subordinate clause.",
+  "definition_examples": [
+    {
+      "verb": "ob (Yes/No Question)",
+      "german": "Ist der Zug verspätet? → Ich möchte wissen, ob der Zug verspätet ist.",
+      "english": "Is the train delayed? → I would like to know whether the train is delayed."
+    },
+    {
+      "verb": "W-Frage (Information)",
+      "german": "Was machst du? → Können Sie mir sagen, was Sie machen?",
+      "english": "What are you doing? → Could you tell me what you are doing?"
+    },
+    {
+      "verb": "Uncertainty (ob)",
+      "german": "Ich weiß nicht, ob er heute Zeit hat.",
+      "english": "I don't know whether he has time today."
+    }
+  ],
+  "table": {
+    "headers": [
+      "Question Type",
+      "Direct Question (Direkt)",
+      "Connector Used",
+      "Indirect Subordinate Clause (Indirekt)",
+      "End Punctuation Rule"
+    ],
+    "rows": [
+      [
+        "**Yes/No Question**",
+        "**Ist** der Arzt verfügbar? *(Verb in Pos. 1)*",
+        "**ob** *(whether / if)*",
+        "Ich möchte fragen, **ob** der Arzt verfügbar **ist**.",
+        "Full stop (.) because main clause is a statement"
+      ],
+      [
+        "**Polite Yes/No Question**",
+        "**Hast** du eine Uhr? *(Verb in Pos. 1)*",
+        "**ob** *(whether / if)*",
+        "Kannst du mir sagen, **ob** du eine Uhr **hast**?",
+        "Question mark (?) because main clause is a question"
+      ],
+      [
+        "**W-Question (Information)**",
+        "**Was** machst du? *(Verb in Pos. 2)*",
+        "**W-Word** *(was, wann, wo...)*",
+        "Ich möchte wissen, **was** du **machst**.",
+        "Full stop (.) because main clause is a statement"
+      ],
+      [
+        "**Uncertainty Statement**",
+        "Hat er Zeit? *(Verb in Pos. 1)*",
+        "**ob** *(whether)*",
+        "Ich bin mir nicht sicher, **ob** er Zeit **hat**.",
+        "Full stop (.) because whole sentence is a statement"
+      ],
+      [
+        "**Conditional 'if' (TRAP)**",
+        "Hast du Zeit? Dann ruf mich an!",
+        "**wenn / falls** *(NOT ob!)*",
+        "Ich rufe dich an, **wenn** ich Zeit **habe**.",
+        "Condition: an action depends on the outcome"
+      ]
+    ]
+  },
+  "rules": [
+    "**1. The Dual Role of 'ob':** 'ob' means 'whether' or 'if' in exactly two contexts: 1) Indirect yes/no questions (*Ich möchte wissen, ob...*), and 2) Statements of uncertainty or doubt (*Ich weiß nicht, ob...*).",
+    "**2. Verb-Final Word Order:** Both *ob*-clauses and indirect W-clauses are subordinate clauses (*Nebensätze*). The conjugated verb that would normally be in position 1 or 2 moves to the very end of the clause.",
+    "**3. Comma Rule:** You must always place a comma between the introductory main clause and the *ob*- or W-clause.",
+    "**4. Modal Verbs at Clause End:** The infinitive stands immediately before the conjugated modal verb at the very end: *..., ob er heute arbeiten muss* / *..., wann ich vorbeikommen soll*.",
+    "**5. Separable Verbs at Clause End:** In a subordinate clause, separable prefixes do NOT detach; they are written together as a single word at the end: *..., ob der Bus pünktlich ankommt*.",
+    "**6. Perfect Tense at Clause End:** The past participle (*Partizip II*) comes before the conjugated auxiliary (*ist/hat*): *..., ob Anna nach Hause gegangen ist*.",
+    "**7. The Punctuation Rule:** The final punctuation mark (? or .) depends strictly on the **main clause**, not on 'ob':\n- If the introductory clause asks a question (*Kannst du mir sagen...?*), end with a **Question Mark (?)**.\n- If the introductory clause is a statement (*Ich weiß nicht...*, *Ich möchte wissen...*), end with a **Full Stop (.)**.",
+    "**8. The English 'if' Trap (ob vs. wenn/falls):** Never use 'ob' for conditional if-sentences! If a sentence expresses a condition where an action happens (*'I will call you if I have time'*), use **wenn** or **falls**. Use **ob** only if you can test it by adding 'or not' (*whether or not*)."
+  ],
+  "usage_rules": [
+    {
+      "title": "Converting Direct Yes/No Questions into Polite Inquiries (Step-by-Step)",
+      "rule": "1) Start with a polite introductory formula (Ich möchte wissen..., Ich möchte fragen..., Kannst du mir sagen...). 2) Add a comma. 3) Add 'ob'. 4) Place the subject next. 5) Send the conjugated verb to the very end.",
+      "note": "Direct: 'Ist der Zug verspätet?' → Indirect: 'Ich möchte wissen, ob der Zug verspätet ist.'",
+      "examples": [
+        {
+          "de": "Ist der Arzt verfügbar? → Ich möchte fragen, ob der Arzt verfügbar ist.",
+          "en": "Is the doctor available? → I would like to ask whether the doctor is available."
+        },
+        {
+          "de": "Ist es draußen heiß? → Ich möchte wissen, ob es draußen heiß ist.",
+          "en": "Is it hot outside? → I would like to know whether it is hot outside."
+        },
+        {
+          "de": "Hast du eine Uhr? → Kannst du mir sagen, ob du eine Uhr hast?",
+          "en": "Do you have a watch? → Can you tell me whether you have a watch?"
+        }
+      ]
+    },
+    {
+      "title": "Converting Direct W-Questions into Indirect Questions",
+      "rule": "1) Keep the original W-question word (was, wann, wo, warum, wie, welches Auto). 2) Precede it with an introductory main clause and a comma. 3) Move the conjugated verb from Position 2 to the very end of the subordinate clause.",
+      "note": "Direct: 'Was machst du?' → Indirect: 'Ich möchte wissen, was du machst.'",
+      "examples": [
+        {
+          "de": "Was machst du? → Ich möchte wissen, was du machst.",
+          "en": "What are you doing? → I would like to know what you are doing."
+        },
+        {
+          "de": "Wann soll ich vorbeikommen? → Kannst du mir sagen, wann ich vorbeikommen soll?",
+          "en": "When should I come by? → Can you tell me when I should come by?"
+        },
+        {
+          "de": "Welches Auto hat Thomas gekauft? → Ich weiß nicht, welches Auto Thomas gekauft hat.",
+          "en": "Which car did Thomas buy? → I don't know which car Thomas bought."
+        }
+      ]
+    },
+    {
+      "title": "Expressing Uncertainty with 'ob' (Statements & Inversions)",
+      "rule": "Use 'ob' with phrases of doubt or lack of knowledge (Ich weiß nicht..., Ich frage mich..., Ich bin mir nicht sicher...). If the ob-clause comes first, invert the following main clause so it begins immediately with its verb.",
+      "note": "Standard: 'Ich weiß nicht, ob er Zeit hat.' vs. Inverted: 'Ob er Zeit hat, weiß ich nicht.'",
+      "examples": [
+        {
+          "de": "Ich weiß nicht, ob er Zeit hat.",
+          "en": "I don't know whether he has time."
+        },
+        {
+          "de": "Ich frage mich, ob sie heute kommt.",
+          "en": "I wonder whether she is coming today."
+        },
+        {
+          "de": "Ich bin mir nicht sicher, ob er mit dem Zug reisen wird.",
+          "en": "I am not sure whether he will travel by train."
+        },
+        {
+          "de": "Ob er Zeit hat, weiß ich nicht.",
+          "en": "Whether he has time, I don't know. (Inversion: weiß comes right after comma!)"
+        }
+      ]
+    },
+    {
+      "title": "The 'Or Not' Heuristic (ob vs. wenn/falls)",
+      "rule": "Whenever you want to translate English 'if', ask yourself: Can I insert 'or not' after the clause? If YES (whether ... or not), use 'ob'. If NO (action depends on a condition), you MUST use 'wenn' or 'falls'.",
+      "note": "Test: 'I want to know IF the train is late (or not)' = ob. 'I will call you IF I have time' = wenn / falls.",
+      "examples": [
+        {
+          "de": "Ich möchte wissen, ob der Zug verspätet ist (oder nicht).",
+          "en": "I would like to know whether the train is delayed (or not)."
+        },
+        {
+          "de": "Ich rufe dich an, wenn ich Zeit habe. (NOT ob!)",
+          "en": "I will call you if I have time. (Conditional action → wenn/falls!)"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "topic": "5.1 Revision: Connector Groups and Verb Position",
+      "heading": "5.1 Revision: Connector Groups and Verb Position",
+      "core_difference": "In German, connectors are classified by what they do to the conjugated verb. Chapter 4 taught 'weil' and 'dass' (which kick the verb to the end) and 'denn' (which keeps ordinary Position 2). Chapter 5 expands this foundation to indirect questions: both 'ob'-clauses and indirect W-clauses behave as subordinate clauses (Nebensätze) with the verb at the very end.",
+      "comparison": [
+        {
+          "term": "Subordinating Connectors (Nebensatz)",
+          "what": "weil, dass, ob, and indirect W-question words (was, wann, wo...).",
+          "pattern": "Hauptsatz, + Connector + Subject + ... + Conjugated Verb at End",
+          "example": "Ich weiß nicht, ob er kommt. / Ich weiß, dass er kommt.",
+          "english": "I don't know whether he is coming. / I know that he is coming.",
+          "trick": "Every question embedded inside another clause becomes a subordinate clause with the verb at the end!"
+        },
+        {
+          "term": "Coordinating Connectors (Hauptsatz)",
+          "what": "denn, und, aber, oder, sondern (ADUSO).",
+          "pattern": "Hauptsatz, + denn + Subject + Conjugated Verb (Pos. 2) + ...",
+          "example": "Ich frage ihn, denn ich brauche Hilfe.",
+          "english": "I ask him, for I need help.",
+          "trick": "Coordinating connectors keep the verb in Position 2."
+        }
+      ],
+      "table": {
+        "headers": [
+          "Connector Type",
+          "Connectors Included",
+          "Verb Position in Clause",
+          "German Example Sentence"
+        ],
+        "rows": [
+          [
+            "Subordinating: Reason",
+            "**weil**",
+            "Conjugated verb at the **end**",
+            "Ich frage, **weil ich es nicht weiß**."
+          ],
+          [
+            "Subordinating: Content / Report",
+            "**dass**",
+            "Conjugated verb at the **end**",
+            "Er sagt, **dass der Arzt da ist**."
+          ],
+          [
+            "Subordinating: Indirect Yes/No",
+            "**ob** *(whether / if)*",
+            "Conjugated verb at the **end**",
+            "Ich frage, **ob der Arzt da ist**."
+          ],
+          [
+            "Subordinating: Indirect W-Question",
+            "**W-Words** *(was, wann, wo...)*",
+            "Conjugated verb at the **end**",
+            "Ich frage, **wann der Arzt da ist**."
+          ],
+          [
+            "Coordinating: Reason",
+            "**denn**",
+            "Conjugated verb in **Position 2**",
+            "Ich frage, **denn ich weiß es nicht**."
+          ]
+        ]
+      },
+      "rule_of_thumb": "Summary Rule: Both 'ob' and indirect W-questions belong strictly to the verb-final family (Nebensatz). Always put a comma before them and move the verb to the end!"
+    },
+    {
+      "topic": "5.2 Ob — Introducing Indirect Yes/No Questions",
+      "heading": "5.2 Ob — Introducing Indirect Yes/No Questions",
+      "core_difference": "A direct yes/no question begins with the conjugated verb ('Ist der Zug verspätet?'). In German culture, direct questions can sometimes sound blunt or abrupt. To make inquiries polite and professional (at train stations, doctor's offices, or customer service), speakers frame them as indirect questions introduced by a polite matrix clause + 'ob'.",
+      "table": {
+        "headers": [
+          "Direct Yes/No Question (Direkt)",
+          "Introductory Formula",
+          "Indirect Question with 'ob' (Höflich)",
+          "English Translation"
+        ],
+        "rows": [
+          [
+            "**Ist der Arzt verfügbar?**",
+            "Ich möchte fragen, ...",
+            "Ich möchte fragen, **ob der Arzt verfügbar ist**.",
+            "I would like to ask whether the doctor is available."
+          ],
+          [
+            "**Ist es draußen heiß?**",
+            "Ich möchte wissen, ...",
+            "Ich möchte wissen, **ob es draußen heiß ist**.",
+            "I would like to know whether it is hot outside."
+          ],
+          [
+            "**Ist der Zug verspätet?**",
+            "Ich möchte wissen, ...",
+            "Ich möchte wissen, **ob der Zug verspätet ist**.",
+            "I would like to know whether the train is delayed."
+          ],
+          [
+            "**Hast du eine Uhr?**",
+            "Kannst du mir sagen, ...",
+            "Kannst du mir sagen, **ob du eine Uhr hast**?",
+            "Can you tell me whether you have a watch?"
+          ],
+          [
+            "**Kommt der Bus heute?**",
+            "Wissen Sie vielleicht, ...",
+            "Wissen Sie vielleicht, **ob der Bus heute kommt**?",
+            "Do you perhaps know whether the bus is coming today?"
+          ]
+        ]
+      },
+      "worked_example": {
+        "german": "Direct: 'Hat das Restaurant geöffnet?' → Indirect: 'Können Sie mir sagen, ob das Restaurant geöffnet hat?'",
+        "english": "Is the restaurant open? → Could you tell me whether the restaurant is open?",
+        "analysis": "1) The direct question starts with the verb 'Hat'. 2) The indirect question starts with the polite request 'Können Sie mir sagen'. 3) A comma separates the clauses. 4) 'ob' introduces the embedded question. 5) The auxiliary verb 'hat' moves to the very end after the participle 'geöffnet'. 6) The sentence ends with '?' because the introductory clause is a question."
+      }
+    },
+    {
+      "topic": "5.3 Ob — Expressing Uncertainty and Doubt",
+      "heading": "5.3 Ob — Expressing Uncertainty and Doubt",
+      "core_difference": "'ob' does not only introduce questions. It is frequently used in declarative statements to express personal uncertainty, wonder, or lack of knowledge. In this case, the sentence is a statement, not a question, and ends with a full stop.",
+      "comparison": [
+        {
+          "term": "Ich weiß nicht, ob ...",
+          "what": "Lack of factual knowledge.",
+          "pattern": "Ich weiß nicht, ob + Subject + ... + Verb am Ende.",
+          "example": "Ich weiß nicht, ob er Zeit hat.",
+          "english": "I don't know whether he has time.",
+          "trick": "Ends with a full stop (.) because it is a statement."
+        },
+        {
+          "term": "Ich frage mich, ob ...",
+          "what": "Personal reflection or wondering.",
+          "pattern": "Ich frage mich, ob + Subject + ... + Verb am Ende.",
+          "example": "Ich frage mich, ob sie heute kommt.",
+          "english": "I wonder whether she is coming today.",
+          "trick": "Translates directly to English 'I wonder whether/if...'"
+        },
+        {
+          "term": "Ich bin mir nicht sicher, ob ...",
+          "what": "Degree of probability or doubt.",
+          "pattern": "Ich bin mir nicht sicher, ob + Subject + ... + Verb am Ende.",
+          "example": "Ich bin mir nicht sicher, ob er mit dem Zug reisen wird.",
+          "english": "I am not sure whether he will travel by train.",
+          "trick": "Common in professional and academic discussions."
+        }
+      ],
+      "same_sentence": {
+        "german": "Ob er Zeit hat, weiß ich nicht.",
+        "english": "Whether he has time, I don't know.",
+        "analysis": "Inverted word order: 1) The 'ob'-clause stands first and ends with its verb 'hat'. 2) A comma separates the clauses. 3) The main clause occupies Position 2 and MUST begin immediately with its conjugated verb 'weiß', followed by the subject 'ich'!"
+      },
+      "trick": "Inversion Trick: When any subordinate clause comes first (including 'ob'-clauses), the main clause verb immediately hugs the comma: 'Ob er kommt, **weiß** ich nicht.'"
+    },
+    {
+      "topic": "5.4 Complex Verbs in Ob-Clauses (Separable, Modal, and Perfect Tense)",
+      "heading": "5.4 Complex Verbs in Ob-Clauses (Separable, Modal, and Perfect Tense)",
+      "core_difference": "The verb-final rule applies consistently regardless of the complexity of the verb. Follow the exact same principles learned in Chapter 4 for modal verbs, separable verbs, and the perfect tense.",
+      "table": {
+        "headers": [
+          "Grammar Construction",
+          "Direct Question",
+          "Indirect Sentence with 'ob'",
+          "End-of-Clause Structure Rule"
+        ],
+        "rows": [
+          [
+            "**Separable Verb**",
+            "Kommt der Bus pünktlich **an**?",
+            "Sie fragt, ob der Bus pünktlich **ankommt**.",
+            "Prefix and stem reunite into one single word at the end: *ankommt*."
+          ],
+          [
+            "**Modal Verb**",
+            "**Muss** er heute arbeiten?",
+            "Ich weiß nicht, ob er heute arbeiten **muss**.",
+            "Infinitive (*arbeiten*) stands before the conjugated modal verb (*muss*) at the end."
+          ],
+          [
+            "**Perfect Tense**",
+            "**Ist** Anna nach Hause gegangen?",
+            "Kannst du mir sagen, ob Anna schon nach Hause gegangen **ist**?",
+            "Past participle (*gegangen*) stands before the conjugated auxiliary (*ist*) at the end."
+          ]
+        ]
+      },
+      "rule_of_thumb": "Order at the end of a subordinate clause: 1) Non-conjugated verb part (Infinitive or Partizip II), followed by 2) The conjugated verb (Modal or Auxiliary)."
+    },
+    {
+      "topic": "5.5 Indirect W-Questions (was, wann, wo, welches Auto...)",
+      "heading": "5.5 Indirect W-Questions (was, wann, wo, welches Auto...)",
+      "core_difference": "When the direct question begins with a W-word (wer, was, wann, wo, warum, wie, welches...), you DO NOT use 'ob'! Instead, keep the exact W-word as the connector and kick the conjugated verb to the end of the subordinate clause.",
+      "table": {
+        "headers": [
+          "Direct W-Question (Direkt)",
+          "W-Word Used",
+          "Indirect Question / Statement",
+          "English Translation"
+        ],
+        "rows": [
+          [
+            "**Was machst du?**",
+            "**was**",
+            "Ich möchte wissen, **was du machst**.",
+            "I would like to know what you are doing."
+          ],
+          [
+            "**Wann soll ich vorbeikommen?**",
+            "**wann**",
+            "Kannst du mir sagen, **wann ich vorbeikommen soll**?",
+            "Can you tell me when I should come by?"
+          ],
+          [
+            "**Welches Auto hat Thomas gekauft?**",
+            "**welches Auto**",
+            "Ich weiß nicht, **welches Auto Thomas gekauft hat**.",
+            "I don't know which car Thomas bought."
+          ],
+          [
+            "**Wo wohnt Herr Müller?**",
+            "**wo**",
+            "Wissen Sie, **wo Herr Müller wohnt**?",
+            "Do you know where Mr. Müller lives?"
+          ],
+          [
+            "**Wie viel kostet das Ticket?**",
+            "**wie viel**",
+            "Darf ich fragen, **wie viel das Ticket kostet**?",
+            "May I ask how much the ticket costs?"
+          ]
+        ]
+      },
+      "trick": "Comparison Shortcut: Yes/No Question? → Use **ob**! | Specific Information Question (W-word)? → Keep the **W-word**!"
+    },
+    {
+      "topic": "5.6 Crucial Distinction: 'ob' vs. Conditional 'wenn / falls' (The 'Or Not' Test)",
+      "heading": "5.6 Crucial Distinction: 'ob' vs. Conditional 'wenn / falls' (The 'Or Not' Test)",
+      "core_difference": "English uses 'if' for two completely different grammatical concepts: 1) Whether something is true or not, and 2) A condition that triggers an action. In German, using 'ob' for a condition is a major grammatical mistake!",
+      "quick_comparison": [
+        {
+          "german": "Ich möchte wissen, ob der Zug verspätet ist.",
+          "english": "I would like to know if [whether] the train is delayed.",
+          "why": "CORRECT with 'ob': It asks whether the statement is true or not (passes the 'or not' test)."
+        },
+        {
+          "german": "Ich rufe dich an, wenn ich Zeit habe.",
+          "english": "I will call you if I have time.",
+          "why": "CORRECT with 'wenn': It expresses a condition (calling depends on having time). Saying 'ob ich Zeit habe' here is completely WRONG!"
+        },
+        {
+          "german": "Ich weiß nicht, ob er kommt.",
+          "english": "I don't know if [whether] he is coming.",
+          "why": "Uncertainty / doubt about a fact → use 'ob'."
+        },
+        {
+          "german": "Falls es regnet, bleiben wir zu Hause.",
+          "english": "If [in case] it rains, we stay at home.",
+          "why": "Condition for staying home → use 'falls' or 'wenn'."
+        }
+      ],
+      "common_mistake": {
+        "wrong": "Ich helfe dir, ob ich kann. / Ich komme, ob du willst.",
+        "correct": "Ich helfe dir, wenn ich kann. / Ich komme, wenn du willst.",
+        "why": "These express conditions under which the help or arrival will happen. Use 'wenn' or 'falls', never 'ob'!"
+      }
+    },
+    {
+      "topic": "5.7 Punctuation Masterclass: When to Use '?' vs. '.'",
+      "heading": "5.7 Punctuation Masterclass: When to Use '?' vs. '.'",
+      "core_difference": "Many German learners mistakenly place a question mark at the end of every sentence containing 'ob' or a W-word. The rule is simple: punctuation follows the grammatical nature of the MAIN CLAUSE.",
+      "comparison": [
+        {
+          "term": "Use a Question Mark (?)",
+          "what": "When the entire sentence is an active question asked to someone.",
+          "pattern": "Question Main Clause + , + ob/W-Clause + ?",
+          "example": "Kannst du mir sagen, ob der Zug verspätet ist? / Wissen Sie, wann der Zug abfährt?",
+          "english": "Can you tell me whether the train is delayed? / Do you know when the train departs?",
+          "trick": "Look at the start: 'Kannst du...?', 'Wissen Sie...?', 'Darf ich fragen...?' → End with '?'!"
+        },
+        {
+          "term": "Use a Full Stop (.)",
+          "what": "When the entire sentence is an informative statement or expression of uncertainty.",
+          "pattern": "Statement Main Clause + , + ob/W-Clause + .",
+          "example": "Ich möchte wissen, ob der Zug verspätet ist. / Ich weiß nicht, wann der Zug abfährt.",
+          "english": "I would like to know whether the train is delayed. / I don't know when the train departs.",
+          "trick": "Look at the start: 'Ich möchte...', 'Ich weiß nicht...', 'Ich frage mich...' → End with '.'!"
+        }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Ich möchte wissen, ist der Arzt da.",
+      "correct": "Ich möchte wissen, ob der Arzt da ist.",
+      "explanation": "In an indirect yes/no question, you must introduce the clause with 'ob' and send the verb 'ist' to the very end."
+    },
+    {
+      "incorrect": "Ich rufe dich an, ob ich Zeit habe.",
+      "correct": "Ich rufe dich an, wenn ich Zeit habe.",
+      "explanation": "Do not use 'ob' for conditional sentences! For a condition that determines an action ('if I have time'), use 'wenn' or 'falls'."
+    },
+    {
+      "incorrect": "Ich weiß nicht, ob der Zug verspätet ist?",
+      "correct": "Ich weiß nicht, ob der Zug verspätet ist.",
+      "explanation": "'Ich weiß nicht' is a declarative statement of uncertainty, not a question directed at someone. It must end with a full stop (.), not a question mark."
+    },
+    {
+      "incorrect": "Kannst du mir sagen, was machst du?",
+      "correct": "Kannst du mir sagen, was du machst?",
+      "explanation": "In an indirect W-question, the W-word introduces a subordinate clause, pushing the conjugated verb 'machst' to the end."
+    },
+    {
+      "incorrect": "Ich weiß nicht, ob er muss heute arbeiten.",
+      "correct": "Ich weiß nicht, ob er heute arbeiten muss.",
+      "explanation": "In subordinate clauses with modal verbs, the infinitive 'arbeiten' comes first and the conjugated modal verb 'muss' goes to the very end."
+    },
+    {
+      "incorrect": "Sie fragt, ob der Bus kommt pünktlich an.",
+      "correct": "Sie fragt, ob der Bus pünktlich ankommt.",
+      "explanation": "In subordinate clauses, separable verbs do not detach; the prefix and verb are written together as one word at the end ('ankommt')."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "ob (Indirect Yes/No)",
+      "english": "whether / if → conjugated verb at the very end"
+    },
+    {
+      "german": "Indirect W-Question",
+      "english": "Keep W-word (was, wann, wo...) + conjugated verb at the very end"
+    },
+    {
+      "german": "ob for Uncertainty",
+      "english": "Ich weiß nicht, ob ... / Ich frage mich, ob ... / Ich bin mir nicht sicher, ob ..."
+    },
+    {
+      "german": "Inversion with ob",
+      "english": "Ob er Zeit hat, weiß ich nicht. (Verb follows comma immediately!)"
+    },
+    {
+      "german": "The 'Or Not' Test",
+      "english": "Can add 'oder nicht'? → Use ob! | Condition for an action? → Use wenn/falls!"
+    },
+    {
+      "german": "Punctuation Rule",
+      "english": "Kannst du mir sagen, ob ...? (?) vs. Ich möchte wissen, ob ... . (.)"
+    },
+    {
+      "german": "Modal at End",
+      "english": "Infinitive + conjugated modal at end (arbeiten muss / vorbeikommen soll)"
+    },
+    {
+      "german": "Separable at End",
+      "english": "Reunited into one single word at end (ankommt / anruft)"
+    },
+    {
+      "german": "Perfekt at End",
+      "english": "Partizip II + auxiliary at end (gegangen ist / gekauft hat)"
+    }
+  ],
+  "vocabulary": [
+    {
+      "article": "die",
+      "word": "Verspätung",
+      "plural": "die Verspätungen",
+      "meaning": "delay",
+      "exampleDe": "Der Zug hat leider Verspätung.",
+      "exampleEn": "The train unfortunately has a delay."
+    },
+    {
+      "article": "—",
+      "word": "verspätet",
+      "plural": "(Adjektiv)",
+      "meaning": "delayed / late",
+      "exampleDe": "Ich möchte wissen, ob der Zug verspätet ist.",
+      "exampleEn": "I would like to know whether the train is delayed."
+    },
+    {
+      "article": "—",
+      "word": "verfügbar",
+      "plural": "(Adjektiv)",
+      "meaning": "available",
+      "exampleDe": "Ich möchte fragen, ob der Arzt verfügbar ist.",
+      "exampleEn": "I would like to ask whether the doctor is available."
+    },
+    {
+      "article": "die",
+      "word": "Uhr",
+      "plural": "die Uhren",
+      "meaning": "clock / watch",
+      "exampleDe": "Kannst du mir sagen, ob du eine Uhr hast?",
+      "exampleEn": "Can you tell me whether you have a watch?"
+    },
+    {
+      "article": "der",
+      "word": "Zug",
+      "plural": "die Züge",
+      "meaning": "train",
+      "exampleDe": "Weißt du, wann der Zug abfährt?",
+      "exampleEn": "Do you know when the train departs?"
+    },
+    {
+      "article": "—",
+      "word": "vorbeikommen",
+      "plural": "kommt vorbei, kam vorbei, ist vorbeigekommen",
+      "meaning": "to come by / drop by (separable)",
+      "exampleDe": "Kannst du mir sagen, wann ich vorbeikommen soll?",
+      "exampleEn": "Can you tell me when I should come by?"
+    },
+    {
+      "article": "—",
+      "word": "ankommen",
+      "plural": "kommt an, kam an, ist angekommen",
+      "meaning": "to arrive (separable)",
+      "exampleDe": "Sie fragt, ob der Bus pünktlich ankommt.",
+      "exampleEn": "She asks whether the bus arrives on time."
+    },
+    {
+      "article": "—",
+      "word": "sich fragen",
+      "plural": "fragt sich, fragte sich, hat sich gefragt",
+      "meaning": "to wonder / ask oneself",
+      "exampleDe": "Ich frage mich, ob sie heute kommt.",
+      "exampleEn": "I wonder whether she is coming today."
+    },
+    {
+      "article": "—",
+      "word": "wissen",
+      "plural": "weiß, wusste, hat gewusst",
+      "meaning": "to know",
+      "exampleDe": "Ich weiß nicht, welches Auto er gekauft hat.",
+      "exampleEn": "I don't know which car he bought."
+    },
+    {
+      "article": "—",
+      "word": "heiß",
+      "plural": "(Adjektiv)",
+      "meaning": "hot",
+      "exampleDe": "Ich möchte wissen, ob es draußen heiß ist.",
+      "exampleEn": "I would like to know whether it is hot outside."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Turn into an indirect question beginning with 'Ich möchte wissen ...': 'Ist der Zug verspätet?'",
+      "answer": "Ich möchte wissen, ob der Zug verspätet ist.",
+      "hint": "Use 'ob' and place the conjugated verb 'ist' at the very end."
+    },
+    {
+      "prompt": "Complete with the correct modal verb form: Ich weiß nicht, ob er heute arbeiten _______ . (müssen)",
+      "answer": "muss",
+      "hint": "In an ob-clause, the conjugated modal verb goes to the very end after the infinitive 'arbeiten': 'arbeiten muss'."
+    },
+    {
+      "prompt": "Turn into an indirect question beginning with 'Ich möchte wissen ...': 'Was machst du?'",
+      "answer": "Ich möchte wissen, was du machst.",
+      "hint": "Keep the W-word 'was' and kick the verb 'machst' to the end."
+    },
+    {
+      "prompt": "Choose the correct connector for a condition: 'Ich rufe dich an, _______ ich Zeit habe.' (ob / wenn)",
+      "answer": "wenn",
+      "hint": "This is a conditional sentence (an action depends on having time). Use 'wenn' or 'falls', never 'ob'!"
+    },
+    {
+      "prompt": "Choose the correct punctuation mark (? or .): 'Kannst du mir sagen, ob Anna schon nach Hause gegangen ist___'",
+      "answer": "?",
+      "hint": "The introductory clause 'Kannst du mir sagen' is a direct question, so the entire sentence must end with a question mark (?)."
+    },
+    {
+      "prompt": "Turn into an indirect question beginning with 'Ich möchte fragen ...': 'Ist der Arzt verfügbar?'",
+      "answer": "Ich möchte fragen, ob der Arzt verfügbar ist.",
+      "hint": "Use 'ob' and move 'ist' to the end."
+    },
+    {
+      "prompt": "Complete with the separable verb: Sie fragt, ob der Bus pünktlich _______ . (ankommen)",
+      "answer": "ankommt",
+      "hint": "In subordinate clauses, separable verbs stay together in one word at the end: 'ankommt'."
+    },
+    {
+      "prompt": "Choose the correct punctuation mark (? or .): 'Ich weiß nicht, welches Auto Thomas gekauft hat___'",
+      "answer": ".",
+      "hint": "The introductory clause 'Ich weiß nicht' is a statement, so the entire sentence ends with a full stop (.)."
+    },
+    {
+      "prompt": "Complete the inversion: 'Ob er Zeit hat, _______ ich nicht.' (wissen)",
+      "answer": "weiß",
+      "hint": "When the ob-clause comes first, the following main clause must begin immediately with the verb: 'weiß ich nicht'."
+    },
+    {
+      "prompt": "Wann benutzt man 'ob'? (für indirekte Ja-/Nein-Fragen / für Bedingungen wie 'if')",
+      "answer": "für indirekte Ja-/Nein-Fragen",
+      "hint": "'ob' means whether/if for indirect yes/no questions and uncertainty, never for conditional if-sentences."
+    }
+  ],
+  "mastery_goals": [
+    "Politely transform direct yes/no questions into indirect questions with 'ob'.",
+    "Transform direct W-questions into indirect questions while keeping the W-word.",
+    "Place the conjugated verb at the very end of 'ob'- and W-clauses.",
+    "Correctly position separable verbs, modal verbs, and perfect-tense auxiliaries in subordinate clauses.",
+    "Correctly punctuate indirect questions with '?' or '.' based on the main clause.",
+    "Confidently distinguish 'ob' (whether/if) from conditional 'wenn / falls' (if/in case)."
+  ],
+  "study_strategy": [
+    "1. The 'Or Not' Test: Before writing 'ob', check if you could say 'whether or not'. If it is a condition, use 'wenn'.",
+    "2. Master the Polite Starters: Drill 'Ich möchte wissen, ob ...', 'Können Sie mir sagen, ob ...?', and 'Darf ich fragen, ob ...?'.",
+    "3. Check the Punctuation Rule: Look at the first word of the sentence. If it's a verb or question word (Kannst du / Wissen Sie), use '?'. If it's 'Ich' (Ich weiß nicht / Ich möchte), use '.'.",
+    "4. Test yourself with the 10 self-check exercises below until you achieve 10/10."
+  ],
+  "next_topic": {
+    "number": "6",
+    "title": "Modal Verbs in Präteritum & the Connectors als, wenn, and falls"
+  }
+}
