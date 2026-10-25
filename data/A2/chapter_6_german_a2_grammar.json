@@ -1,0 +1,700 @@
+{
+  "order": 6,
+  "topic_number": 6,
+  "title": "Modal Verbs in Präteritum, als, wenn and falls",
+  "titleEn": "Modal Verbs in Präteritum, als, wenn and falls",
+  "german_title": "Modalverben im Präteritum; als, wenn und falls",
+  "level": "A2",
+  "category": "Past Tense & Connectors",
+  "summary": "Master past modal verbs (wollte, konnte, sollte, musste, durfte, mochte) and the crucial connectors als, wenn, and falls. Learn the 5 golden conjugation rules (no umlauts in past modals!), distinguish should (sollte) from had to (musste), master als (one-time past event) vs. wenn (repeated past events, present/future, and conditions), and use falls for precautionary backup situations.",
+  "definition": "Chapter 6 covers past-tense modal verbs and temporal/conditional connectors: mastering how to express past ability, necessity, obligation, and permission, and choosing accurately between als, wenn, and falls.",
+  "definition_examples": [
+    {
+      "verb": "Modal im Präteritum",
+      "german": "Als ich ein Kind war, konnte ich sehr gut schwimmen.",
+      "english": "When I was a child, I could swim very well. (als + konnte)"
+    },
+    {
+      "verb": "als (One-Time Past)",
+      "german": "Julia hat geheiratet, als sie 22 Jahre alt war.",
+      "english": "Julia got married when she was 22 years old."
+    },
+    {
+      "verb": "wenn (Repeated Past)",
+      "german": "Immer wenn wir Ferien hatten, besuchten wir unsere Großeltern.",
+      "english": "Whenever we had holidays, we visited our grandparents."
+    },
+    {
+      "verb": "falls (In Case)",
+      "german": "Falls ich keine Zeit habe, holt Thomas dich ab.",
+      "english": "In case I do not have time, Thomas will pick you up."
+    }
+  ],
+  "table": {
+    "headers": [
+      "Pronoun",
+      "wollen (wanted)",
+      "können (could)",
+      "sollen (was supposed to)",
+      "müssen (had to)",
+      "dürfen (was allowed)",
+      "mögen (liked)"
+    ],
+    "rows": [
+      ["**ich**", "**wollte**", "**konnte**", "**sollte**", "**musste**", "**durfte**", "**mochte**"],
+      ["**du**", "**wolltest**", "**konntest**", "**solltest**", "**musstest**", "**durftest**", "**mochtest**"],
+      ["**er / sie / es**", "**wollte**", "**konnte**", "**sollte**", "**musste**", "**durfte**", "**mochte**"],
+      ["**wir**", "**wollten**", "**konnten**", "**sollten**", "**mussten**", "**durften**", "**mochten**"],
+      ["**ihr**", "**wolltet**", "**konntet**", "**solltet**", "**musstet**", "**durftet**", "**mochtet**"],
+      ["**sie / Sie**", "**wollten**", "**konnten**", "**sollten**", "**mussten**", "**durften**", "**mochten**"]
+    ]
+  },
+  "rules": [
+    "**1. The 5 Golden Präteritum Modal Rules:**\n- **ich == er/sie/es:** First and third person singular are always completely identical (*ich wollte = er wollte*).\n- **wir == sie == Sie:** First person plural and third person plural/formal are always identical (*wir konnten = sie konnten*).\n- **NO UMLAUTS:** Never put dots on past-tense modal verbs! (*können → konnte*, *müssen → musste*, *dürfen → durfte*).\n- **Shared Endings:** *-te, -test, -te, -ten, -tet, -ten* across all six verbs.\n- **Recognizable Stems:** *woll-, konn-, soll-, musst-, durft-, mocht-*.",
+    "**2. Sentence Bracket (Satzklammer) in Past:** Just as in the present tense, the conjugated modal verb stands in Position 2, and the main action verb stands in the infinitive at the very end: *Ich wollte ein neues Auto kaufen*.",
+    "**3. 'sollte' vs. 'musste':** Use **sollte** for weaker obligation, advice, expectation, or what someone was supposed to do (which might not have happened!). Use **musste** for strong, unavoidable necessity / physical compulsion (having no choice).",
+    "**4. 'als' (One-Time Past Event):** Use **als** exclusively for a single, unique event or point in time in the past (*Als ich 5 Jahre alt war...* / *Als Thomas im Kindergarten war...*). The verb moves to the end of the als-clause.",
+    "**5. 'wenn' (Repeated Past Events):** Use **wenn** in the past for repeated actions or habits (*Whenever*). Key signal words: **immer wenn**, **jedes Mal wenn**, **oft**, **manchmal**.",
+    "**6. 'wenn' (Present and Future):** Use **wenn** for all present-tense habits (*Wenn ich müde bin, trinke ich Kaffee*) and future time clauses (*Wenn du nächste Woche kommst...*), as well as realistic conditions (*Wenn es regnet...*).",
+    "**7. 'falls' (In Case / Backup Plan):** Use **falls** for a less likely possibility, precautionary measure, or backup contingency (*Falls ich keine Zeit habe, holt Thomas dich ab*).",
+    "**8. Inversion Rule:** When any subordinate clause (*als*, *wenn*, *falls*) comes first, the following main clause begins immediately with its conjugated verb after the comma (*Als ich Kind war, **konnte** ich gut schwimmen*)."
+  ],
+  "usage_rules": [
+    {
+      "title": "Sentence Bracket with Past Modal Verbs",
+      "rule": "In statements, put the conjugated modal in Position 2 and the infinitive at the end. In yes/no questions, start with the conjugated modal verb and keep the infinitive at the end.",
+      "note": "'mögen' can stand alone without an infinitive: 'Ich mochte Pizza.'",
+      "examples": [
+        {
+          "de": "Ich wollte ein neues Auto kaufen, aber es war zu teuer.",
+          "en": "I wanted to buy a new car, but it was too expensive."
+        },
+        {
+          "de": "Wolltest du nach Italien reisen?",
+          "en": "Did you want to travel to Italy?"
+        },
+        {
+          "de": "Wir konnten die Hausaufgaben nicht verstehen.",
+          "en": "We could not understand the homework."
+        },
+        {
+          "de": "Ich musste gestern lange arbeiten.",
+          "en": "I had to work for a long time yesterday."
+        }
+      ]
+    },
+    {
+      "title": "'sollte' (Supposed to) vs. 'musste' (Had to)",
+      "rule": "Use 'sollte' when talking about expectations, duties, or plans that were unfulfilled or advisory. Use 'musste' when there was no choice and the action was mandatory.",
+      "note": "'Ich sollte zur Arbeit gehen, aber ich blieb zu Hause' (supposed to, but didn't) vs. 'Ich musste zur Arbeit gehen' (had to go, did it).",
+      "examples": [
+        {
+          "noun": "sollte (Weaker / Expectation)",
+          "de": "Er sollte nicht so laut sprechen.",
+          "en": "He was not supposed to speak so loudly."
+        },
+        {
+          "noun": "musste (Strong / Necessity)",
+          "de": "Musstest du wirklich nach Italien reisen?",
+          "en": "Did you really have to travel to Italy?"
+        }
+      ]
+    },
+    {
+      "title": "'als' vs. 'wenn' in the Past (The One-Time vs. Repeated Rule)",
+      "rule": "For past events, ask: Did this happen only once, or was it a specific age/period? → Use 'als'. Did it happen repeatedly (every time, whenever)? → Use 'wenn'.",
+      "note": "Look for signal words: 'immer wenn', 'jedes Mal wenn' = repeated (wenn).",
+      "examples": [
+        {
+          "noun": "als (One-Time Event)",
+          "de": "Als ich fünf Jahre alt war, musste ich zur Schule gehen.",
+          "en": "When I was five years old, I had to go to school."
+        },
+        {
+          "noun": "wenn (Repeated Event)",
+          "de": "Immer wenn wir Ferien hatten, gingen wir zu unseren Großeltern.",
+          "en": "Whenever we had holidays, we went to our grandparents' house."
+        },
+        {
+          "noun": "wenn (Repeated Routine)",
+          "de": "Jedes Mal, wenn ich ins Büro ging, nahm ich meine Mitarbeiterkarte mit.",
+          "en": "Every time I went to the office, I took my employee ID card with me."
+        }
+      ]
+    },
+    {
+      "title": "'wenn' vs. 'falls' for Conditions (Realistic vs. Backup Contingency)",
+      "rule": "Use 'wenn' for realistic, normal conditions. Use 'falls' when presenting an 'in case' backup plan or a less likely contingency.",
+      "note": "Exam tip: 'wenn' is universally safe in A2 exams; use 'falls' specifically when giving a backup alternative.",
+      "examples": [
+        {
+          "noun": "wenn (Realistic Condition)",
+          "de": "Wenn es regnet, bleiben wir zu Hause.",
+          "en": "If it rains, we will stay at home."
+        },
+        {
+          "noun": "falls (Backup Plan / In Case)",
+          "de": "Ich hole dich ab. Falls ich keine Zeit habe, holt Thomas dich ab.",
+          "en": "I will pick you up. In case I don't have time, Thomas will pick you up."
+        },
+        {
+          "noun": "falls (Precautionary)",
+          "de": "Falls ich die Prüfung nicht bestehe, muss ich sie wiederholen.",
+          "en": "In case I do not pass the exam, I will have to retake it."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "topic": "6.1 Recap: What Are Modal Verbs? (Modalverben im Überblick)",
+      "heading": "6.1 Recap: What Are Modal Verbs? (Modalverben im Überblick)",
+      "core_difference": "Modal verbs express the speaker's stance, attitude, or necessity towards an action. Unlike normal verbs that describe what is happening (*Ich lerne Deutsch*), modal verbs describe wishes, abilities, obligations, or permissions (*Ich will / kann / muss Deutsch lernen*).",
+      "comparison": [
+        {
+          "term": "wollen (to want to)",
+          "what": "Desire, strong intention, or wish.",
+          "pattern": "Subjekt + will / wollte + ... + Infinitiv",
+          "example": "Ich will Deutsch lernen. / Ich wollte ein Auto kaufen.",
+          "english": "I want to learn German. / I wanted to buy a car.",
+          "trick": "Expresses deliberate personal will."
+        },
+        {
+          "term": "können (can / to be able to)",
+          "what": "Physical ability, skill, or objective possibility.",
+          "pattern": "Subjekt + kann / konnte + ... + Infinitiv",
+          "example": "Sie konnte als Kind sehr gut schwimmen.",
+          "english": "She could swim very well as a child.",
+          "trick": "Expresses learned skill or capability."
+        },
+        {
+          "term": "sollen (should / supposed to)",
+          "what": "Moral duty, advice, recommendation, or external expectation.",
+          "pattern": "Subjekt + soll / sollte + ... + Infinitiv",
+          "example": "Er sollte nicht so laut sprechen.",
+          "english": "He was not supposed to speak so loudly.",
+          "trick": "Someone else's expectation or gentle advice."
+        },
+        {
+          "term": "müssen (must / to have to)",
+          "what": "Inflexible necessity, legal requirement, or physical compulsion.",
+          "pattern": "Subjekt + muss / musste + ... + Infinitiv",
+          "example": "Ich musste gestern lange arbeiten.",
+          "english": "I had to work for a long time yesterday.",
+          "trick": "No real choice: mandatory!"
+        },
+        {
+          "term": "dürfen (may / to be allowed to)",
+          "what": "Official permission, legal authorization, or prohibition (nicht dürfen).",
+          "pattern": "Subjekt + darf / durfte + ... + Infinitiv",
+          "example": "Wir durften in der Schule keine Handys benutzen.",
+          "english": "We were not allowed to use mobile phones at school.",
+          "trick": "Permission granted by rules or authorities."
+        },
+        {
+          "term": "mögen (to like)",
+          "what": "Preference, taste, or fondness (often stands without infinitive).",
+          "pattern": "Subjekt + mag / mochte + Nomen",
+          "example": "Ich mochte Pizza. / Mochtest du dein Kleid nicht?",
+          "english": "I liked pizza. / Did you not like your dress?",
+          "trick": "Functions as a main verb for preferences."
+        }
+      ],
+      "table": {
+        "headers": [
+          "Sentence Structure",
+          "Position 1",
+          "Position 2 (Conjugated Modal)",
+          "Middle Elements",
+          "Sentence Bracket End (Infinitive)"
+        ],
+        "rows": [
+          [
+            "Standard Statement",
+            "Subject (*Ich*)",
+            "**wollte**",
+            "gestern Abend ein neues Auto",
+            "**kaufen**."
+          ],
+          [
+            "Inverted Time First",
+            "Time (*Gestern*)",
+            "**musste**",
+            "ich bis 22 Uhr im Büro",
+            "**arbeiten**."
+          ],
+          [
+            "Yes/No Question",
+            "—",
+            "**Wolltest**",
+            "du letztes Jahr nach Italien",
+            "**reisen**?"
+          ],
+          [
+            "W-Question",
+            "W-Word (*Warum*)",
+            "**solltest**",
+            "du dieses Projekt ganz allein",
+            "**machen**?"
+          ]
+        ]
+      },
+      "rule_of_thumb": "Sentence Bracket Rule: The conjugated modal verb stays in Position 2, while the action verb remains completely unconjugated in the infinitive at the very end of the sentence."
+    },
+    {
+      "topic": "6.2 Modal Verbs in Präteritum: Conjugations & Examples",
+      "heading": "6.2 Modal Verbs in Präteritum: Conjugations & Examples",
+      "core_difference": "In spoken and written German, modal verbs are almost always expressed in Präteritum rather than Perfekt (*Ich wollte* is vastly preferred over *Ich habe gewollt*). Mastering these forms makes you sound authentic and fluent.",
+      "table": {
+        "headers": [
+          "Modal Verb",
+          "ich",
+          "du",
+          "er / sie / es",
+          "wir",
+          "ihr",
+          "sie / Sie"
+        ],
+        "rows": [
+          ["**wollen**", "wollte", "wolltest", "wollte", "wollten", "wolltet", "wollten"],
+          ["**können**", "konnte", "konntest", "konnte", "konnten", "konntet", "konnten"],
+          ["**sollen**", "sollte", "solltest", "sollte", "sollten", "solltet", "sollten"],
+          ["**müssen**", "musste", "musstest", "musste", "mussten", "musstet", "mussten"],
+          ["**dürfen**", "durfte", "durftest", "durfte", "durften", "durftet", "durften"],
+          ["**mögen**", "mochte", "mochtest", "mochte", "mochten", "mochtet", "mochten"]
+        ]
+      },
+      "same_sentence": {
+        "german": "Wir wollten heute ins Restaurant gehen, aber wir hatten keine Zeit.",
+        "english": "We wanted to go to a restaurant today, but we did not have time.",
+        "analysis": "1) 'wollten' is the 1st-person plural Präteritum of wollen in Position 2. 2) 'gehen' is the infinitive at the end of the clause. 3) 'aber' connects the second main clause where 'hatten' (Präteritum of haben) stands in Position 2."
+      },
+      "trick": "The Umlaut-Free Rule: Never write umlauts in Präteritum modal verbs! Können becomes **konnte**, müssen becomes **musste**, and dürfen becomes **durfte**. The umlaut is completely dropped!"
+    },
+    {
+      "topic": "6.3 Sollen vs. Müssen in Präteritum (sollte vs. musste)",
+      "heading": "6.3 Sollen vs. Müssen in Präteritum (sollte vs. musste)",
+      "core_difference": "Because English often translates both words with obligation ('should have', 'had to', 'was supposed to'), learners frequently confuse them. German distinguishes weaker expectation from strict necessity.",
+      "comparison": [
+        {
+          "term": "sollte (Weaker Obligation / Unfulfilled Expectation)",
+          "what": "Expresses advice, duties, or plans that were expected, but often did NOT actually happen.",
+          "pattern": "Subjekt + sollte + ... + aber ...",
+          "example": "Ich sollte zur Arbeit gehen, aber ich blieb zu Hause.",
+          "english": "I was supposed to go to work, but I stayed at home.",
+          "trick": "Expectation existed, but the person had a choice or failed to do it."
+        },
+        {
+          "term": "musste (Strong Necessity / Unavoidable Action)",
+          "what": "Expresses an unavoidable necessity where the person had no choice and DID the action.",
+          "pattern": "Subjekt + musste + ...",
+          "example": "Ich musste zur Arbeit gehen.",
+          "english": "I had to go to work (mandatory; I went).",
+          "trick": "No alternative: forced by rules, health, or circumstances."
+        }
+      ],
+      "quick_comparison": [
+        {
+          "german": "Die Kinder sollten früher ins Bett gehen.",
+          "english": "The children were supposed to go to bed earlier (advice/rule).",
+          "why": "'sollten' gives the parent's expectation."
+        },
+        {
+          "german": "Die Kinder mussten um 20 Uhr schlafen.",
+          "english": "The children had to sleep at 8 p.m. (compulsory).",
+          "why": "'mussten' denotes a strict, unavoidable requirement."
+        }
+      ]
+    },
+    {
+      "topic": "6.4 Als — When for a One-Time Past Event",
+      "heading": "6.4 Als — When for a One-Time Past Event",
+      "core_difference": "'als' means 'when' exclusively for a single, unique event or a specific period/age in the past (*einmaliges Ereignis in der Vergangenheit*). As a subordinating connector, 'als' kicks the conjugated verb to the very end of the subordinate clause.",
+      "patterns": [
+        {
+          "pattern": "Hauptsatz + , als + Subjekt + ... + Verb am Ende",
+          "example": "Julia hat geheiratet, als sie 22 Jahre alt war.",
+          "meaning": "One-time milestone in the past; verb 'war' stands at the very end."
+        },
+        {
+          "pattern": "Inversion: Als-Clause first + , Verb + Subjekt + ...",
+          "example": "Als Julia 22 Jahre alt war, hat sie geheiratet.",
+          "meaning": "The entire als-clause is Position 1; the main clause starts with the verb 'hat'!"
+        },
+        {
+          "pattern": "Childhood & Specific Ages",
+          "example": "Als ich fünf Jahre alt war, musste ich zur Schule gehen.",
+          "meaning": "Age 5 only happens once in a lifetime, so 'als' is strictly required."
+        },
+        {
+          "pattern": "Kindergarten / School Periods",
+          "example": "Thomas konnte schon lesen, als er im Kindergarten war.",
+          "meaning": "Being in kindergarten represents a completed past era; use 'als'."
+        }
+      ],
+      "rule_of_thumb": "Never use 'als' with the present or future tense! 'als' is strictly a past-tense connector (*war, hatte, ging, konnte*)."
+    },
+    {
+      "topic": "6.5 Wenn — When for Repeated Past Events & Present/Future",
+      "heading": "6.5 Wenn — When for Repeated Past Events & Present/Future",
+      "core_difference": "'wenn' is the multi-purpose connector for 'when' and 'whenever'. In the past tense, it is used whenever an action occurred repeatedly. In the present and future, it is used for all time clauses.",
+      "comparison": [
+        {
+          "term": "wenn in the Past (Repeated / Whenever)",
+          "what": "Describes actions that happened multiple times in the past.",
+          "pattern": "[Immer / Jedes Mal] wenn + Subjekt + ... + Verb am Ende",
+          "example": "Immer wenn wir Ferien hatten, gingen wir zu unseren Großeltern.",
+          "english": "Whenever we had holidays, we went to our grandparents' house.",
+          "trick": "Look for repetition words: immer, jedes Mal, oft, manchmal."
+        },
+        {
+          "term": "wenn in the Present (Habits & Routines)",
+          "what": "Describes present-tense recurring situations or habits.",
+          "pattern": "wenn + Subjekt + ... + Verb am Ende",
+          "example": "Wenn ich müde bin, trinke ich Kaffee.",
+          "english": "When / whenever I am tired, I drink coffee.",
+          "trick": "Present routine: always use 'wenn', never 'als'!"
+        },
+        {
+          "term": "wenn in the Future (Planned Events)",
+          "what": "Describes future time events, even if they only happen once!",
+          "pattern": "wenn + Subjekt + ... + Verb am Ende",
+          "example": "Wenn du nächste Woche kommst, machen wir einen Ausflug.",
+          "english": "When you come next week, we will go on a trip.",
+          "trick": "Future event = 'wenn', regardless of single or repeated!"
+        }
+      ],
+      "table": {
+        "headers": [
+          "Repetition Signal Word",
+          "German Meaning",
+          "Example Sentence with 'wenn'",
+          "English Translation"
+        ],
+        "rows": [
+          ["**immer**", "always", "**Immer wenn** ich Zeit hatte, las ich ein Buch.", "Whenever I had time, I read a book."],
+          ["**jedes Mal**", "every time", "**Jedes Mal, wenn** er kam, brachte er Blumen mit.", "Every time he came, he brought flowers."],
+          ["**oft / häufig**", "often", "**Wenn** das Wetter schön war, gingen wir oft spazieren.", "When the weather was nice, we often strolled."],
+          ["**manchmal**", "sometimes", "**Wenn** ich müde war, schlief ich am Nachmittag.", "When I was tired, I sometimes slept in the afternoon."]
+        ]
+      }
+    },
+    {
+      "topic": "6.6 Wenn vs. Falls for Conditions (Realistic vs. Backup Contingency)",
+      "heading": "6.6 Wenn vs. Falls for Conditions (Realistic vs. Backup Contingency)",
+      "core_difference": "Both 'wenn' and 'falls' can translate to English 'if'. However, 'wenn' expresses a normal, realistic condition, while 'falls' specifically expresses an 'in case' scenario, less likely possibility, or backup emergency plan.",
+      "table": {
+        "headers": [
+          "Conditional Connector",
+          "English Equivalent",
+          "Likelihood & Tone",
+          "German Example Sentence",
+          "English Translation"
+        ],
+        "rows": [
+          [
+            "**wenn**",
+            "if / when",
+            "Standard, realistic condition (very common in speech)",
+            "**Wenn es regnet**, bleiben wir zu Hause.",
+            "If it rains, we will stay at home."
+          ],
+          [
+            "**falls**",
+            "in case / in the event that",
+            "Precautionary backup plan, less probable outcome",
+            "**Falls ich keine Zeit habe**, holt Thomas dich ab.",
+            "In case I don't have time, Thomas will pick you up."
+          ]
+        ]
+      },
+      "worked_example": {
+        "german": "Ich hole dich morgen vom Bahnhof ab. Falls ich keine Zeit habe, holt Thomas dich ab.",
+        "english": "I will pick you up from the station tomorrow. In case I don't have time, Thomas will pick you up.",
+        "analysis": "1) The speaker fully intends to pick up the friend. 2) 'Falls' introduces the contingency backup plan. 3) The conjugated verb 'habe' stands at the end of the falls-clause. 4) The following main clause begins immediately with the verb 'holt' in Position 2!"
+      },
+      "trick": "Exam Strategy: In A2 writing exams, 'wenn' is universally accepted for conditions. Use 'falls' when you deliberately want to showcase advanced vocabulary for backup plans (*für den Fall, dass...*)!"
+    },
+    {
+      "topic": "6.7 Master Comparison: als vs. wenn vs. falls",
+      "heading": "6.7 Master Comparison: als vs. wenn vs. falls",
+      "core_difference": "Use this master decision matrix to pick the exact right connector every time without hesitation.",
+      "table": {
+        "headers": [
+          "Situation / Context",
+          "Connector to Use",
+          "Grammar Rule",
+          "Complete German Example"
+        ],
+        "rows": [
+          [
+            "Past: One-time event or age",
+            "**als**",
+            "Verb at end; past tense only",
+            "**Als ich ein Kind war**, spielte ich viel draußen."
+          ],
+          [
+            "Past: Repeated action (whenever)",
+            "**wenn** *(immer wenn)*",
+            "Verb at end; signals repetition",
+            "**Immer wenn wir Ferien hatten**, reisten wir."
+          ],
+          [
+            "Present: Habit or routine",
+            "**wenn**",
+            "Verb at end; present tense",
+            "**Wenn ich müde bin**, trinke ich Kaffee."
+          ],
+          [
+            "Future: Planned event (single or repeated)",
+            "**wenn**",
+            "Verb at end; future reference",
+            "**Wenn du nächste Woche kommst**, koche ich."
+          ],
+          [
+            "Condition: Realistic possibility",
+            "**wenn**",
+            "Verb at end; conditional logic",
+            "**Wenn ich Zeit habe**, helfe ich dir."
+          ],
+          [
+            "Condition: In case / Backup plan",
+            "**falls**",
+            "Verb at end; precautionary",
+            "**Falls es Probleme gibt**, ruf mich an!"
+          ]
+        ]
+      },
+      "memory_pairs": [
+        "Past + Single Event → als",
+        "Past + Repeated → wenn (immer wenn)",
+        "Present & Future Time → wenn",
+        "Realistic Condition → wenn",
+        "In Case / Backup → falls",
+        "All three connectors → Verb at the very end!"
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Als ich müde bin, trinke ich Kaffee.",
+      "correct": "Wenn ich müde bin, trinke ich Kaffee.",
+      "explanation": "'als' can NEVER be used with the present tense. For present habits or routines, always use 'wenn'."
+    },
+    {
+      "incorrect": "Wenn ich fünf Jahre alt war, ging ich zur Schule.",
+      "correct": "Als ich fünf Jahre alt war, ging ich zur Schule.",
+      "explanation": "Being five years old is a single unique period in the past. A one-time past event requires 'als', not 'wenn'."
+    },
+    {
+      "incorrect": "Ich kaufte ein Auto, weil ich konnte es bezahlen.",
+      "correct": "Ich kaufte ein Auto, weil ich es bezahlen konnte.",
+      "explanation": "In subordinate clauses with modal verbs, the infinitive 'bezahlen' comes first and the conjugated modal verb 'konnte' stands at the very end."
+    },
+    {
+      "incorrect": "Ich muesste gestern arbeiten.",
+      "correct": "Ich musste gestern arbeiten.",
+      "explanation": "Past-tense modal verbs drop their umlaut! Müssen becomes 'musste' without umlaut dots."
+    },
+    {
+      "incorrect": "Als ich krank war ich blieb zu Hause.",
+      "correct": "Als ich krank war, blieb ich zu Hause.",
+      "explanation": "When the subordinate clause comes first, the main clause after the comma must begin immediately with its conjugated verb ('blieb ich')."
+    },
+    {
+      "incorrect": "Er sollte ins Gefängnis gehen.",
+      "correct": "Er musste ins Gefängnis gehen.",
+      "explanation": "Going to prison is an unavoidable legal compulsion; use 'musste'. 'sollte' merely expresses weaker advice or expectation."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "wollte, konnte, sollte",
+      "english": "wanted to, could / was able to, was supposed to / should have"
+    },
+    {
+      "german": "musste, durfte, mochte",
+      "english": "had to / must, was allowed to, liked"
+    },
+    {
+      "german": "Präteritum Modal Rule",
+      "english": "ich == er/sie/es (wollte, konnte, musste) | NO UMLAUTS!"
+    },
+    {
+      "german": "sollte vs. musste",
+      "english": "sollte = weaker expectation / advice | musste = strict, unavoidable necessity"
+    },
+    {
+      "german": "als (One-Time Past)",
+      "english": "when for a single unique event or age in the past"
+    },
+    {
+      "german": "wenn (Repeated Past)",
+      "english": "whenever / every time in the past (immer wenn / jedes Mal wenn)"
+    },
+    {
+      "german": "wenn (Present / Future)",
+      "english": "when / whenever for present habits and future plans"
+    },
+    {
+      "german": "falls (In Case)",
+      "english": "in case / backup plan for less likely possibilities"
+    },
+    {
+      "german": "Inversion with als/wenn/falls",
+      "english": "Subordinate clause first → Main clause starts immediately with verb!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "article": "die",
+      "word": "Hausaufgabe",
+      "plural": "die Hausaufgaben",
+      "meaning": "homework",
+      "exampleDe": "Wir konnten die Hausaufgaben nicht verstehen.",
+      "exampleEn": "We could not understand the homework."
+    },
+    {
+      "article": "der",
+      "word": "Kindergarten",
+      "plural": "die Kindergärten",
+      "meaning": "kindergarten / preschool",
+      "exampleDe": "Thomas konnte schon lesen, als er im Kindergarten war.",
+      "exampleEn": "Thomas could already read when he was in kindergarten."
+    },
+    {
+      "article": "die",
+      "word": "Ferien",
+      "plural": "(nur Plural)",
+      "meaning": "school holidays / vacation",
+      "exampleDe": "Immer wenn wir Ferien hatten, reisten wir.",
+      "exampleEn": "Whenever we had holidays, we travelled."
+    },
+    {
+      "article": "die",
+      "word": "Mitarbeiterkarte",
+      "plural": "die Mitarbeiterkarten",
+      "meaning": "employee ID card / badge",
+      "exampleDe": "Wenn ich ins Büro ging, nahm ich meine Mitarbeiterkarte mit.",
+      "exampleEn": "Whenever I went to the office, I took my employee badge with me."
+    },
+    {
+      "article": "der",
+      "word": "Ausflug",
+      "plural": "die Ausflüge",
+      "meaning": "excursion / day trip",
+      "exampleDe": "Wenn du kommst, machen wir einen Ausflug.",
+      "exampleEn": "When you come, we will go on a day trip."
+    },
+    {
+      "article": "die",
+      "word": "Prüfung",
+      "plural": "die Prüfungen",
+      "meaning": "exam / test",
+      "exampleDe": "Falls ich die Prüfung nicht bestehe, wiederhole ich sie.",
+      "exampleEn": "In case I do not pass the exam, I will retake it."
+    },
+    {
+      "article": "—",
+      "word": "heiraten",
+      "plural": "heiratet, heiratete, hat geheiratet",
+      "meaning": "to marry / get married",
+      "exampleDe": "Julia hat geheiratet, als sie 22 Jahre alt war.",
+      "exampleEn": "Julia got married when she was 22 years old."
+    },
+    {
+      "article": "—",
+      "word": "bestehen",
+      "plural": "besteht, bestand, hat bestanden",
+      "meaning": "to pass (an exam)",
+      "exampleDe": "Er hat die Prüfung bestanden.",
+      "exampleEn": "He passed the examination."
+    },
+    {
+      "article": "—",
+      "word": "wiederholen",
+      "plural": "wiederholt, wiederholte, hat wiederholt",
+      "meaning": "to repeat / retake",
+      "exampleDe": "Ich muss die Prüfung wiederholen.",
+      "exampleEn": "I have to retake the exam."
+    },
+    {
+      "article": "—",
+      "word": "abholen",
+      "plural": "holt ab, holte ab, hat abgeholt",
+      "meaning": "to pick up (someone)",
+      "exampleDe": "Ich hole dich vom Bahnhof ab.",
+      "exampleEn": "I will pick you up from the station."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Als ich ein Kind war, _______ ich sehr gut schwimmen. (können)",
+      "answer": "konnte",
+      "hint": "Präteritum of können for 'ich' drops the umlaut: 'konnte'."
+    },
+    {
+      "prompt": "Gestern _______ ich bis 20 Uhr arbeiten. (müssen)",
+      "answer": "musste",
+      "hint": "Präteritum of müssen for 'ich' drops the umlaut: 'musste'."
+    },
+    {
+      "prompt": "Julia hat geheiratet, _______ sie 22 Jahre alt war. (als / wenn / falls)",
+      "answer": "als",
+      "hint": "Getting married at age 22 is a one-time past event: use 'als'."
+    },
+    {
+      "prompt": "Immer _______ wir Ferien hatten, besuchten wir unsere Großeltern. (als / wenn)",
+      "answer": "wenn",
+      "hint": "Repeated past actions with 'immer' require 'wenn'."
+    },
+    {
+      "prompt": "Ich trinke Kaffee, _______ ich müde bin. (als / wenn)",
+      "answer": "wenn",
+      "hint": "Present-tense habits and routines strictly take 'wenn' (never 'als')."
+    },
+    {
+      "prompt": "Ich hole dich ab. _______ ich keine Zeit habe, holt Thomas dich ab. (Wenn / Falls)",
+      "answer": "Falls",
+      "hint": "Introducing a precautionary backup contingency ('in case') takes 'Falls'."
+    },
+    {
+      "prompt": "Ich sollte zur Arbeit gehen, aber ich _______ zu Hause. (bleiben, Präteritum)",
+      "answer": "blieb",
+      "hint": "'sollte' indicates expectation, but the action did not happen: 'blieb zu Hause'."
+    },
+    {
+      "prompt": "Als ich fünf Jahre alt war, _______ ich zur Schule gehen. (müssen, Präteritum)",
+      "answer": "musste",
+      "hint": "After the comma, the main clause begins with the verb: 'musste ich zur Schule gehen'."
+    },
+    {
+      "prompt": "Haben Modalverben im Präteritum Umlaute? (ja / nein)",
+      "answer": "nein",
+      "hint": "Past-tense modal verbs drop all umlauts: konnte, musste, durfte, mochte."
+    },
+    {
+      "prompt": "Welche Formen sind bei Modalverben im Präteritum immer identisch? (ich und er/sie/es / ich und du)",
+      "answer": "ich und er/sie/es",
+      "hint": "1st and 3rd person singular forms are always 100% identical (ich wollte = er wollte)."
+    }
+  ],
+  "mastery_goals": [
+    "Conjugate all 6 German modal verbs in Präteritum without hesitating or misplacing umlauts.",
+    "Correctly frame past-tense modal sentences with the conjugated modal in Position 2 and infinitive at the end.",
+    "Distinguish 'sollte' (advice / unfulfilled expectation) from 'musste' (mandatory necessity).",
+    "Select 'als' for one-time past events and 'wenn' for repeated past events, present habits, and future plans.",
+    "Use 'falls' for precautionary 'in case' contingencies and backup plans.",
+    "Apply inverted word order when the subordinate clause comes first."
+  ],
+  "study_strategy": [
+    "1. The Golden Past Rule: Never put an umlaut on past-tense modal verbs! (konnte, musste, durfte).",
+    "2. The Past Time Test: Ask 'Did it happen only once?' → Use 'als'. Ask 'Did it happen repeatedly?' → Use 'wenn' (immer wenn).",
+    "3. Practice the Sentence Inversion: Start your sentences with 'Als ich...' or 'Wenn ich...' and immediately place the main-clause verb after the comma.",
+    "4. Test yourself on the 10 self-check exercises below until you reach 10/10."
+  ],
+  "next_topic": {
+    "number": "7",
+    "title": "Infinitive Clauses with um ... zu, damit, and Polite Inquiries"
+  }
+}
