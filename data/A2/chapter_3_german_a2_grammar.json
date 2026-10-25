@@ -1,0 +1,646 @@
+{
+  "order": 3,
+  "topic_number": 3,
+  "title": "Wechselpräpositionen, Verb Cases & Indefinite Pronouns",
+  "titleEn": "Wechselpräpositionen, Verb Cases & Indefinite Pronouns",
+  "german_title": "Wechselpräpositionen, Verben mit Kasus und Indefinitpronomen",
+  "level": "A2",
+  "category": "Prepositions & Cases",
+  "summary": "Master the 9 Two-Way Prepositions (an, auf, hinter, in, neben, über, unter, vor, zwischen) and the golden rule: Wo? (Stationary location) = DATIV vs. Wohin? (Movement / Destination) = AKKUSATIV. Learn the essential positional verb pairs (legen/liegen, stellen/stehen, setzen/sitzen, hängen), decode dictionary case markers (etw. Akk., jdm. Dat.), and use common Indefinite Pronouns (jemand, etwas, niemand, alle).",
+  "definition": "Chapter 3 covers the core of German spatial logic: Wechselpräpositionen that take either Dativ or Akkusativ depending on location vs. direction, action vs. position verbs, dictionary case abbreviations, and indefinite pronouns.",
+  "definition_examples": [
+    {
+      "verb": "Wohin? (Akkusativ)",
+      "german": "Ich gehe in den Park.",
+      "english": "I am going into the park. (Movement to destination: in + Akkusativ: den Park)"
+    },
+    {
+      "verb": "Wo? (Dativ)",
+      "german": "Ich sitze im Park.",
+      "english": "I am sitting in the park. (Stationary location at rest: in + Dativ: dem Park → im Park)"
+    },
+    {
+      "verb": "Verb Pair",
+      "german": "Ich stelle die Tasse auf den Tisch (Akk) — Die Tasse steht auf dem Tisch (Dat).",
+      "english": "I place the cup onto the table (Action: stellen + Akk) — The cup stands on the table (Position: stehen + Dat)."
+    }
+  ],
+  "table": {
+    "headers": [
+      "Question & Logic",
+      "Required Case",
+      "What it Describes",
+      "Typical Verbs",
+      "Example Pair"
+    ],
+    "rows": [
+      [
+        "**Wohin?** (Where to?)",
+        "**Akkusativ**",
+        "Movement towards a destination, crossing a boundary, change of place",
+        "**stellen, legen, setzen, hängen, gehen, fahren, laufen**",
+        "Ich lege das Buch **auf das Sofa**."
+      ],
+      [
+        "**Wo?** (Where?)",
+        "**Dativ**",
+        "Stationary position at rest, ongoing location, no change of place",
+        "**stehen, liegen, sitzen, hängen, sein, wohnen, schlafen**",
+        "Das Buch liegt **auf dem Sofa**."
+      ]
+    ]
+  },
+  "rules": [
+    "**1. The Golden Rule of Wechselpräpositionen:** With the 9 two-way prepositions, case is NOT fixed by the preposition itself. Ask: **Wo?** (Location at rest) → **DATIV** | **Wohin?** (Movement to destination) → **AKKUSATIV**.",
+    "**2. The 9 Wechselpräpositionen:** Memorize **an, auf, hinter, in, neben, über, unter, vor, zwischen**.",
+    "**3. Note on 'bei':** Even though 'bei' indicates location, **bei is strictly Dativ-only** (from Chapter 2). It is never a Wechselpräposition.",
+    "**4. Positional Verb Pairs (Action vs. State):**\n- **legen** (to put flat, + Akk) vs. **liegen** (to lie, + Dat)\n- **stellen** (to put upright, + Akk) vs. **stehen** (to stand, + Dat)\n- **setzen** (to seat, + Akk) vs. **sitzen** (to sit, + Dat)\n- **hängen** (to hang up, + Akk) vs. **hängen** (to be hanging, + Dat)",
+    "**5. Dative Plural Double-N:** Remember that in Dativ plural, the article is **den** and the noun adds **-n** if possible (*zwischen den Bäumen*, *unter den Tischen*).",
+    "**6. Dictionary Codes:** `etw.` = *etwas* (thing), `jdn.` = *jemanden* (person in Akkusativ), `jdm.` = *jemandem* (person in Dativ). Learn whether a verb takes Akkusativ (*jdn. anrufen*, *etw. kaufen*) or Dativ (*jdm. folgen*, *jdm. gehören*).",
+    "**7. Indefinite Pronouns:** Use **jemand** (someone), **etwas** (something), **niemand** (nobody), **wenige** (few), **einige** (some), **mehrere** (several), **viele** (many), and **alle** (all/everyone) to speak generally without naming specific entities."
+  ],
+  "usage_rules": [
+    {
+      "title": "Wo? (Dativ) vs. Wohin? (Akkusativ) in Action",
+      "rule": "Whenever you use an, auf, hinter, in, neben, über, unter, vor, or zwischen, check what the action is doing: Is the subject crossing into a new place or putting an object down (Wohin? → Akkusativ)? Or is the subject already located inside or on that place (Wo? → Dativ)?",
+      "note": "Contractions: in + dem = im, in + das = ins, auf + das = aufs, an + dem = am, an + das = ans.",
+      "examples": [
+        {
+          "de": "Ich gehe in den Park (Wohin? → Akkusativ).",
+          "en": "I go into the park."
+        },
+        {
+          "de": "Ich sitze im Park (Wo? → Dativ).",
+          "en": "I am sitting in the park."
+        },
+        {
+          "de": "Das Kind läuft unter das Bett (Wohin? → Akkusativ).",
+          "en": "The child runs under the bed."
+        },
+        {
+          "de": "Das Kind schläft unter dem Bett (Wo? → Dativ).",
+          "en": "The child sleeps under the bed."
+        }
+      ]
+    },
+    {
+      "title": "Positional Verb Pairs (Action vs. Position)",
+      "rule": "German has precise twin verbs. Weak verbs (stellen, legen, setzen) express the active physical action of putting something somewhere (always Akkusativ). Strong verbs (stehen, liegen, sitzen) express the resting physical state of where the object is (always Dativ).",
+      "note": "'hängen' uses the same infinitive for both: 'Ich hänge das Bild an die Wand' (Akk) vs. 'Das Bild hängt an der Wand' (Dat).",
+      "examples": [
+        {
+          "noun": "legen (Akk) vs. liegen (Dat)",
+          "de": "Ich lege das Buch auf das Sofa. — Das Buch liegt auf dem Sofa.",
+          "en": "I lay the book onto the sofa. — The book is lying on the sofa."
+        },
+        {
+          "noun": "stellen (Akk) vs. stehen (Dat)",
+          "de": "Ich stelle den Stuhl neben den Tisch. — Der Stuhl steht neben dem Tisch.",
+          "en": "I put the chair next to the table. — The chair is standing next to the table."
+        },
+        {
+          "noun": "setzen (Akk) vs. sitzen (Dat)",
+          "de": "Ich setze das Kind auf den Stuhl. — Das Kind sitzt auf dem Stuhl.",
+          "en": "I seat the child on the chair. — The child sits on the chair."
+        }
+      ]
+    },
+    {
+      "title": "How to Read Online Dictionaries (Leo, Pons, Duden)",
+      "rule": "Don't guess verb cases from English translations! German dictionaries mark the case: 'etw. Akk.' means a direct object in Akkusativ; 'jdm. Dat.' means a dative object.",
+      "note": "Example: 'folgen' is listed as 'jdm. Dat. folgen' → 'Bitte folgen Sie mir' (Dativ), not 'mich'!",
+      "examples": [
+        {
+          "de": "kaufen [etw. Akk.] → Ich kaufe einen Tisch.",
+          "en": "to buy [something in Akkusativ] → I buy a table."
+        },
+        {
+          "de": "anrufen [jdn. Akk.] → Ich rufe dich morgen an.",
+          "en": "to call [someone in Akkusativ] → I will call you tomorrow."
+        },
+        {
+          "de": "folgen [jdm. Dat.] → Die Polizei folgt dem Auto.",
+          "en": "to follow [someone/something in Dativ] → The police follow the car."
+        },
+        {
+          "de": "gehören [jdm. Dat.] → Das Buch gehört meiner Schwester.",
+          "en": "to belong to [someone in Dativ] → The book belongs to my sister."
+        }
+      ]
+    },
+    {
+      "title": "Indefinite Pronouns (Quantities & Unspecified Persons/Things)",
+      "rule": "Indefinite pronouns refer to people or things in a general, unspecified way. Jemand (someone) vs. niemand (no one). Etwas (something) vs. nichts (nothing). To specify quantity: wenige (few) < einige (some) < mehrere (several) < viele (many) < alle (all).",
+      "note": "These pronouns take 3rd-person singular verbs when referring to single entities (Jemand steht an der Tür), and plural verbs for plural quantities (Viele Menschen kaufen am Samstag ein).",
+      "examples": [
+        {
+          "de": "Jemand steht vor der Tür.",
+          "en": "Someone is standing in front of the door."
+        },
+        {
+          "de": "Niemand arbeitet gern am Wochenende.",
+          "en": "Nobody likes working on the weekend."
+        },
+        {
+          "de": "Einige Menschen gehen am Sonntag ins Kino, aber viele bleiben zu Hause.",
+          "en": "Some people go to the cinema on Sunday, but many stay at home."
+        },
+        {
+          "de": "Alle lieben das Wochenende.",
+          "en": "Everyone loves the weekend."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "topic": "3.1 What Are Wechselpräpositionen? (Was sind Wechselpräpositionen?)",
+      "heading": "3.1 What Are Wechselpräpositionen? (Was sind Wechselpräpositionen?)",
+      "core_difference": "The German word 'Wechsel' means 'change' or 'switch'. Wechselpräpositionen (two-way prepositions) are a special group of 9 spatial prepositions that change their case: they take Dativ when answering Wo? (stationary location) and Akkusativ when answering Wohin? (movement or destination).",
+      "comparison": [
+        {
+          "term": "Wo? (Dativ)",
+          "what": "Describes a static position, resting place, or activity happening within a fixed spot.",
+          "how_to_identify": "Ask: Wo? (Where?). There is no change of location or destination.",
+          "pattern": "Verb of Rest + Wechselpräposition + DATIV",
+          "example": "Ich sitze im Park. / Das Buch liegt auf dem Tisch.",
+          "english": "I am sitting in the park. / The book is lying on the table.",
+          "trick": "Think: Dativ is dormant / at rest."
+        },
+        {
+          "term": "Wohin? (Akkusativ)",
+          "what": "Describes movement towards a target, crossing a boundary, or putting an object into a new place.",
+          "how_to_identify": "Ask: Wohin? (Where to?). There is a change of location.",
+          "pattern": "Verb of Movement/Action + Wechselpräposition + AKKUSATIV",
+          "example": "Ich gehe in den Park. / Ich lege das Buch auf den Tisch.",
+          "english": "I am going into the park. / I put the book onto the table.",
+          "trick": "Think: Akkusativ is Action / Arrow towards a destination."
+        }
+      ],
+      "table": {
+        "headers": [
+          "Preposition",
+          "English Meaning",
+          "Wohin? Example (Akkusativ)",
+          "Wo? Example (Dativ)"
+        ],
+        "rows": [
+          ["**in**", "in, into, inside", "Ich gehe **in den Park**.", "Ich sitze **im Park** (*in dem*)."],
+          ["**an**", "at, on (vertical surface)", "Ich hänge das Bild **an die Wand**.", "Das Bild hängt **an der Wand**."],
+          ["**auf**", "on, onto (horizontal surface)", "Ich lege das Buch **auf den Tisch**.", "Das Buch liegt **auf dem Tisch**."],
+          ["**neben**", "beside, next to", "Ich stelle den Stuhl **neben den Schrank**.", "Der Stuhl steht **neben dem Schrank**."],
+          ["**vor**", "in front of", "Thomas parkt das Auto **vor das Haus**.", "Das Auto steht **vor dem Haus**."],
+          ["**hinter**", "behind", "Ich stelle das Regal **hinter das Sofa**.", "Das Regal steht **hinter dem Sofa**."],
+          ["**unter**", "under, underneath", "Die Katze läuft **unter das Bett**.", "Die Katze schläft **unter dem Bett**."],
+          ["**über**", "above, over", "Ich hänge die Lampe **über den Tisch**.", "Die Lampe hängt **über dem Tisch**."],
+          ["**zwischen**", "between", "Ich stelle die Vase **zwischen die Bücher**.", "Die Vase steht **zwischen den Büchern**."]
+        ]
+      },
+      "rule_of_thumb": "Crucial distinction: 'bei' also describes location, but **bei is strictly Dativ-only** (*beim Bahnhof*, *bei mir*). It never takes Akkusativ. The Wechselpräpositionen are only the 9 listed above!"
+    },
+    {
+      "topic": "3.2 Action vs. Position Verbs (Positional Verb Pairs)",
+      "heading": "3.2 Action vs. Position Verbs (Positional Verb Pairs)",
+      "core_difference": "German verbs work in tandem with Wechselpräpositionen. There are four famous verb pairs where one verb describes the active placement (requires Akkusativ) and the other describes the resulting resting position (requires Dativ).",
+      "comparison": [
+        {
+          "type": "Action Verbs (Wohin? → Akkusativ)",
+          "meaning": "Subject moves or places an object into a position. Regular/weak conjugation.",
+          "how_to_identify": "Requires a direct object: someone puts *something* somewhere.",
+          "pattern": "Subject + [legen/stellen/setzen] + Object (Akk) + Prep + Place (Akk)",
+          "example": "Ich lege das Buch auf das Sofa. / Ich stelle die Flasche auf den Tisch.",
+          "english": "I lay the book onto the sofa. / I place the bottle onto the table.",
+          "trick": "All Action verbs are weak and regular: legte/gelegt, stellte/gestellt, setzte/gesetzt."
+        },
+        {
+          "type": "Position Verbs (Wo? → Dativ)",
+          "meaning": "Subject is already resting or located in a position. Irregular/strong conjugation.",
+          "how_to_identify": "No direct object: the subject itself is resting.",
+          "pattern": "Subject + [liegen/stehen/sitzen] + Prep + Location (Dat)",
+          "example": "Das Buch liegt auf dem Sofa. / Die Flasche steht auf dem Tisch.",
+          "english": "The book is lying on the sofa. / The bottle is standing on the table.",
+          "trick": "All Position verbs are strong and irregular: lag/gelegen, stand/gestanden, saß/gesessen."
+        }
+      ],
+      "table": {
+        "headers": [
+          "Action Verb (Akkusativ)",
+          "Meaning",
+          "Position Verb (Dativ)",
+          "Meaning",
+          "Visual Distinction"
+        ],
+        "rows": [
+          ["**legen** (*legte, hat gelegt*)", "to lay (flat)", "**liegen** (*lag, hat gelegen*)", "to lie (flat)", "Horizontal orientation (books, paper, person)"],
+          ["**stellen** (*stellte, hat gestellt*)", "to put upright", "**stehen** (*stand, hat gestanden*)", "to stand upright", "Vertical orientation (bottles, chairs, glasses)"],
+          ["**setzen** (*setzte, hat gesetzt*)", "to seat / sit down", "**sitzen** (*saß, hat gesessen*)", "to be sitting", "Seated posture (children, adults, animals)"],
+          ["**hängen** (*hängte, hat gehängt*)", "to hang up (action)", "**hängen** (*hing, hat gehangen*)", "to be hanging (state)", "Suspended orientation (pictures, lamps, coats)"]
+        ]
+      },
+      "trick": "Golden Memory Formula: **Action = Akkusativ (legen, stellen, setzen)** | **State = Dativ (liegen, stehen, sitzen)**."
+    },
+    {
+      "topic": "3.3 Deep Dive into the 9 Wechselpräpositionen (Paired Examples)",
+      "heading": "3.3 Deep Dive into the 9 Wechselpräpositionen (Paired Examples)",
+      "core_difference": "Look at each preposition in paired sentences. Notice how the noun's article changes between Akkusativ (masculine den, neuter das, feminine die) and Dativ (masculine/neuter dem, feminine der, plural den + n).",
+      "patterns": [
+        {
+          "pattern": "in: ins Bett (Akk) vs. im Bett (Dat)",
+          "example": "Ich gehe ins Bett (Wohin? in + das). — Ich bleibe im Bett (Wo? in + dem).",
+          "meaning": "ins = movement into bed; im = resting inside bed."
+        },
+        {
+          "pattern": "an: an die Wand (Akk) vs. an der Wand (Dat)",
+          "example": "Ich hänge das Foto an die Wand. — Das Foto hängt an der Wand.",
+          "meaning": "an die Wand = moving onto the vertical wall; an der Wand = attached to the wall."
+        },
+        {
+          "pattern": "auf: auf den Tisch (Akk) vs. auf dem Tisch (Dat)",
+          "example": "Ich stelle die Tasse auf den Tisch. — Die Tasse steht auf dem Tisch.",
+          "meaning": "auf den Tisch = placing onto horizontal surface; auf dem Tisch = resting on top."
+        },
+        {
+          "pattern": "unter: unter den Tisch (Akk) vs. unter dem Tisch (Dat)",
+          "example": "Die Katze läuft unter den Tisch. — Die Katze schläft unter dem Tisch.",
+          "meaning": "unter den Tisch = running into space beneath; unter dem Tisch = resting underneath."
+        },
+        {
+          "pattern": "zwischen: zwischen die Bäume (Akk) vs. zwischen den Bäumen (Dat)",
+          "example": "Er parkt das Auto zwischen die Bäume. — Das Auto steht zwischen den Bäumen.",
+          "meaning": "between multiple objects: Dativ plural adds the -n ending to 'Bäumen'!"
+        }
+      ],
+      "worked_example": {
+        "german": "Thomas stellt den Stuhl zwischen den Tisch und die Wand. Jetzt steht er zwischen dem Tisch und der Wand.",
+        "english": "Thomas puts the chair between the table and the wall. Now it is standing between the table and the wall.",
+        "analysis": "1) 'stellt' is an action verb: 'zwischen' takes Akkusativ → 'den Tisch' (masc) and 'die Wand' (fem). 2) 'steht' is a positional state verb: 'zwischen' takes Dativ → 'dem Tisch' (masc) and 'der Wand' (fem)."
+      }
+    },
+    {
+      "topic": "3.4 Complete Master Map of A2 Prepositions",
+      "heading": "3.4 Complete Master Map of A2 Prepositions",
+      "core_difference": "By Chapter 3, you have learned all the essential prepositions of Level A2. Group them into three mental buckets to make case selection automatic.",
+      "table": {
+        "headers": [
+          "Group",
+          "Prepositions List",
+          "Required Case",
+          "Rule for Case Selection"
+        ],
+        "rows": [
+          [
+            "1. Accusative Only (7)",
+            "**durch, für, gegen, ohne, um, entlang, bis** *(DOGFUEB)*",
+            "**Akkusativ**",
+            "Always Akkusativ regardless of movement or rest."
+          ],
+          [
+            "2. Dative Only (10)",
+            "**aus, bei, mit, nach, seit, von, zu, außer, ab, gegenüber**",
+            "**Dativ**",
+            "Always Dativ regardless of movement or rest."
+          ],
+          [
+            "3. Two-Way Prepositions (9)",
+            "**an, auf, hinter, in, neben, über, unter, vor, zwischen**",
+            "**Dativ or Akkusativ**",
+            "**Wo?** (Rest/Location) = **Dativ** | **Wohin?** (Direction/Movement) = **Akkusativ**."
+          ]
+        ]
+      },
+      "memory_pairs": [
+        "Akkusativ Only: durch, für, gegen, ohne, um, entlang, bis",
+        "Dativ Only: aus, bei, mit, nach, seit, von, zu, außer, ab, gegenüber",
+        "Two-Way: an, auf, hinter, in, neben, über, unter, vor, zwischen",
+        "Wo? = DATIV",
+        "Wohin? = AKKUSATIV"
+      ]
+    },
+    {
+      "topic": "3.5 Decoding Dictionary Case Codes (Akkusativ- und Dativverben)",
+      "heading": "3.5 Decoding Dictionary Case Codes (Akkusativ- und Dativverben)",
+      "core_difference": "When looking up verbs in German dictionaries (such as Leo, Pons, Linguee, or Duden), you will see grammatical shorthand codes. Learning these abbreviations allows you to instantly know which case to use.",
+      "table": {
+        "headers": [
+          "Dictionary Code",
+          "Full German Form",
+          "English Meaning",
+          "What Object it Demands",
+          "Verb Example"
+        ],
+        "rows": [
+          [
+            "**etw. Akk.**",
+            "etwas (Akkusativ)",
+            "something (direct object)",
+            "A thing or non-person in Akkusativ",
+            "**kaufen [etw. Akk.]** → *Ich kaufe einen Tisch.*"
+          ],
+          [
+            "**jdn. Akk.**",
+            "jemanden (Akkusativ)",
+            "someone (direct object)",
+            "A person in Akkusativ",
+            "**anrufen [jdn. Akk.]** → *Ich rufe dich an.*"
+          ],
+          [
+            "**jdm. Dat.**",
+            "jemandem (Dativ)",
+            "to someone (dative object)",
+            "A person in Dativ",
+            "**helfen [jdm. Dat.]** → *Ich helfe dir.*"
+          ],
+          [
+            "**jdm. etw. geben**",
+            "jemandem (Dat) etwas (Akk)",
+            "to give someone something",
+            "Person in Dativ + Thing in Akkusativ",
+            "**schenken [jdm. etw.]** → *Ich schenke ihr ein Buch.*"
+          ],
+          [
+            "**jdm. / etw. Dat. folgen**",
+            "jemandem / einer Sache (Dat)",
+            "to follow someone/something",
+            "Demands Dativ for both people and things!",
+            "**folgen [jdm./etw. Dat.]** → *Folgen Sie mir!*"
+          ]
+        ]
+      },
+      "trick": "Mnemonic for endings: **jdn.** ends in **-n** (jemande**n** = Akkusativ) | **jdm.** ends in **-m** (jemande**m** = Dativ, like dem)!"
+    },
+    {
+      "topic": "3.6 Indefinite Pronouns (Indefinitpronomen)",
+      "heading": "3.6 Indefinite Pronouns (Indefinitpronomen)",
+      "core_difference": "Indefinite pronouns allow you to talk about unspecified persons, things, or quantities naturally. Compare them across the spectrum from 0 to 100%.",
+      "table": {
+        "headers": [
+          "Indefinite Pronoun",
+          "English Meaning",
+          "Quantity / Scope",
+          "Grammatical Verb Agreement",
+          "German Example Sentence"
+        ],
+        "rows": [
+          ["**niemand**", "no one, nobody", "0% (negation of person)", "Singular (3rd person)", "**Niemand** arbeitet gern am Wochenende."],
+          ["**wenige**", "few, not many", "~10% - 20% (small quantity)", "Plural", "**Wenige** Menschen stehen am Sonntag früh auf."],
+          ["**einige**", "some, several", "~30% - 40% (moderate quantity)", "Plural", "**Einige** Kollegen gehen heute essen."],
+          ["**mehrere**", "several, multiple", "~40% - 50% (distinct number)", "Plural", "**Mehrere** Autos stehen vor dem Haus."],
+          ["**viele**", "many, a lot of", "~70% - 90% (large quantity)", "Plural", "**Viele** Menschen trinken morgens Kaffee."],
+          ["**alle**", "all, everyone", "100% (entire group)", "Plural", "**Alle** lieben das Wochenende."],
+          ["**jemand**", "someone, somebody", "Unspecified person", "Singular (3rd person)", "**Jemand** steht vor der Tür."],
+          ["**etwas**", "something", "Unspecified thing", "Singular / Invariable", "Möchtest du **etwas** trinken?"]
+        ]
+      },
+      "quick_comparison": [
+        {
+          "german": "Jemand hat an der Tür geklingelt.",
+          "english": "Someone rang the doorbell.",
+          "why": "'jemand' refers to an unknown person and takes a singular verb."
+        },
+        {
+          "german": "Niemand weiß die Antwort.",
+          "english": "Nobody knows the answer.",
+          "why": "'niemand' refers to 0 people and takes a singular verb."
+        },
+        {
+          "german": "Viele lernen Deutsch, aber nur wenige üben jeden Tag.",
+          "english": "Many are learning German, but only few practice every day.",
+          "why": "'viele' and 'wenige' take plural verbs."
+        }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Ich sitze in den Park.",
+      "correct": "Ich sitze im Park (in dem Park).",
+      "explanation": "'sitzen' describes a stationary location (Wo?). Wechselpräpositionen require Dativ for location: in + dem = im."
+    },
+    {
+      "incorrect": "Ich lege das Buch auf dem Tisch.",
+      "correct": "Ich lege das Buch auf den Tisch.",
+      "explanation": "'legen' is an action verb (putting something down). It requires Akkusativ: masculine Tisch becomes 'den Tisch'."
+    },
+    {
+      "incorrect": "Das Bild hängt an die Wand.",
+      "correct": "Das Bild hängt an der Wand.",
+      "explanation": "If the picture is already hanging there, it is a stationary state (Wo? → Dativ). Feminine Wand becomes 'der Wand'."
+    },
+    {
+      "incorrect": "Ich fahre bei die Stadt.",
+      "correct": "Ich fahre in die Stadt. / Ich bin bei der Stadt.",
+      "explanation": "'bei' is NEVER a two-way preposition; it is strictly Dativ. For entering a city, use 'in + Akkusativ' (in die Stadt)."
+    },
+    {
+      "incorrect": "Bitte folgen Sie mich.",
+      "correct": "Bitte folgen Sie mir.",
+      "explanation": "The dictionary marks 'folgen' as [jdm. Dat. folgen]. It strictly requires a Dativ object (mir), not Akkusativ (mich)."
+    },
+    {
+      "incorrect": "Niemand wissen die Lösung.",
+      "correct": "Niemand weiß die Lösung.",
+      "explanation": "'niemand' takes a 3rd-person singular verb (er/sie/es weiß), not a plural verb."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "Wo? (Location at rest)",
+      "english": "Always takes DATIV (im, am, auf dem, neben dem...)"
+    },
+    {
+      "german": "Wohin? (Movement to destination)",
+      "english": "Always takes AKKUSATIV (ins, ans, auf den, neben den...)"
+    },
+    {
+      "german": "9 Wechselpräpositionen",
+      "english": "an, auf, hinter, in, neben, über, unter, vor, zwischen"
+    },
+    {
+      "german": "legen / stellen / setzen",
+      "english": "Active placement (Action) → Akkusativ"
+    },
+    {
+      "german": "liegen / stehen / sitzen",
+      "english": "Resting position (State) → Dativ"
+    },
+    {
+      "german": "hängen (Akk vs. Dat)",
+      "english": "Ich hänge das Bild an die Wand (Akk) vs. Es hängt an der Wand (Dat)"
+    },
+    {
+      "german": "jdn. Akk. vs. jdm. Dat.",
+      "english": "jdn. = jemanden (Akkusativ) | jdm. = jemandem (Dativ)"
+    },
+    {
+      "german": "Indefinitpronomen Scale",
+      "english": "niemand (0%) < wenige < einige < viele < alle (100%)"
+    }
+  ],
+  "vocabulary": [
+    {
+      "article": "der",
+      "word": "Stuhl",
+      "plural": "die Stühle",
+      "meaning": "chair",
+      "exampleDe": "Ich stelle den Stuhl neben den Tisch.",
+      "exampleEn": "I place the chair next to the table."
+    },
+    {
+      "article": "die",
+      "word": "Wand",
+      "plural": "die Wände",
+      "meaning": "wall (vertical surface)",
+      "exampleDe": "Das Bild hängt an der Wand.",
+      "exampleEn": "The picture is hanging on the wall."
+    },
+    {
+      "article": "das",
+      "word": "Regal",
+      "plural": "die Regale",
+      "meaning": "shelf / bookcase",
+      "exampleDe": "Ich stelle das Regal hinter das Sofa.",
+      "exampleEn": "I put the shelf behind the sofa."
+    },
+    {
+      "article": "das",
+      "word": "Bett",
+      "plural": "die Betten",
+      "meaning": "bed",
+      "exampleDe": "Ich gehe um 23 Uhr ins Bett.",
+      "exampleEn": "I go to bed at 11 p.m."
+    },
+    {
+      "article": "die",
+      "word": "Katze",
+      "plural": "die Katzen",
+      "meaning": "cat",
+      "exampleDe": "Die Katze schläft unter dem Tisch.",
+      "exampleEn": "The cat is sleeping under the table."
+    },
+    {
+      "article": "die",
+      "word": "Lampe",
+      "plural": "die Lampen",
+      "meaning": "lamp",
+      "exampleDe": "Die Lampe hängt über dem Tisch.",
+      "exampleEn": "The lamp is hanging above the table."
+    },
+    {
+      "article": "der",
+      "word": "Baum",
+      "plural": "die Bäume",
+      "meaning": "tree",
+      "exampleDe": "Er parkt das Auto zwischen den Bäumen.",
+      "exampleEn": "He parks the car between the trees."
+    },
+    {
+      "article": "—",
+      "word": "legen",
+      "plural": "legte, hat gelegt",
+      "meaning": "to lay down / put flat (+ Akkusativ)",
+      "exampleDe": "Ich lege das Buch auf den Tisch.",
+      "exampleEn": "I lay the book on the table."
+    },
+    {
+      "article": "—",
+      "word": "liegen",
+      "plural": "lag, hat gelegen",
+      "meaning": "to lie / be located (+ Dativ)",
+      "exampleDe": "Das Buch liegt auf dem Tisch.",
+      "exampleEn": "The book is lying on the table."
+    },
+    {
+      "article": "—",
+      "word": "stellen",
+      "plural": "stellte, hat gestellt",
+      "meaning": "to put upright (+ Akkusativ)",
+      "exampleDe": "Er stellt das Glas auf das Regal.",
+      "exampleEn": "He places the glass on the shelf."
+    },
+    {
+      "article": "—",
+      "word": "stehen",
+      "plural": "stand, hat gestanden",
+      "meaning": "to stand upright (+ Dativ)",
+      "exampleDe": "Das Glas steht auf dem Regal.",
+      "exampleEn": "The glass is standing on the shelf."
+    },
+    {
+      "article": "—",
+      "word": "folgen",
+      "plural": "folgte, ist gefolgt",
+      "meaning": "to follow (+ Dativ)",
+      "exampleDe": "Die Polizei folgt dem Dieb.",
+      "exampleEn": "The police follow the thief."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Ich gehe in _______ (der) Park. (Wohin? → Akkusativ)",
+      "answer": "den",
+      "hint": "Movement towards a destination (Wohin?) takes Akkusativ. Masculine 'der Park' becomes 'den Park'."
+    },
+    {
+      "prompt": "Ich sitze in _______ (der) Park. (Wo? → Dativ)",
+      "answer": "dem",
+      "hint": "Stationary location at rest (Wo?) takes Dativ. Masculine 'der Park' becomes 'dem Park' (contracted: im Park)."
+    },
+    {
+      "prompt": "Ich stelle die Vase auf _______ (der) Tisch. (legen/stellen = Akkusativ)",
+      "answer": "den",
+      "hint": "'stellen' is an active placement verb (Wohin?); masculine Tisch takes Akkusativ 'den'."
+    },
+    {
+      "prompt": "Die Vase steht auf _______ (der) Tisch. (stehen/liegen = Dativ)",
+      "answer": "dem",
+      "hint": "'stehen' is a position verb (Wo?); masculine Tisch takes Dativ 'dem'."
+    },
+    {
+      "prompt": "Ich hänge das Bild an _______ (die) Wand. (Active hanging)",
+      "answer": "die",
+      "hint": "Active hanging onto a new position takes Akkusativ: feminine 'die Wand' remains 'die Wand'."
+    },
+    {
+      "prompt": "Das Bild hängt an _______ (die) Wand. (Resting position)",
+      "answer": "der",
+      "hint": "Resting position on the wall takes Dativ: feminine 'die Wand' changes to 'der Wand'."
+    },
+    {
+      "prompt": "Das Auto steht zwischen _______ (die) Bäume (Plural).",
+      "answer": "den Bäumen",
+      "hint": "Location (Wo?) takes Dativ. Plural article is 'den' and the noun adds '-n': 'den Bäumen'."
+    },
+    {
+      "prompt": "Bitte folgen Sie _______ (ich). (folgen + Dativ)",
+      "answer": "mir",
+      "hint": "The verb 'folgen' requires a Dativ object: the dative pronoun for 'ich' is 'mir'."
+    },
+    {
+      "prompt": "_______ (no one) arbeitet gern am Sonntag.",
+      "answer": "Niemand",
+      "hint": "The indefinite pronoun for 'no one / nobody' is 'Niemand'."
+    },
+    {
+      "prompt": "Ist 'bei' eine Wechselpräposition? (ja / nein)",
+      "answer": "nein",
+      "hint": "'bei' is strictly Dativ-only in all contexts. It is never a Wechselpräposition."
+    }
+  ],
+  "mastery_goals": [
+    "Instantly distinguish Wo? (Dativ) from Wohin? (Akkusativ) with all 9 Wechselpräpositionen.",
+    "Master the positional verb pairs: legen/liegen, stellen/stehen, setzen/sitzen, and hängen/hängen.",
+    "Correctly decode dictionary case markers: etw. Akk., jdn. Akk., jdm. Dat.",
+    "Fluently apply contractions: im, ins, am, ans, aufs.",
+    "Confidently use indefinite pronouns: jemand, etwas, niemand, wenige, einige, viele, alle."
+  ],
+  "study_strategy": [
+    "1. Draw the Motion Arrow: Whenever you write a Wechselpräposition, visualize if an arrow is moving from A to B (Akkusativ) or if an object is resting inside a circle (Dativ).",
+    "2. Pair the Twin Verbs: Practice saying 'Ich stelle das Glas auf den Tisch' (Action/Akk) followed immediately by 'Das Glas steht auf dem Tisch' (State/Dat).",
+    "3. Check Dictionary Markers: When learning new verbs, look for 'jdn.' (Akk) vs. 'jdm.' (Dat).",
+    "4. Test yourself on the 10 self-check exercises below until you reach 10/10."
+  ],
+  "next_topic": {
+    "number": "4",
+    "title": "Connectors and Conjunctions — weil, denn, deshalb"
+  }
+}
