@@ -1,0 +1,685 @@
+{
+  "order": 4,
+  "topic_number": 4,
+  "title": "Connectors: Weil, Denn, and Dass",
+  "titleEn": "Connectors: Weil, Denn, and Dass",
+  "german_title": "Konnektoren: weil, denn und dass",
+  "level": "A2",
+  "category": "Connectors & Sentence Structure",
+  "summary": "Master the essential A2 sentence connectors: understand the crucial grammatical difference between weil (subordinating: conjugated verb moves to the end) and denn (coordinating: verb stays in position 2). Master dass-clauses for reporting thoughts and describing graphs, handle modal verbs, separable verbs, and the perfect tense in subordinate clauses, and use inverted word order when the subordinate clause comes first.",
+  "definition": "Connectors (Konnektoren / Konjunktionen) link words, phrases, or clauses to build longer, more expressive sentences. Chapter 4 focuses on giving reasons with weil and denn, and reporting statements, thoughts, or observations with dass.",
+  "definition_examples": [
+    {
+      "verb": "weil (Reason)",
+      "german": "Ich lerne Deutsch, weil ich in Deutschland lebe.",
+      "english": "I learn German because I live in Germany. (Subordinate clause: verb 'lebe' at the very end!)"
+    },
+    {
+      "verb": "denn (Reason)",
+      "german": "Ich lerne Deutsch, denn ich lebe in Deutschland.",
+      "english": "I learn German, and the reason is that I live in Germany. (Main clause: verb 'lebe' stays in position 2!)"
+    },
+    {
+      "verb": "dass (Content)",
+      "german": "Wir wissen, dass sie bei Siemens arbeitet.",
+      "english": "We know that she works at Siemens. (Subordinate clause: verb 'arbeitet' at the very end!)"
+    }
+  ],
+  "table": {
+    "headers": [
+      "Connector (Konnektor)",
+      "English Meaning",
+      "Function & Purpose",
+      "Clause Type & Verb Position",
+      "Complete Sentence Example"
+    ],
+    "rows": [
+      [
+        "**weil**",
+        "because",
+        "Gives a reason (answers *Warum?*)",
+        "**Nebensatz:** Conjugated verb moves to the **very end**",
+        "Ich gehe ins Bett, **weil ich müde bin**."
+      ],
+      [
+        "**denn**",
+        "because / and the reason is that",
+        "Gives a reason (coordinating)",
+        "**Hauptsatz:** Conjugated verb remains in **Position 2**",
+        "Ich gehe ins Bett, **denn ich bin müde**."
+      ],
+      [
+        "**dass**",
+        "that",
+        "Reports statements, thoughts, feelings, graphics",
+        "**Nebensatz:** Conjugated verb moves to the **very end**",
+        "Er hat gesagt, **dass er krank ist**."
+      ],
+      [
+        "**und / oder / aber** *(A1)*",
+        "and / or / but",
+        "Addition, alternative, contrast",
+        "**Hauptsatz:** Position 0 (verb remains in Position 2)",
+        "Es ist kalt, **aber die Sonne scheint**."
+      ]
+    ]
+  },
+  "rules": [
+    "**1. The Meaning vs. Position Rule:** A connector's meaning tells you how two ideas connect (reason, contrast, report); the connector's grammatical type dictates where the conjugated verb must stand.",
+    "**2. The 'weil' Rule (Verb-Final):** *weil* introduces a subordinate clause (*Nebensatz*). The conjugated verb that is usually in position 2 moves to the very end: *..., weil ich krank bin*.",
+    "**3. The 'denn' Rule (Position 2 Unchanged):** *denn* connects two independent main clauses (*Hauptsätze*). It counts as Position 0; the subject takes Position 1 and the conjugated verb stays in Position 2: *..., denn ich bin krank*.",
+    "**4. The 'dass' Rule (Verb-Final):** *dass* (that) introduces a subordinate clause reporting what someone says, thinks, knows, believes, or feels. The conjugated verb moves to the very end: *Ich weiß, dass du recht hast*.",
+    "**5. Always Use a Comma:** In German, you must always place a comma before *weil*, *denn*, and *dass* when linking clauses.",
+    "**6. Inversion when Nebensatz comes first:** If the *weil*-clause or *dass*-clause comes first, the following main clause begins immediately with its conjugated verb: *Weil ich müde bin, gehe ich ins Bett*.",
+    "**7. Modal Verbs at Clause End:** The infinitive stands first, and the conjugated modal verb goes to the very end: *..., weil ich früh aufstehen muss*.",
+    "**8. Separable Verbs at Clause End:** In a subordinate clause (*weil* / *dass*), separable prefixes do NOT separate; they are written together as a single word at the end: *..., weil ich früh aufstehe*.",
+    "**9. Perfect Tense at Clause End:** The past participle (*Partizip II*) comes before the conjugated auxiliary (*haben/sein*): *..., weil er gestern gearbeitet hat*."
+  ],
+  "usage_rules": [
+    {
+      "title": "Forming Reason Clauses with 'weil' (Step-by-Step)",
+      "rule": "Take two independent statements, insert a comma and 'weil', and send the conjugated verb of the second sentence to the very end.",
+      "note": "Sentence 1: 'Ich lerne Deutsch.' + Sentence 2: 'Ich lebe in Deutschland.' → 'Ich lerne Deutsch, weil ich in Deutschland lebe.'",
+      "examples": [
+        {
+          "de": "Er geht ins Bett, weil er müde ist.",
+          "en": "He is going to bed because he is tired. (ist moves to the end)"
+        },
+        {
+          "de": "Ich komme heute nicht, weil ich krank bin.",
+          "en": "I am not coming today because I am ill. (bin moves to the end)"
+        },
+        {
+          "de": "Warum studierst du Mathematik? — Ich studiere Mathematik, weil ich sie interessant finde.",
+          "en": "Why are you studying mathematics? — I study mathematics because I find it interesting."
+        }
+      ]
+    },
+    {
+      "title": "'weil' vs. 'denn' (The Golden Word Order Contrast)",
+      "rule": "Both words translate to 'because'. Use 'weil' for everyday spoken German (verb kicked to end). Use 'denn' in writing and exams to vary your sentences without altering main-clause word order.",
+      "note": "Compare: '..., weil ich müde bin' (Verb at end) vs. '..., denn ich bin müde' (Verb in Pos. 2).",
+      "examples": [
+        {
+          "noun": "weil (Verb at End)",
+          "de": "Ich gehe früh ins Bett, weil ich morgen früh aufstehen muss.",
+          "en": "I go to bed early because I must get up early tomorrow."
+        },
+        {
+          "noun": "denn (Verb in Pos. 2)",
+          "de": "Ich gehe früh ins Bett, denn ich muss morgen früh aufstehen.",
+          "en": "I go to bed early, and the reason is that I must get up early tomorrow."
+        }
+      ]
+    },
+    {
+      "title": "Using 'dass' to Report Thoughts, Knowledge, and Graphs",
+      "rule": "'dass' (that) introduces the content of what someone says, thinks, believes, knows, hopes, or feels. It also introduces descriptions of statistics, graphs, and charts in A2/B1 exam tasks.",
+      "note": "Useful chart starters: 'Die Grafik zeigt, dass ...' / 'Man kann sehen, dass ...'",
+      "examples": [
+        {
+          "de": "Er hat gesagt, dass er krank ist.",
+          "en": "He said that he is ill."
+        },
+        {
+          "de": "Ich denke, dass er nicht kommen wird.",
+          "en": "I think that he will not come."
+        },
+        {
+          "de": "Die Grafik zeigt, dass Kinder das Handy zwei Stunden pro Tag nutzen.",
+          "en": "The graph shows that children use mobile phones for two hours per day."
+        },
+        {
+          "de": "Man kann sehen, dass Studierende das Handy am meisten nutzen.",
+          "en": "One can see that university students use mobile phones the most."
+        }
+      ]
+    },
+    {
+      "title": "Complex Verb Forms in Subordinate Clauses (Modal, Separable, Perfekt)",
+      "rule": "In subordinate clauses (weil / dass), the verb bracket changes: 1) Modal verbs: Infinitive + Modal (*aufstehen muss*). 2) Separable verbs: Joined together into one word (*anruft*, *aufstehe*). 3) Perfect tense: Participle + Auxiliary (*gearbeitet hat*, *geöffnet hast*).",
+      "note": "The conjugated part ALWAYS goes to the very end of the clause!",
+      "examples": [
+        {
+          "noun": "Modal Verb",
+          "de": "Ich denke, dass ich heute nicht arbeiten kann.",
+          "en": "I think that I cannot work today."
+        },
+        {
+          "noun": "Separable Verb",
+          "de": "Ich hoffe, dass sie mich morgen anruft.",
+          "en": "I hope that she calls me tomorrow."
+        },
+        {
+          "noun": "Perfect Tense",
+          "de": "Thomas hat heute frei, weil er gestern gearbeitet hat.",
+          "en": "Thomas has today off because he worked yesterday."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "topic": "4.1 What Are Connectors? (Was sind Konnektoren?)",
+      "heading": "4.1 What Are Connectors? (Was sind Konnektoren?)",
+      "core_difference": "Connectors (Konnektoren / Konjunktionen) link words, phrases, or complete clauses. Without connectors, speech sounds robotic and disjointed ('I am tired. I go to bed.'). With connectors, ideas flow naturally ('I am going to bed because I am tired'). In A2, connectors are critical for writing letters and conversational fluency.",
+      "comparison": [
+        {
+          "type": "A1 Revision: Coordinating Connectors (ADUSO)",
+          "meaning": "Connectors that link two independent main clauses without changing word order.",
+          "how_to_identify": "Position 0 connectors: und (and), aber (but), oder (or), denn (because), sondern (rather).",
+          "example": "Es ist kalt, aber die Sonne scheint.",
+          "english": "It is cold, but the sun is shining.",
+          "trick": "Think: ADUSO connectors do not touch the verb position (verb stays in Pos. 2)!"
+        },
+        {
+          "type": "A2 Mastery: Subordinating Connectors (Nebensatz)",
+          "meaning": "Connectors that introduce a dependent clause and kick the conjugated verb to the end.",
+          "how_to_identify": "weil (because), dass (that), ob (whether), wenn (if/when), als (when).",
+          "example": "Ich bleibe zu Hause, weil es kalt ist.",
+          "english": "I am staying at home because it is cold.",
+          "trick": "Think: Subordinating connectors kick the verb to the very end of the sentence!"
+        }
+      ],
+      "table": {
+        "headers": [
+          "Connector (Konnektor)",
+          "English Meaning",
+          "Grammar Category & Verb Position",
+          "Curriculum Chapter"
+        ],
+        "rows": [
+          ["**weil**", "because", "**Nebensatz:** Conjugated verb at the end", "Chapter 4"],
+          ["**denn**", "because / and the reason is that", "**Hauptsatz:** Verb in Position 2 (unchanged)", "Chapter 4"],
+          ["**dass**", "that", "**Nebensatz:** Conjugated verb at the end", "Chapter 4"],
+          ["**ob**", "whether / if", "**Nebensatz:** Conjugated verb at the end", "Chapter 5"],
+          ["**W-Fragen (indirekt)**", "who, what, when, where, why...", "**Nebensatz:** Conjugated verb at the end", "Chapter 5"],
+          ["**als**", "when (single past event)", "**Nebensatz:** Conjugated verb at the end", "Chapter 6"],
+          ["**wenn**", "when / if (repeated or conditional)", "**Nebensatz:** Conjugated verb at the end", "Chapter 6"],
+          ["**falls**", "in case / if", "**Nebensatz:** Conjugated verb at the end", "Chapter 6"],
+          ["**um ... zu**", "in order to", "**Infinitivsatz:** zu + Infinitive at the end", "Chapter 7"],
+          ["**damit**", "so that", "**Nebensatz:** Conjugated verb at the end", "Chapter 7"]
+        ]
+      },
+      "rule_of_thumb": "Always learn two things about every new connector: 1) What it means, and 2) Where it puts the conjugated verb!"
+    },
+    {
+      "topic": "4.2 Weil — Giving a Reason (Subordinate Clause)",
+      "heading": "4.2 Weil — Giving a Reason (Subordinate Clause)",
+      "core_difference": "'weil' introduces a subordinate clause (Nebensatz) that explains the reason or cause for an action. It answers the question 'Warum?' (Why?). In a weil-clause, the conjugated verb is pushed to the very end, and a comma must precede 'weil'.",
+      "patterns": [
+        {
+          "pattern": "Standard Order: Hauptsatz + , weil + Subject + ... + Verb am Ende",
+          "example": "Ich lerne Deutsch, weil ich in Deutschland lebe.",
+          "meaning": "Main clause (verb in Pos. 2) followed by comma and weil-clause (verb 'lebe' at end)."
+        },
+        {
+          "pattern": "Inverted Order: Weil-Clause first + , Verb + Subject + ...",
+          "example": "Weil ich in Deutschland lebe, lerne ich Deutsch.",
+          "meaning": "The entire weil-clause occupies Position 1; the main clause starts immediately with its verb 'lerne' in Position 2!"
+        },
+        {
+          "pattern": "Answering 'Warum?' in Conversation",
+          "example": "Warum studierst du Mathematik? — Weil ich sie interessant finde.",
+          "meaning": "In casual conversation, the weil-clause can stand alone as a direct answer."
+        }
+      ],
+      "table": {
+        "headers": [
+          "Verb Type",
+          "Separate Clauses",
+          "Combined with 'weil'",
+          "Grammar Rule for Clause End"
+        ],
+        "rows": [
+          [
+            "Simple Present",
+            "Ich komme nicht. Ich bin krank.",
+            "Ich komme nicht, **weil ich krank bin**.",
+            "Conjugated verb *bin* moves to the end."
+          ],
+          [
+            "Modal Verb",
+            "Ich gehe ins Bett. Ich muss früh aufstehen.",
+            "Ich gehe ins Bett, **weil ich früh aufstehen muss**.",
+            "Infinitive *aufstehen* + conjugated modal *muss* at end."
+          ],
+          [
+            "Separable Verb",
+            "Ich gehe ins Bett. Ich stehe früh auf.",
+            "Ich gehe ins Bett, **weil ich früh aufstehe**.",
+            "Prefix and stem reunite into one word: *aufstehe*."
+          ],
+          [
+            "Perfect Tense",
+            "Thomas hat frei. Er hat gestern gearbeitet.",
+            "Thomas hat frei, **weil er gestern gearbeitet hat**.",
+            "Participle *gearbeitet* + auxiliary *hat* at end."
+          ]
+        ]
+      },
+      "worked_example": {
+        "german": "Weil er gestern viel gearbeitet hat, schläft Thomas heute lange.",
+        "english": "Because he worked a lot yesterday, Thomas is sleeping late today.",
+        "analysis": "1) The weil-clause comes first: auxiliary 'hat' is at the end of the subordinate clause. 2) After the comma, the main clause begins directly with the conjugated verb 'schläft' (Position 2), followed by the subject 'Thomas'."
+      }
+    },
+    {
+      "topic": "4.3 Denn — Giving a Reason with Main-Clause Word Order",
+      "heading": "4.3 Denn — Giving a Reason with Main-Clause Word Order",
+      "core_difference": "'denn' also means 'because' (literally: 'and the reason is that'). However, unlike 'weil', 'denn' is a coordinating conjunction. It links two main clauses and DOES NOT change the word order! The verb stays in Position 2.",
+      "comparison": [
+        {
+          "term": "denn + Simple Verb",
+          "what": "Conjugated verb remains in Position 2.",
+          "pattern": "Hauptsatz, denn + Subject + Verb (Pos. 2) + ...",
+          "example": "Er geht ins Bett, denn er ist müde.",
+          "english": "He goes to bed, and the reason is that he is tired.",
+          "trick": "Do not move 'ist' to the end after denn!"
+        },
+        {
+          "term": "denn + Modal Verb",
+          "what": "Modal verb stays in Position 2; infinitive stays at the end.",
+          "pattern": "..., denn + Subject + Modal (Pos. 2) + ... + Infinitive (End)",
+          "example": "Ich gehe früh ins Bett, denn ich muss morgen früh aufstehen.",
+          "english": "I go to bed early, for I must get up early tomorrow.",
+          "trick": "Word order is identical to a standard independent sentence."
+        },
+        {
+          "term": "denn + Separable Verb",
+          "what": "Stem stays in Position 2; prefix stays at the end.",
+          "pattern": "..., denn + Subject + Stem (Pos. 2) + ... + Prefix (End)",
+          "example": "Ich gehe früh ins Bett, denn ich stehe morgen früh auf.",
+          "english": "I go to bed early, for I get up early tomorrow.",
+          "trick": "The prefix remains separated!"
+        },
+        {
+          "term": "denn + Perfect Tense",
+          "what": "Auxiliary stays in Position 2; Partizip II stays at the end.",
+          "pattern": "..., denn + Subject + haben/sein (Pos. 2) + ... + Partizip II (End)",
+          "example": "Thomas hat heute frei, denn er hat gestern gearbeitet.",
+          "english": "Thomas has the day off today, for he worked yesterday.",
+          "trick": "Auxiliary 'hat' is in Position 2, 'gearbeitet' is at the end."
+        }
+      ],
+      "rule_of_thumb": "Stylistic Advice: In daily conversational speech, 'weil' is the standard choice. 'denn' is slightly more formal and elegant; use it in writing or exams when you want to avoid repeating 'weil' too many times."
+    },
+    {
+      "topic": "4.4 Dass — Reporting Statements, Thoughts, Feelings & Graphs",
+      "heading": "4.4 Dass — Reporting Statements, Thoughts, Feelings & Graphs",
+      "core_difference": "'dass' (that) introduces subordinate clauses that explain the content of what someone says, thinks, believes, knows, hopes, or feels. Like 'weil', 'dass' kicks the conjugated verb to the very end of the clause.",
+      "table": {
+        "headers": [
+          "Matrix Phrase (Hauptsatz)",
+          "English Meaning",
+          "Subordinate Clause with 'dass'",
+          "Complete German Sentence"
+        ],
+        "rows": [
+          [
+            "**Er hat gesagt, ...**",
+            "He said that ...",
+            "... dass er krank **ist**.",
+            "Er hat gesagt, **dass er krank ist**."
+          ],
+          [
+            "**Ich denke, ...**",
+            "I think that ...",
+            "... dass er nicht kommen **wird**.",
+            "Ich denke, **dass er nicht kommen wird**."
+          ],
+          [
+            "**Wir wissen, ...**",
+            "We know that ...",
+            "... dass sie bei Siemens **arbeitet**.",
+            "Wir wissen, **dass sie bei Siemens arbeitet**."
+          ],
+          [
+            "**Ich hoffe, ...**",
+            "I hope that ...",
+            "... dass sie mich morgen **anruft**.",
+            "Ich hoffe, **dass sie mich morgen anruft**."
+          ],
+          [
+            "**Ich mag es nicht, ...**",
+            "I don't like that ...",
+            "... dass du **rauchst**.",
+            "Ich mag es nicht, **dass du rauchst**."
+          ],
+          [
+            "**Es ist wichtig, ...**",
+            "It is important that ...",
+            "... dass du Mathematik **lernst**.",
+            "Es ist wichtig, **dass du Mathematik lernst**."
+          ]
+        ]
+      },
+      "same_sentence": {
+        "german": "Die Grafik zeigt, dass Kinder das Handy zwei Stunden pro Tag nutzen.",
+        "english": "The graph shows that children use mobile phones for two hours per day.",
+        "analysis": "A vital A2/B1 exam formula: 1) 'Die Grafik zeigt' (main clause) + 2) comma + 3) 'dass' + 4) Subject 'Kinder' + 5) Object/details 'das Handy zwei Stunden pro Tag' + 6) Conjugated verb 'nutzen' at the very end!"
+      },
+      "trick": "Exam Presentation Formula: Whenever you must describe a picture, statistic, or diagram in an exam, use: 'Die Grafik zeigt, dass ...' or 'Man kann sehen, dass ...' with the verb at the very end!"
+    },
+    {
+      "topic": "4.5 Direct Comparison: weil vs. denn vs. dass",
+      "heading": "4.5 Direct Comparison: weil vs. denn vs. dass",
+      "core_difference": "Look at these three connectors side-by-side to understand exactly how their meaning and verb position differ.",
+      "quick_comparison": [
+        {
+          "german": "Ich bleibe zu Hause, weil ich krank bin.",
+          "english": "I am staying at home because I am ill.",
+          "why": "Gives a reason (why). 'weil' is subordinating → verb 'bin' at the end."
+        },
+        {
+          "german": "Ich bleibe zu Hause, denn ich bin krank.",
+          "english": "I am staying at home, for I am ill.",
+          "why": "Gives a reason (why). 'denn' is coordinating → verb 'bin' in Position 2."
+        },
+        {
+          "german": "Ich weiß, dass ich krank bin.",
+          "english": "I know that I am ill.",
+          "why": "Gives content (what I know). 'dass' is subordinating → verb 'bin' at the end."
+        },
+        {
+          "german": "Er sagt, dass er müde ist, weil er viel gearbeitet hat.",
+          "english": "He says that he is tired because he worked a lot.",
+          "why": "Two subordinate clauses combined: 'dass' gives what he says, 'weil' gives why he is tired."
+        }
+      ],
+      "rule_of_thumb": "Summary Checklist: 1) Is it a reason? Use 'weil' (verb at end) or 'denn' (verb in Pos. 2). 2) Is it reporting a statement or fact? Use 'dass' (verb at end). 3) Always put a comma before all three!"
+    },
+    {
+      "topic": "4.6 Connector Groups Based on Verb Position (A2 Master Blueprint)",
+      "heading": "4.6 Connector Groups Based on Verb Position (A2 Master Blueprint)",
+      "core_difference": "To master German sentence structure, classify every connector you learn into one of three structural categories.",
+      "table": {
+        "headers": [
+          "Structural Category",
+          "Connectors Included",
+          "Verb Position Rule",
+          "Sentence Example"
+        ],
+        "rows": [
+          [
+            "**Subordinating (Nebensatz)**",
+            "**weil, dass, ob, wenn, als, falls, damit, W-Fragen**",
+            "Conjugated verb kicked to the **very end**",
+            "..., **weil** er heute keine Zeit **hat**."
+          ],
+          [
+            "**Coordinating (Position 0)**",
+            "**denn, und, aber, oder, sondern** *(ADUSO)*",
+            "Conjugated verb stays in **Position 2**",
+            "..., **denn** er **hat** heute keine Zeit."
+          ],
+          [
+            "**Infinitive Constructions**",
+            "**um ... zu, ohne ... zu, anstatt ... zu**",
+            "**zu + Infinitive** at the very end (no subject)",
+            "..., **um** Deutsch **zu lernen**."
+          ]
+        ]
+      },
+      "memory_pairs": [
+        "weil → Verb at the end",
+        "dass → Verb at the end",
+        "denn → Verb in Position 2 (normal)",
+        "und / aber / oder → Verb in Position 2",
+        "Nebensatz first → Verb follows comma immediately"
+      ]
+    },
+    {
+      "topic": "4.7 How to Research Grammar Examples Online",
+      "heading": "4.7 How to Research Grammar Examples Online",
+      "core_difference": "The teacher outlines an effective 3-tier strategy for finding accurate example sentences and deepening your grammar understanding online.",
+      "comparison": [
+        {
+          "term": "Google Search",
+          "what": "Best for authentic educational explanations and curated example lists.",
+          "how_to_identify": "Search precise queries: 'examples with weil in German A2' or 'weil vs denn sentences'.",
+          "example": "Search: 'Sätze mit weil und denn A2'",
+          "english": "Search query for level-specific German sentences.",
+          "trick": "Compare multiple reputable grammar websites (like Deutsche Welle, Goethe, Schubert Verlag)."
+        },
+        {
+          "term": "AI & ChatGPT",
+          "what": "Best for generating custom sentence pairs, drill exercises, and instant translations.",
+          "how_to_identify": "Specify level (A2) and context in your prompt.",
+          "example": "Prompt: 'Give me 5 A2 sentences using dass with modal verbs and English translations.'",
+          "english": "AI prompt template.",
+          "trick": "Always verify AI output: AI can occasionally generate C1 structures when you asked for A2!"
+        },
+        {
+          "term": "Dictionaries (Linguee & Verbformen)",
+          "what": "Best for looking up individual verb conjugations and authentic translated sentence corpus.",
+          "how_to_identify": "Use when checking a specific verb rather than a general grammar rule.",
+          "example": "Lookup: 'anrufen' on Verbformen for full conjugation tables.",
+          "english": "Dictionary search for verb forms.",
+          "trick": "Check dictionary tags like [jdn. Akk.] to ensure correct case usage."
+        }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Ich lerne Deutsch, weil ich lebe in Deutschland.",
+      "correct": "Ich lerne Deutsch, weil ich in Deutschland lebe.",
+      "explanation": "'weil' is a subordinating conjunction. The conjugated verb 'lebe' must be moved to the very end of the clause."
+    },
+    {
+      "incorrect": "Ich lerne Deutsch, denn ich in Deutschland lebe.",
+      "correct": "Ich lerne Deutsch, denn ich lebe in Deutschland.",
+      "explanation": "'denn' is a coordinating conjunction. The verb stays in Position 2; it does NOT move to the end."
+    },
+    {
+      "incorrect": "Weil ich krank bin ich komme nicht.",
+      "correct": "Weil ich krank bin, komme ich nicht.",
+      "explanation": "When the subordinate clause comes first, the following main clause must begin immediately with the conjugated verb ('komme ich') after the comma."
+    },
+    {
+      "incorrect": "Ich hoffe, dass sie mich anruft morgen.",
+      "correct": "Ich hoffe, dass sie mich morgen anruft.",
+      "explanation": "In a dass-clause, the verb (including separable verbs written together as 'anruft') must stand at the very end of the clause."
+    },
+    {
+      "incorrect": "Ich gehe ins Bett weil ich müde bin.",
+      "correct": "Ich gehe ins Bett, weil ich müde bin.",
+      "explanation": "German strictly requires a comma before 'weil', 'denn', and 'dass'."
+    },
+    {
+      "incorrect": "Ich denke, dass ich kann heute nicht arbeiten.",
+      "correct": "Ich denke, dass ich heute nicht arbeiten kann.",
+      "explanation": "With modal verbs in subordinate clauses, the infinitive comes first ('arbeiten') and the conjugated modal verb stands at the very end ('kann')."
+    }
+  ],
+  "memorization_list": [
+    {
+      "german": "weil (Subordinating)",
+      "english": "because → conjugated verb at the very end"
+    },
+    {
+      "german": "denn (Coordinating)",
+      "english": "because / for → conjugated verb in Position 2 (normal order)"
+    },
+    {
+      "german": "dass (Subordinating)",
+      "english": "that → conjugated verb at the very end"
+    },
+    {
+      "german": "Comma Rule",
+      "english": "Always place a comma before weil, denn, and dass"
+    },
+    {
+      "german": "Inversion Rule",
+      "english": "Weil-clause first → Main clause starts immediately with Verb!"
+    },
+    {
+      "german": "Modal in Nebensatz",
+      "english": "Infinitive + conjugated modal at end (aufstehen muss / arbeiten kann)"
+    },
+    {
+      "german": "Separable in Nebensatz",
+      "english": "Prefix reunited with stem at end (aufstehe / anruft)"
+    },
+    {
+      "german": "Perfekt in Nebensatz",
+      "english": "Partizip II + auxiliary at end (gearbeitet hat / geöffnet hast)"
+    },
+    {
+      "german": "Graph Description",
+      "english": "Die Grafik zeigt, dass ... / Man kann sehen, dass ..."
+    }
+  ],
+  "vocabulary": [
+    {
+      "article": "der",
+      "word": "Konnektor",
+      "plural": "die Konnektoren",
+      "meaning": "connector / conjunction",
+      "exampleDe": "Konnektoren verbinden Sätze.",
+      "exampleEn": "Connectors link sentences."
+    },
+    {
+      "article": "der",
+      "word": "Grund",
+      "plural": "die Gründe",
+      "meaning": "reason / cause",
+      "exampleDe": "Weil erklärt den Grund.",
+      "exampleEn": "Weil explains the reason."
+    },
+    {
+      "article": "die",
+      "word": "Grafik",
+      "plural": "die Grafiken",
+      "meaning": "graphic / chart / diagram",
+      "exampleDe": "Die Grafik zeigt die Zahlen.",
+      "exampleEn": "The graphic shows the numbers."
+    },
+    {
+      "article": "der",
+      "word": "Hauptsatz",
+      "plural": "die Hauptsätze",
+      "meaning": "main clause (verb in position 2)",
+      "exampleDe": "Ein Hauptsatz kann alleine stehen.",
+      "exampleEn": "A main clause can stand alone."
+    },
+    {
+      "article": "der",
+      "word": "Nebensatz",
+      "plural": "die Nebensätze",
+      "meaning": "subordinate clause (verb at the end)",
+      "exampleDe": "Ein Nebensatz beginnt oft mit weil oder dass.",
+      "exampleEn": "A subordinate clause often begins with weil or dass."
+    },
+    {
+      "article": "—",
+      "word": "wissen",
+      "plural": "weiß, wusste, hat gewusst",
+      "meaning": "to know (a fact)",
+      "exampleDe": "Wir wissen, dass er recht hat.",
+      "exampleEn": "We know that he is right."
+    },
+    {
+      "article": "—",
+      "word": "glauben",
+      "plural": "glaubt, glaubte, hat geglaubt",
+      "meaning": "to believe / think",
+      "exampleDe": "Er glaubt, dass sie kommt.",
+      "exampleEn": "He believes that she is coming."
+    },
+    {
+      "article": "—",
+      "word": "hoffen",
+      "plural": "hofft, hoffte, hat gehofft",
+      "meaning": "to hope",
+      "exampleDe": "Ich hoffe, dass das Wetter schön wird.",
+      "exampleEn": "I hope that the weather will be nice."
+    },
+    {
+      "article": "—",
+      "word": "merken",
+      "plural": "merkt, merkte, hat gemerkt",
+      "meaning": "to notice",
+      "exampleDe": "Ich merke, dass du müde bist.",
+      "exampleEn": "I notice that you are tired."
+    },
+    {
+      "article": "—",
+      "word": "aufstehen",
+      "plural": "steht auf, stand auf, ist aufgestanden",
+      "meaning": "to get up (separable verb)",
+      "exampleDe": "..., weil ich früh aufstehen muss.",
+      "exampleEn": "... because I must get up early."
+    }
+  ],
+  "exercises": [
+    {
+      "prompt": "Ich bleibe im Bett, weil ich krank _______ . (sein)",
+      "answer": "bin",
+      "hint": "'weil' kicks the conjugated verb to the very end: ich bin → 'weil ich krank bin'."
+    },
+    {
+      "prompt": "Ich bleibe im Bett, denn ich _______ krank. (sein)",
+      "answer": "bin",
+      "hint": "'denn' connects main clauses; the verb stays in Position 2: 'denn ich bin krank'."
+    },
+    {
+      "prompt": "Er hat gesagt, dass er heute keine Zeit _______ . (haben)",
+      "answer": "hat",
+      "hint": "'dass' kicks the conjugated verb to the very end: 'dass er heute keine Zeit hat'."
+    },
+    {
+      "prompt": "Weil ich müde bin, _______ ich ins Bett. (gehen)",
+      "answer": "gehe",
+      "hint": "When the weil-clause comes first, the following main clause begins immediately with its conjugated verb: 'komme/gehe ich'."
+    },
+    {
+      "prompt": "Ich gehe früh schlafen, weil ich morgen früh aufstehen _______ . (müssen)",
+      "answer": "muss",
+      "hint": "With a modal verb in a subordinate clause, the modal verb goes to the very end after the infinitive: 'aufstehen muss'."
+    },
+    {
+      "prompt": "Ich hoffe, dass du mich morgen _______ . (anrufen)",
+      "answer": "anrufst",
+      "hint": "In a dass-clause, separable verbs are reunited into one word at the end: 'anrufst'."
+    },
+    {
+      "prompt": "Thomas hat heute frei, weil er gestern gearbeitet _______ . (haben)",
+      "answer": "hat",
+      "hint": "In the perfect tense, the auxiliary verb goes to the very end after the participle: 'gearbeitet hat'."
+    },
+    {
+      "prompt": "Die Grafik zeigt, dass viele Menschen Sport _______ . (treiben)",
+      "answer": "treiben",
+      "hint": "In graph descriptions with 'dass', the conjugated verb 'treiben' stands at the very end."
+    },
+    {
+      "prompt": "Welcher Konnektor verändert die Verbposition NICHT? (weil / denn / dass)",
+      "answer": "denn",
+      "hint": "'denn' is a coordinating conjunction (ADUSO) and leaves the verb in Position 2."
+    },
+    {
+      "prompt": "Muss vor 'weil', 'denn' und 'dass' ein Komma stehen? (ja / nein)",
+      "answer": "ja",
+      "hint": "In German grammar, a comma is strictly required before weil, denn, and dass."
+    }
+  ],
+  "mastery_goals": [
+    "Fluently give reasons using both 'weil' (verb at end) and 'denn' (verb in position 2).",
+    "Correctly construct 'dass'-clauses for opinions, reported speech, and chart descriptions.",
+    "Correctly order modal verbs, separable verbs, and perfect tense in subordinate clauses.",
+    "Apply inverted word order when the subordinate clause comes first (Weil ..., gehe ich ...).",
+    "Categorize German connectors into subordinating (verb-final) and coordinating (position 2)."
+  ],
+  "study_strategy": [
+    "1. Practice the Verb-Kick: When you say 'weil' or 'dass', pause and consciously send the verb to the end of the clause.",
+    "2. Pair 'weil' and 'denn': Write sentence pairs: 'Ich lerne, weil ich will' vs. 'Ich lerne, denn ich will'.",
+    "3. Practice chart sentences: Drill 'Die Grafik zeigt, dass ...' for your German exam speaking and writing modules.",
+    "4. Test yourself on the 10 self-check exercises below until you score 10/10."
+  ],
+  "next_topic": {
+    "number": "5",
+    "title": "Ob and Wenn — Conditional Clauses & Indirect Questions"
+  }
+}
